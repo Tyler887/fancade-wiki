@@ -1,3 +1,7 @@
+---
+title: Welcome!
+---
+
 Hello! Welcome to [[Fancade|https://www.fancade.com/]], the mobile app where you can play thousands of games, or make your own!
 
 #### Play
