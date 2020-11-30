@@ -1,0 +1,1 @@
+it happens when you have too many wires visible on-screen at the same time.

@@ -1,0 +1,1 @@
+The raycast can't detect a block that had been created in the same frame, you have to wait 1 frame after creating the object for raycast to detect it.

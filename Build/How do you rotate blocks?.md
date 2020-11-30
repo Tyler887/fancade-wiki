@@ -1,0 +1,1 @@
+There's currently no way to rotate blocks in build-mode. (Maybe in the future? It's a commonly requested feature!) If you *must* have a block with multiple rotations, you'll have to make multiple blocks. An alternative is to rotate the object in play-mode, using [[Set Position]].

@@ -1,0 +1,1 @@
+Use only script blocks in the level. No standard blocks.

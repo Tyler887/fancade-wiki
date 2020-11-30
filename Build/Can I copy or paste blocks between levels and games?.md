@@ -1,0 +1,1 @@
+Not directly, but here's a workaround. Make a new custom block and place the blocks you want to copy inside it. In the destination level or game, fetch the custom block from the inventory, open it, and drag the copied blocks out!

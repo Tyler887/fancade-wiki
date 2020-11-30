@@ -1,0 +1,2 @@
+
+There's a limit to the amount of scripting a game can have. It's very large, but if you add lots of copies of a block with lots of script inside you'll get a "Too many scripts!" error. Use less script, fewer blocks, or replace the multiple script copies by a single loop.

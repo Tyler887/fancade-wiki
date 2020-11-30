@@ -1,0 +1,1 @@
+There is no a built-in and convenient way to do it yet. But a workaround is: create a new game, move the custom block from your WIP project to the game you've just created, place it anywhere on floor, quit it, open the game you have been working on and pick the copy from the temporary game. That's all, you have two copies and editing one doesn't have an effect on another!

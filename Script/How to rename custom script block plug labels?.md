@@ -1,0 +1,1 @@
+Drag the wire so that is selected, then tap the name on the hotbar at the bottom and write whatever you want, same goes for script blocks themselves.
