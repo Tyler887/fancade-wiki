@@ -5,6 +5,3 @@ You can help expand the wiki by [[creating new pages|How to make a wiki page?]] 
 Fanmods can use advanced Fanbot commands (in the #fanbot channel, not DM) like:
 - ".tag topic" to create new topics. E.g., to assign the [[Odd Bot]] page to a new "Games" topic: `.tag topic odd_bot Games`
 - ".tag delete <page>" to delete a page. E.g.: `.tag delete "Today is Fancade launch day!"`
-
-
-<<Navigation("Games", "Games", true)>>
