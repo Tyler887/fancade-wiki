@@ -1,7 +1,7 @@
 # How to Play
 Your goal is to get the cute little robot, called Odd, to the spinning golden cube.
 Tap the white square dots to walk. Drag the white rectangles to move sliders and elevators. Swipe anywhere else to rotate the view.
-![[Odd Bot|https://cdn.discordapp.com/attachments/608689686134784000/674556307839123464/Wiki.001.png]]
+[[/uploads/oddbotout.png]]
 
 # Hints
 Level 13. Odd can carry Car!
