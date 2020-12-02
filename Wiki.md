@@ -6,4 +6,4 @@ Fanmods can use advanced Fanbot commands (in the #fanbot channel, not DM) like:
 - ".tag topic" to create new topics. E.g., to assign the [[Odd Bot]] page to a new "Games" topic: `.tag topic odd_bot Games`
 - ".tag delete <page>" to delete a page. E.g.: `.tag delete "Today is Fancade launch day!"`
 
-To add an image, drag-n-drop it into the edit form. (It'll upload to /uploads/<filename>)
+To add an image, drag-n-drop it into the edit form. (It'll upload to /uploads/\<filename\>)
