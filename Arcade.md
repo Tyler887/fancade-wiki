@@ -17,3 +17,7 @@ List all games with a specific tag. But the most important button is New, where 
 
 #### Linked
 Whenever you click a game link, in [[search|https://www.fancade.com/search/]] or as shared on social media, the game box will appear here.
+
+---
+
+Android users are able to play any game from the Arcade, however IOS users can exclusively play featured games.
