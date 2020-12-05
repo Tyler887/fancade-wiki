@@ -10,6 +10,6 @@ Most users start by playing [[Quest]] and then explore the [[Arcade]]. (Get the 
 #### Build
 What makes Fancade truly unique is that all those games were made with the app itself! And you can [[build your own games|Build]], and even [[script entirely new mechanics|Visual scripting]].
 
-Search this wiki using the box below. If you can't find answers to your questions, visit our [[Discord chat|Discord]] for help, and to [[expand the wiki|Wiki]]!
+Search this wiki using the box above. If you can't find answers to your questions, visit our [[Discord chat|Discord]] for help, and to [[expand the wiki|Wiki]]!
 
 <<GlobalTOC("All pages")>>
