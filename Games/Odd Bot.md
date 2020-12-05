@@ -3,7 +3,7 @@ title: How to Play
 ---
 
 Your goal is to get the cute little robot, called Odd, to the spinning golden cube.
-Tap the white square dots to walk. Drag the white rectangles to move sliders and elevators. Swipe anywhere else to rotate the view.
+Tap the places where Odd can walk to walk. Drag the white rectangles to move sliders and elevators. Swipe anywhere else to rotate the view.
 
 [[/uploads/oddbotout.png]]
 
