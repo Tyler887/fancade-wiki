@@ -20,4 +20,4 @@ Whenever you click a game link, in [[search|https://www.fancade.com/search/]] or
 
 ---
 
-Android users are able to play any game from the Arcade, however IOS users can exclusively play featured games.
+Android users are able to play any game from the Arcade, however iOS users can only exclusively play featured games. Opening a linked game in iOS will also not work.
