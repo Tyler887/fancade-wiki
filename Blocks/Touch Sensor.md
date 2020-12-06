@@ -2,7 +2,7 @@ Executes the output when user touches the screen. It'll also output the screen c
 
 They can be changed by selecting the touch sensor and tapping the buttons that appear in the bottom right corner.
 
-[[https://cdn.discordapp.com/attachments/464440459410800644/608634005411201024/image0.png]]
+[[/uploads/touch-sensor-options.png]]
 
 The first button has three options:
 

@@ -2,4 +2,4 @@ Check out Mathias Elgaard's [[Video Tutorial on loops for more info!|https://www
 
 There are multiple ways to make a loop one of the ways to make one is to make a repeating timer by make so that every frame num is increased by 1 and then when num=120 (60 frames is 1 sec) a sound plays.
 
-[[https://cdn.discordapp.com/attachments/718624339955548242/784830465978007582/unknown.jpeg]]
+[[/uploads/unknown.jpeg]]

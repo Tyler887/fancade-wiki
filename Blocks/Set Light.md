@@ -4,6 +4,6 @@ Tip of the day, by Potato Chan: If your game is in a top-down view that doesn't 
 1. Set the light angle to the same as the camera angle.
 2. Set Camera with a very high Y.
 
-[[https://cdn.discordapp.com/attachments/409219534231437323/678600485321834506/Polish_20200216_215129494.jpg]]
+[[/uploads/Polish_20200216_215129494.jpg]]
 
 [[/uploads/Setlight.png]]

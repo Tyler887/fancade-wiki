@@ -2,7 +2,7 @@ The Number block outputs a given value.
 
 To change the value of the number block, select the block, then tap the button right below the open inventory button, in the bottom right corner.
 
-[[https://cdn.discordapp.com/attachments/759791330016100352/759807481693339658/ChangeValue.png|Changing the value of a number block]]
+[[uploads/ChangeValue.png|alt=Changing the value of a number block]]
 
 This will open up the keypad, which you can use to change the value that the number script block will output.
 
