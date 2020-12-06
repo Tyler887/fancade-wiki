@@ -2,6 +2,8 @@ Linearly interpolates between two rotations.
 
 [[/uploads/Lerp.png]]
 
+## Example
+
 Here's a script to get you started.
 
 ![LERP_example](https://cdn.discordapp.com/attachments/520112989416718346/784828563726794812/Screenshot_20201205-2212052.png)
