@@ -39,6 +39,7 @@ Spolarium made several tutorials on how to make games from scratch:
 * [[How to make Pong in Fancade|https://youtu.be/UD4oBmXBbGo]]
 * [[How to make Simon in Fancade|https://youtu.be/9uy7iL4hthc]]
 * [[How to Make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
+* [[How to Make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
 
 Olle Landin made a video for those who're used to *writing* code:
 
@@ -48,6 +49,8 @@ JoshuaTNTGamer made several video tutorials:
 
 * [[Long Tap Sensor Tutorial|https://youtu.be/lpwbqtgVwwE]]
 * [[How to make a Duet Game|https://youtu.be/AsQJw3uCFo4]]
+* [[How to make a Musical Line Game|https://youtu.be/imW94TGftVQ]]
+* [[How to Glue 2 Objects using Constraints|https://youtu.be/hWdiCNv-A50]]
 
 Benjamin Mathew made a tutorial on physics script blocks:
 
