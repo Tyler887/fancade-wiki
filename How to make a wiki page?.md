@@ -4,4 +4,4 @@ Create a page name with the appropriate title.
 - If you are writing it in a different section (e.g. Build) write "<section>/\<title>" (e.g. "Build/Set Variable") to create it within this section.
 
 Now you can write a Wiki page! After you have written it all, click "Preview" to make sure everything looks correct. 
-- Check the [[wiki formatting|http://fancade.com/wiki/wiki_formatting]] for all the syntax tools.
+- Check the [[wiki formatting|Wiki formatting]] for all the syntax tools.
