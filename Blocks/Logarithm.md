@@ -1,0 +1,1 @@
+Outputs the logarithm of a number by a given base.
