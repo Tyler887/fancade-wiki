@@ -1,0 +1,1 @@
+Increases the input variable by 1.
