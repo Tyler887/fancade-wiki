@@ -1,4 +1,4 @@
-Quest is Fancade's story mode. You play as Odd, a cute little robot, trying to get home via a sequence of islands filled with mini-games. Each island world has 3 to 5 games, and there's already over 40 worlds and 1,000 levels to play, with more being added in app updates!
+Quest is Fancade's story mode. You play as Odd, a cute little robot, trying to get home via a sequence of islands filled with mini-games. Each island world has 3 to 5 games, and there are already over 40 worlds and 1,000 levels to play, with more being added in app updates!
 
 Unlocking the next world requires collecting about half of the stars. (So don't feel you need to 100% all the challenges if you don't want to.) If you still get stuck, finding a particular challenge too hard:
 
