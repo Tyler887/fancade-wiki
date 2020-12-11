@@ -4,4 +4,4 @@ It has two inputs, Start and Stop. The loop block starts looping from the Start 
 
 While the loop block is executing, it will execute the yellow Do wire at every loop. Connect this wire to the scripts you would like to loop.
 
-The counter block will output the current loop number, AKA the current iteration.
+The counter output will output the current loop number, AKA the current iteration.
