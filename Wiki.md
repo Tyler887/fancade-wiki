@@ -1,8 +1,6 @@
 This wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://twitter.com/ollelandin]], and [[Martin Magni|Martin Magni]].
 
-You can help expand the wiki by [[creating new pages|How to make a wiki page?]] and improving existing ones. There's even [[wiki formatting]] support.
-
-PRO TIP: To add an image, drag-n-drop it into the edit form. (It'll upload to `/uploads/<filename>`)
+You can help expand the wiki by creating new pages and improving existing ones!
 
 # How to make a wiki page?
 
@@ -30,5 +28,7 @@ To insert a link, you can:
 * do the same but put a suffix if needed: [[Vector]]s `[[Vector]]s`
 * wrap page name in parentheses and set displayed text in square brackets before: [[Plus|Add]] `[[Plus|Add]]`
 * do the same but put any URL instead of a page name: [[Fancade|http://fancade.com/]] `[[Fancade|http://www.fancade.com/]] `
+
+To add an image, drag-n-drop it into the edit form. (It'll upload to `/uploads/<filename>`)
 
 To insert an image, you can wrap the image URL in `!` to insert it directly in the text.
