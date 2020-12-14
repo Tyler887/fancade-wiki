@@ -8,4 +8,4 @@ e.g. If vector 1 is *[2,3,-2]* and vector 2 is **[1,2,3]**:
   - Multiplying *-2* and **3** gives -6.
   - Adding them all gives 2, the dot product of them two.
   
-
+[[/uploads/Dot Product.png]]
