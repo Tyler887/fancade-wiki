@@ -2,7 +2,7 @@ This wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://tw
 
 You can help expand the wiki by creating new pages and improving existing ones!
 
-# How to make a wiki page?
+# Create a page
 
 In the Wiki page, there is an ability to create new pages, simply by clicking "New". A pop-up with the title "Create New Page" should show up.
 
@@ -12,7 +12,7 @@ If you are writing it in a different section (e.g. Build) write `<section>/\<tit
 
 Now you can write a Wiki page! After you have written it all, click "Preview" to make sure everything looks correct.
 
-# Wiki formatting
+# Style a page
 
 The Wiki supports the formatting syntax called "[[Markdown|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]]". You can easily make *italic*, **bold**, __underlined__ or ~~strikethrough~~ text. To learn how, read [[this|https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-]].
 
@@ -30,3 +30,11 @@ To insert a link, you can:
 To add an image, drag-n-drop it into the edit form. (It'll upload to `/uploads/<filename>`)
 
 To insert an image, you can wrap the image URL in `!` to insert it directly in the text.
+
+# Delete a page
+
+Deleting a page is possible, but restricted. Ping one of the Fanmod:s on the Discord server and suggest the deletion to them.
+
+# Revert a change
+
+Go to the page's history (through link in the latest changes), check the commit, compare and revert.
