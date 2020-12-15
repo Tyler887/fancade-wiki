@@ -1,7 +1,13 @@
 # How to Play
+
 Tap the right side of the screen to drive. Tap the left side of the screen to brake and reverse. Careful, if you land the car upside down it'll break!
 
+# Tips and Tricks
+
+* Level 39 Runway: The jet airplane does not have brakes or reverse. But to make the flight, you'll need more runway than you have initially. Can you figure out how?
+
 # Let's Play
+
 (note: videos are outdated and are Drive Classic walkthroughs)
 
 * [[Level 1-5|https://youtu.be/T5R3MI8uqPA]]
