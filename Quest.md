@@ -1,4 +1,4 @@
-Quest is Fancade's story mode. You play as Odd, a cute little robot, travelling from island to island to get home. You must help him by completing the [games](https://www.fancade.com/wiki/gollum/overview/Games/) which populate the islands! Each island features 3 to 5 games, and with over 50 worlds there is more than 1,000 levels to play, with more being added in app updates!
+Quest is Fancade's story mode. You play as Odd, a cute little robot, travelling from island to island to get home. You must help him by completing the [[games|#games]] which populate the islands! Each island features 3 to 5 games, and with over 50 worlds there is more than 1,000 levels to play, with more being added in app updates!
 
 At each island, you must complete challenges and collect stars to unlock more islands, and sometimes an extra criterion is added, such as completing at least 20% of the levels in the preceding island. 
 
@@ -12,3 +12,6 @@ If you ever get stuck, finding a particular level or challenge too difficult, yo
 Each world contains exactly 100 stars, so you can easily compare your progress with friends. But the order of games is personalized, e.g., your World 3 may not have the exact same challenges as someone else's. 
 
 If you want to reset your Quest progress, tap 20 times on the You tab to reveal the Reset Quest button. **Be warned that this action cannot be undone!**
+
+<a id="games"/>
+<<Navigation("Games", "Games", true)>>
