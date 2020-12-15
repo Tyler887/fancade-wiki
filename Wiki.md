@@ -14,7 +14,7 @@ Now you can write a Wiki page! After you have written it all, click "Preview" to
 
 # Style a page
 
-The Wiki supports the formatting syntax called "Markdown". You can easily make *italic*, **bold**, __underlined__ or ~~strikethrough~~ text. Moreover, with Markdown, you also can make lists, add links, insert images in text and even make tables! Read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]] to learn how.
+The Wiki supports the formatting syntax called "Markdown". You can easily make *italic*, **bold** or ~~strikethrough~~ text. Moreover, with Markdown, you also can make lists, add links, insert images in text and even make tables! Read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]] to learn how.
 
 ## Basics
 
