@@ -1,4 +1,4 @@
-This wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://twitter.com/ollelandin]], and [[Martin Magni|Martin Magni]].
+This wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://twitter.com/ollelandin]], and [[Martin Magni]].
 
 You can help expand the wiki by creating new pages and improving existing ones!
 
