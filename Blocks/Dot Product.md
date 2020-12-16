@@ -1,4 +1,4 @@
-Computes the dot product of the two input vectors.
+Computes the [[dot product|https://en.wikipedia.org/wiki/Dot_product]] of the two input [[vector]]s.
 
 The dot product is algebraically defined as taking 2 vectors of the same length, and multiplying each number side-by-side, and them summing them all. 
 
