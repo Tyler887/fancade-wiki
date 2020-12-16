@@ -1,0 +1,1 @@
+Sweatsmile or :sweatsmile: is a common-to-find emote in the oficial Fancade server, it is also used in some Fancade memes, good luck trying to find a post in #memes that doesn't has a sweatsmile reaction
