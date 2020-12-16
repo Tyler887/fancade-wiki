@@ -1,1 +1,1 @@
-Confusing, or :confusing: is a emoji from the Fancade Discord Server. It is used when the user is confused or does not understand.
+Confusing, or :confusing: is a emoji from the official Fancade Discord Server. It is used when the user is confused or does not understand something.
