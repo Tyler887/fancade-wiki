@@ -1,1 +1,1 @@
-Four.
+You can nest a maximum of **four custom blocks**, if you try to nest more than four, you will get the "Too many blocks inside blocks!" error.
