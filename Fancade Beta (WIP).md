@@ -18,7 +18,7 @@ Fancade 0.26 is currently the first beta version to have a known **release date*
 fancade 0.26 released in december 17, 2018 
 
 <details>
-<summary>Changelog</summary>
+<summary>Changelog(WIP)</summary>
 <br>
 the changelog is as follows:
 
