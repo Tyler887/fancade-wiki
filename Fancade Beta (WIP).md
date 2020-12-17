@@ -2,15 +2,12 @@ This page is dedicated to documenting Fancade's history before 1.0, if you what 
 
 # Pre-Beta
 
-
-<details>
-<summary>History</summary>
-<br>
 This is still a work in progress.
-</details>
+
 # Fancade 0.1
-<details>
-<summary>History</summary>
-<br>
-[WIP]Fancade 0.1 was released in July 2017
-</details>
+
+[WIP]Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used assets from [Mekorama](https://en.wikipedia.org/wiki/Mekorama)
+
+# Fancade 0.4
+
+[WIP]Fancade 0.4 also released in 2017, but that's all we know of for now.
