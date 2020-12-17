@@ -1,10 +1,16 @@
 This page is dedicated to documenting Fancade's history before 1.0, if you what to know what the current beta is and how to enter, go to [Beta](https://www.fancade.com/wiki/Beta.md)
 
-# **Pre-Beta**
+# Pre-Beta
 
 
 <details>
 <summary>History</summary>
 <br>
 This is still a work in progress.
+</details>
+# Fancade 0.1
+<details>
+<summary>History</summary>
+<br>
+[WIP]Fancade 0.1 was released in July 2017
 </details>
