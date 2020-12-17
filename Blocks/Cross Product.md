@@ -9,4 +9,6 @@ If we split the components, the formula to find the cross product is:\
 **Cy:** (Az×Bx)-(Ax×Bz)\
 **Cz:** (Ax×By)-(Ay×Bx)
 
+The cross product is used to find a vector that is perpendicular to to both vectors.
+
 [[/uploads/Cross Product.png]]
