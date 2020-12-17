@@ -6,7 +6,7 @@ This is still a work in progress.
 
 # Fancade 0.1
 
-[WIP]Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used assets from [Mekorama](https://en.wikipedia.org/wiki/Mekorama)
+[WIP]Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
 
 # Fancade 0.4
 
