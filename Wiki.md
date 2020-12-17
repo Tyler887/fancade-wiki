@@ -33,7 +33,7 @@ To insert an existing image, you wrap the image path/URL in square brackets (lik
 
 # Delete a page
 
-Deleting a page is possible, but restricted. Ping one of the Fanmod:s on the Discord server and suggest the deletion to them.
+Deleting a page is possible, but restricted. Ping one of the Fanmods on the Discord server and suggest the deletion to them.
 
 # Revert a change
 
