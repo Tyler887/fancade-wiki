@@ -170,3 +170,83 @@
 
 [[/uploads/34.png | height=200px]]
 
+**Level 35**
+<br/> Down, right, up, left, up, right, up, left, down, left, up, left, up, left, down, right, up, right, down, left, up, left.
+
+[[/uploads/35.png | height=200px]]
+
+**Level 36**
+<br/> Up, left, down, right, down, right, up, left, up, right, up, right, down, right, down, left, up, left, down.
+
+[[/uploads/36.png | height=200px]]
+
+**Level 37**
+<br/> Right, down, left, up, left, up, right, down, right, down, left, down, right, up, left, up, right, up, left, up, left.
+
+[[/uploads/37.png | height=200px]]
+
+**Level 38**
+<br/> Down, left, up, left, up, right, down, right, up, right, down, left, up, right, down, right.
+
+[[/uploads/38.png | height=200px]]
+
+**Level 39**
+<br/> Right, down, right, down, left, down, left, up, right, down, right, up, left, up, right, up, left, down, right.
+
+[[/uploads/39.png | height=200px]]
+
+**Level 40**
+<br/> Left, up, right, down, left, up, right, down, left, up, right, up.
+
+[[/uploads/40.png | height=200px]]
+
+**Level 41**
+<br/> Right, down, left, up, right, up, left, up, right, down, right, up, left, up, right, up, right, down.
+
+[[/uploads/41.png | height=200px]]
+
+**Level 42**
+<br/> Up, right, down, left, up, right, down, right, up, left, up, left, down, left, down, right, down, right.
+
+[[/uploads/42.png | height=200px]]
+
+**Level 43**
+<br/> Up, right, up, left, down, right, down, left, down, left, down, right, up, right, up, left, up, right, up.
+
+[[/uploads/43.png | height=200px]]
+
+**Level 44**
+<br/> Up, right, down, left, up, right, up, left, down, left, up, right, up, left.
+
+[[/uploads/44.png | height=200px]]
+
+**Level 45**
+<br/> Up, left, down, right, down, right, up, right, down, right, down, left, down, left, down, right, up, right, down, right.
+
+[[/uploads/45.png | height=200px]]
+
+**Level 46**
+<br/> Left, down, left, up, right, up, right, down, left, down, right, down, left.
+
+[[/uploads/46.png | height=200px]]
+
+**Level 47**
+<br/> Up, right, up, left, down, right, up, left, up, left, down, right, up.
+
+[[/uploads/47.png | height=200px]]
+
+**Level 48**
+<br/> Right, up, left, down, right, down, left, down, right, up, left, up, left, down, right, up, right, down.
+
+[[/uploads/48.png | height=200px]]
+
+**Level 49**
+<br/> Up, right, down, left, up, left, down, left, down, left, up, right, up, left, down, right, up.
+
+[[/uploads/49.png | height=200px]]
+
+**Level 50**
+<br/> Left, down, left, up, right, up, left, up, right, down, right, down, left, down, right, up, left, down, right, down, left, up.
+
+[[/uploads/50.png | height=200px]]
+
