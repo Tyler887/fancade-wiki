@@ -66,3 +66,8 @@ Fancade 0.26 is currently the first beta version to have a known **release date*
 • Play/pause buttons can be obscured by 3D objects<br>
 • Wire sometimes routes wrong from custom multi-block<br>
 • And more<br>
+</details>
+
+# Fancade 0.27
+
+Fancade 0.27 released in january 12, 2019
