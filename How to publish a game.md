@@ -1,1 +1,1 @@
-Click on your game. Then, click publish if you want to pubkish it.
+Click on your game. Then, click publish if you want to publish it.
