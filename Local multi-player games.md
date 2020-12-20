@@ -7,6 +7,7 @@ List of same-screen multi-player games:
 - [[Billiards|https://fancade.page.link/HrTh]] by Mathias Elgaard
 - [[Finger Hockey|https://fancade.page.link/ZdGq]] by Djovani
 - [[Pong|https://fancade.page.link/cZfx]] by Tzomby
+- [[Chess|https://fancade.page.link/cRrp]] by Potato Chan (with all rules of chess)
 - [[Chess|https://fancade.page.link/Mu2z]] by Tzomby (scripted moves)
 - [[Chess|https://fancade.page.link/whWP]] by KwakWack (manual moves)
 - [[FanChess Art|https://fancade.page.link/32Ya]] by MathTheMadTick (nice art, but no one has made a working chess game using it)
