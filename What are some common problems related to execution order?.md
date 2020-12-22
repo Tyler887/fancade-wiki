@@ -1,6 +1,4 @@
-[[Execution order]] is a boon and a curse at the same time. While it helps determining what to execute, sometimes the default Execution Order doesn't actually do what you want. Thankfully, you can easily fix that using Execution Wires.
-
-Here are two common problems related to execution order.
+Script blocks are executed top-to-bottom, left-to-right, [by default](Execution order). When you need more control over the order, connect them with yellow wires. Here are some examples where it's easy to forget that the default order may not be what you want:
 
 1. This one is common among newbies. In this case, the problem is easy to spot. The variable **A is defined AFTER the Set Position** that has A as an input. Since A is not yet defined when Set Position was run, it simply does nothing resulting in a buggy script.
 [[https://imgur.com/NZgn9C7.jpg]]
