@@ -2,4 +2,12 @@
 
 Fun fact: level "Orange" is considered to be the most difficult level in the game.
 
-[[/uploads/fixel_level21_orange.png]]
+ - <details>
+     <summary>Fixel "Orange" Hint</summary>
+     The I-piece does not go to a side.
+   </details>
+
+ - <details>
+     <summary>Fixel "Orange" Solution</summary>
+     [[/uploads/fixel_level21_orange.png]]
+   </details>
