@@ -1,4 +1,6 @@
-Gobble is an improvement of the Hole game, made by [[Martin Magni]]. The goal is to eat all the objects while not eating the humans. Each series of 10 levels have twists on them. 
+In Gobble you play as a giant monster mouth, eating everything in sight! Except people. You're allergic to people.
+
+Each series of 10 levels adds a new twist to the basic mechanic. The game is based on the earlier game Hole, also by [[Martin Magni]], and inspired by Mouth by nmskr.
 
 # Solutions
 
