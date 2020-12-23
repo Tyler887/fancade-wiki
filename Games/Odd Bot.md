@@ -14,6 +14,6 @@ Level 13. Odd can carry Car!
 * [[Level 14|https://youtu.be/BZwbQpJpu_k]]
 
 # Fun Facts
-Yes, it's *possible* to push Odd off the level, e.g. by hitting the poor little bot in the head with a giant stone slab! Martin Magni considered this a neat little easter egg, but many users reported it as a bug. (Thanks for notifying!) So he made the Game Over dialog pop up if you fall off, so it's clear you can't climb back up onto the level.
+Yes, it's *possible* to push Odd off the level, e.g. by hitting the poor little bot in the head with a giant stone slab! While it's a neat little easter egg, many users reported it as a bug. So now the Game Over dialog will pop up if you fall off, to make it clear you can't climb back up onto the level.
 
-The golden cube is a reference to one of his favorite games. Can you guess which one? 🙂
+The golden cube is a reference to a famous indie game. Can you guess which one? 🙂
