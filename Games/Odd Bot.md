@@ -1,8 +1,4 @@
----
-title: How to Play
----
-
-Your goal is to get the cute little robot, called Odd, to the spinning golden cube. Tap the places where odd can walk to walk. Drag the white rectangles to move sliders and elevators. Swipe anywhere else to rotate the view.
+Odd Bot is a game made by [[Martin Magni]]. The goal is to get the cute little robot, called Odd, to the spinning golden cube. The player can tap any places where odd can walk. Sometimes there will be white rectangles that can move sliders and elevators. The player also has an option to rotate the camera. 
 
 (image a bit outdated)
 
