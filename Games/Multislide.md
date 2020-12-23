@@ -28,3 +28,17 @@ Now, after moving both grey balls down, the goal positions are easily accessible
 [[/uploads/multislide3.png | height=200px]]
 
 Now, the remaining three balls can be placed onto the visible goal positions. Pushing the box up (or down) is the last move.
+
+**Level 44**
+<br> Moving the balls on both sides of the level independently, arrange them in the following way:
+
+[[/uploads/multislide4.png | height=225px]]
+
+Now simply move the upper balls to the right and the lower balls to the left.
+
+**Level 45**
+<br> First, move the upper grey ball so that it stops right after the upper goal position. Next, arrange the purple balls at the bottom of the level, like this:
+
+[[/uploads/multislide5.png | height=225px]]
+
+Move both purple balls up and then move the grey ball to the right.
