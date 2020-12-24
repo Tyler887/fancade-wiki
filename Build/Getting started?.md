@@ -1,4 +1,4 @@
-1. Watch the [[video tutorials|https://www.fancade.com/wiki/are_there_any_video_tutorials]] and go through the tutorial levels in Fancade.
+1. Watch the [[video tutorials|Are there any video tutorials?]] and go through the tutorial levels in Fancade.
 
 2. Look through the tutorial game made by Martin:
 [[https://fancade.page.link/qZPM]]
