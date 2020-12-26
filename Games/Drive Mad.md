@@ -5,6 +5,7 @@ Tap the right side of the screen to drive. Tap the left side of the screen to br
 # Tips and Tricks
 
 * Level 39 Runway: The jet airplane does not have brakes or reverse. But to make the flight, you'll need more runway than you have initially. Can you figure out how?
+* Level 43 Excavator: Pull yourself forward using the excavator's arm. At the end of the level, extend the arm and just *touch* the goal with the bucket!
 
 # Let's Play
 
