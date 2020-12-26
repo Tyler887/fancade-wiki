@@ -1,16 +1,22 @@
-This page is dedicated to documenting Fancade's history before 1.0, if you what to know what the current beta is and how to enter, go to [Beta](https://www.fancade.com/wiki/Beta.md)
+This page documents Fancade's history. If you what to know what the current beta is and how to enter, go to [Beta](https://www.fancade.com/wiki/Beta.md)
 
-# Pre-Beta
+# Fancade 1.4.3
 
-This is still a work in progress.
+* Release: December 13, 2020
+* Quest worlds: 60
 
-# Fancade 0.1
+# Fancade 1.0
 
-[WIP]Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
+* Release: April 30, 2020
+* Quest worlds: 40
 
 # Fancade 0.4
 
 [WIP]Fancade 0.4 also released in 2017, but that's all we know of for now.
+
+# Fancade 0.27
+
+Fancade 0.27 released in january 12, 2019
 
 # Fancade 0.26
 
@@ -68,6 +74,10 @@ Fancade 0.26 is currently the first beta version to have a known **release date*
 • And more<br>
 </details>
 
-# Fancade 0.27
+# Fancade 0.1
 
-Fancade 0.27 released in january 12, 2019
+[WIP]Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
+
+# Pre-Beta
+
+This is still a work in progress.
