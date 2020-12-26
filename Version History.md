@@ -1,4 +1,4 @@
-This page documents Fancade's history. If you what to know what the current beta is and how to enter, go to [Beta](https://www.fancade.com/wiki/Beta.md)
+This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [Beta](https://www.fancade.com/wiki/Beta.md)
 
 # Fancade 1.4.3
 
