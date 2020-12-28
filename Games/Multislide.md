@@ -42,3 +42,55 @@ Now simply move the upper balls to the right and the lower balls to the left.
 [[/uploads/multislide5.png | height=225px]]
 
 Move both purple balls up and then move the grey ball to the right.
+
+**Level 46**
+<br> Move the top box to the left and without any other box pushes, arrange the purple balls like this:
+
+[[/uploads/multislide6a.png | height=300px]]
+
+Push the box onto the red switch. After that, move the purple balls to the following positions:
+
+[[/uploads/multislide6b.png | height=300px]]
+
+Now the lower box can be pushed onto the blue switch.
+
+**Level 47**
+<br> Move one purple ball from the bottom to the room above, without moving the other one. Then move the upper balls to goal positions.
+
+[[/uploads/multislide7.png | height=250px]]
+
+Open the door using a box and move the top middle ball down. Now it's easy to place the remaining balls on goals.
+
+**Level 48**
+<br> First, arrange the balls like this:
+
+[[/uploads/multislide8a.png | height=250px]]
+
+Start from the middle ball and move clockwise around the level. Whenever the current ball hits another ball, start moving the one that was hit. After 3 moves, the situation should look like this:
+
+[[/uploads/multislide8b.png | height=250px]]
+
+Eventually, all balls will be placed on goals.
+
+**Level 49**
+<br> First, move the purple ball to the middle of the level and move the lowest grey ball up.
+
+[[/uploads/multislide9a.png | height=300px]]
+
+After that, move the purple ball back to the left. Now it's time to move all the remaining grey balls. The middle one should be moved to the left first, then the upper left one should be moved down. The final position should look like this:
+
+[[/uploads/multislide9b.png | height=300px]]
+
+Now there's a clear path for the box to be pushed onto the blue switch.
+
+**Level 50**
+<br> The key is to block the blue door with a box. First, open both doors and place one ball next to the box, on the left. Then move another ball and place it next to the blue door:
+
+[[/uploads/multislide10a.png | height=240px]]
+
+The box can now be used to block the blue door:
+
+[[/uploads/multislide10b.png | height=240px]]
+
+Now it's possible for both balls to enter the goal room. One should use the red door and the other one should just push the box.
+
