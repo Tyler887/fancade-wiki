@@ -25,6 +25,26 @@ This page documents Fancade's history. If you want to know what the current beta
 * Release: April 30, 2020
 * Quest worlds: 40
 
+# Fancade 0.43
+
+* Release: March 25, 2020
+* Quest worlds: 35
+
+# Fancade 0.42
+
+* Release: February 12, 2020
+* Quest worlds: 30
+
+# Fancade 0.41
+
+* Release: January 15, 2020
+* Quest worlds: 25
+
+# Fancade 0.40
+
+* Release: December 12, 2019
+* Quest worlds: 20
+
 # Fancade 0.4
 
 [WIP]Fancade 0.4 also released in 2017, but that's all we know of for now.
