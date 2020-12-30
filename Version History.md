@@ -4,21 +4,28 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: December 13, 2020
 * Quest worlds: 60
+* 9 script blocks ([[Loop]], [[Late Update]], [[Dot Product]], [[Cross Product]], [[Normalize]], [[Logarithm]], [[Current Frame]], ++, \-\-) are added.
+* Users are now able to crop game box cover image.
 
 # Fancade 1.3.1
 
 * Release: October 13, 2020
 * Quest worlds: 55
+* Users are now able to grab game cover image in play-mode.
+* Level names are now shown when the level is start.
+* When holding the backspace button, it automatically repeats it.
 
 # Fancade 1.2.6
 
 * Release: August 22, 2020
 * Quest worlds: 50
+* Users can now search games between title and creator.
 
 # Fancade 1.1.2
 
 * Release: July 18, 2020
 * Quest worlds: 45
+* In iOS, the ability to download games is removed.
 
 # Fancade 1.0
 
@@ -54,10 +61,6 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: November 6, 2019
 * Quest worlds: 10
-
-# Fancade 0.4
-
-[WIP]Fancade 0.4 also released in 2017, but that's all we know of for now.
 
 # Fancade 0.27
 
