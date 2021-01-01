@@ -1,0 +1,1 @@
+_To protect the size of the Fancade community, the Free Version disables uploading (publishing) more than 1 game for a little while._
