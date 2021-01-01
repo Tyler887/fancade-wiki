@@ -1,1 +1,5 @@
-_To protect the size of the Fancade community, the Free Version disables uploading (publishing) more than 1 game for a little while._
+TODO:
+* Create a Fancade account
+* Describe editability options
+
+If you have [[Premium]] you can publish and update games whenever. Else there's a cooldown timer (currently 24h), added to reduce spam.
