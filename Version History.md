@@ -82,6 +82,42 @@ This page documents Fancade's history. If you want to know what the current beta
 * Compact level selector
 * Play and like counters
 
+# Fancade 0.37
+
+* Release: August 9, 2019
+
+# Fancade 0.36
+
+* Release: July 30, 2019
+
+# Fancade 0.34
+
+* Release: July 15, 2019
+
+# Fancade 0.33
+
+* Release: June 12, 2019
+
+# Fancade 0.32
+
+* Release: April 26, 2019
+
+# Fancade 0.31
+
+* Release: March 6, 2019
+
+# Fancade 0.30
+
+* Release: February 16, 2019
+
+# Fancade 0.29
+
+* Release: February 6, 2019
+
+# Fancade 0.28
+
+* Release: January 28, 2019
+
 # Fancade 0.27
 
 * Release: January 12, 2019
