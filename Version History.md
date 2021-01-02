@@ -155,6 +155,14 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: December 17, 2018 
 
+# Fancade 0.24
+
+* Release: November 14, 2018
+* Password reset button
+* Terms of Use button
+* Tap menu tab again to scroll to top
+* Currently the first beta version to have a known **release date** and a **changelog**.
+
 <details>
 <summary>Changelog (WIP)</summary>
 <br>
@@ -206,12 +214,7 @@ This page documents Fancade's history. If you want to know what the current beta
 • And more<br>
 </details>
 
-# Fancade 0.24
 
-* Release: November 14, 2018
-* Password reset button
-* Terms of Use button
-* Tap menu tab again to scroll to top
 
 # Fancade 0.1
 
