@@ -121,6 +121,7 @@ This page documents Fancade's history. If you want to know what the current beta
 * Update games without losing checkmarks and scores
 * Cooldown timer limits publishing new games to 1/day
 * Play button shows game's completion state
+
 # Fancade 0.31
 
 * Release: March 6, 2019
