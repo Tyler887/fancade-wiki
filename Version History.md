@@ -26,6 +26,7 @@ This page documents Fancade's history. If you want to know what the current beta
 * Release: July 18, 2020
 * Quest worlds: 45
 * In iOS, the ability to download games is removed.
+* Bubbles is removed from quest.
 
 # Fancade 1.0
 
@@ -36,16 +37,23 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: March 25, 2020
 * Quest worlds: 35
+* One year Premium option is added (with discount).
+* Slightly harder castle worlds.
+* New island themes.
+* Fog hides locked worlds.
+* Fancade now supports off-center notches.
 
 # Fancade 0.42
 
 * Release: February 12, 2020
 * Quest worlds: 30
+* Favorites - Like and favorite games you want to keep.
 
 # Fancade 0.41
 
 * Release: January 15, 2020
 * Quest worlds: 25
+* Undo/redo button has been added.
 
 # Fancade 0.40
 
@@ -56,23 +64,35 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: November 20, 2019
 * Quest worlds: 15
+* Game boxes show % complete and total score
+* World unlock animation and confetti
+* See collected stars in top-left corner
+* Bottom Back button in headings
+* Show Touches option (for recording tutorials)
 
 # Fancade 0.38
 
 * Release: November 6, 2019
 * Quest worlds: 10
+* Introducing Quest! Complete challenges, earn stars, unlock worlds.
+* Premium removes all ads for a month
+* Edit games for free
+* All new pixel art UI
+* Menu headings
+* Compact level selector
+* Play and like counters
 
 # Fancade 0.27
 
-Fancade 0.27 released in january 12, 2019
+* Release: January 12, 2019
 
 # Fancade 0.26
 
-Fancade 0.26 is currently the first beta version to have a known **release date** and a **changelog**.
-<p>fancade 0.26 released in december 17, 2018 
+* Release: December 17, 2018 
+* Currently the first beta version to have a known **release date** and a **changelog**.
 
 <details>
-<summary>Changelog(WIP)</summary>
+<summary>Changelog (WIP)</summary>
 <br>
 <p>the changelog is as follows:</p>
 
