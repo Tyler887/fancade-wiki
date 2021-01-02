@@ -85,42 +85,70 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 0.37
 
 * Release: August 9, 2019
+* Simpler ad format
 
 # Fancade 0.36
 
 * Release: July 30, 2019
+* Game box ribbon shows % complete, or score
+* Wiggle box of recommended game to play
+* Updating non-downloaded game retains progress
+* Can choose not to update non-downloaded game
+* Additional top left game box close button
 
 # Fancade 0.34
 
 * Release: July 15, 2019
+* Can play anything with ads
+* But buying requires Fangold
+* Max 50 Fangold game price
+* Making games is the only way to get free Fangold
+* Stacktris is the only pre-installed game
+* Start on Featured tab (with Home tab rightmost)
 
 # Fancade 0.33
 
 * Release: June 12, 2019
+* Featured sub-categories
+* Scroll to page bottom by tapping tab bar again
 
 # Fancade 0.32
 
 * Release: April 26, 2019
-
+* All new UI, with easy-to-read HD font and icons
+* Buy game while playing it, no lost progress!
+* Play beyond first level, even before buying
+* Update games without losing checkmarks and scores
+* Cooldown timer limits publishing new games to 1/day
+* Play button shows game's completion state
 # Fancade 0.31
 
 * Release: March 6, 2019
+* Link to any game by tapping Share!
 
 # Fancade 0.30
 
 * Release: February 16, 2019
+* Send Feedback button and clear BETA label
 
 # Fancade 0.29
 
 * Release: February 6, 2019
+* New Block: Particle
 
 # Fancade 0.28
 
 * Release: January 28, 2019
+* New game: Odd Bots
+* New blocks: Slate
 
 # Fancade 0.27
 
 * Release: January 12, 2019
+* Auto-wire adjacent ports
+* Show wire routing failures
+* New block: Sphere
+* New score font (visible on white)
 
 # Fancade 0.26
 
