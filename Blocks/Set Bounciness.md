@@ -2,7 +2,6 @@ Changes how much momentum a physics object looses when bouncing. Use 0 for a com
 
 You must also set bouncinness to the object you want it to bounce from.
 
-[[/uploads/Setbounciness.png]]
+**Please, note that anything higher than 1 would increase the velocity of the physics object each bounce.**
 
-# Note
-Anything higher than 1 will increase the velocity of the physics object.
+[[/uploads/Setbounciness.png]]
