@@ -2,4 +2,6 @@ Outputs True if the two input objects are equal. Since object inputs default to 
 
 [[/uploads/Equal_Object.png]]
 
-Note that it doesn't count as equal even if the two blocks are the same type. It's  because each block has a unique ID (can be checked with Inspect Object). Glued blocks will count as a single object (with one object ID).
+## Notes
+
+* This checks if the two inputs are the same *[[object]]*, not whether they're the same *[[block]] type*. E.g. two [[Box]] blocks, placed in the world, will create two different and independelty moving objects, so they are not equal despite both being made from the same block type.
