@@ -1,5 +1,18 @@
-The Direction input is the Direction you want to look at, an example would be: I'm currently looking at (0,0,0), I want to look at (0,0,5) so I put "(0,0,5)" into the Direction input.
-The Up input is just to specify which way is "Up". You can ignore this input and it will default to (0,1,0).
-
+Create a rotation pointing in a given direction, e.g. rotating a character to look that way.
 
 [[/uploads/Look_Rotation.png]]
+
+Inputs:
+* Direction: The direction you want to look in
+* Up: Which way is up for the looing character (defaults to 0,1,0 if unwired)
+
+Outputs:
+* Rotation: A rotation "looking" in the direction.
+
+## Notes
+
+* The Up input can often be ignored, but is needed if the default 0,1,0 is in the same plane as the Direction input.
+
+## Examples
+
+Passing e.g. 0,0,5 as Direction will result in a rotation looking forward along the Z axis.
