@@ -11,7 +11,7 @@ Outputs:
 
 ## Notes
 
-* The Up input can often be ignored, but is needed if the default 0,1,0 is in the same plane as the Direction input.
+* When converting one direction (vector) into a rotation, there is actually an infinite number of solutions! You can visualise this by picking up an object, say a pencil, and point it in some direction. You'll notice that you can still spin the pencil (thus changing it's rotation) without changing the direction it's pointing. That's why we define a second "Up" vector. It helps define how the pencil should be oriented. (It can often be ignored, but is definitely needed if the default 0,1,0 is in the same plane as the Direction input.)
 
 ## Examples
 
