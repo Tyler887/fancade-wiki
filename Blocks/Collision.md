@@ -17,3 +17,7 @@ The script below causes you to win if the two physics boxes collide with each ot
 Because the ground counts as "None", the script below causes you to lose if the sphere touches the ground.
 
 [[/uploads/c2.png]]
+
+Triggers a sound effect only if the impulse is big enough.
+
+[[/uploads/20210103_135824.jpg]]
