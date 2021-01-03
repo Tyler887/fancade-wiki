@@ -1,5 +1,5 @@
-Given an input Direction, output a Rotation, as if you were standing at 0,0,0 and turned your head to look in that direction. 
+The Direction input is the Direction you want to look at, an example would be: I'm currently looking at (0,0,0), I want to look at (0,0,5) so I put "(0,0,5)" into the Direction input.
+The Up input is just to specify which way is "Up". You can ignore this input and it will default to (0,1,0).
 
-You can usually ignore the second Up input, and it'll default to 0,1,0. But if the look direction is in the same plane, you'll get weird rotation outputs, and need to provide an Up input that's orthogonal to looking plane.
 
 [[/uploads/Look_Rotation.png]]
