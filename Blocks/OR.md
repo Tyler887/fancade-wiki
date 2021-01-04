@@ -9,10 +9,10 @@ Inputs:
 
 Outputs:
 
-* Boolean: A boolean value.
+* Boolean: Combines Tru1 & Tru2, returns True/False if either input is True.
 
 ## Notes
-* This script block can be combined with [[If]] block to check if either Tru1 and Tru2 inputs are True. You can also use the logical [[AND]] operator to check if *both* Inputs are True.
+* This script block can be combined with [[If]] block to check if either Tru1 and Tru2 inputs are True. You can also use the logical [[AND]] operator to check if both Inputs are True.
 
 ## Examples
 ...
