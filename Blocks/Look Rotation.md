@@ -4,7 +4,7 @@ Create a rotation pointing in a given direction, e.g. rotating a character to lo
 
 Inputs:
 * Direction: The direction you want to look in
-* Up: Which way is up for the looing character (defaults to 0,1,0 if unwired)
+* Up: Which way is up for the looking character (defaults to 0,1,0 if unwired)
 
 Outputs:
 * Rotation: A rotation "looking" in the direction.
