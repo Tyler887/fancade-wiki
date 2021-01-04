@@ -10,7 +10,16 @@ Tap the right side of the screen to drive. Tap the left side of the screen to br
 
 # Let's Play
 
-(note: videos are outdated and are Drive Classic walkthroughs)
+* [[Level 1-20|https://youtu.be/EAtnLTmOksI]]
+* [[Level 21-40|https://youtu.be/erGqf_YT5Cc]]
+* [[Level 41-50|https://youtu.be/8mtc05JyXZM]]
+* [[Level 51-60|https://youtu.be/H8A1M8so05g]]
+* [[Level 61-70|https://youtu.be/HtmAhMMzJo4]]
+* [[Level 71-80|https://youtu.be/uy5THy_1S9E]]
+* [[Level 81-90|https://youtu.be/qWr3d-Yx1Ac]]
+* [[Level 91-100|https://youtu.be/rK5jcvidHQg]]
+
+Old (Drive Classic) version:
 
 * [[Level 1-5|https://youtu.be/T5R3MI8uqPA]]
 * [[Level 6-9|https://youtu.be/MTeGiD9ch6M]]
