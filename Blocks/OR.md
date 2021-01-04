@@ -6,6 +6,7 @@ Inputs:
 
 * Tru1: The first boolean value to check.
 * Tru2: The second boolean value to check.
+
 Outputs:
 
 * Boolean: Combines Tru1 & Tru2, returns True if either input is True.
