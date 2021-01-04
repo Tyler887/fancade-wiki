@@ -9,7 +9,7 @@ Inputs:
 
 Outputs:
 
-* Boolean: Combines Tru1 & Tru2, returns True/False depending on the values.
+* Boolean: Combines Tru1 & Tru2, returns True if both values are True.
 
 ## Notes
 * This script block can be combined with [[If]] block to check if both Tru1 and Tru2 inputs are True. You can also use the logical [[OR]] operator to check if either Inputs is True.
