@@ -17,4 +17,5 @@ Outputs:
 - Note that the output would be in decimal, to avoid this use [[floor]], [[ceiling]], or [[round]] operators.
 
 ## Examples
-...
+
+[[uploads/random_ex01.jpg]]
