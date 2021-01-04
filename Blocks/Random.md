@@ -9,7 +9,7 @@ Inputs:
 
 Outputs:
 
-- Number: The randomly selected [[number]].
+- Random: The randomly selected [[number]].
 
 ## Notes
 - The Min input is included while the Max input is excluded, meaning: I put 0 into the Min input and put 5 into the Max input, the block will still select 0 or any number lower than 5 but not 5.
