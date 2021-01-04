@@ -1,4 +1,16 @@
 Negates a number.
-I.e. (4 into -4), (-7 to 7)
 
 [[/uploads/negate.png]]
+
+Inputs:
+
+- Num: The number to negate.
+
+Outputs:
+
+- The negated number.
+
+## Examples
+- The top one turns `5` into `-5` while the last one turns `-8` into `8`. Absolute numbers will become negative, and vice versa.
+- 
+[[uploads/negate_ex01.jpg]]
