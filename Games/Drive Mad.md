@@ -10,6 +10,8 @@ Tap the right side of the screen to drive. Tap the left side of the screen to br
 
 # Let's Play
 
+Check out these full play-throughs of all levels on YouTube:
+
 * [[Level 1-20|https://youtu.be/EAtnLTmOksI]]
 * [[Level 21-40|https://youtu.be/erGqf_YT5Cc]]
 * [[Level 41-50|https://youtu.be/8mtc05JyXZM]]
