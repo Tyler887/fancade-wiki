@@ -59,6 +59,8 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: December 12, 2019
 * Quest worlds: 20
+* Show challenges in Pause dialog
+* Fix/Reset/Send Quest buttons
 
 # Fancade 0.39
 
