@@ -17,4 +17,4 @@ Additionally , there are only 4 certain points where you can get a whole number 
 
 ## Example 
 
-*Nothing for now , will add something later
+*Nothing for now , will add something later :p
