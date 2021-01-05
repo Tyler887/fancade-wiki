@@ -1,4 +1,4 @@
-Linearly interpolates between two rotations.
+Linear Interpolation (LERP) returns a value between two others at a point of linear scale. In other words, linearly interpolates a value.
 
 [[/uploads/Lerp.png]]
 
