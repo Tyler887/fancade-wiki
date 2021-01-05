@@ -17,4 +17,4 @@ Additionally , there are only 4 certain points where you can get a whole number 
 
 ## Example
 **Looking for examples!!** 
-  *You can refer to the example in [[sin]].
+- You can refer to the example in [[sin]].
