@@ -1,7 +1,6 @@
 Linear Interpolation (LERP) returns a value between two others at a point of linear scale.
 
-The formula for the LERP output is:
-From + (To - From) × Amount
+Rotation = From + (To - From) × Amount
 
 [[uploads/LERP.png]]
 
