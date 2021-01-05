@@ -4,7 +4,7 @@ Compute sine of an angle in degrees.
 
 Sine outputs value between 1 and -1 depending on the given value to it which scales from rotation (0°–360°)
 
-Additionally , there are only 4 certain points where you can get a whole number ;
+Additionally , there are only 4 certain points where you can get a whole number :
 - 0°/360° = 0
 - 90° = 1
 - 180° = 0
