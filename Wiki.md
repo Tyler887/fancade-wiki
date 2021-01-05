@@ -38,3 +38,7 @@ Deleting a page is possible, but restricted. Ping one of the Fanmods on the Disc
 # Revert a change
 
 Go to the page's history (through link in the latest changes), check the commit, compare and revert.
+
+# Signing out
+
+There's no button to sign out (and seldom reason to). But if you clear the website data in your browser settings, you will be signed out. (It's a cookie?)
