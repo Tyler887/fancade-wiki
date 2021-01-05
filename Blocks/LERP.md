@@ -15,5 +15,8 @@ Output:
 
 ## Example
 
+The most common use case is to smoothly transition from one rotation to another.
+
 [[/uploads/20210105_102823.jpg]]
 
+On every frame, the block rotates from it's initial rotation (From) closer to it's target rotation (To) by a scaled amount (Speed), 
