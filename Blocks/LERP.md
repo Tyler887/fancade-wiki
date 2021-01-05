@@ -22,4 +22,4 @@ Every frame, the block rotates 5% (0.05) of the way from its initial rotation (0
 
 Currently, there is only a LERP for rotation values, but if you want make one for numbers or vectors:
 
-[[/uploads/20210105_102823.jpg]]
+[[/uploads/Screenshot_20210105-161027_Fancade.jpg]]
