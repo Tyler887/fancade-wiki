@@ -19,4 +19,4 @@ Additionally , there are only 4 certain points where you can get a whole number 
 Ever wondered how martin make those ultra smooth floating coin animations , well here's how to do it:
 [[uploads/floating_coin_animation.jpg]]
 
-- Sin and Cos is mostly use for such back and forth animations like this floating coin animation , you can also amplify the output of the sin or cos to make the object have a back and forth animation in a larger or smaller scale. If you managed to utilize this functions you can even make any type of animations very smooth e.g.(walking animation , gun recoil animation , moving platforms and many more)
+- Sin and Cos is mostly use for such back and forth animations like this floating coin animation , you can also amplify the output of the sin or cos to make the object have a back and forth animation in a larger or smaller scale. If you managed to utilize this functions you can even make any type of animations very smooth e.g. (walking animation , gun recoil animation , moving platforms and many more)
