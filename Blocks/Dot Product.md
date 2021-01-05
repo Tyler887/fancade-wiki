@@ -1,11 +1,6 @@
-Computes the [[dot product|https://en.wikipedia.org/wiki/Dot_product]] of the two input [[vector]]s.
+Dot product is algebraically defined as the sum of the product of the corresponding vector component.
 
-The dot product is algebraically defined as taking 2 vectors of the same length, and multiplying each number side-by-side, and then summing them all. 
+If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By, Bz), we would use this formula:
+Output = (Ax×Bx)+(Ay×By)+(Az×Bz)
 
-e.g. If vector 1 is *[2,3,-2]* and vector 2 is **[1,2,3]**:
-  - Multiplying *2* and **1** gives 2.
-  - Multiplying *3* and **2** gives 6.
-  - Multiplying *-2* and **3** gives -6.
-  - Adding them all gives 2, the dot product of them two.
-  
 [[/uploads/Dot Product.png]]
