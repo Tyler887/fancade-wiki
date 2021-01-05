@@ -1,12 +1,16 @@
-Linear Interpolation (LERP) returns a value between two others at a point of linear scale. In other words, linearly interpolates between two values.
+Linear Interpolation (LERP) returns a value between two others at a point of linear scale.
+
+The formula for the LERP output is:
+From + (To - From) × Amount
+
 
 Input:
 - From: The value to transition from.
 - To: The value to transition to.
-- Amount: Represents the states in between.
+- Amount: How far to transition.
 
 Output:
-- Rotation:
+- Rotation: 
 
 [[/uploads/Lerp.png]]
 
