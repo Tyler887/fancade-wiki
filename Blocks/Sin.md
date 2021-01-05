@@ -16,5 +16,5 @@ Additionally , there are only 4 certain points where you can get a whole number 
 *Note: To understand more better search for "trigonemetrical functions" in google XD
 
 ## Example 
-
-*Nothing for now , will add something later :p
+Ever wondered how martin make those ultra smooth floating coin animations , well here's how to do it:
+[[uploads/floating_coin_animation.jpg]]
