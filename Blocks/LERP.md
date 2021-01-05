@@ -19,4 +19,4 @@ The most common use case is to smoothly transition from one rotation to another.
 
 [[/uploads/20210105_102823.jpg]]
 
-On every frame, the block rotates from it's initial rotation (From) closer to it's target rotation (To) by a scaled amount (Speed). You might notice how it slows out until it comes to it destination and stops (in reality, it only gets closer but never to its exact destination, and it never comes to a stop, it just keeps rotating by a testimally small value).
+On every frame, the block rotates from it's initial rotation (From) closer to it's target rotation (To) by a scaled amount (Speed). You might notice how it slows out until it comes to it destination and stops (in reality, it only gets closer but never to its exact destination, and it never comes to a stop, it just keeps rotating by a tesimally small value).
