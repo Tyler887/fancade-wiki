@@ -14,3 +14,6 @@ Additionally , there are only 4 certain points where you can get a whole number 
 - 270° = 0
 
 *Note: To understand more better search for "trigonemetrical functions" in google XD
+
+## Example
+Looking for examples? >> pls refer to the example in [[sin]].
