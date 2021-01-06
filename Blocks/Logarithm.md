@@ -4,7 +4,7 @@ Outputs the logarithm of a number by a given base.
 
 Inputs
 - Number: The target number
-- Base: The base to raise (defaults to *e* if unwired)
+- Base: The base to raise (defaults to [*e*](https://en.wikipedia.org/wiki/E_(mathematical_constant)) if unwired)
 
 Outputs
 - Logarithm: The Exponent in the (Base ^ Exponent = Number)
