@@ -7,6 +7,10 @@ A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
 
 ## Example
 
-If the two input vectors are unit vectors (vectors with length of 1), the dot product outputs the cosine of the angles formed by those two vectors. If the two input aren't unit vectors, we can still find the cosine of the angle with these two methods:
+If the two input vectors are unit vectors (vectors with length of 1), the dot product outputs the cosine of the angles formed by those two vectors. If the two input aren't unit vectors, we can still find the cosine of the angle with two methods:
+
+- Normalize the two input vectors first before the dot product.
+
+- Get the output of the dot product and divide it by the product of the two input vectors' length.
 
 [[/uploads/20210106_122008.jpg]]
