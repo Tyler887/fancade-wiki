@@ -3,7 +3,7 @@ Compute cosine of an angle in degrees.
 [[/uploads/Cos.png]]
 
 ## Input/Output
-similar to the function [[sin]] but instead the output value starts from 1. Outputs value between 1 and -1 depending on the given input which scales from rotation (0°–360°)
+similar to the function [[sin]] but instead the output value starts from 1. Outputs value between 1 and -1 depending on the given input which scales from angular (0°–360°)
 
 ## Notes
 
