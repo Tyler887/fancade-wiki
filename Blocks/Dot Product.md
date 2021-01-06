@@ -1,3 +1,15 @@
+The Dot Product calculates the dot product of the two input vectors, and outputs a [[number]].
+
+The dot product is written using a central dot:
+
+A · B
+
+This means the dot product of the vectors A and B.
+
+[[/uploads/Dot Product.png]]
+
+## Details
+
 The Dot Product is a way of multiplying two vectors together.
 
 We can calculate the Dot Product of two vectors this way:
@@ -6,7 +18,7 @@ A · B = \|A\| × \|B\| × cos(θ)
 
 Where \|A\| is the magnitude (length) of vector A, \|B\| is the magnitude (length) of vector B, and θ is the angle between A and B.
 
-So we multiply the length of A times the length of B, then multiply by the [[cosine|Cos]] of the angle between A and B.
+So we multiply the length of A times the length of B, then multiply by the cosine of the angle between A and B.
 
 We can also calculate it algebraically this way:
 
@@ -16,9 +28,7 @@ So we multiply the x's, multiply the y's, multiply the z's, and then sum them al
 
 The result is a [[number]] (called a "scalar" so we know it's not a vector).
 
-[[/uploads/Dot Product.png]]
-
-## Right Angles
+### Right Angles
 
 When two vectors are at right angles to each other the dot product is zero. This can be a handy way of checking if two vectors are perpendicular.
 
