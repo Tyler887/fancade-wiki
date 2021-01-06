@@ -4,10 +4,7 @@ We can calculate the Dot Product of two vectors this way:
 
 A · B = \|A\| × \|B\| × cos(θ)
 
-Where:
-\|A\| is the magnitude (length) of vector A,
-\|B\| is the magnitude (length) of vector B,
-and θ is the angle between A and B.
+Where \|A\| is the magnitude (length) of vector A, \|B\| is the magnitude (length) of vector B, and θ is the angle between A and B.
 
 So we multiply the length of A times the length of B, then multiply by the cosine of the angle between A and B.
 
