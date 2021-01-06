@@ -3,6 +3,11 @@ Dot product is algebraically defined as the sum of the product of the correspond
 If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By, Bz), we would use this formula:
 * A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
 
+A few things to know that might help:
+- If the angle formed by the two input vectors is acute, the dot product is positive.
+- If the angle is a right angle (both vectors perpendicular), then the dot product is zero.
+- If the angle is obtuse, then the dot product is negative.
+
 [[/uploads/Dot Product.png]]
 
 ## Example
