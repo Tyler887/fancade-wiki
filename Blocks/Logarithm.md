@@ -15,5 +15,6 @@ Logarithm is used as an inverse function for the function [[Power]] , this funct
 ## Examples
 If you're looking for examples , surely all examples for this is complex , But if you really want to see how it's used you can look for "Sounak9434's" (he is one of our @Fanmods Btw) MCTS Engine , its a type of AI used for board games , you can see how logarithm can be used there.
 
-##
+## 
+
 ***MCTS Engine*** is made before the logarithm function is implemented the logarithm function used in the MCTS engine is a custom script made by our great "Potato-Chan" one of the best scripters we have here (~~though I wonder why he is not a Fanmod too Probably cause he is not mostly active in discord~~).
