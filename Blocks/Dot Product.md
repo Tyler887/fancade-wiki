@@ -47,6 +47,7 @@ The first input for the dot product is the direction that the guard is facing, t
 [[/uploads/Screenshot_20210106-135840_Fancade.jpg]]
 
 Let me explain the script:
-- First we subtract the ninja's position by the guard's position (if it's the other way round, we get the vector from the ninja's position to the guard's position, that's the opposite of what we want). Then we normalize the vector before the dot product.
-- For the guard's direction, we get the guard's current rotation and rotate the vector (0, 0, 1) by that rotation. This is only correct if we're assuming that the guard faces in that direction (0, 0, 1) if his current rotation is 0°, otherwise we use a different vector value. We don't have to normalize because we rotated the vector (0, 0, 1) which already has a length of one.
-- Finally after we get the dot product (which should be the cosine of the angle formed by those two vectors), we can check if its less than the cosine of half the FOV (half because the direction of the guard sits in the middle between the two edges of the FOV, we would use 90° if the FOV is 180°). If its true, then the ninja is in sight, otherwise the ninja is still safe.
+- First we subtract the ninja's position by the guard's position. Then we normalize the vector before the dot product.
+- For the guard's direction, rotate the vector (0, 0, 1) by the guard's current rotation (because assuming that the guard faces up (0, 0, 1) if his current rotation is 0°).
+We don't have to normalize because the vector we rotated (0, 0, 1) already has a length of one.
+- Finally after we get the dot product, check if its less than the cosine of half the FOV (half because the direction of the guard sits in the middle between the two edges of the FOV). If true, then the ninja is in sight, otherwise the ninja is still safe.
