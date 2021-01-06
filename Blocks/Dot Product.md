@@ -4,3 +4,9 @@ If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By
 A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
 
 [[/uploads/Dot Product.png]]
+
+## Example
+
+If the two input vectors are unit vectors (vectors with length of 1), the dot product outputs the cosine of the angles formed by those two vectors. If the two input aren't unit vectors, we can still find the cosine of the angle with these two methods:
+
+[[/uploads/20210106_122008.jpg]]
