@@ -1,14 +1,33 @@
-Dot product is algebraically defined as the sum of the product of the corresponding vector component.
+The Dot Product is a way of multiplying two vectors together.
 
-If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By, Bz), we would use this formula:
-* A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
+We can calculate the Dot Product of two vectors this way:
 
-A few things to know that might help:
-- If the angle formed by the two input vectors is acute, the dot product is positive.
-- If the angle is a right angle (both vectors perpendicular), then the dot product is zero.
-- If the angle is obtuse, then the dot product is negative.
+A · B = \|A\| × \|B\| × cos(θ)
+
+Where:
+\|A\| is the magnitude (length) of vector A,
+\|B\| is the magnitude (length) of vector B,
+and θ is the angle between A and B.
+
+So we multiply the length of A times the length of B, then multiply by the cosine of the angle between A and B.
+
+We can also calculate it algebraically this way:
+
+A · B = Ax × Bx + Ay × By + Az × Bz
+
+So we multiply the x's, multiply the y's, multiply the z's, and then sum them all together.
+
+The result is a [[number]] (called a "scalar" so we know it's not a vector).
 
 [[/uploads/Dot Product.png]]
+
+## Right Angles
+
+When two vectors are at right angles to each other the dot product is zero. This can be a handy way of checking if two vectors are perpendicular.
+
+If the angle formed by the two input vectors is acute, the dot product is positive.
+
+If the angle is obtuse, then the dot product is negative.
 
 ## Example
 
