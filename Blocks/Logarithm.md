@@ -9,7 +9,7 @@ Inputs
 Outputs
 - Logarithm: The Exponent in the (Base ^ Exponent = Number)
 
-### Notes
+## Notes
 Logarithm is used as an inverse function for the function [[Power]] , this function is most commonly use for pathfinding AI's such as Board game AI's. If you managed to learn how to make an AI , this function will be surely handy for you.
 
 ## Examples
