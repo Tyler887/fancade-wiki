@@ -3,7 +3,7 @@ Compute sine of an angle in degrees.
 [[/uploads/Sin.png]]
 ## Input/Ouput
 
-Sine outputs value between 1 and -1 depending on the given value to it which scales from rotation (0°–360°)
+Sine outputs value between 1 and -1 depending on the given value to it which scales from angular (0°–360°)
 
 ## Notes
 
