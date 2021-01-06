@@ -34,11 +34,11 @@ The dot product of two unit vectors outputs the cosine of the angle between thos
 
 [[/uploads/20210106_122008.jpg]]
 
-We don't have an inverse cosine block, but we can create the script to find the angle:
+To find the angle, we then use the inverse cosine function:
 
 [[/uploads/Screenshot_20210106-121820_Fancade.jpg]]
 
-Moving on to another example involving a stealth game, there is a guard facing a direction with a FOV of 90° (visually highlighted in green), and there is a ninja sneaking up on him. How can we check if the ninja is on the guard's sight?
+Here is another example, there is a guard facing a direction with a FOV of 90° (highlighted in green) and a ninja sneaking up on him. How can we check if the ninja is on sight?
 
 [[/uploads/Screenshot_20210106-131627_Fancade.jpg]]
 
