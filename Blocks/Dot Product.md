@@ -1,7 +1,7 @@
 Dot product is algebraically defined as the sum of the product of the corresponding vector component.
 
-If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By, Bz), we would use this formula:\
-A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
+If we were to find the dot product of Vector A (Ax, Ay, Az) and Vector B (Bx, By, Bz), we would use this formula:
+* A•B = (Ax×Bx)+(Ay×By)+(Az×Bz)
 
 [[/uploads/Dot Product.png]]
 
@@ -22,3 +22,7 @@ We don't have an inverse cosine block, but we can create the script to find the 
 Moving on to another example involving a stealth game, there is a guard facing a direction with a FOV of 90° (visually highlighted in green), and there is a ninja sneaking up on him. How can we check if the ninja is on the guard's sight?
 
 [[/uploads/Screenshot_20210106-131627_Fancade.jpg]]
+
+The first input for the dot product is the direction that the guard is facing, the second input is the vector from the guard's position to the ninja's. Then we compare the cosine of the angle formed by those two vector with the cosine of half of FOV:
+
+[[/uploads/Screenshot_20210106-135840_Fancade.jpg]]
