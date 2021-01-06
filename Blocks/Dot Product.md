@@ -15,7 +15,7 @@ If the two input vectors are unit vectors (vectors with length of 1), the dot pr
 
 [[/uploads/20210106_122008.jpg]]
 
-We don't have an inverse cosine block, but we can create one to find the angle:
+We don't have an inverse cosine block, but we can create the script to find the angle:
 
 [[/uploads/Screenshot_20210106-121820_Fancade.jpg]]
 
