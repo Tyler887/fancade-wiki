@@ -16,3 +16,9 @@ Let me explain the script:
 So far so good, until the player shoots again adding another bullet. The variable can only store one value at a time, so the first bullet and its velocity are replaced with the second, the second bullet moves like it should, but the first bullet stop because it's no longer affected by the script. How do we fix that?
 
 [[/uploads/Screenshot_20210107-114652_Fancade.jpg]]
+
+Lists are like variables, but they can store more values in one, so we just have to store the bullets and their velocities like so. We have to make sure to increment the index, otherwise the next bullet would be stored in the list with the same index giving us the same problem we had with the previous script.
+
+[[/uploads/Screenshot_20210107-121128_Fancade.jpg]]
+
+Next thing we have to do is run the script for every bullet with a [[loop]]. We plug the Counter output of the loop into the Index input of our lists, which helps us get access to the individual values stored in the list. The script runs for every bullet in the list.
