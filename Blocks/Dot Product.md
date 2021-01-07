@@ -18,7 +18,7 @@ A · B = \|A\| × \|B\| × cos(θ)
 
 Where \|A\| is the magnitude (length) of vector A, \|B\| is the magnitude (length) of vector B, and θ is the angle between A and B.
 
-So we multiply the length of A times the length of B, then multiply by the cosine of the angle between A and B.
+So we multiply the length of A times the length of B, then multiply by the [[cosine|Cos]] of the angle between A and B.
 
 We can also calculate it algebraically this way:
 
@@ -38,7 +38,7 @@ If the angle is obtuse, then the dot product is negative.
 
 ## Example
 
-The dot product of two unit vectors outputs the cosine of the angle between those two vectors. If our two inputs aren't unit vectors, we can find the cosine with two methods:
+The dot product of two [[unit vector|Normalize]]s outputs the cosine of the angle between those two vectors. If our two inputs aren't unit vectors, we can find the cosine with two methods:
 - Normalize the two input vectors first.
 - Get the output of the dot product and divide it by the product of the two input vectors' length.
 
