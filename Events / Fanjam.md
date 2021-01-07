@@ -65,3 +65,4 @@ Submitted games will be judged in 4 different categories, each with different pr
 > - Prizes aren't additive. If one submission is eligible for more than one prize, the one with highest value will be awarded.
 > - Winner of each category will be given a FanJam Discord Role!
 
+*Now that you know all about Fanjam , do you think your ready for next Fanjam? see ya there and hopefully you can win!!
