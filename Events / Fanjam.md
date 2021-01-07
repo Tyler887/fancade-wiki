@@ -2,7 +2,7 @@ A fancade event that happens every 1 or 2 months , it is hosted in the Fancade D
 
 # Event Details
 
-## Mechanics
+## A.) Mechanics
 Sounak announces an upcoming Fanjam Including the set of rules about a week prior to the event in the. 
 
 Fanjam have 3 phases:
@@ -23,3 +23,8 @@ After its time period then a 1 day delay is placed , at the immediate end and du
 ### 2nd Phase (Voting Phase)
 After this 2nd Phase will start , during this time all people in discord all the submission will be posted with their direct link , people can also then play , test play , look all they want in the submissions before voting or even if they're not voting.
 - To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot
+
+### 3rd Phase (Announcing of Winners)
+
+## B.) Rules
+Nothing for now will put something here later :p
