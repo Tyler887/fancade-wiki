@@ -54,6 +54,7 @@ Submission:
 > - You can update your submission as many times as you want before the end of the submission phase. Once submission phase ends updating will result in immediate disqualification.
 
 Prizes:
+
 Submitted games will be judged in 4 different categories, each with different prizes.
 > A. Best Overall - 90 Days of Fancade Premium.
 > B. Best Kits - 60 Days of Fancade Premium.
