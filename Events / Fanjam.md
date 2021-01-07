@@ -13,6 +13,7 @@ Fanjam have 3 phases:
 
 ### 1st Phase (Dev Phase) 
 During the start of the event , the 1st Phase , a selected theme is Announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days , until then player can still continue to build , add new features and publish/update their games as a valid submission.
+
  **To submit your game during a Fanjam event you must share your game in the Fancade Discord #games channel with the tags :**
 - **fanjam #kit** - for games made from game kits
 - **fanjam #full** - for games made from scratch (using custom scripts from other people's projects is still allowed)
