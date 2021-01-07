@@ -34,7 +34,7 @@ This marks the flag of the end of the current Fanjam. The long awaited (ofc) by 
 
 *Note: also each category only displays the top 3 winners.
 
-Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , individually in each category they won. (And also a Fanjam role for bragging rights , ~~lol~~).
+Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , individually in each category they won. (And also a **<font color=tourmaline>Fanjam</font>** role for bragging rights , ~~lol~~).
 
 ## B.) Rules
 Nothing for now will put something here later :p
