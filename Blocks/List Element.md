@@ -39,4 +39,4 @@ Lists are like variables, but they can store more values in one, so we just have
 
 [[/uploads/Screenshot_20210107-121128_Fancade.jpg]]
 
-Next thing we have to do is run the script for every bullet with a [[loop]]. We plug the Counter output of the loop into the Index input of our lists, which helps us get access to the individual values stored in the list. The script runs for every bullet in the list.
+Next thing we have to do is run the script for every bullet with a [[loop]]. We plug the Counter output of the loop into the Index input of our lists, so that we could access each index and the values one by one. The script runs for every bullet and our problem is solved!
