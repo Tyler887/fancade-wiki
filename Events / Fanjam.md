@@ -1,11 +1,11 @@
-A fancade event that happens every 1 or 2 months, it is hosted in the Fancade Discord Server by one of our Fanmods, Sounak9434 (Sounak for short). All things about Fanjam is Announced in the #Fanjam channel.
+A fancade event that happens every 1 or 2 months, it is hosted in the Fancade Discord Server by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the #FanJam channel.
 
 # Event Details
 
 ## A.) Mechanics
-Sounak announces an upcoming Fanjam Including the set of rules about a week prior to the event. 
+Sounak announces an upcoming FanJam Including the set of rules about a week prior to the event. 
 
-Fanjam consist of 3 phases:
+FanJam consist of 3 phases:
 
 - 1.) Development Phase (3 days)
 - 2.) Voting Phase (3 days)
@@ -15,7 +15,7 @@ Fanjam consist of 3 phases:
 ### (Dev Phase/Submission Phase) 
 During the start of the event, the 1st Phase, a selected theme is Announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days, until then player can still continue to build, add new features and publish/update their games as a valid submission.
 
- **To submit your game during a Fanjam event you must share your game in the Fancade Discord #games channel with the tags:**
+ **To submit your game during a FanJam event you must share your game in the Fancade Discord #games channel with the tags:**
 - ***fanjam #kit*** - for games made from game kits
 - ***fanjam #full*** - for games made from scratch (using custom scripts from other people's projects is still allowed)
  
@@ -28,7 +28,7 @@ After this 2nd Phase will start, during this time all people in discord all the 
 
 ### 3rd Phase 
 ### (Announcing of Winners)
-This marks the flag of the end of the current Fanjam. The long awaited (ofc) by all participants, and that is ... to see their names in the boards. Fanjam has 4 categories with each having different set of winners; Overall, Kits, Art, Innovation.
+This marks the flag of the end of the current FanJam. The long awaited (ofc) by all participants, and that is ... to see their names in the boards. FanJam has 4 categories with each having different set of winners; Overall, Kits, Art, Innovation.
 
 - Overall - only those with tag #full in their game can participate 
 - Kits - only those with tag ***#kit*** in their game can participate
@@ -70,31 +70,31 @@ Submitted games will be judged in 4 different categories, each with different pr
 ### History 
 Year 2020:
 
-## Fanjam I
+## FanJam I
 - Event Period: 3/4/2020 - 3/12/2020
 - Theme: You Only Get One
 
-## Fanjam II
+## FanJam II
 - Event Period: 4/1/2020 - 4/10/2020
 - Theme: The More, The Worse
 
-## Fanjam III
+## FanJam III
 - Event Period: 5/4/2020 - 5/14/2020
 - Theme: Control More than One
 
-## Fanjam IV
+## FanJam IV
 - Event Period: 6/9/2020 - 6/18/2020
 - Theme: Control the Environment
 
-## Fanjam V
+## FanJam V
 - Event Period: 7/31/2020 - 8/14/2020
 - Theme: Gap
 
-## Fanjam VI
+## FanJam VI
 - Event Period: 10/5/2020 - 10/16/2020
 - Theme: Bad is Good
 
-## Fanjam VII
+## FanJam VII
 - Event Period: 12/18/2020 - 1/6/2021
 - Theme: Christmas Special - Secret Santa
 Special Mechanics: 
