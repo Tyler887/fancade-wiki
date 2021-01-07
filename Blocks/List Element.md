@@ -2,7 +2,7 @@ Gets a value stored in a list, with index starting from 0 (max 1,048,575). The o
 
 [[/uploads/Listelement.png]]
 ## Notes
-The list basically is what you call in scripting language as "Array", But what really is this array. An array is single variable which can contain multiple values , in then which each is value defined as this varible[index] , normally index in real scripting is automatically generated depending on its order e.g. in JS language: 
+The list basically is what you call in scripting language as "Array", but what really is this array. An array is single variable which can contain multiple values , in then which each is value defined as this varible[index] , normally index in real scripting is automatically generated depending on its order e.g. in JS language: 
 `var list = new Array["Hello", "Hi" , "Bye"]`
 `document.write(list[0])`
 
