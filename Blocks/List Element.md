@@ -18,7 +18,7 @@ e.g. in JS language:
 
 In which it outputs "Hello" as hello is defined as variable `list` and it's index is `[0]`.
 
-*auto-generated index in all text script language always start with index 0.
+* auto-generated index in all text script language always start with index 0.
 
 ## Example
 
