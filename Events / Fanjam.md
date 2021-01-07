@@ -70,31 +70,31 @@ Submitted games will be judged in 4 different categories, each with different pr
 ### History 
 Year 2020:
 
-# Fanjam I
+## Fanjam I
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: ???
 
-# Fanjam II
+## Fanjam II
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: The More, The Worse
 
-# Fanjam III
+## Fanjam III
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: Control More than One
 
-# Fanjam IV
+## Fanjam IV
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: Control the Environment
 
-# Fanjam V
+## Fanjam V
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: Gap
 
-# Fanjam VI
+## Fanjam VI
 - Event Period: ??/??/2020 - ??/??/2020
 - Theme: Bad is Good
 
-# Fanjam VII
+## Fanjam VII
 - Event Period: 12/18/2020 - 1/6/2021
 - Theme: Christmas Special - Secret Santa
 Special Mechanics: 
