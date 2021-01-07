@@ -37,12 +37,12 @@ This marks the flag of the end of the current Fanjam. The long awaited (ofc) by 
 Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , and individually in each category that they won. (And also can you believe it a **<font color="25c43d">Fanjam</font>** role just literally for bragging rights , ~~lol~~).
 
 ## B.) Rules & Instructions
-> • Only one submission is allowed per user.
-• You are free to use Custom Script/Pre-built Assets but the vast majority of the code must be prepared within the designated 72 hours.
-• Feel free to depict the theme any way you like. It is advised to mention how you depict the theme in the in-app description of your game (not mandatory).
+> - Only one submission is allowed per user.
+> - You are free to use Custom Script/Pre-built Assets but the vast majority of the code must be prepared within the designated 72 hours.
+> - Feel free to depict the theme any way you like. It is advised to mention how you depict the theme in the in-app description of your game (not mandatory).
 
 > Submission
-> • Once you have your game ready for submission, you can do so by sharing a link to the game on #games.
-• Games made from scratch needs to have #full in the submission message.
-• Games made using kits needs to have #kits in the submission message.
-• You can update your submission as many times as you want before the end of the submission phase. Once submission phase ends updating will result in immediate disqualification.
+> - Once you have your game ready for submission, you can do so by sharing a link to the game on #games.
+> - Games made from scratch needs to have #full in the submission message.
+> - Games made using kits needs to have #kits in the submission message.
+> - You can update your submission as many times as you want before the end of the submission phase. Once submission phase ends updating will result in immediate disqualification.
