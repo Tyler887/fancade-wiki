@@ -66,3 +66,35 @@ Submitted games will be judged in 4 different categories, each with different pr
 > - Winner of each category will be given a FanJam Discord Role!
 
 *Now that you know all about Fanjam , do you think your ready for next Fanjam? see ya there and hopefully you can win!!
+
+### History 
+year 2020 :
+Fanjam I
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : ???
+
+- Fanjam II
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : ???
+
+- Fanjam III
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : ???
+
+- Fanjam IV
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : Control More than One
+
+- Fanjam V
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : Control the Environment
+
+- Fanjam VI
+- Event Period : ??/??/2020 - ??/??/2020
+- Theme : Gap
+
+- Fanjam VII
+- Event Period : 12/18/2020 - 1/6/2021
+- Theme : Christmas Special - Secret Santa
+- Special Mechanics:
+
