@@ -7,7 +7,7 @@ Sounak announces an upcoming Fanjam Including the set of rules about a week prio
 
 Fanjam consist of 3 phases:
 
-- 1.) Development Phase (3 days)
+- 1.) Development Phase/Submission Phase (3 days)
 - 2.) Voting Phase (3 days)
 - 3.) Announcing of Winners (End)
 
