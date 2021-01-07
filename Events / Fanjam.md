@@ -3,9 +3,9 @@ A fancade event that happens every 1 or 2 months , it is hosted in the Fancade D
 # Event Details
 
 ## A.) Mechanics
-Sounak announces an upcoming Fanjam Including the set of rules about a week prior to the event in the. 
+Sounak announces an upcoming Fanjam Including the set of rules about a week prior to the event. 
 
-Fanjam have 3 phases:
+Fanjam consist of 3 phases:
 
 - 1.) Development Phase (3 days)
 - 2.) Voting Phase (3 days)
