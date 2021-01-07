@@ -71,27 +71,27 @@ Submitted games will be judged in 4 different categories, each with different pr
 Year 2020:
 
 ## Fanjam I
-- Event Period: ??/??/2020 - ??/??/2020
-- Theme: ???
+- Event Period: 3/4/2020 - 3/12/2020
+- Theme: You Only Get One
 
 ## Fanjam II
-- Event Period: ??/??/2020 - ??/??/2020
+- Event Period: 4/1/2020 - 4/10/2020
 - Theme: The More, The Worse
 
 ## Fanjam III
-- Event Period: ??/??/2020 - ??/??/2020
+- Event Period: 5/4/2020 - 5/14/2020
 - Theme: Control More than One
 
 ## Fanjam IV
-- Event Period: ??/??/2020 - ??/??/2020
+- Event Period: 6/9/2020 - 6/18/2020
 - Theme: Control the Environment
 
 ## Fanjam V
-- Event Period: ??/??/2020 - ??/??/2020
+- Event Period: 7/31/2020 - 8/14/2020
 - Theme: Gap
 
 ## Fanjam VI
-- Event Period: ??/??/2020 - ??/??/2020
+- Event Period: 10/5/2020 - 10/16/2020
 - Theme: Bad is Good
 
 ## Fanjam VII
