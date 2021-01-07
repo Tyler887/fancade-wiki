@@ -6,7 +6,7 @@ The list basically is what you call in scripting language as "Array", but what r
 `var list = new Array["Hello", "Hi" , "Bye"]`
 `document.write(list[0])`
 
-In which in outputs "Hello" as hello is defined as variable `list` and its index is `[0]`.
+In which it outputs "Hello" as hello is defined as variable `list` and its index is `[0]`.
 
 *auto-generated index in all text script language always start with index 0.
 
