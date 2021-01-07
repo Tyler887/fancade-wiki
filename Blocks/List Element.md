@@ -7,7 +7,7 @@ Input:
 - Index: The Index of the element
 
 Output:
-- Elements: A dual purpose wire serves as **get variable** to output a value and as **set varible** to output a variable for [[Set Reference]]
+- Elements: A dual purpose wire serves as **get variable** to output a value and as **variable** for [[Set Reference]]
 
 ## Notes
 The list basically is what you call in scripting language as "Array", but what really is this array. An array is single variable which can contain multiple values , in then which of each value defined as "varible[index]" , normally index in real scripting is automatically generated depending on it's order.
