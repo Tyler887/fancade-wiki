@@ -15,8 +15,8 @@ Fanjam have 3 phases:
 During the start of the event , the 1st Phase , a selected theme is Announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days , until then player can still continue to build , add new features and publish/update their games as a valid submission.
 
  **To submit your game during a Fanjam event you must share your game in the Fancade Discord #games channel with the tags :**
-- **fanjam #kit** - for games made from game kits
-- **fanjam #full** - for games made from scratch (using custom scripts from other people's projects is still allowed)
+- ***fanjam #kit*** - for games made from game kits
+- ***fanjam #full*** - for games made from scratch (using custom scripts from other people's projects is still allowed)
  
 After its time period then a 1 day delay is placed , at the immediate end and during this delay , Sounak will anounce an Instructions for late submissions on how to gain consideration permission for their submissions. - Asking for permission can only be done for 30 mins. after the immediate end.
 
@@ -25,6 +25,16 @@ After this 2nd Phase will start , during this time all people in discord all the
 - To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot
 
 ### 3rd Phase (Announcing of Winners)
+This marks the flag of the end of the current Fanjam. The long awaited (ofc) by all participants , and that is ... to see their names in the boards. Fanjam has 4 categories with each having different set of winners ; Overall , Kits , Art , Innovation
+
+- Overall - only those with tag #full in their game can participate 
+- Kits - only those with tag ***#kit*** in their game can participate
+- Art - Best Arts in people's eyes , everyone can participate here
+- Innovation - The most Innovative in people's oppinion , everyone can participate here
+
+*Note: also each category only displays the top 3 winners
+
+Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , individually in each category they won. (And also a Fanjam role for bragging rights , ~~lol~~)
 
 ## B.) Rules
 Nothing for now will put something here later :p
