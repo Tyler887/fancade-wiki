@@ -10,13 +10,13 @@ Output:
 - Elements: A dual purpose wire serves as **get variable** to output a value and as **variable** for [[Set Reference]]
 
 ## Notes
-The list basically is what you call in scripting language as "Array", but what really is this array. An array is a single variable which can contain multiple values , in then which of each value is defined as "varible[index]" , normally index in real scripting is automatically generated depending on it's order.
+The list basically is what you call in scripting language as "Array", but what really is this array. An array is a single variable which can contain multiple values , in then which of each value is defined as "variable[index]" , normally index in real scripting is automatically generated depending on it's order.
 
 e.g. in JS language: 
 `var list = new Array["Hello", "Hi" , "Bye"]`
 `document.write(list[0])`
 
-In which it outputs "Hello" as hello is defined as variable `list` and it's index is `[0]`.
+In which it outputs "Hello" as `["Hello"]` is defined as variable `list` and it's index is `[0]`.
 
 * auto-generated index in all text script language always start with index 0.
 
