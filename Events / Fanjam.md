@@ -60,7 +60,7 @@ B. Best Kits - 60 Days of Fancade Premium.
 C. Best Art - 45 Days of Fancade Premium.
 D. Most Innovative - 45 Days of Fancade Premium.
 - Alongside these, 2nd Place winner of every category will get 15 Days Premium and 3rd Place winner of every category will get 7 Days Premium as a prize.
-
+> 
 > - Games made from scratch aren't eligible for Category B and games made using kits aren't eligible for Category A.
 - Prizes aren't additive. If one submission is eligible for more than one prize, the one with highest value will be awarded.
 - Winner of each category will be given a FanJam Discord Role!
