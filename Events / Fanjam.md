@@ -97,5 +97,5 @@ Year 2020 :
 # Fanjam VII
 - Event Period : 12/18/2020 - 1/6/2021
 - Theme : Christmas Special - Secret Santa
-- Special Mechanics:
+- Special Mechanics: ~~~
 
