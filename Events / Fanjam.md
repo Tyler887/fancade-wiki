@@ -21,11 +21,13 @@ During the start of the event , the 1st Phase , a selected theme is Announced. A
  
 After its time period then a 1 day delay is placed , at the immediate end and during this delay , Sounak will anounce an Instructions for late submissions on how to gain consideration permission for their submissions. - Asking for permission can only be done for 30 mins. after the immediate end.
 
-### 2nd Phase (Voting Phase)
+### 2nd Phase 
+### (Voting Phase)
 After this 2nd Phase will start , during this time all people in discord all the submission will be posted with their direct link , people can also then play , test play , look all they want in the submissions before voting or even if they're not voting.
 - To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot.
 
-### 3rd Phase (Announcing of Winners)
+### 3rd Phase 
+### (Announcing of Winners)
 This marks the flag of the end of the current Fanjam. The long awaited (ofc) by all participants , and that is ... to see their names in the boards. Fanjam has 4 categories with each having different set of winners ; Overall , Kits , Art , Innovation.
 
 - Overall - only those with tag #full in their game can participate 
