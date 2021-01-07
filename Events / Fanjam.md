@@ -22,19 +22,19 @@ After its time period then a 1 day delay is placed , at the immediate end and du
 
 ### 2nd Phase (Voting Phase)
 After this 2nd Phase will start , during this time all people in discord all the submission will be posted with their direct link , people can also then play , test play , look all they want in the submissions before voting or even if they're not voting.
-- To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot
+- To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot.
 
 ### 3rd Phase (Announcing of Winners)
-This marks the flag of the end of the current Fanjam. The long awaited (ofc) by all participants , and that is ... to see their names in the boards. Fanjam has 4 categories with each having different set of winners ; Overall , Kits , Art , Innovation
+This marks the flag of the end of the current Fanjam. The long awaited (ofc) by all participants , and that is ... to see their names in the boards. Fanjam has 4 categories with each having different set of winners ; Overall , Kits , Art , Innovation.
 
 - Overall - only those with tag #full in their game can participate 
 - Kits - only those with tag ***#kit*** in their game can participate
 - Art - Best Arts in people's eyes , everyone can participate here
 - Innovation - The most Innovative in people's oppinion , everyone can participate here
 
-*Note: also each category only displays the top 3 winners
+*Note: also each category only displays the top 3 winners.
 
-Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , individually in each category they won. (And also a Fanjam role for bragging rights , ~~lol~~)
+Additionally , Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3 , individually in each category they won. (And also a Fanjam role for bragging rights , ~~lol~~).
 
 ## B.) Rules
 Nothing for now will put something here later :p
