@@ -1,11 +1,3 @@
-# How to play
-
-TBA
-
-# Game objects
-
-TBA
-
 # Tips for levels 41-50
 
 **Level 41**
