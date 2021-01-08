@@ -3,7 +3,7 @@ Outputs the inverse of the input [[rotation]].
 [[/uploads/Inverse.png]]
 
 ## Details
-The inverse of a rotation is the rotation that, when [[combined|Combine]] with the origninal rotation, equals the identity rotation (0, 0, 0).
+The inverse of a rotation is the rotation that, when [[combined|Combine]] with the original rotation, equals the identity rotation (0, 0, 0).
 
 In math, the inverse of a value with respect to some operation is the value that "undoes" the operation.
 
