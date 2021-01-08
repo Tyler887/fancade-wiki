@@ -4,10 +4,10 @@ Gets a value stored in a list, with index starting from 0 (max 1,048,575). The o
 
 Input:
 - Variable: The variable for the list. It only accepts the output of a Get Variable, any output from a different block and the script won't plug.
-- Index: Every value in a list is assigned an index (think of it as an ID number). We plug an index to get value from the list with the same index.
+- Index: Every value in a list is assigned an index (think of it as an ID number). We plug an index to get value from the list with the assigned index.
 
 Output:
-- Elements: Outputs the vaue from the list with the index. It can also be used with [[Set Reference]] to set the value for that index.
+- Elements: Outputs the value from the list with the index. It can also be used with [[Set Reference]] to set the value for that index.
 
 ## Example
 
