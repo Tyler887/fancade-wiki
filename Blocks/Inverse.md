@@ -14,4 +14,4 @@ _Inverts the rotation of 3,9,5._
 
 ## Notes 
 
-Due to some ***mathematical*** issues the rotation value seems  to be innacurate , but don't worry it's just normal and it doesn't affect any things about the rotation.
+Due to some ***mathematical*** issues the rotation value seems  to be innacurate , but don't worry it's just normal and it doesn't affect any things about the rotation!
