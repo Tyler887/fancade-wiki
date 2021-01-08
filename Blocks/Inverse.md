@@ -1,20 +1,15 @@
-Inverses a [[rotation]] value similarly on how [[negate]] works.
+Outputs the inverse of the input [[rotation]].
 
 [[/uploads/Inverse.png]]
 
-Input:
-- Rot : Rotation value
+## Details
+The inverse of a rotation is the rotation that, when [[combined|Combine]] with the origninal rotation, equals the identity rotation (0, 0, 0).
 
-Output:
-- Rot Inverse : the inversed rotation
+In math, the inverse of a value with respect to some operation is the value that "undoes" the operation.
 
+For example, the additive inverse of `5` is `-5`, since `5 + -5 = 0`. If you add 5, then subtract 5, you get back the original value.
 
-## Notes 
+The multiplicative inverse of `5` is `1/5`, since `5 * 1/5 = 1`. If you multiply by 5, then divide by 5, you get back the original value.
 
-Due to some ***mathematical*** issues the rotation value seems  to be innacurate , but don't worry it's just normal and it doesn't affect any things about the rotation!
-
-## Example
-[[uploads/IMG_20210106_144937.png]]
-
-_Inverts the rotation of 3,9,5._
+The same applies to rotations. The inverse of a rotation can be used to "undo" that rotation. If you combine with a rotation, then combine that with the rotation's inverse, you get back the original rotation. Normally, the inverse of a rotation on it's own is not useful, and is usually combined with another rotation.
 
