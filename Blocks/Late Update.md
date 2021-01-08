@@ -13,4 +13,4 @@ Late update runs *after physics* , what does it mean?? ..... In a level a set of
 - Physics
 - Late Update 
 
-And that is what it means ... Late Update will run after scripts and physics functions and is useful to control some unwanted things after physics have ran.
+And that is what it means! ... Late Update will run after scripts and physics functions and is useful to control some unwanted things after physics have ran.
