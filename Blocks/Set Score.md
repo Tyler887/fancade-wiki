@@ -11,5 +11,10 @@ You also can provide time score, just make sure that the input is a total amount
 * Longest Time: the longer the better
 
 Setting a negative score removes the score.
+[[/uploads/Setscore.png]] 
 
-[[/uploads/Setscore.png]]
+Example: 
+
+[[/uploads/IMG_20210108_143008.png]]
+
+_Touching the screen gives you 30 points._
