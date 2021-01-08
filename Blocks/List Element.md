@@ -1,24 +1,13 @@
-Gets a value stored in a list, with index starting from 0 (max 1,048,575). The output can also wired to [[Set Reference]] to store a value in a list.
+Gets a value stored in a list, with index starting from 0 (max 1,048,575). The output can also wired to [[Set Reference]] to store a value in a list. It's what you call an "Array" in other programming language.
 
 [[/uploads/Listelement.png]]
 
 Input:
-- Variable
-- Index: The Index of the element
+- Variable: The variable for the list. It only accepts the output of a Get Variable, any output from a different block and the script won't plug.
+- Index: Every value in a list is assigned an index (think of it as an ID number). We plug a index to get value from the list with the same index.
 
 Output:
-- Elements: A dual purpose wire serves as **get variable** to output a value and as **variable** for [[Set Reference]]
-
-## Notes
-The list basically is what you call in scripting language as "Array", but what really is this array. An array is a single variable which can contain multiple values , in then which of each value is defined as "variable[index]" , normally index in real scripting is automatically generated depending on it's order.
-
-e.g. in JS language: 
-`var list = new Array["Hello", "Hi" , "Bye"]`
-`document.write(list[0])`
-
-In which it outputs "Hello" as `["Hello"]` is defined as variable `list` and it's index is `[0]`.
-
-* auto-generated index in all text script language always start with index 0.
+- Elements: Outputs the vaue from the list with the index. It can also be used with [[Set Reference]] to set the value for that index.
 
 ## Example
 
