@@ -2,11 +2,11 @@ Inverses a [[rotation]] value similarly on how [[negate]] works.
 
 [[/uploads/Inverse.png]]
 
-Inputs:
-Rot : Rotation value
+Input:
+- Rot : Rotation value
 
-Outputs:
-Rot Inverse : the inversed rotation
+Output:
+- Rot Inverse : the inversed rotation
 
 
 ## Notes 
