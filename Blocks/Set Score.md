@@ -13,7 +13,7 @@ You also can provide time score, just make sure that the input is a total amount
 Setting a negative score removes the score.
 [[/uploads/Setscore.png]] 
 
-Example: 
+## Example 
 
 [[/uploads/IMG_20210108_143008.png]]
 
