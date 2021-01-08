@@ -8,6 +8,7 @@ Rot : Rotation value
 Outputs:
 Rot Inverse : the inversed rotation
 
+e.g.
 [[uploads/IMG_20210106_144937.png]]
 
 _Inverts the rotation of 3,9,5._
