@@ -6,4 +6,4 @@ Example:
 
 [[/uploads/IMG_20210108_141801.png]]
 
-_Sets the grass block's visibility to `False`._
+_Sets the grass block's visibility to `False`.(AKA invisible)_
