@@ -11,5 +11,7 @@ For example, the additive inverse of `5` is `-5`, since `5 + -5 = 0`. If you add
 
 The multiplicative inverse of `5` is `1/5`, since `5 * 1/5 = 1`. If you multiply by 5, then divide by 5, you get back the original value.
 
-The same applies to rotations. The inverse of a rotation can be used to "undo" that rotation. If you combine with a rotation, then combine that with the rotation's inverse, you get back the original rotation. Normally, the inverse of a rotation on it's own is not useful, and is usually combined with another rotation.
+The same applies to rotations. The inverse of a rotation can be used to "undo" that rotation. If you combine with a rotation, then combine that with the rotation's inverse, you get back the original rotation. 
+
+Normally, the inverse of a rotation on it's own is not useful, and is usually combined with another rotation.
 
