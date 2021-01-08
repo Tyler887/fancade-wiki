@@ -1,4 +1,4 @@
-Inverses a rotation value similarly on how [[negate]] works.
+Inverses a [[rotation]] value similarly on how [[negate]] works.
 
 [[/uploads/Inverse.png]]
 
