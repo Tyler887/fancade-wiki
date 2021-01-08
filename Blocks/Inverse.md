@@ -1,14 +1,17 @@
-If the input rotates 45 degrees around X then the output will rotate -45 degrees.
+Inverses a rotation value similarly on how [[negate]] works.
 
 [[/uploads/Inverse.png]]
 
 Inputs:
-Normal Rotation
+Rot : Rotation value
 
 Outputs:
-Inverse Rotation
+Rot Inverse : the inversed rotation
 
-Example:
 [[uploads/IMG_20210106_144937.png]]
 
 _Inverts the rotation of 3,9,5._
+
+## Notes 
+
+Due to some ***mathematical*** issues the rotation value seems  to be innacurate but don't worry it's just normal and it doesn't affect any things about the rotation.
