@@ -8,6 +8,8 @@ Input :
 Output :
 - Rot Inverse : the inverse of the rotation
 
+
+
 ## Details
 The inverse of a rotation is the rotation that, when [[combined|Combine]] with the original rotation, equals the identity rotation (0, 0, 0).
 
