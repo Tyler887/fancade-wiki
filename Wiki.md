@@ -14,18 +14,18 @@ Before creating a brand-new wiki page, please make sure that:
 
 * The same page with a different name doesn't already exist
 * The page you are about to make is really necessary
-  * e. g. a whole page about a tiny barely noticeable pixel on log block top texture won't add any value to the wiki, thus unnecessary and shouldn't be created
+  * e.g. a whole page about a tiny barely noticeable pixel on log block top texture won't add any value to the wiki, thus unnecessary and shouldn't be created
 * It won't make more sense if you put the information of the future page into an existing one
 
 ## Write about Fancade
 
-If you want to add a new piece of information to the site, it's always much appreciated! But the info you're adding should not be about your cat's favorute kind of meat or anything else --- it should be about Fancade.
+If you want to add a new piece of information to the site, it's always much appreciated! But the info you're adding should not be about your cat's favorite kind of meat or anything else --- it should be about Fancade.
 
 ## Don't leave articles in WIP state
 
 Don't save unfinished edits.
 
-If you're not done yet but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will promt you to recover it when you begin editing again).
+If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will prompt you to recover it when you begin editing again).
 
 ## Don't leave unanswered questions
 
@@ -43,7 +43,7 @@ Humor is good and all but try to avoid it when writing content. Wiki is intended
 
 ## Don't save right away
 
-Please look through the page several times before saving your edit in case you forgot to put a comma somewhere or made a typo. It's way better to include all typo, puntuational and other fixes into the main edit than save every fix as a separate edit.
+Please look through the page several times before saving your edit in case you forgot to put a comma somewhere or made a typo. It's way better to include all typo and punctuation fixes into the main edit than save every fix as a separate edit.
 
 # How-to
 
@@ -61,7 +61,7 @@ Now you can write a Wiki page! After you have written it all, click "Preview" to
 
 ## Style a page
 
-The Wiki supports the formatting syntax called "Markdown". You can easily *emphasis* **text**, make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
+The Wiki supports the formatting syntax called "Markdown". You can easily *emphasize* **text**, make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
 
 ### Basics
 
