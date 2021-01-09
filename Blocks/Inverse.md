@@ -2,6 +2,12 @@ Outputs the inverse of the input [[rotation]].
 
 [[/uploads/Inverse.png]]
 
+Input :
+- Rot : rotation value
+
+Output :
+- Rot Inverse : the inverse of the rotation
+
 ## Details
 The inverse of a rotation is the rotation that, when [[combined|Combine]] with the original rotation, equals the identity rotation (0, 0, 0).
 
