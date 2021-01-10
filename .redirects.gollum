@@ -21,3 +21,4 @@ TestPage.md: DeleteMe.md
 Events / Fanjam.md: Events /FanJam.md
 Events /FanJam.md: Events /Events/FanJam.md
 Events /Events/FanJam.md: Events/FanJam.md
+Blocks/Variable.md: Blocks/Get Variable.md
