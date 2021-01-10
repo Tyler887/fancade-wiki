@@ -10,12 +10,10 @@ Let's say we want to recreate the [[Increase Number]] block.
 
 [[/uploads/Screenshot_20210110-134113_Fancade.jpg]]
 
-We have the increased number, now we have to set that value to the input variable, but how? Using a Set Variable is out of the picture.
+We have the increased number, now we have to set that value to the input variable, but how?
 
-Using a Set Reference is another way to set a variable. This time, you can use a Get Variable instead of a Set Variable. You won't often use it since using the Set Variable is more optimal, but it helps with custom script blocks that modify the input variable.
+The Set Reference block was the originally how we set variables, until the Set Variable with only a value input was added, which is limited but more convenient and optimal. But Set Reference can be used for custom script blocks that modify input variables.
 
 [[/uploads/Screenshot_20210110-135616_Fancade.jpg]]
-
-Note that you have to plug the Set Reference block to input first before any other plug. Otherwise, the Set Reference block won't plug to input at the same spot with the other plug.
 
 [[/uploads/Screenshot_20210110-135813_Fancade.jpg]]
