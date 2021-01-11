@@ -41,10 +41,6 @@ Those who can answer your question will rarely visit the page, so you will end u
 
 Humor is good and all but try to avoid it when writing content. Wiki is intended to help readers learn new information about Fancade and too much humor doesn't make it better (if not worse).
 
-## Don't save right away
-
-Please look through the page several times before saving your edit in case you forgot to put a comma somewhere or made a typo. It's way better to include all typo and punctuation fixes into the main edit than save every fix as a separate edit.
-
 # How-to
 
 Want to help but have no idea how it's done? Read further to learn how to format text and create new pages.
