@@ -6,7 +6,7 @@ You can get/output the value from a variable with the same name using the [[Get 
 
 [[/uploads/Screenshot_20210110-203324_Fancade.jpg]]
 
-## Globals
+### Globals
 
 Let's say you have a script inside a block that sets a variable to 1. And you have a script outside of the block to inspect that variable.
 
