@@ -7,8 +7,8 @@ The Cross Product calculates the cross product of the two input vectors, and out
 The Cross Product is a way of multiplying two vectors together. 
 We can calculate the Cross Product of two vectors this way, let's say that the cross product of A and B is vector C:
 
-Cx = Ay × Bx - Az × By
-Cy = Az × Bx - Ax × Bz
+Cx = Ay × Bx - Az × By\
+Cy = Az × Bx - Ax × Bz\
 Cz = Ax × By - Ay × Bx
 
 It outputs the vector that is perpendicular to both input vectors (or the plane spanned by those two vectors).
