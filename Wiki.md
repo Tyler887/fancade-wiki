@@ -89,6 +89,8 @@ To insert an existing image, you wrap the image path/URL in square brackets (lik
 
 ```[[uploads/image.jpg]]```
 
+You can also upload an image by clicking "Upload" button in edit mode.
+
 ## Delete a page
 
 Deleting a page is possible, but restricted. Ping one of the Fanmods on the Discord server and suggest the deletion to them.
