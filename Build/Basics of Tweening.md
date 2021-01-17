@@ -1,6 +1,6 @@
 Suppose, you need to move an object from point A to point B. You'll have to find the point between the two each frame of the transition, meaning you'll need to store the phase of the transition in a variable. Let's call it Tween. Tween will vary from 0 to 1, increasing each frame. Then Tween will be used in a simple vector Interpolation (for more information, [check this article](https://www.fancade.com/wiki/Blocks/LERP.md)). Let's take a look:
 
-[[/uploads/photo_2021-01-17_10-49-05.jpg]]
+[[/uploads/tween_example.jpg]]
 
 Works fine, but if you'll take a closer look, you'll notice that the movement is rough. Notice that there's a variable called Int, and it's set to Tween, suggesting that the interpolation is linear.
 
