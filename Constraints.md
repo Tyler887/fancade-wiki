@@ -1,6 +1,4 @@
-Constraints Explained:
+### I don't understand constraints, help!
+Think of constraints as invisible rods that connect two objects together, one end of the "rod" is at the position of the "Part" object and the other end is at the "Pivot" position. The [[linear limits]] defines how much the "rod" can strech in each direction and the [[angular limits]] defines how much the "rod" can rotate in each direction. You can also use [[linear spring]] and [[angular spring]] to make the "rod" into a spring or you may use [[linear motor]] and [[angular motor]] to move and rotate the "rod".
 
-Use this to create a physics constraint between 2 objects. The 'Base' will not have physics enable unless it is enabled in script somewhere else or it is a physics block. The part will have physics enabled on it when the constraint is created. The pivot point is the position where the constraint connects the two objects. By default, if you leave it blank, the pivot will be set to the position of the 'part' object. By default, physics constraints have linear and angular limits locked.
-
-# Types
-There are different types of constraints. There is angular motor, which makes the part rotate around the base. Linear motor makes the part move in the given direction. Angular spring is like angular motor, but it bounces if it hits something. Linear spring is like linear motor, but more bouncy.
+Note that if the "Base" object has physics enabled the pivot will always be at its position and the "rod" will share the object's rotation.
