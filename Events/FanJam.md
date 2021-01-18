@@ -37,7 +37,7 @@ This marks the flag of the end of the current FanJam. The long awaited (ofc) by 
 
 *Note: also each category only displays the top 3 winners.
 
-Additionally, Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3, winning multiple categories only gives you a the reward you won with the highest prize. (And also can you believe it a **<font color="25c43d">Fanjam</font>** role just literally for bragging rights, ~~lol~~).
+Additionally, Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3, winning multiple categories only gives you a the reward you won with the highest prize. (And also can you believe it a **<font color="2ecc71">Fanjam</font>** role just literally for bragging rights, ~~lol~~).
 
 ## B.) Rules & Instructions
 This is more like a quick summary of ***Mechanics***.
@@ -68,7 +68,7 @@ Submitted games will be judged in 4 different categories, each with different pr
 *Now that you know all about Fanjam, do you think your ready for next Fanjam? see ya there and hopefully you can win!!
 
 ### History 
-Year 2020:
+# 2020
 
 ## FanJam I
 - Event Period: 3/4/2020 - 3/12/2020
