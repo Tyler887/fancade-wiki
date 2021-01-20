@@ -1,16 +1,21 @@
-The Late Update block will execute scripts _after_ physics.
-
-Since physics will change the position of objects after scripts have run, which is sometimes unwanted, it can be useful to instead run the physics first. This ensures that your scripts are working with the updated positions of the objects.
+Late Update executes scripts _after_ the physics simulation.
 
 [[/uploads/Late Update.png]]
 
+Outputs:
+- After Physics: The scripts you want to run after physics.
+
 ## Notes 
 
-Late Update isn't a delay block , most people mistake it as a delay block , but what really is the the use of this block if it seems to not do anything?
+- Each frame Fancade does the following:
+    1. Run scripts
+    2. Simulate physics
+    3. Run Late Update scripts
+- If you want to delay execution for _multiple_ frames, check out the example in [[Decrease Number]].
 
-Late update runs *after physics* , what does it mean?? ..... In a level a set of function runs in this order :
-- Scripts
-- Physics
-- Late Update 
+## Examples
 
-And that is what it means! ... Late Update will run after scripts and physics functions and is useful to control some unwanted things after physics have ran.
+1. Position an object exactly "glued to" a physics object
+2. Initialize blocks after they've all added themselves to a list
+
+TODO: Actual script examples of the above.
