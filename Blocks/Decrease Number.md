@@ -7,7 +7,7 @@ Inputs:
 
 # Notes
 
-Decrease will work with a [[List Element]] input as well!
+- Decrease will work with a [[List Element]] input as well!
 
 # Examples
 
