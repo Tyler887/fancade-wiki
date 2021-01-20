@@ -5,11 +5,11 @@ Decreases the input variable by 1.
 Inputs:
 - Variable: The number variable to decrease by 1
 
-# Notes
+## Notes
 
 - Decrease will work with a [[List Element]] input as well!
 
-# Examples
+## Examples
 
 Here's how you might script a simple delay:
 
