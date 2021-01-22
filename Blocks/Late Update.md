@@ -15,7 +15,10 @@ Outputs:
 
 ## Examples
 
-1. Position an object exactly "glued to" a physics object
-2. Initialize blocks after they've all added themselves to a list
+A. Position an object exactly "glued to" a physics object
+B. Initialize blocks after they've all added themselves to a list
 
 TODO: Actual script examples of the above.
+
+example-A.
+[[Uploads/Late_Update(ExampleA).mp4]]
