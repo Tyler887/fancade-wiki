@@ -20,5 +20,4 @@ B. Initialize blocks after they've all added themselves to a list
 
 TODO: Actual script examples of the above.
 
-example-A
-[[Uploads/Late_Update(Example-A).mp4]]
+example-A.
