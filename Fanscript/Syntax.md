@@ -32,3 +32,5 @@ List<Vector>[0] Positions = (32.1, 5.51, -23.72)
 # to access a list
 Number.Inspect(List<Number>[2])
 ```
+
+Here is [[Martin Magni]]'s Shepherd game script turned into Fanscript.
