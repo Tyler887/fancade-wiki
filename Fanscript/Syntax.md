@@ -1,4 +1,4 @@
-Ever wondered how Fanscript would look in text format? Well, you can see them all in the /Fanscript directory.
+Ever wondered how Fanscript would look in text format? Well, you can see all references in this directory!
 
 ## Examples
 Values consist of:
