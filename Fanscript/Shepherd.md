@@ -1,6 +1,6 @@
 Here is [[Martin Magni]]'s game in text format.
 
-```
+```coffeescript
 # Init
 Object $Herder = MyBlocks.Herder
 Object Sheep = MyBlocks.Sheep
