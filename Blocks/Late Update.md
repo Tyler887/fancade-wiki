@@ -16,9 +16,6 @@ Outputs:
 ## Examples
 
 A. Position an object exactly "glued to" a physics object
-[[uploads/Late_Update_example-A.png]]
-- without late update a physics object with a set position floating mid-air will start to fall slowly but with late update the position is stabilized.
-
 B. Initialize blocks after they've all added themselves to a list
 
 TODO: Actual script examples of the above.
