@@ -29,8 +29,7 @@ Basic Math Operators
 
 Control
 
-## 
-
+## _
 ***if***
 ```
 • If (condition) { function } else { function } ;
@@ -44,7 +43,7 @@ Control
 
 
 
-## 
+## _
 ***Loop***
 ```
 • Loop[ start , end ]( ) 
