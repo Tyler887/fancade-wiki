@@ -158,41 +158,52 @@ Control
 
 ## _____________________________
 ***Scale & Rotate***
+```
 •  Vec[ ] * Num 
 • Math.Rotate[ Vec[ ] * Rot[ ] ]
-
+```
 ## _____________________________
 ***Break and Create Vec/Rot***
+```
 • Math.Break[ Vec[ ] ]
-or
+```
+**or**
+```
 • vec[ x ] , vec[ y ] , vec[ z ]
 • Math.Create[ NumX , NumY , NumZ ]
-
+```
 ## _____________________________
 ***Dot & Cross Product***
+```
 • Vec[ ] ° Vec[ ] // Dot Product
 • Vec[ ] • Vec[ ] // Cross Product
-
+```
 ## _____________________________
 ***Min & Max***
+```
 • Math.Min[ a , b ]
 • Math.Max[ a , b ]
-
+```
 ## _____________________________
 ***Round , Floor & Ceil***
+```
 • Math.Round[ Num ]
 • Math.Floor[ Num ]
 • Math.Ceil[ Num ]
-
+```
 ## _____________________________
 ***Sin & Cos***
+```
 • Math.Sine[ Num ]
 • Math.Cos[ Num ]
-
+```
 ## _____________________________
-***Distance**"
+***Distance***
+```
 • Math.Distance[ VecA[ ] , VecN[ ] ]
-
+```
 ## _____________________________
 ***LERP***
+```
 • Math.LERP[ From , To , Amount ]
+```
