@@ -25,3 +25,21 @@ To create variables simply type:
 And to initialize:
 `Datatype variableName = value`
 
+For the lists here is an example:
+```coffeescript
+PlaySensor() {
+    Object landmine = MyBlocks.LM
+    List<Object>[Number $LM] $LM = landmine
+    List<Vector>[Number $LM] $LM = Objects.GetPosition(landmine)
+    Number $LM++
+}
+```
+
+To access values inside a list:
+```coffeescript
+Loop(0, $landmines) {
+Number I = this.currentIndex
+Vector landminePositions = List<Vector>[Number I] $LM
+}
+```
+
