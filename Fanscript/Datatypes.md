@@ -1,6 +1,6 @@
 In Fancade we have a total of 7 datatypes. These datatypes are Number, Vector, Rotation, Truth, Object, Constraint, and List.
 
-The `Number`type can be either a whole number or in decimals, in the programming world we call these "int" and "float/double".
+The number type can be either a whole number or in decimals, in the programming world we call these "int" and "float/double".
 
 Here are some examples:
 ```coffeescript
