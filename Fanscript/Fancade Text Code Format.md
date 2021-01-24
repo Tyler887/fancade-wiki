@@ -6,209 +6,266 @@ A Pseudo-Coding Language Format Developed by (**@Isaglish** , me **@JP16D** , **
 This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing in fancade , screenshot it and share it to them.
 
 Here is the documentation of what we have done so far ...
+
+### Introduction
+This format is based on C# syntax. Most of things are simplified for the better understanding.
+
+As you know, Fancade's script blocks are located in different folders. To make it easier to understand, what do you mean, use their names as in the example below. It's not necessary and takes such a time to write, but please pay attention to it when you're explaining script to the new user or there are namesake custom blocks.
+
+Following the C# syntax, let's imagine that each folder is a separate class with its own fields and functions. So, to represent Get Frame block, you need to type `Game.Current_Frame`. Again, it's not necessary, just `Current_Frame` is fine too.
+
+All the cases:
+```
+//If block has yellow wires, add () at the end of the name
+Game.Win();
+Sound.Play_Sound();
+
+//If block has inputs, count them and their type in the brackets
+Objects.Set_Position(obj object, vec position, rot rotation);
+
+//If block has more than one output. Get position as example
+Objects.Get_Position(target_object).position;
+
+//Math block counts like this, except the basic ones listed below
+vec result = Math.Line_vs_Plane(L_from, L_to, P_normal, P_point);
+
+//If block has only outputs, don't do anything
+num frame = Game.Get_Frame;
+}
+```
+
 ## _______________________________________________________________
 ### Basics
 ## _____________________________
  **Value Types** :
 ```
-• Num varName = 0 ; //NaN ~ Integers ~ Inf
-• Tru varName = 0 ; //boolean either 0 or 1 only
-• Vec varName[x , y , z] ;
-• Rot varName[x , y , z] ;
-• Obj varName = Obj ; 
+Num varName = 0;
+Tru varName = true/false;
+Vec varName(x , y , z);
+Rot varName(x , y , z);
+Obj varName = Object; 
+
+//Any variable can be used as list. Format: varName[index]
 ```
 ## _____________________________
 ### Basic Math Operators
 
-- Add      - ( + )
-- Subtract - ( - )
-- Divide   - ( / or ÷ )
-- Multiply - ( * or × )
-- Power    - ( ^ )
-- Modulo   - ( % )
+```
+//Add Numbers
+2 + 2
 
+//Subtract Numbers
+2 - 2
 
+//Multiply Numbers
+2 * 2
 
+//Divide Numbers
+2 / 2
+
+//Power
+2 ^ 2
+
+//Modulo
+2 % 2
+
+//Increase
+num++
+
+//Decrease
+num--
+```
+## _____________________________
+### Basic Boolean Operators
+```
+//Boolean logic (AND, OR, NOT)
+
+tru smart = ((NOT dumb) AND (has_brain)) OR already_smart;
+
+//Math (Greater, Less, Equal)
+
+tru equal = a == b;
+
+tru greater = a > b;
+
+tru less = a < b;
+```
+
+## _______________________________________________________________
+### Game
+```
+Game.Win();
+
+Game.Lose();
+
+Game.Set_Score(num Score);
+
+Game.Set_Camera(vec Position, rot Rotation, num Distance);
+
+Game.Set_Light(vec Position, rot Rotation);
+
+Game.Screen_Size.x
+Game.Screen_Size.y
+
+Game.Accelerometer
+
+Game.Current_Frame
+```
+
+## _______________________________________________________________
+### Objects
+```
+Objects.Get_Position(obj).Position
+Objects.Get_Position(obj).Rotation
+
+Objects.Set_Position(obj Object, vec position, rot Rotation);
+
+//alternative
+//get
+vec = obj.position;
+//set
+obj.position = vec;
+
+Objects.Raycast(vec, vec).Hit?
+Objects.Raycast(vec, vec).Hit_Pos
+Objects.Raycast(vec, vec).Hit_Obj
+
+Objects.Get_Size(obj Object).Min
+Objects.Get_Size(obj Object).Max
+
+//alternative
+vec = obj.size.min;
+
+Objects.Create_Object(obj Object);
+
+Objects.Destroy_Object(obj Object);
+```
+
+## _______________________________________________________________
+### Sound
+```
+Sound.Play_Sound(num Volume, num Pitch);
+Sound.Play_Sound.Channel
+
+Sound.Stop_Channel(num Channel);
+
+Sound.Volume_Pitch(num Channel, num Volume, num Pitch);
+```
+
+## _______________________________________________________________
+### Physics
+```
+//I regret doing this, sorry
+```
 
 
 ## _______________________________________________________________
 ### Control
+```
+//Basic if operator
+If (condition) { 
+    function_true;
+} else { 
+    function_false;
+}
 
-## _____________________________
-***if***
-```
-• If (condition) { function } else { function } ;
-```
- **or**
-```
-• condition ? function : function ; /* This is a secondary method of conditional if in JS language Idk if there are also other languages that is using this method of conditional if */
-```
+//Or ternary
+condition ? true : false; 
+//Note: Fancade doesn't have ternary operator at the moment of writing. This is just a shortcut for scripting discussions
 
+Loop(num start = 0, num end = 0) {
+    //Output
+    self.Counter
+}
 
+Touch_Sensor() { 
+    //Outputs
+    self.Screen_X
+    self.Screen_Y
+}
 
+Collision(obj Physical_Object) {
+    //Outputs
+    self.Second_Object
+    self.Normal
+    self.Impulse
+}
 
+Swipe_Sensor() {
+    //Output
+    self.Direction
+}
 
-## _____________________________
-***Loop***
-```
-• Loop[ start , end ]( ) 
-{ function ; return ( counter ) ; } ;
-```
-**or**
-```
-• Num start = 0 ;
-  While (start < end) { start++ , function } ; 
-  /*this is loop in a nutshell :D , joke this is the manual loop*/
-```
-## _____________________________
-***Touch Sensor***
-```
-• Touch[ mode , touch ]( ) 
-{ function ; return ( x , y ) ; } ;
-```
-## _____________________________
-***Collision***
-```
-• Collide[ Obj ]( )
-{ function ; return ( Impulse , Normal , Hit Obj ) ; } ;
-```
-## _____________________________
-***Swipe***
-```
-• Swipe( ) { function ; return ( x , y , z ) ; } ;
-```
-## _____________________________
-***Box Art***
-```
-• BoxArt( ) { function } ;
-```
-## _____________________________
-***Play Sensor***
-```
-• PlaySensor( ) { function } ;
-```
-## _____________________________
-***Late Update***
-```
-• LateUpdate( ) { function } ;
-```
+BoxArt() {
+}
 
-## _____________________________
-### Basic Boolean Operators
-- Greater Than - ( > )
-- Less Than    - ( < )
-- Equal        - ( == )
-- AND          - ( && )
-- OR           - ( \|\| )
-- Not          - ( ! )
+PlaySensor() {
+}
+
+LateUpdate() {
+}
+```
 
 ## _______________________________________________________________
-### Object
-## _____________________________
-***Set Position***
+### Math
 ```
-• SetPos( Obj , Position[ ] , Rotation[ ] ) ;
-```
-## _____________________________
-***Raycast***
-```
-• Raycast( From[ ] , To[ ] )
- { return ( Hit , Hit Pos[ ] , Hit Obj ) ; } ;
- ```
-## _____________________________
-***Get Position***
-```
-• GetPos( ) { return ( Position[ ] , Rotation[ ] ) ; } ;
-```
-## _____________________________
-***Get Size***
-```
-• GetSize( ) { return ( max size[ ] , min size[ ] ) ; } ;
-```
-## _____________________________
-***Create Object***
-```
-• Object.Create( Obj ) ;
-```
-## _____________________________
-***Destroy Object***
-```
-• Object.Destroy( Obj ) ;
-```
-## _____________________________
-***Set Visible***
-```
-• Object.Visible( Obj , Visible ) ;
-```
+Math.Negate(num Num)
 
+Math.Inverse(rot Rot)
 
+vec.Scale(num Num)
 
+vec.Rotate(rot Rot)
 
+rot.Combine(rot Rot2)
 
-## _______________________________________________________________
-### Advanced
-## _____________________________
-***List Set Element***
-```
-• Num varName[ index ] = 0 ;
-• Vec varName[ index ] = [ x , y , z ] ;
-```
-***List Get Element***
-```
-• varName[ index ] 
-• varName[ [ x , y , z [ index ] ]
-```
-## _______________________________________________________________
-### Advanced Math Functions
+Math.Random(num Min = 0, num Max = 1)
 
-## _____________________________
-***Scale & Rotate***
-```
-•  Vec[ ] * Num 
-• Math.Rotate[ Vec[ ] * Rot[ ] ]
-```
-## _____________________________
-***Break and Create Vec/Rot***
-```
-• Math.Break[ Vec[ ] ]
-```
-**or**
-```
-• vec[ x ] , vec[ y ] , vec[ z ]
-• Math.Create[ NumX , NumY , NumZ ]
-```
-## _____________________________
-***Dot & Cross Product***
-```
-• Vec[ ] ° Vec[ ] // Dot Product
-• Vec[ ] • Vec[ ] // Cross Product
-```
-## _____________________________
-***Min & Max***
-```
-• Math.Min[ a , b ]
-• Math.Max[ a , b ]
-```
-## _____________________________
-***Round , Floor & Ceil***
-```
-• Math.Round[ Num ]
-• Math.Floor[ Num ]
-• Math.Ceil[ Num ]
-```
-## _____________________________
-***Sin & Cos***
-```
-• Math.Sine[ Num ]
-• Math.Cos[ Num ]
-```
-## _____________________________
-***Distance***
-```
-• Math.Distance[ A[ ] , B[ ] ]
-```
-## _____________________________
-***LERP***
-```
-• Math.LERP[ From , To , Amount ]
+Math.Random_Seed(num Seed);
+
+Math.Min(num Num1, num Num2)
+
+Math.Max(num Num1, num Num2)
+
+Math.Sin(num Num)
+
+Math.Cos(num Num)
+
+Math.Round(num Num)
+
+Math.Floor(num Num)
+
+Math.Ceiling(num Num)
+
+Math.Absolute(num Num)
+
+Math.Logarithm(num Number, num Base)
+
+num vec.x
+num vec.y
+num vec.z
+
+vec.Normalize
+
+vec.Dot(vec Vector)
+
+vec.Cross(vec Vector)
+
+num rot.x
+num rot.y
+num rot.z
+
+Math.Distance(vec Vec1, vec Vec2)
+
+LERP(rot From, rot To, num Amount)
+
+Math.Axis_Angle(vec Axis, num Angle)
+
+Math.Screen_To_World(num Screen_X, num Screen_Y)
+
+Math.World_To_Screen(vec World_Pos)
+
+Math.Line_vs_Plane(vec Line_From, vec Line_To, vec Plane_Point, vec Plane_Normal)
+
+Math.Look_Rotation(vec Direction, vec Up)
 ```
