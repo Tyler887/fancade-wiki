@@ -49,7 +49,8 @@ Loop
 { function ; return ( counter ) ; } ;
 ```
 or
-```• Num start = 0 ;
+```
+• Num start = 0 ;
   While (start < end) { start++ , function } ; 
   /*this is loop in a nutshell :D , joke this is the manual loop*/
 ```
