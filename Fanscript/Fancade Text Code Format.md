@@ -96,7 +96,7 @@ Control
 - Less Than    - (<)
 - Equal        - (==)
 - AND          - (&&)
-- OR           - (\||)
+- OR           - (\|\|)
 - Not          - (!)
 
 ### Object
