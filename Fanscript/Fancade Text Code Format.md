@@ -154,40 +154,45 @@ Control
 • varName[ index ] 
 • varName[ [ x , y , z [ index ] ]
 ```
-Advanced Math Functions
+### Advanced Math Functions
 
-Scale & Rotate
+## _____________________________
+***Scale & Rotate***
 •  Vec[ ] * Num 
 • Math.Rotate[ Vec[ ] * Rot[ ] ]
 
-
-Break and Create Vec/Rot
+## _____________________________
+***Break and Create Vec/Rot***
 • Math.Break[ Vec[ ] ]
 or
 • vec[ x ] , vec[ y ] , vec[ z ]
 • Math.Create[ NumX , NumY , NumZ ]
 
-Dot & Cross Product
+## _____________________________
+***Dot & Cross Product***
 • Vec[ ] ° Vec[ ] // Dot Product
 • Vec[ ] • Vec[ ] // Cross Product
 
-Min & Max
+## _____________________________
+***Min & Max***
 • Math.Min[ a , b ]
 • Math.Max[ a , b ]
 
-
-
-Round , Floor & Ceil
+## _____________________________
+***Round , Floor & Ceil***
 • Math.Round[ Num ]
 • Math.Floor[ Num ]
 • Math.Ceil[ Num ]
 
-Sin & Cos
+## _____________________________
+***Sin & Cos***
 • Math.Sine[ Num ]
 • Math.Cos[ Num ]
 
-Distance
+## _____________________________
+***Distance**"
 • Math.Distance[ VecA[ ] , VecN[ ] ]
 
-LERP
+## _____________________________
+***LERP***
 • Math.LERP[ From , To , Amount ]
