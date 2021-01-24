@@ -1,6 +1,6 @@
 A Pseudo-Coding Language Format Developed by (@Isaglish , me @JP16D , @Qma and @Vex Ave) base from Fancade's Coding. 
 
-This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing screenshot it and share it to them.
+This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing in fancade , screenshot it and share it to them.
 
 Here is the documentation of what we have done so far ...
 
@@ -17,12 +17,12 @@ Here is the documentation of what we have done so far ...
 
 Basic Math Operators
 
-- Add - (+)
+- Add      - (+)
 - Subtract - (-)
-- Divide - (/ or ÷)
+- Divide   - (/ or ÷)
 - Multiply - (* or ×)
-- Power - (^)
-- Modulo - (%)
+- Power    - (^)
+- Modulo   - (%)
 
 
 
@@ -70,49 +70,52 @@ Control
 { function ; return ( Impulse , Normal , Hit Obj ) ; } ;
 ```
 ## _____________________________
-Swipe
+***Swipe***
+```
 • Swipe( ) { function ; return ( x , y , z ) ; } ;
-
-Box Art 
+```
+## _____________________________
+***Box Art***
+```
 • BoxArt( ) { function } ;
-
-Play Sensor
+```
+## _____________________________
+***Play Sensor***
+```
 • PlaySensor( ) { function } ;
-
-Late Update
+```
+## _____________________________
+***Late Update***
+```
 • LateUpdate( ) { function } ;
+```
 
-Basic Boolean Operators
->
-Greater Than
-<
-Less Than
-==
-Equal
-&&
-AND
-||
-OR
-!
-Not
 
-Object
+### Basic Boolean Operators
+- Greater Than - (>)
+- Less Than    - (<)
+- Equal        - (==)
+- AND          - (&&)
+- OR           - (||)
+- Not          - (!)
 
-Set Position
+### Object
+
+***Set Position***
 • SetPos( Obj , Position[ ] , Rotation[ ] ) ;
 
-Raycast
+***Raycast***
 • Raycast( From[ ] , To[ ] )
  { return ( Hit , Hit Pos[ ] , Hit Obj ) ; } ;
 
-Get Position
+***Get Position***
 • GetPos( ) { return ( Position[ ] , Rotation[ ] ) ; } ;
 
-Get Size
+***Get Size***
 • GetSize( ) { return ( max size[ ] , min size[ ] ) ; } ;
 
 
-Create Object
+***Create Object***
 • Object.Create( Obj ) ;
 
 Destroy Object
