@@ -1,4 +1,4 @@
-A Pseudo-Coding Language Format Developed by (@Isaglish , me @JP16D , @Qma and @Vex Ave) base from Fancade's Coding. 
+A Pseudo-Coding Language Format Developed by (**@Isaglish** , me **@JP16D** , **@Qma** and **@Vex Ave**) base from Fancade's Coding. 
 
 This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing in fancade , screenshot it and share it to them.
 
@@ -144,13 +144,16 @@ Control
 
 ### Advanced
 
-List Set Element
+***List Set Element***
+```
 • Num varName[ index ] = 0 ;
 • Vec varName[ index ] = [ x , y , z ] ;
-List Get Element
+```
+***List Get Element***
+```
 • varName[ index ] 
 • varName[ [ x , y , z [ index ] ]
-
+```
 Advanced Math Functions
 
 Scale & Rotate
