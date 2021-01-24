@@ -34,3 +34,7 @@ Number.Inspect(List<Number>[2])
 ```
 
 Here is [[Martin Magni]]'s Shepherd game [[script | Shepherd]] turned into Fanscript.
+
+# Links
+- [[Fanscript/Syntax.md | Syntax]]
+- [[Fanscript/Datatypes.md | Datatypes]]
