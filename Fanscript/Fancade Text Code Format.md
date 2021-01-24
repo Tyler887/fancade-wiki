@@ -6,9 +6,9 @@ A Pseudo-Coding Language Format Developed by (**@Isaglish** , me **@JP16D** , **
 This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing in fancade , screenshot it and share it to them.
 
 Here is the documentation of what we have done so far ...
-
+## _______________________________________________________________
 ### Basics
-
+## _____________________________
  **Value Types** :
 ```
 • Num varName = 0 ; //NaN ~ Integers ~ Inf
@@ -17,8 +17,8 @@ Here is the documentation of what we have done so far ...
 • Rot varName[x , y , z] ;
 • Obj varName = Obj ; 
 ```
-
-Basic Math Operators
+## _____________________________
+### Basic Math Operators
 
 - Add      - ( + )
 - Subtract - ( - )
@@ -31,8 +31,8 @@ Basic Math Operators
 
 
 
-
-Control
+## _______________________________________________________________
+### Control
 
 ## _____________________________
 ***if***
@@ -93,7 +93,7 @@ Control
 • LateUpdate( ) { function } ;
 ```
 
-
+## _____________________________
 ### Basic Boolean Operators
 - Greater Than - ( > )
 - Less Than    - ( < )
@@ -102,6 +102,7 @@ Control
 - OR           - ( \|\| )
 - Not          - ( ! )
 
+## _______________________________________________________________
 ### Object
 ## _____________________________
 ***Set Position***
@@ -144,9 +145,9 @@ Control
 
 
 
-
+## _______________________________________________________________
 ### Advanced
-
+## _____________________________
 ***List Set Element***
 ```
 • Num varName[ index ] = 0 ;
@@ -157,6 +158,7 @@ Control
 • varName[ index ] 
 • varName[ [ x , y , z [ index ] ]
 ```
+## _______________________________________________________________
 ### Advanced Math Functions
 
 ## _____________________________
