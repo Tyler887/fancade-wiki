@@ -245,7 +245,7 @@ num vec.x
 num vec.y
 num vec.z
 
-vec.Normalize
+vec.Normalize()
 
 vec.Dot(vec Vector)
 
