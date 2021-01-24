@@ -10,6 +10,15 @@ Rotation fan = {0.1, 0, 0}
 Truth blocked = False
 Object me = MyBlocks.Me
 ```
+
+For the constraint, here is how you do it:
+```coffeescript
+PlaySensor() {
+    Constraint const = Physics.AddConstraint(base, part, pivot)
+    Physics.AngularLimits(const, (0, 0, 1), (0, 0, 0))
+    Physics.AngularMotor(const, (0, 0, 90), (0, 0, 100))
+}
+```
 To create variables simply type:
 `Datatype variableName`
 
