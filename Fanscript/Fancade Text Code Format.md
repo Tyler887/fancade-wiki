@@ -38,7 +38,7 @@ Control
 ```
  **or**
 ```
-• condition ? function : function ; /* This a secondary method of conditional if in JS language Idk if there are other languages using this method of conditional if */
+• condition ? function : function ; /* This is a secondary method of conditional if in JS language Idk if there are also other languages that is using this method of conditional if */
 ```
 
 
@@ -100,37 +100,49 @@ Control
 - Not          - (!)
 
 ### Object
-
+## _____________________________
 ***Set Position***
+```
 • SetPos( Obj , Position[ ] , Rotation[ ] ) ;
-
+```
+## _____________________________
 ***Raycast***
+```
 • Raycast( From[ ] , To[ ] )
  { return ( Hit , Hit Pos[ ] , Hit Obj ) ; } ;
-
+ ```
+## _____________________________
 ***Get Position***
+```
 • GetPos( ) { return ( Position[ ] , Rotation[ ] ) ; } ;
-
+```
+## _____________________________
 ***Get Size***
+```
 • GetSize( ) { return ( max size[ ] , min size[ ] ) ; } ;
-
-
+```
+## _____________________________
 ***Create Object***
+```
 • Object.Create( Obj ) ;
-
-Destroy Object
+```
+## _____________________________
+***Destroy Object***
+```
 • Object.Destroy( Obj ) ;
-
-Set Visible
+```
+## _____________________________
+***Set Visible***
+```
 • Object.Visible( Obj , Visible ) ;
+```
 
 
 
 
 
 
-
-Advanced
+### Advanced
 
 List Set Element
 • Num varName[ index ] = 0 ;
