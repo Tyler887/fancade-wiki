@@ -205,7 +205,7 @@ Here is the documentation of what we have done so far ...
 ## _____________________________
 ***Distance***
 ```
-• Math.Distance[ VecA[ ] , VecN[ ] ]
+• Math.Distance[ A[ ] , B[ ] ]
 ```
 ## _____________________________
 ***LERP***
