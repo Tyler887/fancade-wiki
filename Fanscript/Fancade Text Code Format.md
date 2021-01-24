@@ -28,7 +28,8 @@ Basic Math Operators
 
 
 Control
-#
+
+## 
 
 ***if***
 ```
@@ -43,7 +44,7 @@ Control
 
 
 
-
+## 
 ***Loop***
 ```
 • Loop[ start , end ]( ) 
