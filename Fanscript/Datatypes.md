@@ -38,8 +38,8 @@ PlaySensor() {
 To access values inside a list:
 ```coffeescript
 Loop(0, $landmines) {
-Number I = this.currentIndex
-Vector landminePositions = List<Vector>[Number I] $LM
+    Number I = this.currentIndex
+    Vector landminePositions = List<Vector>[Number I] $LM
 }
 ```
 
