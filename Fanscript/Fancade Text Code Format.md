@@ -17,12 +17,12 @@ Here is the documentation of what we have done so far ...
 
 Basic Math Operators
 
-- Add      - (+)
-- Subtract - (-)
-- Divide   - (/ or ÷)
-- Multiply - (* or ×)
-- Power    - (^)
-- Modulo   - (%)
+- Add      - ( + )
+- Subtract - ( - )
+- Divide   - ( / or ÷ )
+- Multiply - ( * or × )
+- Power    - ( ^ )
+- Modulo   - ( % )
 
 
 
@@ -92,12 +92,12 @@ Control
 
 
 ### Basic Boolean Operators
-- Greater Than - (>)
-- Less Than    - (<)
-- Equal        - (==)
-- AND          - (&&)
-- OR           - (\|\|)
-- Not          - (!)
+- Greater Than - ( > )
+- Less Than    - ( < )
+- Equal        - ( == )
+- AND          - ( && )
+- OR           - ( \|\| )
+- Not          - ( ! )
 
 ### Object
 ## _____________________________
