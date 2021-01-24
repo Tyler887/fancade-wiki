@@ -29,7 +29,7 @@ Basic Math Operators
 
 Control
 
-## _
+## _____________________________
 ***if***
 ```
 • If (condition) { function } else { function } ;
@@ -43,7 +43,7 @@ Control
 
 
 
-## _
+## _____________________________
 ***Loop***
 ```
 • Loop[ start , end ]( ) 
@@ -55,14 +55,16 @@ Control
   While (start < end) { start++ , function } ; 
   /*this is loop in a nutshell :D , joke this is the manual loop*/
 ```
-Touch Sensor
+## _____________________________
+***Touch Sensor***
+```
 • Touch[ mode , touch ]( ) 
 { function ; return ( x , y ) ; } ;
-
-Collision
-• Collide[ Obj ]( )
+```
+***Collision***
+```• Collide[ Obj ]( )
 { function ; return ( Impulse , Normal , Hit Obj ) ; } ;
-
+```
 Swipe
 • Swipe( ) { function ; return ( x , y , z ) ; } ;
 
