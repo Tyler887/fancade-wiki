@@ -29,7 +29,7 @@ Basic Math Operators
 
 Control
 
-if
+***if***
 ```
 • If (condition) { function } else { function } ;
 ```
@@ -43,12 +43,12 @@ if
 
 
 
-Loop
+***Loop***
 ```
 • Loop[ start , end ]( ) 
 { function ; return ( counter ) ; } ;
 ```
-or
+**or**
 ```
 • Num start = 0 ;
   While (start < end) { start++ , function } ; 
