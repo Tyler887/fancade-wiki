@@ -2,7 +2,7 @@ A Pseudo-Coding Language Format Developed by (@Isaglish , me @JP16D , @Qma and @
 
 Here is what we have done so far ...
 
-## Basics
+### Basics
 
  **Value Types** :
 ```
