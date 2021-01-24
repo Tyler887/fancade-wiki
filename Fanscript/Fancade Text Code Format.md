@@ -15,12 +15,12 @@ Here is what we have done so far ...
 
 Basic Math Operators
 
-• Add - (+)
-• Subtract - (-)
-• Divide - (/ or ÷)
-• Multiply - (* or ×)
-• Power - (^)
-• Modulo - (%)
+- Add - (+)
+- Subtract - (-)
+- Divide - (/ or ÷)
+- Multiply - (* or ×)
+- Power - (^)
+- Modulo - (%)
 
 
 
