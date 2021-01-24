@@ -5,11 +5,13 @@ Here is what we have done so far ...
 # Basics
 
  **Value Types** :
-```• Num varName = 0 ; //NaN ~ Integers ~ Inf
-• Tru varName = 0 ; //boolean either 0 or 1 only
-• Vec varName[x , y , z] ;
-• Rot varName[x , y , z] ;
-• Obj varName = Obj ; 
+```
+- Num varName = 0 ; //NaN ~ Integers ~ Inf
+- Tru varName = 0 ; //boolean either 0 or 1 only
+- Vec varName[x , y , z] ;
+- Rot varName[x , y , z] ;
+- Obj varName = Obj ; 
+```
 
 Basic Math Operators
 • Add - (+)
