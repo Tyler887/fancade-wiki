@@ -30,10 +30,13 @@ Basic Math Operators
 Control
 
 if
+```
 • If (condition) { function } else { function } ;
- or 
+```
+ **or**
+```
 • condition ? function : function ; /* This a secondary method of conditional if in JS language Idk if there are other languages using this method of conditional if */
-
+```
 
 
 
@@ -41,13 +44,15 @@ if
 
 
 Loop
+```
 • Loop[ start , end ]( ) 
 { function ; return ( counter ) ; } ;
+```
 or
-• Num start = 0 ;
+```• Num start = 0 ;
   While (start < end) { start++ , function } ; 
   /*this is loop in a nutshell :D , joke this is the manual loop*/
-
+```
 Touch Sensor
 • Touch[ mode , touch ]( ) 
 { function ; return ( x , y ) ; } ;
