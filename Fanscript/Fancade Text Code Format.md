@@ -1,6 +1,8 @@
 A Pseudo-Coding Language Format Developed by (@Isaglish , me @JP16D , @Qma and @Vex Ave) base from Fancade's Coding. 
 
-Here is what we have done so far ...
+This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing screenshot it and share it to them.
+
+Here is the documentation of what we have done so far ...
 
 ### Basics
 
@@ -61,10 +63,13 @@ Control
 • Touch[ mode , touch ]( ) 
 { function ; return ( x , y ) ; } ;
 ```
+## _____________________________
 ***Collision***
-```• Collide[ Obj ]( )
+```
+• Collide[ Obj ]( )
 { function ; return ( Impulse , Normal , Hit Obj ) ; } ;
 ```
+## _____________________________
 Swipe
 • Swipe( ) { function ; return ( x , y , z ) ; } ;
 
