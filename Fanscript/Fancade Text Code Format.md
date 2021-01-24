@@ -1,0 +1,3 @@
+A Pseudo-Coding Language Developed by (@Isaglish , me @JP16D , @Qma and @Vex Ave) 
+
+Here is what we have done so far ...
