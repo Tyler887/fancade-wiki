@@ -1,9 +1,9 @@
-A Pseudo-Coding Language Format Developed by (**@Isaglish** , me **@JP16D** , **@Qma** and **@Vex Ave**) base from Fancade's Coding. 
+A Pseudo-Coding Language Format made in contribution of  (**@Isaglish** , **@JP16D** , **@Qma** and **@Vex Ave**) base from Fancade's Coding. 
 
 (*Note: this is not a real or existent coding language as the word "Pseudo" declares this is just a code format that can be used in scripting discussions)
 
 
-This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this just do the thing in fancade , screenshot it and share it to them.
+This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this ... Sorry we can't do anything about it :P so just do the thing in fancade , screenshot it and share it to them.
 
 Here is the documentation of what we have done so far ...
 
