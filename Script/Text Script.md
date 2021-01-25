@@ -291,7 +291,7 @@ Ever wondered how Fanscript would look in text format? Well, you can see all ref
 
 Keep in mind that this is a Work-In-Progress project and that all codes you see will not work if you try to write it in say Unity's C#.
 
-### Examples
+## Examples
 Values consist of:
 
 ```coffeescript
