@@ -44,7 +44,7 @@ num frame = Game.Get_Frame;
 ### Basics
 **______________**
 
-#### Value Types :
+#### Value Types 
 ```
 Num varName = 0;
 Tru varName = true/false;
