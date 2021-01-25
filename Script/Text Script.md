@@ -54,7 +54,7 @@ obj varName = Object;
 //Any variable can be used as list. Format: varName[index]
 
 
-//wire define
+//Define wire value
 wire_wireName = value;
 ```
 **______________**
