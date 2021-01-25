@@ -275,13 +275,13 @@ Math.Line_vs_Plane(vec Line_From, vec Line_To, vec Plane_Point, vec Plane_Normal
 Math.Look_Rotation(vec Direction, vec Up)
 ```
 
-## Syntax
+# Syntax
 
 Ever wondered how Fanscript would look in text format? Well, you can see all references in this directory!
 
 Keep in mind that this is a Work-In-Progress project and that all codes you see will not work if you try to write it in say Unity's C#.
 
-## Examples
+### Examples
 Values consist of:
 
 ```coffeescript
@@ -361,7 +361,7 @@ Loop(0, $landmines) {
 }
 ```
 
-## Example
+### Example
 
 Here is [[Martin Magni]]'s Shepherd game in text format.
 
