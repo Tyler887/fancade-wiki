@@ -54,7 +54,8 @@ Obj varName = Object;
 
 //Any variable can be used as list. Format: varName[index]
 ```
-### _____________________________
+**______________**
+
 ### Basic Math Operators
 
 ```
@@ -82,7 +83,8 @@ num++
 //Decrease
 num--
 ```
-### _____________________________
+**______________**
+
 ### Basic Boolean Operators
 ```
 //Boolean logic (AND, OR, NOT)
