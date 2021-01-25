@@ -45,6 +45,7 @@ num frame = Game.Get_Frame;
 
 #### Value Types 
 ```
+//Variables and Data Types
 num varName = 0;
 tru varName = true/false;
 vec varName(x , y , z);
@@ -54,7 +55,7 @@ obj varName = Object;
 //Any variable can be used as list. Format: varName[index]
 
 
-//Define wire value
+//Define Wire Value
 wire_wireName = value;
 ```
 **______________**
