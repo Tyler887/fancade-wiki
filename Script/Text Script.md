@@ -15,9 +15,9 @@ This Format will be a basis when sharing or suggesting some codes and code solut
 ### Introduction
 This format is based on C# syntax. Most of things are simplified for the better understanding.
 
-As you know, Fancade's script blocks are located in different folders. To make it easier to understand, what do you mean, use their names as in the example below. It's not necessary and takes such a time to write, but please pay attention to it when you're explaining script to the new user or there are namesake custom blocks.
+As you know , Fancade's script blocks are located in different folders. To make it easier to understand , what it means , use their names as in the example below. It's not necessary and takes such a time to write , but please pay attention to it when you're explaining script to the new user or there are namesake custom blocks.
 
-Following the C# syntax, let's imagine that each folder is a separate class with its own fields and functions. So, to represent Get Frame block, you need to type `Game.Current_Frame`. Again, it's not necessary, just `Current_Frame` is fine too.
+Following the C# syntax, let's imagine that each folder is a separate class with its own fields and functions. So , to represent Get Frame block , you need to type `Game.Current_Frame`. Again , it's not necessary , just `Current_Frame` is fine too.
 
 All the cases:
 ```
