@@ -52,7 +52,7 @@ vec varName(x , y , z);
 rot varName(x , y , z);
 obj varName = Object; 
 
-//Any variable can be used as list. Format: varName[index]
+//Any variable can be used as list by using the format: varName[index]
 
 
 //Define Wire Value
