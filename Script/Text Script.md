@@ -56,7 +56,7 @@ Obj varName = Object;
 ```
 **______________**
 
-### Basic Math Operators
+#### Basic Math Operators
 
 ```
 //Add Numbers
@@ -85,7 +85,7 @@ num--
 ```
 **______________**
 
-### Basic Boolean Operators
+#### Basic Boolean Operators
 ```
 //Boolean logic (AND, OR, NOT)
 
