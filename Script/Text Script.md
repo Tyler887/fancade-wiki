@@ -1,7 +1,7 @@
 This page is collection of information regarding of Text Scripts/Scripting (Including : Fancade's Possible Inner Codes & How they work and Fancade's Text Format for a quick Information Sharing during discussions about scripting in Fancade).
 
 
-## Fancade Coding Text Format
+# Fancade Coding Text Format
 
 A Pseudo-Coding Language Format made in contribution of  (**@Isaglish** , **@JP16D** , **@Qma** and **@Vex Ave**) base from Fancade's Coding. 
 
