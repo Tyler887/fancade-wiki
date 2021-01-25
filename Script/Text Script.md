@@ -28,7 +28,7 @@ Sound.Play_Sound();
 //If block has inputs, count them and their type in the brackets
 Objects.Set_Position(obj object, vec position, rot rotation);
 
-//If block has more than one output. Get position as example
+//If block has more than one output you will need to define each output individually by adding '.outputname' after it like this example
 Objects.Get_Position(target_object).position;
 
 //Math block counts like this, except the basic ones listed below
@@ -36,7 +36,6 @@ vec result = Math.Line_vs_Plane(L_from, L_to, P_normal, P_point);
 
 //If block has only outputs, don't do anything
 num frame = Game.Get_Frame;
-}
 ```
 
 **____________________________________**
