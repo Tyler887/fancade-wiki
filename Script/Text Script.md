@@ -45,13 +45,17 @@ num frame = Game.Get_Frame;
 
 #### Value Types 
 ```
-Num varName = 0;
-Tru varName = true/false;
-Vec varName(x , y , z);
-Rot varName(x , y , z);
-Obj varName = Object; 
+num varName = 0;
+tru varName = true/false;
+vec varName(x , y , z);
+rot varName(x , y , z);
+obj varName = Object; 
 
 //Any variable can be used as list. Format: varName[index]
+
+
+//wire define
+wire_wireName = value;
 ```
 **______________**
 
