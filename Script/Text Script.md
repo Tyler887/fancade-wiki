@@ -28,7 +28,8 @@ Sound.Play_Sound();
 //If block has inputs, count them and their type in the brackets
 Objects.Set_Position(obj object, vec position, rot rotation);
 
-//If block has more than one output you will need to define each output individually by adding '.outputname' after the function
+//If block has more than one output you will need to define them individually 
+//Use '.outputname' after the function to define them
 Objects.Get_Position(target_object).position;
 
 //Math block counts like this, except the basic ones listed below
