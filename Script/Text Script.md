@@ -19,7 +19,7 @@ As you know , Fancade's script blocks are located in different folders. To make 
 Following the C# syntax , let's imagine that each folder is a separate class with its own fields and functions. So , to represent Get Frame block , you need to type `Game.Frame`. Again , it's not necessary , just `Frame` is fine too.
 
 All the cases:
-```
+```coffeescript
 //If block has yellow wires, add () at the end of the name
 Game.Win();
 Sound.PlaySound();
@@ -43,7 +43,7 @@ num frame = Game.Frame;
 **____________________________________**
 
 #### Value Types 
-```
+```coffeescript
 //Variables and Data Types
 num varName = 0;
 tru varName = true/false;
@@ -63,7 +63,7 @@ vec $myPosition = Objects.GetPosition(me).position
 #### Basic Math Operators
 **____________________________________**
 
-```
+```coffeescript
 //Add Numbers
 2 + 2
 
@@ -92,7 +92,7 @@ num--
 
 #### Basic Boolean Operators
 **____________________________________**
-```
+```coffeescript
 //Boolean logic (and, or, not)
 
 tru smart = ((not dumb) and (has_brain)) or already_smart;
@@ -115,7 +115,7 @@ tru greaterThanOrEqual = a >= b;
 
 ### Game Folder
 **____________________________________**
-```
+```coffeescript
 Game.Win();
 
 Game.Lose();
@@ -138,7 +138,7 @@ Game.Frame
 
 ### Objects
 **____________________________________**
-```
+```coffeescript
 Objects.GetPosition(obj).position
 Objects.GetPosition(obj).rotation
 
@@ -166,7 +166,7 @@ Objects.DestroyObject(obj Object);
 
 ### Sound
 **____________________________________**
-```
+```coffeescript
 Sound.PlaySound(num Volume, num Pitch);
 num sfx = Sound.PlaySound(num Volume, num Pitch).channel
 
@@ -179,7 +179,7 @@ Sound.VolumePitch(num Channel, num Volume, num Pitch);
 
 ### Physics
 **____________________________________**
-```
+```coffeescript
 //I regret doing this, sorry
 ```
 
@@ -188,7 +188,7 @@ Sound.VolumePitch(num Channel, num Volume, num Pitch);
 
 ### Control
 **____________________________________**
-```
+```coffeescript
 //Basic if operator
 If (condition) { 
     function_true;
@@ -233,7 +233,7 @@ LateUpdate() {
 
 ### Math
 **____________________________________**
-```
+```coffeescript
 Math.Negate(num Num)
 
 Math.Inverse(rot Rot)
