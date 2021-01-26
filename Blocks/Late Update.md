@@ -19,5 +19,7 @@ A. Position an object exactly "glued to" a physics object
 
 B. Initialize blocks after they've all added themselves to a list
 
+C. Hide an object without disabling its physics
+
 TODO: Actual script examples of the above.
 
