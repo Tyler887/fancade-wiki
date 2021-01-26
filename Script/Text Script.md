@@ -185,8 +185,38 @@ Sound.VolumePitch(num Channel, num Volume, num Pitch);
 
 ### Physics
 **____________________________________**
-```-
-//Is this thing really that underrated that no one still made a thing about it (sigh) :P
+```coffeescript
+Physics.AddForce(obj Object, vec Force, vec applyAt, vec Torque);
+
+vec playerVelocity = Physics.GetVelocity(obj Object).velocity;
+vec playerVelocity = Physics.GetVelocity(obj Object).spin;
+
+Physics.SetVelocity(obj Object, vec Force, vec Spin);
+
+Physics.SetLocked(obj Object, vec Position, vec Rotation);
+
+Physics.SetMass(obj Object, num Mass);
+
+Physics.SetFriction(obj Object, num Friction);
+
+Physics.SetBounciness(obj Object, num Bounciness);
+
+Physics.SetGravity(vec Gravity);
+
+const constraint = Physics.AddConstraint(obj Base, obj Part, vec Pivot).constraint;
+
+Physics.LinearLimits(const Constraint, vec Lower, vec Upper);
+
+Physics.AngularLimits(const Constraint, vec Lower, vec Upper);
+
+Physics.LinearSpring(const Constraint, vec Stiffness, vec Damping);
+
+Physics.AngularSpring(const Constraint, vec Stiffness, vec Damping);
+
+Physics.LinearMotor(const Constraint, vec Speed, vec Force);
+
+Physics.AngularMotor(const Constraint, vec Speed, vec Force);
+
 ```
 
 
