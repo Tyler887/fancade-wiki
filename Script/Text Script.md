@@ -232,11 +232,13 @@ If (condition) {
     function_false;
 }
 
+# Loop
 Loop(num start = 0, num end = 0) {
     //Output
     out.counter
 }
 
+# Sensors
 TouchSensor() { 
     //Outputs
     out.screen.x
@@ -247,10 +249,6 @@ Collision(obj mainObject) {
     //Outputs
     out.secondObject
     out.normal
-    out.impulse
-}
-
-SwipeSensor() {
     //Output
     out.direction
 }
