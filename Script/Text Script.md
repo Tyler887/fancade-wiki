@@ -20,21 +20,21 @@ Following the C# syntax , let's imagine that each folder is a separate class wit
 
 All the cases:
 ```coffeescript
-//If block has yellow wires, add () at the end of the name
+# If block has yellow wires, add () at the end of the name
 Game.Win();
 Sound.PlaySound();
 
-//If block has inputs, count them and their type in the brackets
+# If block has inputs, count them and their type in the brackets
 Objects.SetPosition(obj object, vec position, rot rotation);
 
-//If block has more than one output you will need to define them individually 
-//Use '.outputname' after the function to define them
+# If block has more than one output you will need to define them individually 
+# Use '.outputname' after the function to define them
 Objects.GetPosition(target_object).position;
 
-//Math block counts like this, except the basic ones listed below
+# Math block counts like this, except the basic ones listed below
 vec result = Math.LineVsPlane(from, to, normal, point);
 
-//If block has only outputs, don't do anything
+# If block has only outputs, don't do anything
 num frame = Game.Frame;
 ```
 
@@ -44,18 +44,18 @@ num frame = Game.Frame;
 
 #### Value Types 
 ```coffeescript
-//Variables and Data Types
+# Variables and Data Types
 num varName = 0;
 tru varName = true/false;
 vec varName = (x , y , z);
 rot varName = (x , y , z);
 obj varName = MyBlocks.BlockName;
 
-//To make global variables, simply add a $ sign as a prefix of a variable name
+# To make global variables, simply add a $ sign as a prefix of a variable name
 obj me = Myblocks.Me
 vec $myPosition = Objects.GetPosition(me).position
 
-//Any variable can be used as list by using the format: varName[index]
+# Any variable can be used as list by using the format: varName[index]
 
 ```
 **____________________________________**
@@ -64,28 +64,28 @@ vec $myPosition = Objects.GetPosition(me).position
 **____________________________________**
 
 ```coffeescript
-//Add Numbers
+# Add Numbers
 2 + 2
 
-//Subtract Numbers
+# Subtract Numbers
 2 - 2
 
-//Multiply Numbers
+# Multiply Numbers
 2 * 2
 
-//Divide Numbers
+# Divide Numbers
 2 / 2
 
-//Power
+# Power
 2 ^ 2
 
-//Modulo
+# Modulo
 2 % 2
 
-//Increase
+# Increase
 num++
 
-//Decrease
+# Decrease
 num--
 ```
 **____________________________________**
@@ -93,11 +93,11 @@ num--
 #### Basic Boolean Operators
 **____________________________________**
 ```coffeescript
-//Boolean logic (and, or, not)
+# Boolean logic (and, or, not)
 
 tru smart = ((not dumb) and (has_brain)) or already_smart;
 
-//Math (Greater, Less, Equal)
+# Math (Greater, Less, Equal)
 
 tru equal = a == b;
 
@@ -144,10 +144,10 @@ Objects.GetPosition(obj).rotation
 
 Objects.SetPosition(obj Object, vec position, rot Rotation);
 
-//alternative
-//get
+# alternative
+# get
 vec = obj.position;
-//set
+# set
 obj.position = vec;
 
 Objects.Raycast(vec, vec).hit
@@ -189,7 +189,7 @@ Sound.VolumePitch(num Channel, num Volume, num Pitch);
 ### Control
 **____________________________________**
 ```coffeescript
-//Basic if operator
+# Basic if operator
 If (condition) { 
     function_true;
 } else { 
@@ -266,7 +266,7 @@ Math.Absolute(num Num)
 
 Math.Log(num Number, num Base)
 
-// break vectors into number variables.
+# break vectors into number variables.
 num = vec.x
 num = vec.y
 num = vec.z
@@ -277,7 +277,7 @@ vec.Dot(vec Vector)
 
 vec.Cross(vec Vector)
 
-// break a rotation into number variables.
+# break a rotation into number variables.
 num rot.x
 num rot.y
 num rot.z
