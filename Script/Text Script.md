@@ -101,7 +101,7 @@ num--
 ```coffeescript
 # Boolean logic (and, or, not)
 
-tru smart = ((not dumb) and (has_brain)) or already_smart;
+tru fruit = ((not lettuce) and (orange)) or apple;
 
 # Math (Greater, Less, Equal)
 
