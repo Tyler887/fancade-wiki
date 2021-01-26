@@ -57,6 +57,12 @@ vec $myPosition = Objects.GetPosition(me).position
 
 # Any variable can be used as list by using the format: varName[index]
 
+#To define wire input values use
+wire_wireName = value
+#This can be use In case of functions that uses another functions to their inputs
+#so that it doesn't look very messy unlike when directly placing them 
+#(can this thing be called the spaghetti wires in text scripting 0w0)
+
 ```
 **____________________________________**
 
@@ -297,7 +303,7 @@ Math.LineVsPlane(vec From, vec To, vec Point, vec Normal)
 Math.LookRotation(vec Direction, vec Up)
 ```
 ### (Important!) Editing Notes
-***To all contributors and people who edits the Fancade Pseudo-Coding Language*** , Pls don't put to much extensions to the things such as `math. , object.` , this thing is very unnecessary since it will only be used in scripting discussion , unless... one you can implement it as a real coding language ;D.
+***To all contributors and people who edits the Fancade Pseudo-Coding Language*** , Pls don't put to much extensions to the things such as `math. , object.` , this thing is very unnecessary since it will only be used in scripting discussion , unless... one you can implement it as a real coding language ;D
 
 # Syntax
 
