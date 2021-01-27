@@ -332,7 +332,7 @@ Math.LineVsPlane(vec From, vec To, vec Point, vec Normal)
 Math.LookRotation(vec Direction, vec Up)
 ```
 ### (Important!) Editing Notes
-***To all contributors and people who edits the Fancade Pseudo-Coding Language*** , Pls don't put to much extensions to the things such as `math.` or `object.` , this thing is very unnecessary since it will only be used in scripting discussion , unless... one of us can implement it as a real coding language ;D
+***To all contributors and people who edits the Fancade Pseudo-Coding Language*** , Pls don't put too much extensions to the things as much as possible , extensions such as `Math.` or `Objects.` , this thing is very unnecessary since it will only be used in scripting discussion , unless... one of us can implement it as a real coding language ;D
 
 # Syntax
 
