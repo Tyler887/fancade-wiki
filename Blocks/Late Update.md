@@ -16,10 +16,9 @@ Outputs:
 ## Examples
 
 A. Position an object exactly "glued to" a physics object
-
+[[/uploads/Screenshot_20210127-091113_6c69499164362a0dbe2f1dfe7c62199a.jpg]]
 B. Initialize blocks after they've all added themselves to a list
-
+[[/uploads/Screenshot_20210127-091647_6c69499164362a0dbe2f1dfe7c62199a.jpg]]
 C. Late Update can be used to make invisible physics objects
-
-TODO: Actual script examples of the above.
+[[/uploads/Screenshot_20210127-091506_6c69499164362a0dbe2f1dfe7c62199a.jpg]]
 
