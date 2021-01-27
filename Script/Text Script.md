@@ -290,7 +290,7 @@ Math.Round(num Num)
 
 Math.Floor(num Num)
 
-Math.Ceiling(num Num)
+Math.Ceil(num Num)
 
 Math.Absolute(num Num)
 
