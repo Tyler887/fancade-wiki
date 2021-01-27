@@ -114,7 +114,7 @@ tru less = a < b;
 
 **____________________________________**
 
-### Game Folder
+### Game 
 **____________________________________**
 ```coffeescript
 Game.Win();
@@ -145,11 +145,13 @@ Objects.GetPosition(obj).rotation
 
 Objects.SetPosition(obj Object, vec position, rot Rotation);
 
-# alternative
-# get
-vec = obj.position;
 # set
 obj.position = vec;
+obj.rotation = rot;
+
+# Get Position
+vec = Obj.position;
+rot = Obj.rotation;
 
 Objects.Raycast(vec, vec).hit
 Objects.Raycast(vec, vec).hitPos
@@ -266,11 +268,11 @@ Math.Negate(num Num)
 
 Math.Inverse(rot Rot)
 
-Vec.Scale(num Num)
+vec.Scale(num Num)
 
-Vec.Rotate(rot Rot)
+vec.Rotate(rot Rot)
 
-Rot1.Combine(rot Rot2)
+rot1.Combine(rot Rot2)
 
 Math.Random(num Min, num Max)
 
