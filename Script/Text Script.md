@@ -145,7 +145,9 @@ Objects.GetPosition(obj).rotation
 
 Objects.SetPosition(obj Object, vec position, rot Rotation);
 
-# set
+# alternatives
+
+# Set Position
 obj.position = vec;
 obj.rotation = rot;
 
