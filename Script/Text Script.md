@@ -249,7 +249,6 @@ Collision(obj mainObject) {
     //Outputs
     out.secondObject
     out.normal
-    //Output
     out.direction
 }
 
@@ -272,13 +271,13 @@ Math.Negate(num Num)
 
 Math.Inverse(rot Rot)
 
-vec.Scale(num Num)
+Vec.Scale(num Num)
 
-vec.Rotate(rot Rot)
+Vec.Rotate(rot Rot)
 
-rot.Combine(rot Rot2)
+Rot1.Combine(rot Rot2)
 
-Math.Random(num Min = 0, num Max = 1)
+Math.Random(num Min, num Max)
 
 Math.RandomSeed(num Seed);
 
