@@ -19,7 +19,7 @@ A. Position an object exactly "glued to" a physics object
 
 B. Initialize blocks after they've all added themselves to a list
 
-C. Reportedly Late Update can somehow be used to make invisible physics objects?
+C. Late Update can be used to make invisible physics objects
 
 TODO: Actual script examples of the above.
 
