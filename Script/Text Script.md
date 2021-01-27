@@ -110,11 +110,6 @@ tru equal = a == b;
 tru greater = a > b;
 
 tru less = a < b;
-
-tru lessThanOrEqual = a <= b;
-
-tru greaterThanOrEqual = a >= b;
-
 ```
 
 **____________________________________**
