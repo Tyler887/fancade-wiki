@@ -294,7 +294,7 @@ Math.Ceil(num Num)
 
 Math.Absolute(num Num)
 
-Math.Log(num Number, num Base)
+Math.Log(num Num, num Base)
 
 # break vectors into number variables.
 num = vec.x
