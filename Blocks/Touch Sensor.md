@@ -13,3 +13,7 @@ The first button has three options:
 The second button changes how many fingers have to be touching the screen to trigger the touch sensor.
 
 [[/uploads/Touchsensor.png]]
+
+## Examples
+
+Here's an example of how to use Touch Sensor to [[Tap to pick closest object]].
