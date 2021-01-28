@@ -1,9 +1,11 @@
-The loop block is used to loop the same script several times.
+The Loop block is used to run a script multiple times in the same frame. Often used for processing every element in a list.
 
-It has two inputs, Start and Stop. The loop block starts looping from the Start input, and stops looping once it reaches the Stop value. If the Start input is greater than the Stop input, it will count down instead of counting up.
+Inputs
+- Start: The Loop blocks starts looping from the Start input.
+- Stop: Then it stops looping once it reaches the Stop input.
 
-While the loop block is executing, it will execute the yellow Do wire at every loop. Connect this wire to the scripts you would like to loop.
-
-The counter output will output the current loop number, AKA the current iteration.
+Outputs
+- Do: Plug this to the script that you want to run for every loop.
+- Counter: Outputs the current loop number counting from the Start value. If the Start value is greater than the Stop value, it counts down instead of up.
 
 [[/uploads/Loop.png]]
