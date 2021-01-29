@@ -1,5 +1,5 @@
 Notes: 
-- May not be completely accurate, they were color picked form a screenshot of the palette
+- May not be completely accurate, they were color picked from a screenshot of the palette
 
 Light brown: DB9191
 Brown: BB677A
