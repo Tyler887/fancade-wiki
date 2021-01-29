@@ -35,11 +35,12 @@ Martin made a video showing how you can make an entirely new game from scratch:
 
 Spolarium made several tutorials on how to make games from scratch:
 
-* [[How to Make Fall Off in Fancade|https://youtu.be/OQBh929XKRE]]
+* [[How to make Fall Off in Fancade|https://youtu.be/OQBh929XKRE]]
 * [[How to make Pong in Fancade|https://youtu.be/UD4oBmXBbGo]]
 * [[How to make Simon in Fancade|https://youtu.be/9uy7iL4hthc]]
-* [[How to Make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
-* [[How to Make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
+* [[How to make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
+* [[How to make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
+* [[How to make Sokoban in Fancade|https://youtu.be/Z6PHon30c3o]]
 
 Olle Landin made a video for those who're used to *writing* code:
 
