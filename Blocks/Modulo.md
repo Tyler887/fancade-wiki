@@ -17,7 +17,7 @@ Output:
 ## Examples
     Division:
 
-    5 / 2 = 2
+    5 / 2 = 2.5
     10 / 5 = 2
 
     Modulo:
