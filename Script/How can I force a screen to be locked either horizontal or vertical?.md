@@ -4,7 +4,7 @@ There are several ways to achieve it. The first one is changing camera rotation 
 
 These scripts will set vertical orientation. If you want horizontal, just wire that [[Set Rotation|Set Variable]] to the "Else" plug instead of "True".
 
-The second method is way straightforward, just place the [[Accelerometer]] script block anywhere on floor (don't forget to wire it to something with yellow plugs!) — it will literally lock the screen orientation to a state that was when a game was opened. It's useful when you don't necessarily need a specific orientation to be set but you want it to be unchangeable during gameplay.
+The second method is way straightforward, just place the [[Accelerometer]] script block anywhere on floor (don't forget to wire it to something) — it will literally lock the screen orientation to a state that was when a game was opened. It's useful when you don't necessarily need a specific orientation to be set but you want it to be unchangeable during gameplay.
 
 [[/uploads/Screenshot_2019-10-12-23-59-57-807_com.martinmagni.fancade.png]]
 
