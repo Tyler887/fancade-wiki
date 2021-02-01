@@ -7,7 +7,7 @@ Similar to the function [[sin]] but instead, the output value starts from 1. Out
 
 ## Notes
 
-Additionally , there are only 4 certain points where you can get a whole number :
+Additionally, there are only 4 certain points where you can get a whole number :
 - 0°/360° = 1
 - 90° = 0
 - 180° = -1
