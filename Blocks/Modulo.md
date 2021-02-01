@@ -15,15 +15,15 @@ Output:
 * If the calculation doesn't have a remainder, the Modulo will be **0**.
 
 ## Examples
-Division:
+    Division:
 
-* 5/2 = 2
-* 10/5 = 2
+    5 / 2 = 2
+    10 / 5 = 2
 
-Modulo:
+    Modulo:
 
-* 5/2 = 1
-* 10/5 = 0
+    5 % 2 = 1
+    10 % 5 = 0
 
 Uses:
 
