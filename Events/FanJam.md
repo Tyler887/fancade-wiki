@@ -67,8 +67,8 @@ Submitted games will be judged in 4 different categories, each with different pr
 
 *Now that you know all about Fanjam, do you think your ready for next Fanjam? see ya there and hopefully you can win!!
 
-### History 
-# 2020
+# History 
+### 2020
 
 ## FanJam I
 - Event Period: 3/4/2020 - 3/12/2020
