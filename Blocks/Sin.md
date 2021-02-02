@@ -13,7 +13,7 @@ Additionally , there are only 4 certain points where you can get a whole number 
 - 180° = 0
 - 270° = -1
 
-*Note: To understand more better search for "trigonemetrical functions" in Google
+To understand better search for "[[Trigonemetric functions|https://www.google.com/search?q=trigonemetric+functions]]"
 
 ## Example 
 Ever wondered how martin make those ultra smooth floating coin animations , well here's how to do it:
