@@ -30,5 +30,5 @@ Uses:
 * Do every X frames:
     * With the accompany of the [[Current Frame]] block in input A, you can specify an event that takes places every X frames. For example, because 60 frames is 1 second, input B can be 60, and if the modulo is equal to 0, your event will be executed every 1 second.
     
-    [[/uploads/20210118_130457.png]]
+    [[/uploads/com.martinmagni.fancade_Screenshot_2021.02.06_17.51.19.png]]
     _Image source:_ [[How do I execute a script every second?]]
