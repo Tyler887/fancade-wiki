@@ -1,3 +1,3 @@
 Here it is:
 
-[[/uploads/20210118_130457.png]]
+[[/uploads/com.martinmagni.fancade_Screenshot_2021.02.06_17.51.19.png]]
