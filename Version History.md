@@ -10,7 +10,7 @@ This page documents Fancade's history. If you want to know what the current beta
 
 * Release: December 13, 2020
 * Quest worlds: 60
-* 9 script blocks ([[Loop]], [[Late Update]], [[Dot Product]], [[Cross Product]], [[Normalize]], [[Logarithm]], [[Current Frame]], ++, \-\-) are added.
+* 9 script blocks ([[Loop]], [[Late Update]], [[Dot Product]], [[Cross Product]], [[Normalize]], [[Logarithm]], [[Current Frame]], [[++|Increase Number]], [[--|Decrease Number]]) are added.
 * Users are now able to crop game box cover image.
 * Users are now able to sync Quest progress between devices.
 * Button to clear Linked heading
