@@ -3,7 +3,7 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 1.5.2
 * Release: February 6, 2021
 * Quest worlds: 65
-* Leaderboards has been added.
+* Added leaderboards
 * White UI outlines
 
 # Fancade 1.4.3
