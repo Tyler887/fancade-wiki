@@ -1,4 +1,4 @@
-A fancade event that happens every 1 or 2 months, it is hosted in the Fancade Discord Server by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the #fanjam channel.
+A Fancade event that happens every 1 or 2 months, it is hosted in the [[Fancade Discord Server|Discord]] by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the [[#fanjam|https://discord.com/channels/409219533618806786/686479396801871957]] channel.
 
 # Event Details
 
