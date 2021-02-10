@@ -11,7 +11,7 @@ You can buy Premium for a month or a year. (It's not a subscription, so no need 
 Tap to toggle sound and music. There's also the Show Touches option which is useful when recording YouTube videos, because others can see where you're tapping.
 
 #### Profile
-Link your Fancade account to an email and password. This will enable you to sign in as the same user on all your devices, to sync Premium, and is required to publish games. ([[Forgot your password?|Change or Forgot Password]])
+Link your Fancade account to an email and password. This will enable you to sign in as the same user on all your devices, to [[sync|Sync between devices]] Premium, and is required to publish games. ([[Forgot your password?|Change or Forgot Password]])
 
 #### News
 This is where I can let you know new and interesting information and happenings.
