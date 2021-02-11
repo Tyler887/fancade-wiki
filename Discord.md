@@ -1,4 +1,4 @@
-[[Visit Fancade's Discord server|https://bit.ly/fancade]] to hang out and chat with other Fancade players and creators! It's the most active community of "Fancaders", and with good reason:
+[[Visit Fancade's Discord server|https://discord.gg/P8VHwVq]] to hang out and chat with other Fancade players and creators! It's the most active community of "Fancaders", and with good reason:
 
 - We showcase games and often get super helpful feedback from play testing.
 - You can learn *so much* from talking about scripting and game design.
