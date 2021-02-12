@@ -1,4 +1,4 @@
-Phones and tablets running Android 5.0 or iOS 8.0 or later.
+Phones and tablets running Android 5.0 or iOS 9.0 or later.
 
 Links: 
 
