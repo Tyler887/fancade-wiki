@@ -71,19 +71,19 @@ Submitted games will be judged in 4 different categories, each with different pr
 ### 2020
 
 ## FanJam I
-- Event Period: 3/4/2020 - 3/12/2020
+- Event Period: 3/3/2020 - 3/11/2020
 - Theme: You Only Get One
 
 ## FanJam II
-- Event Period: 4/1/2020 - 4/10/2020
+- Event Period: 4/1/2020 - 4/9/2020
 - Theme: The More, The Worse
 
 ## FanJam III
-- Event Period: 5/4/2020 - 5/14/2020
+- Event Period: 5/3/2020 - 5/13/2020
 - Theme: Control More than One
 
 ## FanJam IV
-- Event Period: 6/9/2020 - 6/18/2020
+- Event Period: 6/9/2020 - 6/17/2020
 - Theme: Control the Environment
 
 ## FanJam V
