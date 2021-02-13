@@ -13,8 +13,8 @@ Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way 
 9. [[Search Fixel games|https://youtu.be/00ZgD1uJnhg]] 
 10. [[Name of blocks, glue|https://youtu.be/q_7NrntdBjI]]
 11. [[Search Hole games|https://youtu.be/73IHQyqplEk]]
-12. [[Look inside a scriptblock, copy and paste blocks|https://youtu.be/zB3jJ7bx01c]]
-13. [[Use blocks made by other creators, rotade a block, use two scriptblocks: set position and rotation|https://youtu.be/fMHG7AuY4a0]]
+12. [[Look inside a script block, copy and paste blocks|https://youtu.be/zB3jJ7bx01c]]
+13. [[Use blocks made by other creators, rotate a block, use two script blocks: set position and rotation|https://youtu.be/fMHG7AuY4a0]]
 14. [[Move a whole building from one game to another!|https://youtu.be/PVSX9WpRp-I]]
 
 Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
