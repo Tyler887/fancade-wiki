@@ -1,6 +1,6 @@
-Make a variable go up by 1 each frame and then use an if to check for an event. 
+Use [[Current Frame]] and then use an [[If]] to check for an event. 
 
-if you use the variable by itself it'll be in frames, if you want it to count in seconds divide it by 60.
+If you want it to count in seconds divide it by 60.
 
 The 3 examples in the picture will have a different behavior:
 
@@ -10,4 +10,4 @@ The 3 examples in the picture will have a different behavior:
 
 3) Will play a sound after 30 frames.
 
-[[/uploads/Screenshot_20200316_203518_com.martinmagni.fancade.png]]
+[[/uploads/com.martinmagni.fancade_Screenshot_2021.02.13_18.45.52.png]]
