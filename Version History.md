@@ -3,7 +3,7 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 1.5.3
 * Release: February 10, 2021
 * Quest worlds: 65
-* Added [[leaderboards|How to get high score verified ?]]
+* Added [[leaderboards|How to get high score verified ?#submitting-to-fancade-s-leaderboards]]
 * White UI outlines
 
 # Fancade 1.4.3
@@ -12,7 +12,7 @@ This page documents Fancade's history. If you want to know what the current beta
 * Quest worlds: 60
 * 9 script blocks ([[Loop]], [[Late Update]], [[Dot Product]], [[Cross Product]], [[Normalize]], [[Logarithm]], [[Current Frame]], [[++|Increase Number]], [[--|Decrease Number]]) are added.
 * Users are now able to crop game box cover image.
-* Users are now able to sync Quest progress between devices.
+* Users are now able to [[sync Quest progress between devices|Sync between devices#quest-progress]].
 * Button to clear Linked heading
 * Arcade feature themes
 
@@ -29,7 +29,7 @@ This page documents Fancade's history. If you want to know what the current beta
 * Release: August 22, 2020
 * Quest worlds: 50
 * Users can now search games between title and creator.
-* Advanced Inspect option on Inspect blocks
+* [[Advanced Inspect|Inspect#advanced-mode]] option on Inspect blocks
 
 # Fancade 1.1.2
 
