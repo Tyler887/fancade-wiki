@@ -33,7 +33,7 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Leaderboard's Place Total refuses to load on some levels in some games
 <br>• Some Little Bug in Little Jump, fixed by @nmskr
 <br>• Occasional "The operation retry limit has been exceeded" errors
-<br>• Offline/build-mode leaderboard shows -1 score if Lose with lowest/fastest score
+<br>• Offline/build-mode leaderboard shows <code>-1</code> score if Lose with lowest/fastest score
 <br>• Possible crash when launch image hides?
 <br>• Various Quest game bugs
 <br></details>
