@@ -1,7 +1,7 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Beta]].
 
-# Fancade 1.5.3
-* Release: February 10, 2021
+# Fancade 1.5.4
+* Release: February 14, 2021
 * Quest worlds: 65
 * Added [[leaderboards|How to get high score verified ?#submitting-to-fancade-s-leaderboards]]
 * White UI outlines
@@ -32,6 +32,10 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Crash when searching while offline
 <br>• Leaderboard's Place Total refuses to load on some levels in some games
 <br>• Some Little Bug in Little Jump, fixed by @nmskr
+<br>• Occasional "The operation retry limit has been exceeded" errors
+<br>• Offline/build-mode leaderboard shows -1 score if Lose with lowest/fastest score
+<br>• Possible crash when launch image hides?
+<br>• Various Quest game bugs
 <br></details>
 
 # Fancade 1.4.3
