@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 ## Solutions
 Assume north (N) is up/left.
 
