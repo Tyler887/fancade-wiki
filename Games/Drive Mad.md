@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 # How to Play
 
 Tap the right side of the screen to drive. Tap the left side of the screen to brake and reverse. Careful, if you land the car upside down it'll break!
