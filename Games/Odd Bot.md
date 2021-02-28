@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 Odd Bot is a puzzle game where you help a cute little robot, called Odd, to reach a spinning golden cube. Tap to walk, drag the white rectangles to move sliders and elevators, and swipe anywhere else to rotate the view.
 
 (image a bit outdated)
