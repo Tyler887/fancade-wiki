@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 # Solutions
 
 **Level 1**
