@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 # Tips for levels 41-50
 
 **Level 41**
