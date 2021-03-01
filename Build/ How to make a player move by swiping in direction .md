@@ -1,1 +1,3 @@
-[Here's the script! ](https://cdn.discordapp.com/attachments/747415707213365279/795179506050662430/Screenshot_20210103_143730.jpg)
+Here's the script!
+
+![fullres](https://cdn.discordapp.com/attachments/747415707213365279/795179506050662430/Screenshot_20210103_143730.jpg)
