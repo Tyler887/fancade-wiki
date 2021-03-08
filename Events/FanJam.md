@@ -17,7 +17,7 @@ During the start of the event, the 1st Phase, a selected theme is Announced. Aft
 
  **To submit your game during a FanJam event you must share your game in the Fancade Discord #games channel with the tags:**
 - ***fanjam #kit*** - for games made from game kits
-- ***fanjam #full*** - for games made from scratch (using custom scripts from other people's projects is still allowed)
+- ***fanjam #full*** - for games made from scratch (using custom scripts from other people's projects is allowed and considered)
  
 After its time period then a 1 day delay is placed, at the immediate end and during this delay, Sounak will anounce an Instructions for late submissions on how to gain consideration permission for their submissions. - Asking for permission can only be done for 30 mins. after the immediate end.
 
