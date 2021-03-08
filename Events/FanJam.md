@@ -68,8 +68,6 @@ Submitted games will be judged in 4 different categories, each with different pr
 *Now that you know all about Fanjam, do you think your ready for next Fanjam? see ya there and hopefully you can win!!
 
 # History 
-*Note : Fanjam didn't start on 2020 but as this article/page is made in the end of 2020 this is the only history of event we can give in details.
-
 ### 2020
 
 ## FanJam I
