@@ -101,3 +101,8 @@ Special Mechanics:
 - Special phase (6 days): 
 12/18/2020 - 12/24/2020, every participants should submit a theme of their choice before this phase ends, the submitted theme then will be in the date 12/25/2020 given to another participant randomly and will be their theme for their game.
 
+### 2021
+
+## FanJam VIII
+- Event Period: 3/19/2021 - ??/??/2021
+- Theme: ???
