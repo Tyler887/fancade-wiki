@@ -23,19 +23,19 @@ After its time period then a 1 day delay is placed, at the immediate end and dur
 
 ### 2nd Phase 
 ### (Voting Phase)
-After this 2nd Phase will start, during this time all people in discord all the submission will be posted with their direct link, people can also then play, test play, look all they want in the submissions before voting or even if they're not voting.
+After this 2nd Phase will start, during this time all people in discord can see all the submissions and it will be posted with their direct links, people can also then play, test play or look all they want in the submissions before voting or even if they're not voting.
 - To vote and see the details of how to vote use `.vote` command  in (DM)Direct Message to Fanbot.
 
 ### 3rd Phase 
 ### (Announcing of Winners)
 This marks the flag of the end of the current FanJam. The long awaited (ofc) by all participants, and that is ... to see their names in the boards. FanJam has 4 categories with each having different set of winners; Overall, Kits, Art, Innovation.
 
-- Overall - only those with tag #full in their game can participate 
+- Overall - only those with tag ***#full*** in their game can participate 
 - Kits - only those with tag ***#kit*** in their game can participate
 - Art - Best Arts in people's eyes, everyone can participate here
 - Innovation - The most Innovative in people's oppinion, everyone can participate here
 
-*Note: also each category only displays the top 3 winners.
+*Note: only the top 3 winners per each category is displayed.
 
 Additionally, Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3, winning multiple categories only gives you a the reward you won with the highest prize. (And also can you believe it a **<font color="2ecc71">Fanjam</font>** role just literally for bragging rights, ~~lol~~).
 
