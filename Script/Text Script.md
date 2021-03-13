@@ -10,7 +10,7 @@ This Format will be a basis when sharing or suggesting some codes and code solut
 
 
 ### Introduction
-This format is based on C# syntax. Most of things are simplified for the better understanding.
+This format is based on C# syntax. Most of things are simplified for better understanding.
 
 As you know , Fancade's script blocks are located in different folders. To make it easier to understand , what it means , use their names as in the example below. It's not necessary and takes such a time to write , but please pay attention to it when you're explaining script to the new user or there are namesake custom blocks.
 
