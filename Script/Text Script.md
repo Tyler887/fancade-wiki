@@ -236,7 +236,7 @@ Loop(num start = 0, num end = 0) {
 }
 
 # Sensors
-TouchSensor() { 
+TouchSensor('touching' , '1st') { 
     //Outputs
     out.screen.x
     out.screen.y
@@ -245,8 +245,8 @@ TouchSensor() {
 Collision(obj mainObject) {
     //Outputs
     out.secondObject
+    out.impulse
     out.normal
-    out.direction
 }
 
 BoxArt() {
