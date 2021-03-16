@@ -379,7 +379,7 @@ Here are some examples:
 ```coffeescript
 num jumpSpeed = 0.2
 vec level = (1, 1, -10)
-rot fan = {0.1, 0, 0}
+rot fan = (0.1, 0, 0)
 tru blocked = False
 obj me = MyBlocks.Me
 ```
