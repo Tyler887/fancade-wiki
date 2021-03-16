@@ -150,8 +150,8 @@ obj.position = vec;
 obj.rotation = rot;
 
 # Get Position
-vec = Obj.position;
-rot = Obj.rotation;
+vec = obj.position;
+rot = obj.rotation;
 
 Objects.Raycast(vec, vec).hit
 Objects.Raycast(vec, vec).hitPos
