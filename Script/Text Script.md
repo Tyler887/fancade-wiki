@@ -342,7 +342,7 @@ Datatypes consist of:
 ```coffeescript
 num Age = 10
 vec Position = (10, 1.51, 5)
-rot Angle = {0, 90, 0}
+rot Angle = (0, 90, 0)
 tru Hit = True
 obj Player = MyBlocks.Player
 ```
