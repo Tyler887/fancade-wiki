@@ -320,7 +320,8 @@ Math.AxisAngle(vec Axis, num Angle)
 
 Math.ScreenToWorld(num ScreenX, num ScreenY)
 
-Math.WorldToScreen(vec WorldPos)
+Math.WorldToScreen(vec WorldPos).x
+Math.WorldToScreen(vec WorldPos).y
 
 Math.LineVsPlane(vec From, vec To, vec Point, vec Normal)
 
