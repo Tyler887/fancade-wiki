@@ -236,11 +236,23 @@ Loop(num start = 0, num end = 0) {
 }
 
 # Sensors
-TouchSensor('touching' , '1st') { 
+TouchSensor('1st').touching { 
     //Outputs
     out.screen.x
     out.screen.y
 }
+#touch sensor has multiple extensions and fixed inputs:
+
+# Extensions
+.touching
+.begins
+.ends
+
+#Inputs
+"1st" or "First"
+"2nd" or "Second"
+"3rd" or "Third"
+
 
 Collision(obj mainObject) {
     //Outputs
