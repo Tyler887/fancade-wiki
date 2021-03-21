@@ -1,4 +1,3 @@
-# Seeing Fancade first time
 __________________________
 After launch animation ends, you see an island with a little yellow bot walking on it. Look down - there are four main pages: [Quest](https://www.fancade.com/wiki/Quest), where you are currently, [Arcade](https://www.fancade.com/wiki/Arcade), [Build](https://www.fancade.com/wiki/Build) and [You](https://www.fancade.com/wiki/You). Let's focus on Build page.
 
