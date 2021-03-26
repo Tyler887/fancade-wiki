@@ -105,4 +105,4 @@ Special Mechanics:
 
 ## FanJam VIII
 - Event Period: 3/19/2021 - ??/??/2021
-- Theme: ???
+- Theme: No Instructions Needed
