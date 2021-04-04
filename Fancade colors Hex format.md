@@ -1,48 +1,48 @@
 Notes: 
-- May not be completely accurate, they were color picked from a screenshot of the palette
+- May not be completely accurate, they were color picked from a color palette
 
-Light brown: DB9191
-Brown: BB677A
-Dark brown: 904F5A
+Light Brown: EDA4A1
+Brown: CA7588
+Dark Brown: 9C5963
 
-Light tan: FFE3E3
-Tan: FFCAB8
-Dark tan: F6ABA0
+Light Tan: FFFFFE
+Tan: FFE5CE
+Dark Tan: FFC2B3
 
-Light purple: AB86FF
-Purple: 896BD6
-Dark purple: 6650A0
+Light Purple: BF97FF
+Purple: 9879E9
+Dark Purple: 715AAC
 
-Light pink: FFB3E4
-Pink: FF90CA
-Dark pink: E66CA7
+Light Pink: FFCAFA
+Pink: FFA3DF
+Dark Pink: FD7AB8
 
-Light red: FF9696
-Red: FF4865
-Dark red: BB344D
+Light Red: FFA9A9
+Red: FF5172
+Dark Red: CC3A55
 
-Light orange: FFA37D
-Orange: FF6C50
-Dark orange: C94E3E
+Light Orange: FFB88D
+Orange: FF7A5A
+Dark Orange: D55846
 
-Light yellow: FFFF75
-Yellow: FFCE00
-Dark yellow: E9A300
+Light Yellow: FFFF85
+Yellow: FFE900
+Dark Yellow: F4B800
 
-Light green: ABFF68
-Green: 3FBB4A
-Dark green: 00864A
+Light Green: C1FF75
+Green: 47CE54
+Dark Green: 009251
 
-Light blue: 00C2FF
-Blue: 008CFF
-Dark blue: 0069D6
+Light Blue: 00CCFF
+Blue: 0099FF
+Dark Blue: 0074EB
 
-White: FEFFFF
-Gray 1: DDE0F1
-Gray 2: 888CA0
+White: FFFFFF
+Gray 1: CCCFD7
+Gray 2: 9A9DAC
 
-Gray 3: 606278
-Gray 4: 3C3C50
-Black: 1C1C28
+Gray 3: 6C6E7E
+Gray 4: 444453
+Black: 1F1F28
 
-[[/uploads/Screenshot_20200321_204514_com.martinmagni.fancade_1.png]]
+[[/uploads//uploads/color_palette.png]]
