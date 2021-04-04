@@ -45,4 +45,4 @@ Gray 3: 6C6E7E
 Gray 4: 444453
 Black: 1F1F28
 
-[[/uploads//uploads/color_palette.png]]
+[[/uploads/color_palette.png]]
