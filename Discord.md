@@ -6,6 +6,6 @@
 - Get to know the other creators, no reason, it's just fun!
 - Oh, and we have an entire chat channel dedicated to Fancade memes. :D
 
-What's "[Discord](https://discord.onl/)" anyway? Basically, just a text chat service, which you can access via the web page or the Discord app. But it's really well made, and has become extremely popular, especially for chatting about games.
+What's "Discord" anyway? Basically, just a text chat service, which you can access via the web page or the Discord app. But it's really well made, and has become extremely popular, especially for chatting about games.
 
 I remember being a bit overwhelmed the first time I visited, and worried that it had started some kind of voice chat on my microphone. Don't worry, the mic is off, and you don't need to type anything either. Just browse around our text "channels" to see what others are talking about, until you feel comfortable to say "Hi." :)
