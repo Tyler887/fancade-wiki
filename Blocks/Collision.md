@@ -8,6 +8,11 @@ Output:
 
 [[/uploads/Collision.png]]
 
+## Notes
+
+- If you're colliding with multiple objects it'll report the most forceful collision.
+- If you're overriding physics to move objects (using [[Set Position]]) then no collisions will occur.
+
 ## Examples
 
 The script below causes you to win if the two physics boxes collide with each other.
