@@ -1,1 +1,1 @@
-Try [https://fancade.page.link/xTyN](Scripts by Tyler 2013 (Tyler))) or [https://fancade.page.link/Tz5w](Fanscripts by Sonuak).
+Try [https://fancade.page.link/xTyN](Scripts by Tyler 2013 (Tyler)) or [https://fancade.page.link/Tz5w](Fanscripts by Sonuak).
