@@ -4,7 +4,7 @@
 
 Level 6 - Find a way to flip the button.
 
-Level 17 - Observe that one button pushes the other button upward and vice versa. Find a way to pop one button so the other one can be pressed.
+Level 17 - Observe that one button pushes the other button upward and vice versa. Find a way to pop one button.
 
 # Solutions
 
