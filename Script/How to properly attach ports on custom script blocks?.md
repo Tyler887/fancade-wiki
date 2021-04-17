@@ -4,4 +4,4 @@ Indention for a Standard Block:
 - 3 voxels from the edge of the block.
 - 7 voxels between the two ports.
 - At the top and bottom, 1 voxel each.
-Adding ports at proper indents results in the all too familiar *click* sound while placing the proper ***block*** directly next to it's input or output.
+Adding ports at proper indents results in the all too familiar *click* sound while placing the proper block directly next to it's input or output.
