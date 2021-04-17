@@ -1,1 +1,1 @@
-Try this: https://fancade.page.link/xTyN
+Try this: [https://fancade.page.link/xTyN]
