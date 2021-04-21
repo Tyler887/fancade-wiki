@@ -8,7 +8,7 @@ You try to figure out the controls and find a way to clear the screen.
 # Controls and Answers
 **Water:**
 
-To make the water move, tilt the device. To win, get all of the water out of the screen
+To make the water move, tilt the device. To win, get all of the water out of the screen.
 
 **Grow:**
 
