@@ -7,7 +7,6 @@ You can push any golden blocks to your goal.
 The green block is your goal as if you stand on it, you win.
 The ladder can help you move up.
 Either if a block crushes you or an enemy gets to you, you lose.
-
 You can crush enemies.
 # Hints
 * In "Gap Filler", Theres a reason why theres a hole in the wall.
