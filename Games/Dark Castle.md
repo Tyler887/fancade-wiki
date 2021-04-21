@@ -3,13 +3,9 @@ quest: true
 ---
 # How to play
 Swipe in any direction to move the character to that respective direction.
-
 You can push any golden blocks to your goal.
-
 The green block is your goal as if you stand on it, you win.
-
 The ladder can help you move up.
-
 Either if a block crushes you or an enemy gets to you, you lose.
 
 You can crush enemies.
