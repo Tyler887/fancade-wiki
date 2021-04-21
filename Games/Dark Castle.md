@@ -14,6 +14,7 @@ You can crush enemies.
 * In "Deadend", don't wall off the enemy more than you are supposed to.
 * In "Final Escape", the enemy cant go backwards, and that 1 notch can help the monster escape.
 * 
+
 # Full walkthrough: 
 [Levels 1-5](https://youtu.be/OB2i3_NOIpA)
 
