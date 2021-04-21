@@ -1,6 +1,4 @@
----
 quest: true
----
 # How to play
 Swipe in any direction to move the character to that respective direction.
 You can push any golden blocks to your goal.
