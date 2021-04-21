@@ -15,5 +15,5 @@ Outputs:
 ...
 
 ## Examples
-[[/uploads/1618999351524.png]]
+...
 
