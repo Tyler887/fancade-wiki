@@ -1,8 +1,6 @@
 ---
 quest: true
 ---
-# Dark Castle Guide
-
 # How to play
 Swipe in any direction to move the character to that respective direction.
 
@@ -21,7 +19,7 @@ You can crush enemies.
 * In "Deadend", don't wall off the enemy more than you are supposed to.
 * In "Final Escape", the enemy cant go backwards, and that 1 notch can help the monster escape.
 * 
-Full walkthrough: 
+# Full walkthrough: 
 [Levels 1-5](https://youtu.be/OB2i3_NOIpA)
 [Levels 6-8](https://youtu.be/OvCblZoIxjg)
 [Levels 9-10](https://youtu.be/jwi4OFsGAOU)
