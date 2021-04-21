@@ -3,7 +3,7 @@ quest: true
 ---
 
 # How to play
-You try to figure out the controls and a way to clear the screen.
+You try to figure out the controls and find a way to clear the screen.
 
 # Controls and Answers
 **Water:**
