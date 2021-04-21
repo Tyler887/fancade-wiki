@@ -1,4 +1,4 @@
-The Arcade tab is where you can discover new games every day! The top headings feature selected games that are fun to play and have [good design](How to get your game featured). In addition, there are some headings with special functionality:
+The Arcade tab is where you can discover new games every day! The top headings feature selected games that are fun to play and have [[good design|How to get your game featured]]. In addition, there are some headings with special functionality:
 
 #### Favorites
 Whenever you tap the Favorite button on a game, it appears here. It's a convenient way to bookmark games you like and want to play again. Even offline!
