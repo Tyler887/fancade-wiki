@@ -12,7 +12,7 @@ To make the water move, tilt the device. To win, get all of the water out of the
 
 **Grow:**
 
-to make the cube grow, tap. To win, tap repetedly.
+To make the cube grow, tap. To win, tap repetedly.
 
 **Boids:**
 
