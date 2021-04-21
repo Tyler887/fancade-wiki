@@ -7,7 +7,9 @@ Swipe any direction for all chicks to move.
 Move those chicks on to the 2 red buttons at once to win.
 If any ditto falls too much and gets flattened, you lose.
 
-# A Solution to...
+# Solutions
+
+Let up = top-left.
 
 **Level 1:** 
 
