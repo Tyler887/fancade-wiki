@@ -67,7 +67,7 @@ Left, left, down, down, right, up, right, down, right, right, up, left, up, righ
 
 **Crown 2:**
 
-Up, left, down, left, left, up, up, right, right, right, up, left, left, left, up, right, right, right, right, down, down, down, down,
+Up, left, down, left, left, up, up, right, right, right, up, left, left, left, up, right, right, right, right, down, down, down, down.
 
 **Crown 3:**
 
