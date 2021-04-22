@@ -7,7 +7,7 @@ quest: true
 Swipe any direction for the knight to move.
 Everytime you move, the the pillar you are previously on falls.
 To win, break all but 1 pillar and if theres a crown, go to the crown tile last.
-If you either go out of step, get the crown too early, or go to an enemy tile W/o holding a sword, you lose.
+If you either go out of step, get the crown too early, or go to an enemy tile without holding a sword, you lose.
 
 # A solution to...
 
