@@ -1,6 +1,7 @@
 Displays the value given to the input, allowing you to inspect values.
 [[/uploads/image01.png]]
 
+## Importance
 This block is essential for debugging your games because by using it you can make sure that you don't get unexpected values that break your game. If you connect its only input to a variable or value block, the data will be printed on its top.
 
 [[/uploads/inspect_block.jpg]]
