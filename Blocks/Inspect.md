@@ -1,4 +1,5 @@
 Displays the value given to the input, allowing you to inspect values.
+[[/uploads/image01.png]]
 
 This block is essential for debugging your games because by using it you can make sure that you don't get unexpected values that break your game. If you connect its only input to a variable or value block, the data will be printed on its top.
 
@@ -14,5 +15,3 @@ While playing, if the mode is activated, all inspected values will be displayed 
 The first three lines of the log will always be occupied by percentages of object, script, and block limits consumed.
 
 Note that activating or deactivating this option will be shared to all inspect block existing in the game.
-
-[[/uploads/image01.png]]
