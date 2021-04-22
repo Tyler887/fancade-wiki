@@ -111,7 +111,7 @@ Our wheels can now move up and down, but we still haven't added suspension to ou
 
 Let's give our wheels some springy action!
 
-We begin a new loop. This loop will run at every frame. For each constraint, we will add a linear spring to it. 
+We begin a new loop. This loop will run at every frame. For each constraint, we will add a [[Linear Spring]] to it. 
 
 [[/uploads/tutorial-car-18.jpg]]
 
@@ -123,7 +123,7 @@ Look at that! Our car is nice and bouncy now!
 
 We are really far into the tutorial, but the car still can't drive. Let's fix that now!
 
-Underneath the Linear Spring script, add a [[Linear Motor]] script, like this:
+Underneath the Linear Spring script, add an [[Angular Motor]] script, like this:
 
 [[/uploads/tutorial-car-20.jpg]]
 
