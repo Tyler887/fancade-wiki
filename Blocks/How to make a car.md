@@ -138,15 +138,15 @@ Let's reconfigure the script:
 [[/uploads/tutorial-car-22.jpg]]
 [[/uploads/tutorial-car-23.gif]]
 
-We can now speed up and slow down at will. However, we cannot turn yet.
+We can now speed up and slow down at will! However, we cannot turn yet.
 
 Going back to the script, we can use the Angular Limit block to set the turning angle of our wheels. As a test, I set the turning angle to a constant 45 degrees.
 
-[image of turning logic]
+[[/uploads/tutorial-car-24.jpg]]
 
 Hurray for turning wheels!
 
-[image of all turning wheels]
+[[/uploads/tutorial-car-25.jpg]]
 
 All the wheels are turning at once, but we only want the front wheels to turn. How do we fix this?
 
@@ -154,11 +154,11 @@ Looking at our list of wheels, we set both of the front wheels to be at index 0 
 
 So, a simple fix would be to check if the current wheel number is less than 2!
 
-[image of turning logic fix]
+[[/uploads/tutorial-car-26.jpg]]
 
 Yes! Not only are the front wheels turning, but the car is turning as well!
 
-[car-turning-controlled.gif]
+[[/uploads/tutorial-car-27.gif]]
 
 The car is so excited that it cannot stop turning. Fun, but also dangerous! So, in the following section, I will show you how to set up button controls for the car.
 
@@ -168,36 +168,38 @@ For our car controls, we will be using the Virtual Gamepad script by Martin Magn
 
 You can find it in the Blocks section on the Edit tab.
 
-[image]
+[[/uploads/tutorial-car-28.jpg]]
 
 Tap the game cover, and tap edit. This will create a local copy of the game and put it in your projects.
 
-[image]
+[[/uploads/tutorial-car-29.jpg]]
 
 Back in edit mode, open the inventory and scroll all the way down to the bottom. The virtual gamepad folder should appear at the very bottom.
 
-[image]
+[[/uploads/tutorial-car-30.jpg]]
 
 As you can see, there are several different gamepad scripts. We will be using the 4-button gamepad script for our car.
 
-[image]
-[image]
+[[/uploads/tutorial-car-31.jpg]]
+[[/uploads/tutorial-car-32.jpg]]
 
 We will put the gamepad script near the top of our car script. Then, we will assign red variables to each of the 4 outputs. These outputs correspond to the 4 buttons that will appear on your screen when in play mode. The output will be true when the corresponding button is pressed.
+
+[[/uploads/tutorial-car-33.jpg]]
 
 Now, you can use these 4 variables to configure the car controls!
 
 If up is being pressed, we want to go forwards, and backwards when down is pressed.
 If left is pressed we want to turn left, and if right is pressed we want to turn right.
 
-[image]
+[[/uploads/tutorial-car-34.jpg]]
 
 And you are done! You can now drive your car around the level with button controls!
 
-[car.gif]
+[[/uploads/car-final.gif]]
 
 Here is an image of the whole script:
 
-[image]
+[[/uploads/Screenshot_20210422-104017_6c69499164362a0dbe2f1dfe7c62199a.jpg]]
 
 Have fun, and good luck with setting up your car! :)
