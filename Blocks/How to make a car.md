@@ -4,7 +4,7 @@ In this tutorial, we will use constraints to attach the wheels to the car, and s
 
 By the end of the tutorial you will have a car like this:
 
-[car.gif]
+[[/uploads/tutorial-car-0.gif]]
 
 ## Modelling the car
 
@@ -14,22 +14,24 @@ I will use the Physics Box as a template. You can use any block, but the Physics
 
 You can find the physics box in the 'Templates' category in the inventory. It doesn't look much more like a car than it looks like an orange cube with square holes on every side. Let's model it to look more recognizable! 
 
+[[/uploads/tutorial-car-1.jpg]]
+
 Place the physics box down on the ground, tap the pencil icon on the lower right corner, tap OK, and then you can begin modelling your car.
 
 This is the car that I made:
 
-[image of car]
+[[/uploads/tutorial-car-2.jpg]]
 
-It's the greenest car you have ever seen. (Also given that it is powered digitally by a phone, it is also incredibly friendly for the environment!)
+It's the greenest car you have ever seen. (Also given that it is powered digitally by a single phone, it is also incredibly friendly for the environment!)
 
 A few important points before you model your car:
 Make sure your car is facing in the positive z-direction, as shown in the image below. This will be important later, when setting up constraints for the wheels.
 
-[image of car direction]
+[[/uploads/tutorial-car-3.jpg]]
 
 Make sure the wheels are separated from the car itself. Voxels will glue together when they are next to each other; not ideal for wheels that need to be spinning on their own! To remove the glue between the car and the wheels, use the glue tool in the voxel editor:
 
-[car-removing-glue.gif]
+[[/uploads/tutorial-car-4.gif]]
 
 ## Modelling the wheels
 
@@ -37,7 +39,8 @@ We will also create a wheel object. The reason we have to do this is because the
 
 It is important that you use the 'Physics Sphere' object as a template for your wheel. Physics spheres are special, because their colliders are spheres instead of boxes. The size of this wheel doesn't matter, but I made mine a 2x2x2 cube:
 
-[image of wheel object]
+[[/uploads/tutorial-car-5.jpg]]
+[[/uploads/tutorial-car-6.jpg]]
 
 ## Adding constraints to the car
 
@@ -49,23 +52,22 @@ Select your car, then tap on the button on the bottom left. The top of the car w
 
 First, I will assign an object variable called 'Car'. I will drag it's wire to the car.
 
-[car-assign-object.gif]
+[[/uploads/tutorial-car-7.jpg]]
 
-I will do the same for each of the four wheels (front right, front left, rear right, rear left). These can sometimes be harder to connect because of the tiny wheels. If the wire connection shows a pink arrow pointing at the wheel, great job! If you see a large pink cube instead, you have created a script input by mistake, and you need to reposition the wire until you get the arrow.
+I will do the same for each of the four wheels (front right, front left, rear right, rear left). These can sometimes be harder to connect because the wheels are quite tiny. If the wire connection shows a pink arrow pointing at the wheel, great job! If you see a large pink cube instead, you have created a script input by mistake, and you need to reposition the wire until you get the arrow.
 
-[image of wheel variables assigned]
-
-[image of right and wrong ways to connect wires]
+[[/uploads/tutorial-car-8.jpg]]
+[[/uploads/tutorial-car-08.jpg]]
 
 Next, I will add each of the 4 wheels to a list. This will be useful for creating constraints for all wheels at the same time.
 
-[image of list]
+[[/uploads/tutorial-car-10.jpg]]
 
 With all that setup done, we can finally configure the constraints for our wheels!
 
 I create a loop that loops 4 times, once for each wheel. The W variable holds the current wheel number (0, 1, 2 or 3).
 
-[image of loop]
+[[/uploads/tutorial-car-11.jpg]]
 
 The next step is to hide our 'fake', square wheels with our circular, real ones. 
 
@@ -75,11 +77,11 @@ Then, use Create Object to create a copy of the wheel you made earlier, and use 
 
 The wheels are small, so they can be quite light. Therefore I give the wheels some extra mass. I also increase the friction of the wheels to 1, to make them less slippery.
 
-[image of script replacing wheels]
+[[/uploads/tutorial-car-12.jpg]]
 
 If you tap play now, you should see that your wheels have been successfully replaced! However, they are all disconnected from the car. 
 
-[car-detached-wheels.gif]
+[[/uploads/tutorial-car-13.jpg]]
 
 Let's attach them to our car with constraints!
 
@@ -87,17 +89,17 @@ Find the 'Add Constraint' block, found in the physics category in the inventory.
 
 The 'Base' of our constraint will be the car object. The 'Part' will be our wheel!
 
-[image of constraint script]
+[[/uploads/tutorial-car-14.jpg]]
 
 There! Now our wheels are properly attached to the car!
 
-[image of wheels attached to car]
+[[/uploads/tutorial-car-15.jpg]]
 
 The wheels are very stiff, and they cannot rotate yet.
 
 To fix this, we need to define the [Linear Limits] and [Angular Limits] of the constraint. These blocks define the freedom/restriction of movement of the constraint. We want the constraint to move up and down, and we also want to spin the constraint along the wheel axle. To do that, we can configure the wheels like so:
 
-[image of linear and angular limits]
+[[/uploads/tutorial-car-16.jpg]]
 
 Finally, we will add this constraint to a list so we can use it later. I will save the constraint to a list called Cs (short for constraints) and put it at index W (the wheel number).
 
@@ -105,15 +107,17 @@ Finally, we will add this constraint to a list so we can use it later. I will sa
 
 Our wheels can now move up and down, but we still haven't added suspension to our car, so it falls to the earth.
 
+[[/uploads/tutorial-car-17.gif]]
+
 Let's give our wheels some springy action!
 
 We begin a new loop. This loop will run at every frame. For each constraint, we will add a linear spring to it. 
 
-[image of linear spring script]
+[[/uploads/tutorial-car-18.jpg]]
 
 You can configure the spring and damping parameters until you get something you like! I found that these values work best for my car.
 
-[car-spring.gif]
+[[/uploads/tutorial-car-19.gif]]
 
 Look at that! Our car is nice and bouncy now!
 
@@ -121,19 +125,18 @@ We are really far into the tutorial, but the car still can't drive. Let's fix th
 
 Underneath the Linear Spring script, add a [Linear Motor] script, like this:
 
-[image of linear motor script]
+[[/uploads/tutorial-car-20.jpg]]
 
 And again, you can configure the speed and force values to your liking. Speed is the top speed of the car, and force is similar to what you would call horse-power in the real world.
 
-[car-motor.gif]
+[[/uploads/tutorial-car-21.gif]]
 
 At last, the engine is running! Actually, it will always be running, without ever stopping. How about we add some simple touch controls?
 
 Let's reconfigure the script:
 
-[image of touch controlled motor]
-
-[car-motor-controlled.gif]
+[[/uploads/tutorial-car-22.jpg]]
+[[/uploads/tutorial-car-23.gif]]
 
 We can now speed up and slow down at will. However, we cannot turn yet.
 
