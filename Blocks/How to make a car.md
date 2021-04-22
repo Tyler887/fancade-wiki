@@ -97,7 +97,7 @@ There! Now our wheels are properly attached to the car!
 
 The wheels are very stiff, and they cannot rotate yet.
 
-To fix this, we need to define the [Linear Limits] and [Angular Limits] of the constraint. These blocks define the freedom/restriction of movement of the constraint. We want the constraint to move up and down, and we also want to spin the constraint along the wheel axle. To do that, we can configure the wheels like so:
+To fix this, we need to define the [[Linear Limits]] and [[Angular Limits]] of the constraint. These blocks define the freedom/restriction of movement of the constraint. We want the constraint to move up and down, and we also want to spin the constraint along the wheel axle. To do that, we can configure the wheels like so:
 
 [[/uploads/tutorial-car-16.jpg]]
 
@@ -123,7 +123,7 @@ Look at that! Our car is nice and bouncy now!
 
 We are really far into the tutorial, but the car still can't drive. Let's fix that now!
 
-Underneath the Linear Spring script, add a [Linear Motor] script, like this:
+Underneath the Linear Spring script, add a [[Linear Motor]] script, like this:
 
 [[/uploads/tutorial-car-20.jpg]]
 
