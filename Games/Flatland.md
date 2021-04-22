@@ -8,6 +8,9 @@ tap to make the character jump, spikes will make the character reset their posit
 # Walkthroughs
 
 [Levels 1-5](https://youtu.be/KxCLUYUwVoE)
+
 [Levels 6-8](https://youtu.be/nUk3ClUYFqI)
+
 [Level 9](https://youtu.be/b66HY7NRtjE)
+
 [Level 10](https://youtu.be/qoPeV7GYJQM)
