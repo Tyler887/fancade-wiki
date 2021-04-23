@@ -29,15 +29,15 @@ Here we go! A perfect regular hexagon!
 
 ## Advanced method
 
-Instead of creating the list of positions, they can be calculated in Fancade using trigonometric functions. Using this method, we can also create regular polygons with different number of sides!
+Instead of creating the list of positions, they can be calculated in Fancade using trigonometric functions. Using this method, we can also create regular polygons with a different number of sides!
 
-We need three additional variables. Variable **N** is the number of sides of our polygon, while **X** and **Z** denote the size of our original square object.
+We need three additional variables. Variable **N** is the number of sides of our polygon, while **X** and **Z** denotes the size of our original square object.
 
 Now we need to calculate the vector from the origin of our polygon to the origin of our square object. We're going to call it **A**. Its X and Y coordinates are both equal to 0, while the Z coordinate can be computed using trigonometry:
 
  **A** = (0, 0, 0.5(**Z** - **X** &sdot; cot(180&deg;/**N**))).
 
-This is how it looks in Fancade. Here we use the fact that cotangent of an angle is equal to its cosine divided by its sine:
+This is how it looks in Fancade. Here we use the fact that the cotangent of an angle is equal to its cosine divided by its sine:
 
 [[/uploads/Screenshot_20210423-180421~2.jpg | height = 180px]]
 
@@ -45,7 +45,7 @@ Now, to calculate the positions of the remaining pieces, we can subtract **A** f
 
 [[/uploads/Screenshot_20210423-180438~2.jpg | height = 500px]]
 
-For **N** = 6 and **X** = **Z** = 1, we obtain the exact same hexagon as in the classic method, without using any additional lists! After changing the value of **N**, we can obtain different polygons, for instance a pentagon:
+For **N** = 6 and **X** = **Z** = 1, we obtain the exact same hexagon as in the classic method, without using any additional lists! After changing the value of **N**, we can obtain different polygons, for instance, a pentagon:
 
 [[/uploads/Screenshot_20210423-183301~2.jpg | height = 200px]]
 
