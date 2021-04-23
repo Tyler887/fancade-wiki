@@ -28,7 +28,6 @@ Let's start the script now. See what happened to our original object!
 Here we go! A perfect regular hexagon!
 
 ## Advanced method
+<<Warn("WIP: This section of the article is not finished")>>
 
 Instead of creating the list of positions, they can be calculated in Fancade using trigonometric functions.
-
-(TBA)
