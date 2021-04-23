@@ -28,6 +28,27 @@ Let's start the script now. See what happened to our original object!
 Here we go! A perfect regular hexagon!
 
 ## Advanced method
-<<Warn("WIP: This section of the article is not finished")>>
 
-Instead of creating the list of positions, they can be calculated in Fancade using trigonometric functions.
+Instead of creating the list of positions, they can be calculated in Fancade using trigonometric functions. Using this method, we can also create regular polygons with different number of sides!
+
+We need three additional variables. Variable **N** is the number of sides of our polygon, while **X** and **Z** denote the size of our original square object.
+
+Now we need to calculate the vector from the origin of our polygon to the origin of our square object. We're going to call it **A**. Its X and Y coordinates are both equal to 0, while the Z coordinate can be computed using trigonometry:
+
+ **A** = (0, 0, 0.5(**Z** - **X** &sdot; cot(180&deg;/**N**))).
+
+This is how it looks in Fancade. Here we use the fact that cotangent of an angle is equal to its cosine divided by its sine:
+
+[[/uploads/Screenshot_20210423-180421~2.jpg | height = 180px]]
+
+Now, to calculate the positions of the remaining pieces, we can subtract **A** from the position of the original object and then add **A** rotated by a certain angle. Here's how it looks:
+
+[[/uploads/Screenshot_20210423-180438~2.jpg | height = 500px]]
+
+For **N** = 6 and **X** = **Z** = 1, we obtain the exact same hexagon as in the classic method, without using any additional lists! After changing the value of **N**, we can obtain different polygons, for instance a pentagon:
+
+[[/uploads/Screenshot_20210423-183301~2.jpg | height = 200px]]
+
+If **N** is bigger than 6, we obtain a polygon with a hole in the middle. To avoid that, we simply need to enlarge our original object and change the values of **X** and **Z**.
+
+[[/uploads/Screenshot_20210423-183341~2.jpg | height = 200px]]
