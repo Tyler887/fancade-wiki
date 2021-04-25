@@ -1,3 +1,6 @@
+---
+quest: true
+---
 # How to play
 
 Swipe in any direction to move that direction.
