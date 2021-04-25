@@ -5,7 +5,7 @@ quest: true
 
 Swipe in any direction to move that direction.
 Get all boxes to the highlighted area with a red dot to win.
-You cant move through walls, and push boxes through wall or other boxes.
+You cant move through walls, and push boxes through walls or other boxes.
 
 # A Solution to...
 
