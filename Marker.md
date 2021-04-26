@@ -4,7 +4,7 @@ A marker, which is useful for [[Raycast]] drawing.
 
 You can use [[Raycast]] to make a drawing script using a Marker.
 
-# Act like Pass Through
+## Act like Pass Through
 <<Warn("This will also make it impossible for other Raycast scripts to react to the Marker!")>>
 
 Try to use [[Raycast]] to make the Marker an overlay.
