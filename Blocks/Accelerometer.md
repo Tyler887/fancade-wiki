@@ -12,6 +12,7 @@ Outputs:
 ## Examples
 The accelerometer can be connected to anything to lock your screen's orientation, even things that do nothing at all, this can be used for scripts that only work in one orientation.
 ![example_1](https://cdn.discordapp.com/attachments/520112989416718346/798172908778160138/Screenshot_20210111-154904_Fancade.jpg)
+## It is jumpy
 The accelerometer by itself is jumpy and not very smooth at all, this can be fixed with the next script!
 
 If you're too busy and don't have the time to do all of that, get smoothmeter! [[https://fancade.page.link/vMWw]]
