@@ -1,0 +1,1 @@
+A block that does not show in game and cannot be detected with [[Raycast]].
