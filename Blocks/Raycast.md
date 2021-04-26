@@ -4,4 +4,6 @@ Note that Raycast detects when the line hits the outside surface of a block. If 
 
 It cannot detect [[Pass Through]]s and [[Script Block]]s. However, [[Script Block]]s are invisible in game.
 
+This is useful for Raycast drawing using a [[Marker]].
+
 [[/uploads/Raycast.png]]
