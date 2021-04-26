@@ -796,11 +796,11 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 0.1
 
 <<Warn("WIP: This section of the article is not finished")>>
-<<Warn("RIP: This Fancade version has will end support in 1 June 2021. If you still have Fancade 0.1, you should upgrade to the latest version of Fancade.">>
+<<Warn("This Fancade version has will end support on 1 June 2021. If you still have Fancade 0.1, you should upgrade to the latest version of Fancade.">>
 
 Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
 
 # Pre-Beta
 
 <<Warn("WIP: This section of the article is not finished")>>
-<<Warn("RIP: This Fancade version has will end support in 1 June 2021. If you still have Fancade Pre-Beta, you should upgrade to the latest version of Fancade.">>
+<<Warn("This Fancade version has will end support on 1 June 2021. If you still have Fancade Pre-Beta, you should upgrade to the latest version of Fancade.">>
