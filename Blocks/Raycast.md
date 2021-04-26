@@ -2,4 +2,6 @@ Traces a line between two points and outputs [[True]] if the line hits anything,
 
 Note that Raycast detects when the line hits the outside surface of a block. If the line starts *inside* the block then it will not hit that block when going out. Also, it won't  detect an object that has been created in the same frame, you have to wait 1 frame after creating the object for Raycast to detect it.
 
+It cannot detect [[Pass Through]]s and [[Script Block]]s. However, [[Script Block]]s are invisible in game.
+
 [[/uploads/Raycast.png]]
