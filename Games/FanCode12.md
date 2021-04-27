@@ -5,4 +5,4 @@ Tap the blue button to set a number. Tap the red button to set a truth (0 is `Fa
 ## Hints
 Level 1: Just set it to 1!
 
-Level 12: It is a [[Odd Bot]] puzzle, tap the numbers to set them.
+Level 12: It is a [[Odd Bot]] puzzle, tap the numbers and truths to set them.
