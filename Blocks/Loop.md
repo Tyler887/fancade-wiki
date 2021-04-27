@@ -1,4 +1,4 @@
-The Loop block is used to run a script multiple times in the same frame. Often used for processing every element in a [[list|List Element]].
+The Loop block is used to run a script multiple times in the same frame. Often used for processing every element in a list.
 
 Inputs
 - Start: The Loop blocks starts looping from the Start input.
