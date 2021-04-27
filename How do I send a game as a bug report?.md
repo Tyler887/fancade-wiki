@@ -2,4 +2,4 @@
 2. Re-open the game box
 3. Tap the Send Bug Report button
 
-NOTE: This is dangerous. Do this at your own risk.
+<<Warn("This is dangerous. Do this at your own risk.")>>
