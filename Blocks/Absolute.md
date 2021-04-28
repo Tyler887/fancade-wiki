@@ -1,3 +1,3 @@
-Removes the negation sign of the input number.
+Remove the negation sign of the input number.
 
 [[/uploads/Abs.png]]
