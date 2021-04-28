@@ -1,7 +1,5 @@
 Outputs True if the two inputs are both True or both False.
 
-You can also choose if it is the same value as a variable or a condition.
-
 [[/uploads/Equal_Truth.png]]
 
 Inputs:
