@@ -21,5 +21,3 @@ Level 13. Odd can carry Car!
 Yes, it's *possible* to push Odd off the level, e.g. by hitting the poor little bot in the head with a giant stone slab! While it's a neat little easter egg, many users reported it as a bug. So now the Game Over dialog will pop up if you fall off, to make it clear you can't climb back up onto the level.
 
 The golden cube is a reference to a famous indie game. Can you guess which one? 🙂
-The secret ending in Sam Hogan's game, Greybox Testing, has a hidden room with golden cubes.
-(edited by youtuber who knows only greybox testing lmao)
