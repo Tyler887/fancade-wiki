@@ -2,6 +2,10 @@
 quest: true
 ---
 
+# How to play
+
+Swipe to slide the Longcat, until it hits a wall. Fill every gap to win! Don't get it stuck or you lose.
+
 # Solutions
 
 #### Level 1
