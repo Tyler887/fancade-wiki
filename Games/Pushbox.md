@@ -3,11 +3,9 @@ quest: true
 ---
 # How to play
 
-Swipe in any direction to move that direction.
-Get all boxes to the highlighted area with a red dot to win.
-You cant move through walls, and push boxes through walls or other boxes.
+Swipe in any direction to move the character in that direction. Swiping with a box in it will push it. Your goal is to get all boxes to the highlighted area with a red dot to win! You can't move through walls, and push boxes through walls or other boxes.
 
-# A Solution to...
+# Solutions
 
 **Level 1:**
 
