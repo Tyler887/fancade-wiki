@@ -2,7 +2,14 @@
 quest: true
 ---
 
-## Tips for levels 41-50
+# How to play
+
+Tap and swipe on a ball to slide it in that direction. Get all normal balls to the checkered tiles!
+Later levels will involve boxes that can be pushed by balls, stone balls which become static after it has moved in that direction, and colored buttons which turn on the corresponding gate when activated by anything above it.
+
+Tap with two fingers to undo the last move.
+
+# Tips for levels 41-50
 
 #### Level 41
 Placing the first ball on the goal position is not too difficult. To proceed, place the remaining balls at the bottom like this:
