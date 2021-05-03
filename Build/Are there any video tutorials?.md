@@ -52,6 +52,7 @@ JoshuaTNTGamer made several video tutorials:
 * [[How to make a Duet Game|https://youtu.be/AsQJw3uCFo4]]
 * [[How to make a Musical Line Game|https://youtu.be/imW94TGftVQ]]
 * [[How to Glue 2 Objects using Constraints|https://youtu.be/hWdiCNv-A50]]
+* [[Player and Enemy Tutorial|https://youtu.be/Ew6z7zc7ePw]]
 
 Benjamin Mathew made a tutorial on physics script blocks:
 
