@@ -7,17 +7,17 @@ Sine outputs value between 1 and -1 depending on the given value to it which sca
 
 ## Notes
 
-Additionally , there are only 4 certain points where you can get a whole number :
+Additionally, there are only 4 certain points where you can get a whole number:
 - 0°/360° = 0
 - 90° = 1
 - 180° = 0
 - 270° = -1
 
-To understand better search for "[[Trigonemetric functions|https://www.google.com/search?q=trigonemetric+functions]]"
+To understand better search for "[[Trigonometric functions|https://www.google.com/search?q=trigonometric+functions]]"
 
 ## Example 
-Ever wondered how martin make those ultra smooth floating coin animations , well here's how to do it:
+Ever wondered how to make those ultra smooth floating coin animations like in Roper? Here's how to do it:
 [[uploads/floating_coin_animation.jpg]]
 
 (Note that you don't have to store the input in a rotation. A number will do just fine.)
-- Sin and [[Cos]] is mostly use for such back and forth animations like this , you can also amplify the output of the sin or cos to make the object have a back and forth animation in a larger or smaller scale. If you managed to utilize this functions you can even make any type of animations very smooth e.g. (walking animation , gun recoil animation , moving platforms and many more)
+- Sin and [[Cos]] can be used for such back and forth animations like this. You can also multiply the output of sin or cos by a number to move it in a larger or smaller scale. If you manage to utilize this function, you can even make any type of animations very smooth (e.g. walking animation, gun recoil animation, moving platforms and many more)
