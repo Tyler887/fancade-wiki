@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 Monster Match is a game created by [[Martin Magni]]. It is inspired by the puzzle "Numberlink".
 
 # Solutions
