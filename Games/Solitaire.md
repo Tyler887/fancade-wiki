@@ -10,7 +10,7 @@ Solitaire is a classic card game, introduced to Fancade by [Mathias Elgaard](htt
 
 Drag cards to certain places. The objective of the game is to build the four foundations up from Ace to King, with cards of similar suit. (e.g. A♠, 2♠, 3♠, ..., K♠)
 
-A faced up card may be transferred to:
+An exposed card (a card with no other cards blocking it) may be transferred to:
 - an empty foundation, if the card is an Ace.
 - a foundation of the same suit, if it follows the ascending sequence.
 - another column, if the top card forms a descending sequence of alternating color e.g. 6♠ on a 7<span style="color: #ff0000">♦</span> or J<span style="color: #ff0000">♥</span> on a Q♣, stacking the card.
