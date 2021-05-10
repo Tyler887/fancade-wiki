@@ -7,7 +7,7 @@ Outputs:
 * Direction: Outputs the tilt direction of the device.
 
 ## Notes
-* It makes the screen orientation unchangeable during gameplay when the direction output is connected to anything.
+* The accelerometer makes the screen orientation unchangeable during gameplay when the direction output is connected to anything.
 
 ## Examples
 The accelerometer can be connected to anything to lock your screen's orientation, even things that do nothing at all, this can be used for scripts that only work in one orientation.
