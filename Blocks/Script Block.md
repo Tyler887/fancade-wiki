@@ -1,1 +1,1 @@
-A block that does not show in game and cannot be detected with [[Raycast]].
+A block that is only visible on editor , cannot be set as an Object and cannot be detected with [[Raycast]].
