@@ -9,6 +9,6 @@ Similar to a box but with a slight difference , it has a more rounded or spheric
 [[/uploads/sphere.jpg]]
 
 ## Physics Variants
-Box and Sphere both has a physics variants , the difference of physics ones to normal ones are they have a pre-applied physics.
+Box and Sphere both has a physics variants , the difference of physics ones to normal ones are they have a pre-applied physics to them.
 
 [[/uploads/physics_block.jpg]]
