@@ -1,4 +1,4 @@
-A block with no collider and cannot be detected with a [[Raycast]].
+A block with no [[Collider]].
 
 It also cannot be used for drawing, so use [[Marker]] instead.
 
