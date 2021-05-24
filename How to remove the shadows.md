@@ -8,7 +8,7 @@ Example:![Removing Shadows](uploads/shadorem.png)
 
 That's all!
 
-But there might still be fuzzy shadow bleed at edges.
+But there might still be **fuzzy shadow bleed at edges**.
 
 
 ## For a perfect shadow removal
