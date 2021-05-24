@@ -19,8 +19,7 @@ For a top-down **2D** game, we can set the camera Y value to 100.
 
 here is an example using camera X=0 and Z=0, 
 
-Example: ![Perfect 2D shadow removal](https://github.com/APin3EMP/Fancade-Pictures/blob/main/Screenshot_20210524-183819~2.png)
-
+Example: ![Perfect 2D shadow removal](uploads/Screenshot_20210524-175735~2.png)
 (you should use the appropriate camera X and Z values. Set The Y value to 100)
 
 For **3D** games, using this method is tricky and involves some math, so we don't talk it here.
