@@ -1,5 +1,3 @@
-# How to 'Turn Off' the shadows.
-
 Sometimes in 2D games, we need to completely remove the shadows from the scene. Here is a simple way to do that.
 
 1. Set the camera **angle** to          whatever is needed for the       game.
@@ -25,5 +23,4 @@ Example: ![Perfect 2D shadow removal](https://github.com/APin3EMP/Fancade-Pictur
 
 (you should use the appropriate camera X and Z values. Set The Y value to 100)
 
-For **3D** games, using this method is tricky and involves some math,
-so we don't talk it here.
+For **3D** games, using this method is tricky and involves some math, so we don't talk it here.
