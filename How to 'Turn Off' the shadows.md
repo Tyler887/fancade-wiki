@@ -15,7 +15,7 @@ But there will perhaps be still fuzzy shadow bleed at edges.
 
 for a perfect shadow removal, we can move the camera very far from the scene. it is less convenient, but works perfectly.
 
-For a top-down **2D** game, we can set the camera Y value to a very high value.
+For a top-down **2D** game, we can set the camera **Y** value to a **very high** value.
 
 here is an example using camera X=0 and Z=0, 
 
