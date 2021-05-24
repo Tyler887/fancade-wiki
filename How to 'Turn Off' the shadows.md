@@ -4,7 +4,7 @@ Sometimes in 2D games, we need to completely remove the shadows from the scene. 
 
 2. Set the light **angle** to the    **same** angle as the camera.
 
-Example:![Removing Shadows](uploads/Screenshot_20210524-175735~2.png)
+Example:![Removing Shadows](uploads/shadorem.png)
 
 That's all!
 
