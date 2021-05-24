@@ -13,7 +13,7 @@ But there might still be fuzzy shadow bleed at edges.
 
 ## For a perfect shadow removal
 
-for a perfect shadow removal, we can move the camera very far from the scene. it is less convenient, but works perfectly.
+for a perfect shadow removal, we can **move the camera very far from the scene**. it is less convenient, but works perfectly.
 
 For a top-down **2D** game, we can set the camera **Y** value to a **very high** value.
 
