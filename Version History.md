@@ -1,5 +1,9 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Beta]].
 
+# Fancade 1.6.4 (beta)
+* Release: June 2, 2021
+* Quest worlds: 70
+
 # Fancade 1.5.4
 * Release: February 14, 2021
 * Quest worlds: 65
