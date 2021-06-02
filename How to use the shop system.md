@@ -1,4 +1,4 @@
-Ok, so you're here to learn how to use the shop system, don't ya? Well, I'm Tha Cuber and im gonna tell you everything I figured out while using the shop system.
+Ok, so you wanna learn how to use the shop system, don't ya? Well, I'm Tha Cuber and im gonna tell you everything I figured out while using the shop system.
 
 Currently the only way to access the shop is by losing or winning.
 
