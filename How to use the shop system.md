@@ -30,9 +30,9 @@ Name: the name of the item in the shop.
 
 ![Menu item name](https://media.discordapp.net/attachments/788803873330298880/849719245243940874/unknown.png?width=351&height=467)
 
-If the block isn't connected to something else and/or neither there's no object connected to the Picture input nor a Variable then it'll show as a section.
+If the block isn't connected to something else and/or neither there's no object connected to the Picture input nor a Variable then it'll show as title on a new page.
 
-![Menu section](https://cdn.discordapp.com/attachments/788803873330298880/849720693074952232/unknown.png)
+![Menu page title](https://cdn.discordapp.com/attachments/788803873330298880/849720693074952232/unknown.png)
 
 On/Off: this sets the amount of times that upgrade can be bought. For example, let's say you set it on Max 2.
 
@@ -49,6 +49,13 @@ If you leave it as On/Off, you'll be able to buy it once, and toggle it on and o
 10 Fixed: this changes the price of the upgrade after you've bought it. If left on 10 Fixed, the price will stay on 10 coins every time you buy the upgrade. If it is on 10 Linear, then the price will increase by 10 coins each time you buy the upgrade. If set to 10 Double, then the price doubles each time you buy the upgrade. And you even get a bigger price if you keep clicking after 10 Double! The existing prices are 100, 1k (1,000) and 10k (10,000) and all of them have the same options except for 10k, which only has the fixed option.
 
 ![10 Linear showcase](https://cdn.discordapp.com/attachments/788803873330298880/849724272485335070/unknown.png)
+
+# Limits
+
+6 Pages
+92 Items (including Titles)
+
+P.S. Due to bug 100 items will break fangold/gems menu, because it also occupy 8 items. Dont do that or your game may be unpublished.
 
 ***
 
