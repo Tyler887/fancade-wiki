@@ -12,9 +12,10 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• 5 new worlds
 <br>• Option to buy ad-free forever
 <br>• Option to buy or earn gems to speed progress
-<br>• New script blocks
+<br>• New script blocks (Menu Item, Saved variables, Set Score Coins input, Win/Lose delay setting)
 <br><b>Changed:</b>
 <br>• Fresh new UI look
+<br>• New app icon (experimental!)
 <br>• Faster level switching
 <br>• Faster intro
 <br><b>Fixed:</b>
