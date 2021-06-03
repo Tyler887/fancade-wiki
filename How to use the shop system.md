@@ -1,4 +1,6 @@
-Ok, so you wanna learn how to use the shop system, don't ya? Well, I'm Tha Cuber and im gonna tell you everything I figured out while using the shop system.
+Ok, so you wanna learn how to use the shop system, don't you? Well, I'm gonna tell you everything I figured out while using the shop system.
+
+_Note: The shop system is only accessible on the beta version of Fancade 1.6.4_
 
 Currently the only way to access the shop is by losing or winning.
 Also, you will need to use a saved variable (!Var) or it'll be completely useless.
