@@ -19,7 +19,7 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Faster level switching
 <br>• Faster intro
 <br><b>Fixed:</b>
-<br>• Sound effect cause lag!
+<br>• Sound effects cause lag!
 <br>• Possible soft-lock on logo
 <br>• 3D objects draw over UI
 <br></details>
