@@ -3,7 +3,6 @@
 Ok, so you wanna learn how to use the shop system, don't you? Well, I'm gonna tell you everything I figured out while using the shop system.
 
 Currently the only way to access the shop is by losing or winning.
-Also, you will need to use a saved variable (!Var) or it'll be completely useless.
 
 # Coins
 To use the coins, just take a number variable and stick it to the new coins input in the score block. 
@@ -17,13 +16,14 @@ When you test-play the game you should see the coin counter at the corner of the
 *Note: When making a game, you can give yourself free coins to test your upgrade shop. They won't count as coins in the actual game though.*
 
 # Menu items
-To use the menu items, first take a block out of the inventory, then you are going to use two kinds of inputs: a picture input and a variable input.
+To use the menu items, first take a block out of the inventory, and after placing it in the floor you will see two kinds of inputs: a Picture input and a Variable input.
 
 [[/uploads/Captura_de_pantalla_2021-06-02_142338.png]]
 
 The Picture input is the object that will appear when looking at the according "Upgrade it" references.
 
 The Variable input uses a variable to save the current state of the upgrade.
+You will need to use a saved variable (!Var) for this one or it'll be completely useless.
 
 There's also other options when you select the block:
 
