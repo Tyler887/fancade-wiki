@@ -24,4 +24,4 @@ In the example below, we're moving the blocks by (0, 0, 0.1) every frame.
 
 [[/uploads/Screenshot_20210128-171605_Fancade.jpg]]
 
-I mentioned previously that the Counter won't output the Stop value by the end of the loop. It won't be a problem because after we add the last block to a list, it increments the $Length variable by one. So, if the last block is assigned to index 4, $Length would equal to 5 which is exactly what the Stop input should be to account for every blocks.
+It's mentioned previously that the Counter won't output the Stop value by the end of the loop. It won't be a problem because after we add the last block to a list, it increments the $Length variable by one. So, if the last block is assigned to index 4, $Length would equal to 5 which is exactly what the Stop input should be to account for every blocks.
