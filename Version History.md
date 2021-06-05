@@ -3,6 +3,11 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 1.6.4 (beta)
 * Release: June 2, 2021
 * Quest worlds: 70
+* Collect coins and get upgrades!
+* Compete for rank in the Arcade
+* Share game photos with captions
+* New script blocks ([[Menu Item]], Saved variables, Set Score Coins input, Win/Lose delay setting)
+* Fresh new UI look
 * <details>
      <summary>Changelog</summary>
      <b>New:</b>
