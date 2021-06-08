@@ -1,7 +1,7 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Beta]].
 
-# Fancade 1.6.4 (beta)
-* Release: June 2, 2021
+# Fancade 1.6.5 (beta)
+* Release: June 8, 2021
 * Quest worlds: 70
 * Collect coins and get upgrades!
 * Compete for rank in the Arcade
@@ -27,6 +27,26 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Sound effects cause lag!
 <br>• Possible soft-lock on logo
 <br>• 3D objects draw over UI
+<br>• Multiple crash bugs
+<br>• Reduced clicks, clipping, and audio distortion
+<br>• Sometimes shows -1 coins
+<br>• Leaderboards don't load in some cases
+<br>• Impossible score goal bubbles
+<br>• Can't listen to Spotify while playing Fancade on iOS
+<br>• French/German keyboards don't activate on Android
+<br>• Polaroid tweens wrong in landscape
+<br>• Can't click some game-over screen buttons in landscape
+<br>• Wrong layout when some tablets are misidentified as phones
+<br>• Glitched game leaf on some phones
+<br>• Can keep moving after Win/Lose in e.g. Pushbox
+<br>• Occasional high-pitched coin SFX
+<br>• Coin reward shows final count if interrupted by an ad
+<br>• Coins sometimes show in wrong position
+<br>• Weirdness if force-setting On/Off menu item outside its range
+<br>• Creating 100 menu items leaves no room for coin shop
+<br>• Late Update doesn't run when drawing Polaroid photo
+<br>• Menu Item's "No limit" is actually limited to 101
+<br>• 45 degree game box
 <br></details>
 
 # Fancade 1.5.4
