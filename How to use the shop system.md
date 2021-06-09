@@ -1,6 +1,6 @@
 **Note: The shop system is only accessible on the beta version of Fancade 1.6.4 for now.**
 
-Ok, so you wanna learn how to use the shop system, don't you? Well, hete is everything you need to know while using the shop system.
+Ok, so you wanna learn how to use the shop system, don't you? Well, here is everything you need to know while using the shop system.
 
 Currently the only way to access the shop is by losing or winning.
 
