@@ -49,6 +49,10 @@ If you leave it as On/Off, you'll be able to upgrade it once, and toggle it on a
 
 [[/uploads/Captura_7.png]]
 
+But if you leave it in No Limit then the upgrade will literally have no limit and you will be able to buy it how many times you want.
+
+[[/uploads/Screenshot_20210609-192759.png]]
+
 "Fixed": 
 This changes the price of the upgrade after you've bought it. If left on "10 fixed", the price will stay on 10 coins every time you buy the upgrade. 
 
@@ -61,6 +65,10 @@ If set to 10 Double, then the price doubles each time you buy the upgrade.
 And you even get a bigger price if you keep clicking after 10 Double! The existing prices are 100, 1k (1,000) and 10k (10,000) and all of them have the same options except for 10k, which only has the fixed option.
 
 [[/uploads/Captura_8.png]]
+
+# How to use the bought upgrades
+
+To use these, take the saved variable (!Var) you sticked into the Variable input and use it in whatever you want. Normally the variables are equal to the upgrade level of the certain upgrade. For example, if used a Max 5 upgrade then the variable can be equal to the values of 0 through 5. If used a On/Off upgrade, the variable can only equal 0 or 1. If used a No Limit upgrade, the variable can equal 0 through N (all natural numbers.)
 
 # Limits
 
