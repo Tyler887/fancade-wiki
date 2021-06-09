@@ -1,6 +1,6 @@
 **Note: The shop system is only accessible on the beta version of Fancade 1.6.4 for now.**
 
-Ok, so you wanna learn how to use the shop system, don't you? Well, I'm gonna tell you everything I figured out while using the shop system.
+Ok, so you wanna learn how to use the shop system, don't you? Well, hete is everything you need to know while using the shop system.
 
 Currently the only way to access the shop is by losing or winning.
 
@@ -68,8 +68,3 @@ And you even get a bigger price if you keep clicking after 10 Double! The existi
 - 92 Items (including Titles)
 
 Note: Due to a bug, 100 items will break fangold/gems menu, because it also occupies 8 items. Don't do that or your game may be unpublished.
-
-***
-
-And that's about it! If the page needs some extra information, or I wrote something wrong, please correct it. Let's keep updating this page so more people can learn how to use:
-**_The shop system!_**
