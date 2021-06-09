@@ -75,4 +75,4 @@ To use these, take the saved variable (!Var) you sticked into the Variable input
 - 6 Pages
 - 92 Items (including Titles)
 
-Note: Due to a bug, 100 items will break fangold/gems menu, because it also occupies 8 items. Don't do that or your game may be unpublished.
+Note: Due to a bug, 100 items will break fangold/gems menu, because it also occupies 8 items. Don't do that or your game will be most likely unpublished.
