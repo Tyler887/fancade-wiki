@@ -12,5 +12,5 @@ The introduction of advanced inspect allowed for more robust testing, which help
 The limit is 4096. The value doesn't matter as much as how you decide to use them. There are three things that consume the script limit.
 
 * Script Blocks
-* Wire Splits
+* [Wire Splits](https://www.fancade.com/wiki/Script/Wire%20Splits.md)
 * Pointer Dereferencing
