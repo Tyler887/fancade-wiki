@@ -1,5 +1,7 @@
 Sets the score.
 
+* In Fancade 1.6, a second input is made available to set the amount of Coins the player can get playing a game.
+
 There is a setting that determines which score to consider as better one.
 
 * Most Points: the more points the better
@@ -11,6 +13,7 @@ You also can provide time score, just make sure that the input is a total amount
 * Longest Time: the longer the better
 
 Setting a negative score removes the score.
+
 [[/uploads/Setscore.png]] 
 
 ## Example 
