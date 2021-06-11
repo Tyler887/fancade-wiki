@@ -4,7 +4,7 @@ Though this new script made a great new mechanics for fancade it has some limita
 - The base price are currently only fixed to 10 , 100 , 1k & 10k.
 - Each menu item script **must** only be executed once per game , if it's left continuosly executing the shop will be filled with repeating set of items until it has too many items in it that will cause the `"too many menu items!"` error.
 
-Items can be either some type of upgrades or boosters just by playing with the buy limit setting of the menu item script. You can choose between an on/off , Max 2-100 or unlimited buy limit.
+Items can be either some type of upgrades or boosters just by playing with the buy limit settings and variable input of the menu item script. You can choose between an on/off , Max 2-100 or unlimited buy limit.
 
 To learn how to use it, you can see [here](https://www.fancade.com/wiki/How%20to%20use%20the%20shop%20system.md).
 
