@@ -51,8 +51,11 @@ But if you leave it in No Limit then the upgrade will literally have no limit an
 
 [[/uploads/Screenshot_20210609-192759.png]]
 
-"Fixed": 
-This changes the price of the upgrade after you've bought it. If left on "10 fixed", the price will stay on 10 coins every time you buy the upgrade. 
+Price Type:
+This changes the price of the upgrade after you've bought it. 
+
+"Fixed":
+If left on "10 fixed", the price will stay on 10 coins every time you buy the upgrade. 
 
 "Linear":
 If it is on 10 Linear, then the price will increase by 10 coins each time you buy the upgrade. 
