@@ -35,7 +35,7 @@ If the block isn't connected to something else and/or neither there's no object 
 
 [[/uploads/Captura_4.png]]
 
-On/Off: this sets the amount of times that object can be upgraded. For example: let's say you set it on Max 2.
+Buy Limit: this sets the amount of times that object can be upgraded. For example: let's say you set it on Max 2.
 
 [[/uploads/Captura_5.png]]
 
