@@ -7,7 +7,7 @@ To use the coins, just take a number variable and stick it to the new coins inpu
 
 [[/uploads/Captura_de_pantalla_2021-06-02_143144.png]]
 
-When you test-play the game you should see the coin counter at the corner of the screen. To get coins just increment the variable you used as the coin counter.
+When you play-test the game you should see the coin counter at the corner of the screen. To get coins just increment the variable you used as the coin counter.
 
 [[/uploads/Captura_1.png]]
 
