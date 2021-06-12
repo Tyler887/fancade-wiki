@@ -1,4 +1,4 @@
-Fancade 1.6 adds a new script block called [[Menu Item]] and Coins. This page serves as a guide on how to use them.
+Fancade 1.6 adds a new script block called [[Menu Item]] and [[Coins]]. This page serves as a guide on how to use them.
 
 Currently the only way to access the shop is by losing or winning.
 
