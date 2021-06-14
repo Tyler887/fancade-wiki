@@ -1,5 +1,22 @@
-Plays a sound effect, with optional volume and pitch inputs. Use its settings to choose which sound to play. You can also loop the sound, in which case it'll just keep on playing.
-
-The max pitch is 4
+Plays a sound effect, with optional volume and pitch inputs. Outputs the channel on which the sound is played. Use the settings to change which sound effect is played.
 
 [[/uploads/Playsound.png]]
+
+## Input/Output
+
+Unlike most other blocks, a wire connected to Before is *required* for it do do anything, it does not run automatically.
+
+| Wire      | Range | Note |
+|-----------|:-----:|:-----|
+| Volume    | 0..1  | 
+| Pitch     | 0..4  | 
+| *Channel* | -1..7 | Only -1 when channels 0 to 7 are occupied. If so, the sound won't play.
+
+## Settings
+
+[[/uploads/Playsound_contextmenu.png]]
+
+The rightmost setting displays which sound effect is played. Tap to change.
+
+Checking Loop will make the sound repeat on the chosen channel until stopped with [[Stop Sound]]. A looping channel becomes occupied until it is stopped, meaning other Play Sound blocks will not choose that channel. 
+
