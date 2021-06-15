@@ -4,7 +4,7 @@ Makes the constraint springy, like a car's suspension.
 
 Inputs:
 
-* Constraint: This script must use the output of an [[add constraint]] script. 
+* Constraint: This script must use the output of an [[add constraint]] script. This can be done directly (connect the two by a wire), or the script can be connected to a constraint variable or list.
 * Stiffness: A vector value. Determines the amount of force that that will be used to "spring" the objects towards their original positions.
 * Damping: A vector value. Acts as a kind of "drag" so that objects will not spring continually.
 
