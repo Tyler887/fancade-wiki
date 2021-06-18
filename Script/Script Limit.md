@@ -29,3 +29,25 @@ But wire splits are defined as "n to 1" and "1 to n". This basically means, no m
 The same applies in case of joining. The script in image C counts as 4, whereas the script in image D counts as 10.
 ![C - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621433393172/Screenshot_20210618-113611_Fancade.png)
 ![D - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621639569408/Screenshot_20210618-113747_Fancade.png)
+
+### Pointer Dereferencing
+This section will be easier to understand if you are somewhat familiar with the concept of pointers. If you are not, you can think of them as an address to somewhere a value is stored.
+When a pointer is dereferenced, i.e. converted to value, it counts as one script. In image E, the Get Variable block outputs a pointer, which is then derefernced to a value for the Negate block. Thus the script adds 3 (2 script blocks + 1 pointer dereferencing) to the counter.
+![E - Pointer Dereferencing](https://cdn.discordapp.com/attachments/852037487987392529/855423621933301760/Screenshot_20210618-113952_Fancade.png)
+
+This behaviour, when combined with wire splitting, results in a peculiar quirk where adding another script block can actually consume less script limit than without that block. In the following picture, case 1 adds 8 (4 script blocks + 1 wire splitting + 3 pointer dereferencing) scripts to the counter. Almost half of them are just from dereferencing. To avoid that, in case 2 another script block is added to dereference the pointer before the split. Thus case 2 only adds 7 (5 script blocks + 1 wire split + 1 pointer dereference) scripts to the counter.
+![Pointer Dereferencing](https://cdn.discordapp.com/attachments/852037487987392529/855440742431064094/Screenshot_20210618-130458_Fancade.png)
+
+Known script blocks that output a pointer are all the Get Variable and List Element blocks.
+![Pointer out](https://cdn.discordapp.com/attachments/852037487987392529/855444701309829170/Screenshot_20210618-192013_Fancade.png)
+
+Known script blocks that accept a pointer as input are the Variable inputs of the List Element blocks and the Variable input of the Menu Item block.
+![Pointer in](https://cdn.discordapp.com/attachments/852037487987392529/855444701561094211/Screenshot_20210618-192112_Fancade.png)
+
+## Tips
+Here are some general tips to conserve the limit as much as possible.
+
+* Use wire splits whenever possible.
+* Do not use variables unless absolutely needed.
+* If a pointer is dereferenced at least three times, dereference it before the split.
+* Comments do not count towards any limits. Use them as much as possible.
