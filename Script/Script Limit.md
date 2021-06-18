@@ -11,9 +11,9 @@ The introduction of advanced inspect allowed for more robust testing, which help
 ## Current Understanding
 The limit is 4096. The value doesn't matter as much as how you decide to use them. There are three things that consume the script limit.
 
-* Script Blocks
-* [Wire Splits](https://www.fancade.com/wiki/Script/Wire%20Splits.md)
-* Pointer Dereferencing
+* [Script Blocks](https://www.fancade.com/wiki/Script/Script%20Limit.md#script-blocks)
+* [Wire Splits](https://www.fancade.com/wiki/Script/Script%20Limit.md#wire-splits)
+* [Pointer Dereferencing](https://www.fancade.com/wiki/Script/Script%20Limit.md#pointer-dereferencing)
 
 ### Script Blocks
 Every script block counts as 1 script towards the total limit. It does not matter which script block it is, as long as it is an inbuilt script block, it adds 1 to the counter. The attached image has 4 script blocks, thus the script consumption is 4/4096 or 0.1%.
