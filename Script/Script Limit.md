@@ -14,3 +14,18 @@ The limit is 4096. The value doesn't matter as much as how you decide to use the
 * Script Blocks
 * [Wire Splits](https://www.fancade.com/wiki/Script/Wire%20Splits.md)
 * Pointer Dereferencing
+
+### Script Blocks
+Every script block counts as 1 script towards the total limit. It does not matter which script block it is, as long as it is an inbuilt script block, it adds 1 to the counter. The attached image has 4 script blocks, thus the script consumption is 4/4096 or 0.1%.
+![4 Script Blocks](https://cdn.discordapp.com/attachments/852037487987392529/855423620397662238/Screenshot_20210618-113130_Fancade.png)
+
+### Wire Splits
+A wire split counts as 1 script towards the limit. Thus the script in image A adds 4 scripts (3 script blocks + 1 wire split) to the counter.
+![A - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423620692443156/Screenshot_20210618-113313_Fancade.png)
+
+But wire splits are defined as "n to 1" and "1 to n". This basically means, no matter how large the split is, it will add only 1 to the counter. The script in image B adds 10 scripts (9 script blocks + 1 wire split) to the counter.
+![B - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621173739530/Screenshot_20210618-113424_Fancade.png)
+
+The same applies in case of joining. The script in image C counts as 4, whereas the script in image D counts as 10.
+![C - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621433393172/Screenshot_20210618-113611_Fancade.png)
+![D - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621639569408/Screenshot_20210618-113747_Fancade.png)
