@@ -41,8 +41,8 @@ This behaviour, when combined with wire splitting, results in a peculiar quirk w
 Known script blocks that output a pointer are all the Get Variable and List Element blocks.
 ![Pointer out](https://cdn.discordapp.com/attachments/852037487987392529/855444701309829170/Screenshot_20210618-192013_Fancade.png)
 
-Known script blocks that accept a pointer as input are the Variable inputs of the List Element blocks and the Variable input of the Menu Item block.
-![Pointer in](https://cdn.discordapp.com/attachments/852037487987392529/855444701561094211/Screenshot_20210618-192112_Fancade.png)
+Known script blocks that accept a pointer as input are the Variable inputs of the List Element blocks, the Variable input of the Menu Item block and, increment and decrement block.
+![Pointer in](https://media.discordapp.net/attachments/852037487987392529/855655587852451840/Screenshot_20210619-091908_Fancade.png)
 
 ## Tips
 Here are some general tips to conserve the limit as much as possible.
