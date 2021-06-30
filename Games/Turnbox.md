@@ -38,11 +38,11 @@ Tap the northeast blue box 3 times, then the northeast red box 2 times, and then
 
 #### Level 8
 
-Tap the top red box, then the blue box 3 times, then the other red box 5 times.
+Tap the top red box, then the blue box 2 times, then the other red box 5 times.
 
 #### Level 9
 
-Tap the red box, then the blue box, then the red box 2 times, then the blue box 2 times, then the red box.
+Tap the red box, then the blue box, then the red box 2 times, then the blue box 3 times, then the red box.
 
 #### Level 10
 
@@ -56,7 +56,7 @@ Tap the red box 2 times, then the blue box, then the red box 3 times, then the b
 
 #### Level 12
 
-Tap the green box 3 times, then the red box 5 times, then the green box.
+Tap the green box 3 times, then the red box 8 times, then the green box.
 
 #### Level 13
 
@@ -70,7 +70,7 @@ Tap the green box, then the red box 5 times, then the green box 2 times, then th
 
 #### Level 15
 
-Tap both green boxes, then both red boxes, then both green boxes 5 times, and then both red boxes 2 times, then tap either red box, and lastly, tap either of the green boxes 5 times.
+Tap both green boxes, then both red boxes, then both green boxes 5 times, and then both red boxes 2 times, then tap either red box, and lastly, tap either of the green boxes 6 times.
 
 #### Level 16
 
@@ -110,7 +110,7 @@ Tap the green box, then the red box 4 times, then the green box 2 times, and las
 
 [[/uploads/turnbox-level-23.png | height=280px]]
 
-11112, 11332, 42244, 44444, 433.
+11112, 11332, 42244, 44444, 422.
 
 #### Level 24
 
@@ -174,7 +174,7 @@ Tap the green box 4 times, then the red box 2 times, then the green box, then th
 
 #### Level 35
 
-Tap the red box, then the green box 3 times, then repeat this sequence once. Then, tap the red box 3 times, then the green box 2 times, and finally, tap the green box 3 times.
+Tap the red box, then the green box 3 times, then repeat this sequence once. Then, tap the red box 3 times, then the green box 2 times, and finally, tap the red box 3 times.
 
 #### Level 36
 
@@ -236,7 +236,7 @@ Tap the red box, then the green box 3 times, then repeat this sequence once. The
 
 [[/uploads/turnbox-level-44b.png | height=300px]]
 
-11111, 23311, 22141, 123.
+11111, 23311, 33141, 123.
 
 #### Level 45
 
