@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 # How to Play
 
 Tap a box to move it in the direction it is facing in! They turn automatically to the right when it hits something. When it hits a box of the same color, they get destroyed, and the other adjacent same-colored boxes.  
