@@ -1,1 +1,0 @@
-Final Fighter Super Turbo Dark Silver Force 1 & Final Fighter Hyper Turbo Evil Salvador Force 1
