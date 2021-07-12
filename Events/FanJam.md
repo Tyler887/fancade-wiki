@@ -1,4 +1,4 @@
-A Fancade event that happens every 1 or 2 months, it is hosted in the [[Fancade Discord Server|Discord]] by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the [[#fanjam|https://discord.com/channels/409219533618806786/686479396801871957]] channel.
+A Fancade event that happens every 1 to 3 months, it is hosted in the [[Fancade Discord Server|Discord]] by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the [[#fanjam|https://discord.com/channels/409219533618806786/686479396801871957]] channel.
 
 # Event Details
 
@@ -15,9 +15,7 @@ FanJam consist of 3 phases:
 ### (Dev Phase/Submission Phase) 
 During the start of the event, the 1st Phase, a selected theme is Announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days, until then player can still continue to build, add new features and publish/update their games as a valid submission.
 
- **To submit your game during a FanJam event you must share your game in the Fancade Discord #games channel with the tags:**
-- ***fanjam #kit*** - for games made from game kits
-- ***fanjam #full*** - for games made from scratch (using custom scripts from other people's projects is allowed and considered)
+ **To submit your game during a FanJam event you must share your game in the Fancade Discord #showcase channel with the tag #fanjam.**
  
 After its time period then a 1 day delay is placed, at the immediate end and during this delay, Sounak will anounce an Instructions for late submissions on how to gain consideration permission for their submissions. - Asking for permission can only be done for 30 mins. after the immediate end.
 
@@ -28,43 +26,57 @@ After this 2nd Phase will start, during this time all people in discord can see 
 
 ### 3rd Phase 
 ### (Announcing of Winners)
-This marks the flag of the end of the current FanJam. The long awaited (ofc) by all participants, and that is ... to see their names in the boards. FanJam has 4 categories with each having different set of winners; Overall, Kits, Art, Innovation.
+This marks the flag of the end of the current FanJam. The long awaited (ofc) by all participants, and that is ... to see their names in the boards. FanJam has 3 categories with each having different set of winners; Overall, Art, and Innovation.
 
-- Overall - only those with tag ***#full*** in their game can participate 
-- Kits - only those with tag ***#kit*** in their game can participate
-- Art - Best Arts in people's eyes, everyone can participate here
-- Innovation - The most Innovative in people's oppinion, everyone can participate here
+- Overall - The best game overall
+- Art - Best Arts in people's eyes
+- Innovation - The most Innovative in people's opinion
 
 *Note: only the top 3 winners per each category is displayed.
 
-Additionally, Participants who got in top 3 of any of this categories will get a free premium depending on their position in top 3, winning multiple categories only gives you a the reward you won with the highest prize. (And also can you believe it a **<font color="2ecc71">Fanjam</font>** role just literally for bragging rights, ~~lol~~).
+Additionally, Participants who got in top 3 of the Overall category will get a free reward depending on their position in top 3, and top 1 in the 2 other categories. Winning multiple categories only gives you the reward you won with the highest prize. (And also can you believe it a **<font color="2ecc71">Fanjam</font>** role just literally for bragging rights, ~~lol~~).
 
 ## B.) Rules & Instructions
 This is more like a quick summary of ***Mechanics***.
 
 #### Rules:
 > - Only one submission is allowed per user.
-> - You are free to use Custom Script/Pre-built Assets but the vast majority of the code must be prepared within the designated 72 hours.
-> - Feel free to depict the theme any way you like. It is advised to mention how you depict the theme in the in-app description of your game (not mandatory).
+> - Creative depiction of the theme is encouraged, as long as it maintains a **crucial role in gameplay**.
+> - You are allowed to use any kind of pre-existing script, music, art, or kits as long as the vast majority of the game is built within the designated time frame. It is mandatory to include a <u>separate credits</u> level if any of the aforementioned assets are used.
 
 #### Submission:
-> - Once you have your game ready for submission, you can do so by sharing a link to the game on #games.
-> - Games made from scratch needs to have #full in the submission message.
-> - Games made using kits needs to have #kits in the submission message.
-> - You can update your submission as many times as you want before the end of the submission phase. Once submission phase ends updating will result in immediate disqualification.
+> - Once your submission is ready, you can use the in-game share feature to share your submission on #showcase.
+> - Every submission must have #fanjam alongside the shared message.
+> - You are only allowed to update your submission _until the end of the submission phase_.
 
 #### Prizes:
 
-Submitted games will be judged in 4 different categories, each with different prizes.
-- A. Best Overall - 90 Days of Fancade Premium.
-- B. Best Kits - 60 Days of Fancade Premium.
-- C. Best Art - 45 Days of Fancade Premium.
-- D. Most Innovative - 45 Days of Fancade Premium.
-> - Alongside these, 2nd Place winner of every category will get 15 Days Premium and 3rd Place winner of every category will get 7 Days Premium as a prize.
-> - Games made from scratch aren't eligible for Category B and games made using kits aren't eligible for Category A.
-> - Prizes aren't additive. If one submission is eligible for more than one prize, the one with highest value will be awarded.
-> - Winner of each category will be given a FanJam Discord Role!
+Prizes will be given on three main categories.
+- **A. Best Overall**  
+<blockquote>
+<b>1st:</b> Forever ad-free + 1500 gems  
+<br><b>2nd:</b> One year ad-free + 1000 gems  
+<br><b>3rd:</b> Six months ad-free + 500 gems  
+</blockquote>
+- **B. Best Art** 
+<blockquote>
+<b>1st:</b> One year ad-free + 1000 gems
+</blockquote>
+- **C. Most Innovative** 
+<blockquote>
+<b>1st:</b> One year ad-free + 1000 gems
+</blockquote>
+- Alongside these, 1st place winner of every category will be awarded with the **<font color="2ecc71">@Fanjam</font>** role.
 
+#### FAQ:
+- What happened to kits?
+<blockquote>
+Kits will no longer represent a separate category. Every game made using a kit will be eligible for all the categories, similar to a game made from scratch.
+</blockquote>
+- Are prizes additive?
+<blockquote>
+No. In case one submission is eligible for multiple prizes, the prize with the highest value will be awarded, and those with lower values will fall to the next participant.
+</blockquote>
 *Now that you know all about Fanjam, do you think your ready for next Fanjam? see ya there and hopefully you can win!!
 
 # History 
@@ -106,3 +118,7 @@ Special Mechanics:
 ## FanJam VIII
 - Event Period: 3/19/2021 - 4/3/2021
 - Theme: No Instructions Needed
+
+## FanJam 10
+- Event Period: 7/11/2021 - ?/?/2021
+- Theme: *Not announced yet*
