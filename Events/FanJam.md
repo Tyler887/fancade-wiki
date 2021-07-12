@@ -46,8 +46,8 @@ This is more like a quick summary of ***Mechanics***.
 
 #### Submission:
 > - Once your submission is ready, you can use the in-game share feature to share your submission on #showcase.
-> - Every submission must have #fanjam alongside the shared message.
-> - You are only allowed to update your submission _until the end of the submission phase_.
+> - Every submission **must have #fanjam alongside the shared message**.
+> - You are only allowed to update your submission <u>until the end of the submission phase</u>.
 
 #### Prizes:
 
