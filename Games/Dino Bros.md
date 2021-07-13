@@ -15,4 +15,4 @@ This puzzle game is based on the earlier game [[Ditto]], which is also made by [
 - [[Levels 31-40|https://www.youtube.com/watch?v=HWdAJPSEr7Q]]
 - [[Levels 41-50|https://www.youtube.com/watch?v=NsL64CwArI8]]
 
-Note that the above video walkthrough of Level 41 uses a hidden area to stack the dinos to get the last key. This unintended solution has been fixed. Instead, use the staircase to stack Pinky on top of Yello.
+_Note that the above video walkthrough of Level 41 uses a hidden area to stack the dinos to get the last key. This unintended solution has been fixed. Instead, use the staircase to stack Pinky on top of Yello._
