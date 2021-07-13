@@ -1,6 +1,7 @@
 ---
 quest: true
 ---
+Ruin Castle is a Fancade game created by nmskr.
 
 # How to play
 
