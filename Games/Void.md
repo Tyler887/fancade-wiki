@@ -1,6 +1,7 @@
 ---
 quest: true
 ---
+Void is a game created by [[Martin Magni||https://www.fancade.com/wiki/Martin%20Magni.md]].
 
 # How to play
 You try to figure out the controls and find a way to clear the screen.
