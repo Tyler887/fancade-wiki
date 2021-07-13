@@ -2,9 +2,9 @@
 quest: true
 ---
 
-[[Loading|https://fancade.page.link/jBFM]] is [[Fanjam VIII|Fanjam#fanjam-viii]]'s winner for Innovation. Similar to [[The Button]], a game made by the same creator, the objective is to figure out what to do for each level.
+[[Loading|https://fancade.page.link/jBFM]] is [[Fanjam VIII|Fanjam#fanjam-viii]]'s winner for Innovation created by FancyGames. Similar to the creator's other game, [[The Button]], the objective is to figure out what to do for each level.
 
-It was introduced in Fancade 1.6.
+It was introduced in quest in Fancade 1.6.
 
 # Solutions
 
