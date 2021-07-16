@@ -121,4 +121,4 @@ Special Mechanics:
 
 ## FanJam 10
 - Event Period: 7/11/2021 - ?/?/2021
-- Theme: *Not announced yet*
+- Theme: 
