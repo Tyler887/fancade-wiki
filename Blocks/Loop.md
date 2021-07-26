@@ -1,7 +1,7 @@
 The Loop block is used to run a script multiple times in the same frame. Often used for processing every element in a [[list|List Element]].
 
 Inputs
-- Start: The Loop blocks starts looping from the Start input.
+- Start: The Loop block starts looping from the Start input.
 - Stop: Then it stops looping once it reaches the Stop input.
 
 Outputs
@@ -9,6 +9,13 @@ Outputs
 - Counter: Outputs the current loop number counting from the Start value. If the Start value is greater than the Stop value, it counts down instead of up.
 
 [[/uploads/Loop.png]]
+
+## Notes
+
+- The counter always steps by 1 (or -1, if Start is greater than Stop)
+- The counter does not output the Stop value
+- If a non-integer value is provided for Start, it's rounded down to the next smallest integer.
+- If a non-integer value is provided for Stop, it's rounded up to the next biggest integer.
 
 If you were to start the loop at 0 and stop it at 5, you would loop the script 5 times (Count) and the Counter outputs from 0 to 4 (End). Which shows that the Counter won't output the Stop value by the end of the loop, might want to keep that in mind.
 
