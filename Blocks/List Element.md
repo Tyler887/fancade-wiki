@@ -9,6 +9,11 @@ Input:
 Output:
 - Elements: Outputs the value from the list with the index. It can also be used with [[Set Reference]] to set the value for that index.
 
+## Notes
+
+- Every variable can be treated as a list or a scalar (non-list). When a variable is accessed as a scalar, it points to its value at index 0.
+- A non-integer index number is rounded down to the next smallest integer.
+
 ## Example
 
 Here is the script for when a player shoots a bullet.
