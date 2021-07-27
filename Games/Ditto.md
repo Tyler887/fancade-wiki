@@ -4,7 +4,7 @@ quest: true
 
 # How to play
 Swipe any direction for all chicks to move.
-Move those chicks on to the 2 red buttons at once to win.
+Move those chicks onto the 2 red buttons at once to win.
 If any ditto falls too much and gets flattened, you lose.
 
 # Solutions
@@ -49,7 +49,7 @@ Left, left, right, up, up, left, down, down, left, up.
 
 **Level 10:**
 
-Up, right, down, left, left, up, right, rignt, down, right, right, up, right, down, left, left, left, left, left, up, right, left.
+Up, right, down, left, left, up, right, right, down, right, right, up, right, down, left, left, left, left, left, up, right, left.
 
 **Level 11:**
 
