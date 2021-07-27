@@ -71,7 +71,7 @@ Move the free ball left, then the other ball down, left, up, left, up and finall
 
 [[/uploads/multislide-level-12.png | height=200px]]
 
-1 right, up, 2 up, right, 1 right, 2 left, down, left, 1 down, left.
+1 right, up, 2 up, right, 1 down, left, 2 right.
 
 #### Level 13
 
@@ -165,13 +165,13 @@ Left, up, left, right, down, left, up, down, right, up, left, down.
 
 [[/uploads/multislide-level-29.png | height=250px]]
 
-2 down, left, up, right, up, left, right, down, 1 down, left, 2 up, left, down, right, 1 right, up, left, down, left, 1 down, left.
+2 down, left, up, right, up, left, right, down, 1 down, left, 2 up, left, down, right, 1 right, up, left, down, left, 2 down, left.
 
 #### Level 30
 
 [[/uploads/multislide-level-30.png | height=280px]]
 
-1 left, 2 left, up, 1 right, down, left, up, right, left, down, right, 2 up, right, down, 1 left, up, right, down, 1 down.
+1 left, 2 left, up, 1 right, down, left, up, right, left, down, right, 2 up, right, down, 1 left, up, right, down, 2 down.
 
 #### Level 31
 
@@ -229,7 +229,7 @@ Move the ball left, then the stone ball down, then move the ball up, right, down
 
 [[/uploads/multislide-level-40.png | height=200px]]
 
-1 left, down, 2 right, down, left, 1 up, 3 right, 1 down, 2 right, up, left.
+1 left, down, 2 right, down, left, 1 up, 3 right, 1 left, 2 right, up, left, down.
 
 #### Level 41
 
