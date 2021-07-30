@@ -120,5 +120,5 @@ Special Mechanics:
 - Theme: No Instructions Needed
 
 ## FanJam 10
-- Event Period: 7/11/2021 - ?/?/2021
+- Event Period: 7/29/2021 - ?/?/2021
 - Theme: Snake Variations
