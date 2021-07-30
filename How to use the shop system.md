@@ -18,10 +18,10 @@ To use the menu items, first take a block out of the inventory, and after placin
 
 [[/uploads/Captura_de_pantalla_2021-06-02_142338.png]]
 
-The Picture input is the object that will appear when looking at the according "Upgrade it" references.
+The Picture input is the object that will appear when looking at the according places in the Shop.
 
 The Variable input uses a variable to save the current state of the upgrade.
-You will need to use a saved variable (!Var) for this one or it'll be completely useless.
+You will need to use a saved variable (!Var) for this or it'll be completely useless.
 
 There's also other options when you select the block:
 
@@ -31,7 +31,7 @@ Name: how the item will be named in the shop.
 
 [[/uploads/Captura_3.png]]
 
-If the block isn't connected to something else and/or neither there's no object connected to the Picture input nor a Variable then it'll show as title on a new page.
+If there's no Variable connected to the Variable input then it'll show as a title on a new page.
 
 [[/uploads/Captura_4.png]]
 
@@ -44,10 +44,12 @@ The corresponding object in the shop system will have to be upgraded 2 times to 
 [[/uploads/Captura_6.png]]
 
 If you leave it as On/Off, you'll be able to upgrade it once, and toggle it on and off, like an extra mode or a cheat code.
+If the connected Variable is \-1,that means OFF. You can set it to \-1 or 1 to avoid the purchase. 
 
 [[/uploads/Captura_7.png]]
 
-But if you leave it in No Limit then the upgrade will literally have no limit and you will be able to buy it how many times you want.
+But if you set it to No Limit then the upgrade will have no limit and you will be able to buy it how many times you want.
+*Note: "No Limit" comes after Max 100 in that menu.*
 
 [[/uploads/Screenshot_20210609-192759.png]]
 
@@ -69,9 +71,14 @@ And you even get a bigger price if you keep clicking after 10 Double! The existi
 
 # How to use the bought upgrades
 
-To use these, take the saved variable (!Var) you sticked into the Variable input and use it in whatever you want. Normally the variables are equal to the upgrade level of the certain upgrade. For example, if used a Max 5 upgrade then the variable can be equal to the values of 0 through 5. If used a On/Off upgrade, the variable can only equal 0 or 1. If used a No Limit upgrade, the variable can equal 0 through N (all natural numbers.)
+To use these, take the saved variable (!Var) you sticked into the Variable input and use it in whatever you want. Normally the variables are equal to the upgrade level of the certain upgrade. For example, if used a Max 5 upgrade then the variable can be equal to the values of 0 through 5. If used a On/Off upgrade, the variable can only equal \-1, 0 or 1. If used a No Limit upgrade, the variable can equal 0 through N (all natural numbers.)
 
 # Limits
 
 - 6 Pages
 - 100 Items (including Titles)
+
+## Buggy effects of negative numbers
+Negative values do work with other settings besides on/off, but they change the button to look like OFF. It still works, and the calculation that generates the price just uses the negative number.
+For example, 10 \* 2^\-2 for 10 Double and other fractions are rounded down, here to 2.
+Linear Prices will give you coins on \-2 and less
