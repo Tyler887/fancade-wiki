@@ -8,6 +8,6 @@ It cannot detect [[Pass Through]]s and [[Script Block]]s.
 
 ## Raycast drawing
 
-In edit mode, a visible line will be drawn between the start and points: green if there is not a hit, red otherwise. This effect can be used to make red and green line drawings, but it won't be visible in play mode unless the level contains only scripting blocks and no normal blocks.
+In edit mode, a visible line will be drawn between the start and end points: green if there is not a hit, red otherwise. This effect can be used to make red and green line drawings, but it won't be visible in play mode unless the level contains only scripting blocks and no normal blocks.
 
 Because red lines require the presence of a non-scripting block, you must use a loophole to get them to appear in play mode. If a normal block is _inside_ a scripting block at the start of the level, it will not trigger the hiding of script blocks and Raycast lines. On the first frame the normal block can then be moved to the floor, and set to visible (being inside a scripting block makes it start not visible). Then set it in the path of a Raycast line to turn it red.
