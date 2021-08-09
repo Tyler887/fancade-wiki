@@ -6,7 +6,7 @@ This page documents Fancade's history. If you want to know what the current beta
 * Collect coins and get upgrades!
 * Compete for rank in the Arcade
 * Share game photos with captions
-* New script blocks ([[Menu Item]], Saved variables, [[Set Score Coins input|Set Score]], Win/Lose delay setting)
+* New script blocks ([[Menu Item]], [[Saved variables|Set Variable#saved-variables]], [[Set Score Coins input|Set Score]], Win/Lose delay setting)
 * Fresh new UI look
 * <details>
      <summary>Changelog</summary>
