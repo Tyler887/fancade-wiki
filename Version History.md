@@ -1,6 +1,6 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Beta]].
 
-# Fancade 1.6.6 (beta)
+# Fancade 1.6.6
 * Release: June 10, 2021
 * Quest worlds: 70
 * Collect coins and get upgrades!
