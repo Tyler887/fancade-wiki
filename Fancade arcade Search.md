@@ -1,0 +1,1 @@
+we can search for games and creators for easy use. i have a personal opinion like the search is not performing well. that is _if we wanted to search odd bot and we are texting like obb bott, it will not come. make the search more helpful_ its only a suggestion.
