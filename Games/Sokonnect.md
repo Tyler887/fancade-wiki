@@ -6,6 +6,8 @@ Swipe to move the piece with a spinning indicator on it. Pieces move together as
 
 # Solutions
 
+(In the following notation, N, E, W, S, means swipe up, right, left, and down respectively.)
+
 1. WNN.
 2. NEWW.
 3. SEENS WWNNE.
