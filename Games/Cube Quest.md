@@ -10,6 +10,8 @@ Swipe to move the white cube. Find your way to the goal (checkered tile).
 
 # Solutions
 
+(In the following notation, N, E, W, S, means swipe up, right, left, and down respectively.)
+
 1. SSEEE ESSWW WSSWW.
 2. ENEEE ENWWS WWWWN NNWW.
 3. WNWWW WWNNN EESSS WWWW.
