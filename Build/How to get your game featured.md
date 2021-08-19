@@ -10,9 +10,9 @@ First, there are some things to avoid, which shouldn't be too hard:
 
 Then, the interesting things you *should* do, which are probably harder, but oh so worthwhile:
 
-- Simple controls (E.g. one-tap, swipe, and drag all work well on touch screens. There are many other options, but try to make it clear what the player is supposed to do.)
+- Simple controls (E.g. one-tap, swipe, drag and tilt all work well on touch screens. There are many other options, but try to make it clear what the player is supposed to do.)
 - Easy difficulty (We all underestimate how hard others will think our games are. Start super easy! Gradually increase difficulty in later levels.)
 - Make it look good (Use Fancade's strengths, colorful blocky low res art. That art style was chosen so that those of us who're not pro artists can still make something simple look OK.)
-- Add enough content (Fancade games can be very short, because there's thousands of other games to move onto! But it won't get featured if it's just one level that can be completed in a few seconds.)
+- Add enough content (Fancade games can be very short, because there's many other games to move onto! But it won't get featured if it's just one level that can be completed in a few seconds.)
 
 If your game manages to achieve many of these, then it's probably also fun to play! That's easier said than done, but most games in Featured have gotten help via our [[Discord]], with play testing and helpful suggestions. Yours can too!
