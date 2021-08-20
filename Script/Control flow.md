@@ -91,9 +91,9 @@ These blocks give you basic control structures that you'd find in most programmi
 
 These blocks act something like [event handlers](https://en.wikipedia.org/wiki/Event-driven_programming#Event_handlers). They send a run signal down their third wire in response to an event from an outside source (user input, or the physics engine).
 
-* [[Touch Sensor|Blocks/Touch Sensor]]
-* [[Swipe Sensor|Blocks/Swipe Sensor]]
-* [[Collision Sensor|Blocks/Collision]]
+* [[Touch Sensor]]
+* [[Swipe Sensor]]
+* [[Collision Sensor]]
 
 Although they're somewhat like event handlers, they're still governed by the execution ordering rules. Basically, if their triggering event happened during this tick, then the block will send a run signal down its third wire when (or if) the block executes during this tick.
 
