@@ -93,7 +93,7 @@ These blocks act something like [event handlers](https://en.wikipedia.org/wiki/E
 
 * [[Touch Sensor]]
 * [[Swipe Sensor]]
-* [[Collision Sensor]]
+* [[Collision Sensor|Collision]]
 
 Although they're somewhat like event handlers, they're still governed by the execution ordering rules. Basically, if their triggering event happened during this tick, then the block will send a run signal down its third wire when (or if) the block executes during this tick.
 
