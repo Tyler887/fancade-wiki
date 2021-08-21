@@ -5,3 +5,5 @@ The *Box Art* Button is a button added in version 1.3.1 of Fancade. Its icon is 
   - In version 1.4.3 update, you are able to click a camera button, with the ability to crop it. 
 
 [[/uploads/boxart.jpg]]
+
+This has been removed on 1.6 update, instead you tap on the current boxart you are using, or maybe just blue.
