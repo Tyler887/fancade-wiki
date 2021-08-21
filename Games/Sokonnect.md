@@ -1,4 +1,4 @@
-Sokonnect is a variation of Sokoban where you link all pieces together to win!
+[[Sokonnect|https://fancade.page.link/H9sd]] is a variation of Sokoban where you link all pieces together to win!
 
 # How to Play
 
