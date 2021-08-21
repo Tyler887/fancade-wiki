@@ -1,1 +1,3 @@
-we can search for games and creators for easy use. i have a personal opinion like the search is not performing well. that is _if we wanted to search odd bot and we are texting like obb bott, it will not come. make the search more helpful_ its only a suggestion.
+We can search for games and creators for easy access to the games you want to play. This can be very good when you check all tabs, and can't find the game.
+
+It takes 48 hours or less to show up a game on search, because search indexing is asynchronous.
