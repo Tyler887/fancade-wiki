@@ -1,3 +1,3 @@
-Sums each vector component individually.
+Adds each vector component individually.
 
 [[/uploads/Plus_Vector.png]]
