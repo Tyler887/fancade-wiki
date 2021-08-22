@@ -8,20 +8,18 @@ Swipe in any direction for both chicks to move. Move the chicks onto the 2 red b
 
 # Solutions
 
-(In the following notation, N, E, W, S means swiping north-west, north-east, south-west, and south-east respectively.)
-
-1. NWWWNS.
-2. WWWNN EEEESN.
-3. WWNEN ESSE.
-4. NNEWW WSSSSEN.
-5. EEENN WSSEN NNEWE SSWNE.
-6. EWWEE WEEWWEE.
-7. ENENW NWSE.
-8. SWWNN SEWSE NEES.
-9. WWENN WSSWN.
-10. NESWW NEESE ENESW WWWWNEW.
-11. SENNW SENWN EESS.
-12. NNSEE ESWW NENE.
-13. SSEEE SEENE WWNEN SENWS NWNE SENW.
-14. NESWN NSSEN NWSSE ENWSE NWWW.
-15. NNEES SWWNW WSEEENNN.
+1. ↖️↙️↙️↙️↖️↘️.
+2. ↙️↙️↙️↖️↖️ ↗️↗️↗️↗️↘️↖️.
+3. ↙️↙️↖️↗️↖️ ↗️↘️↘️↗️.
+4. ↖️↖️↗️↙️↙️ ↙️↘️↘️↘️↘️↗️↖️.
+5. ↗️↗️↗️↖️↖️ ↙️↘️↘️↗️↖️ ↖️↖️↗️↙️↗️ ↘️↘️↙️↖️↗️.
+6. ↗️↙️↙️↗️↗️ ↙️↗️↗️↙️↙️↗️↗️.
+7. ↗️↖️↗️↖️↙️ ↖️↙️↘️↗️.
+8. ↘️↙️↙️↖️↖️ ↘️↗️↙️↘️↗️ ↖️↗️↗️↘️.
+9. ↙️↙️↗️↖️↖️ ↙️↘️↘️↙️↖️.
+10. ↖️↗️↘️↙️↙️ ↖️↗️↗️↘️↗️ ↗️↖️↗️↘️↙️ ↙️↙️↙️↙️↖️↗️↙️.
+11. ↘️↗️↖️↖️↙️ ↘️↗️↖️↙️↖️ ↗️↗️↘️↘️.
+12. ↖️↖️↘️↗️↗️ ↗️↘️↙️↙️ ↖️↗️↖️↗️.
+13. ↘️↘️↗️↗️↗️ ↘️↗️↗️↖️↗️ ↙️↙️↖️↗️↖️ ↘️↗️↖️↙️↘️ ↖️↙️↖️↗️ ↘️↗️↖️↙️.
+14. ↖️↗️↘️↙️↖️ ↖️↘️↘️↗️↖️ ↖️↙️↘️↘️↗️ ↗️↖️↙️↘️↗️ ↖️↙️↙️↙️.
+15. ↖️↖️↗️↗️↘️ ↘️↙️↙️↖️↙️ ↙️↘️↗️↗️↗️↖️↖️↖️.
