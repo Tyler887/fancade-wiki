@@ -13,4 +13,4 @@ Cz = Ax × By - Ay × Bx
 
 It outputs the vector that is perpendicular to both input vectors (or the plane spanned by those two vectors).
 
-The length of that vector is equal to the area of the parallelogram formed by those two input vectors (each vector gives a pair of parallel sides). Not that common for this knowledge to be used, you would often use the vector for it's direction and not it's length.
+The length of that vector is equal to the area of the parallelogram formed by those two input vectors (each vector gives a pair of parallel sides). Not that common for this knowledge to be used, you would often use the vector for its direction and not its length.
