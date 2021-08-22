@@ -1,4 +1,4 @@
-Red circle represents the player
-Green circle represents the height needed to win
+The red circle represents the player.
+The green circle represents the height needed to win.
 
 [[/uploads/image02.png]]
