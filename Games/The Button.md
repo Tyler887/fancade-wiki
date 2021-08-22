@@ -22,7 +22,7 @@ Level 17 - Observe that one button pushes the other button upward and vice versa
 12. Tap the button minimal 3 times, drag & drop the weight into the button and tap the weight.
 13. Memorize and follow the pattern.
 14. Drag & drop the buttons on the base 9 times and tap the 10th button.
-15. Press the green button, you can press the red button multiple times to get score.
+15. This is a clicker game. Press the green button, you can press the red button multiple times to get score!
 16. Wait for several seconds, and then hold the button.
 17. Hold both buttons at the same time.
 18. Tap the base.
