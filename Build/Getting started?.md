@@ -1,7 +1,6 @@
 1. Watch the [[video tutorials|Are there any video tutorials?]] and go through the tutorial levels in Fancade.
 
-2. Look through the tutorial game made by Martin:
-[[https://fancade.page.link/qZPM]]
+2. Look through the [tutorial game](https://fancade.page.link/qZPM) made by Martin.
 
 3. Check games and scripts made by other users.
 
