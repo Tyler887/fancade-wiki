@@ -1,4 +1,4 @@
-Pancake sorting is a game where you flip pancakes in a limited number of moves, sorting them each move.
+Pancake Sorting is a game where you flip pancakes in a limited number of moves, sorting them each move.
 
 # How to Play
 
