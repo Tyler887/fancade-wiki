@@ -20,4 +20,4 @@ Ever wondered how to make those ultra smooth floating coin animations like in Ro
 [[uploads/floating_coin_animation.jpg]]
 
 (Note that you don't have to store the input in a rotation. A number will do just fine.)
-- Sin and [[Cos]] can be used for such back and forth animations like this. You can also multiply the output of sin or cos by a number to move it in a larger or smaller scale. If you manage to utilize this function, you can even make any type of animations very smooth (e.g. walking animation, gun recoil animation, moving platforms, etc.)!
+- Sin and [[Cos]] can be used for such back and forth animations like this. You can also multiply the output of sin or cos by a number to move it in a larger or smaller scale. If you manage to utilize this function, you can even make any type of animations very smooth (e.g. walking animation, gun Recoil animation, moving platforms, etc.)!
