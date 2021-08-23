@@ -8,45 +8,43 @@ Swipe diagonally to control the character. Get the character to the rotating obj
 
 # Solutions
 
-(In the following notation, N, E, W, S means swiping north-west, north-east, south-west, and south-east respectively.)
-
-1. NENWN.
-2. ESSW.
-3. SESSW.
-4. SWSE.
-5. WSEN WNNE.
-6. ESSSE SSWNW.
-7. SENWS SENWS SSW.
-8. ENENW SEESS WSENW.
-9. NESWN ESWNEES.
-10. SSWSW NESEN WNNWW.
-11. SSENE.
-12. WNNEN NWSWWW.
-13. WSWWW SWNEE SSENW SENESE.
-14. SEESE ESSWW WNESE NWSWN.
-15. SSWSW NENNN WSWSS.
-16. SSWSE NWWSW WNNNEN.
-17. SWWSW WSENE NWSSEES.
-18. WSWSS ENESSWW.
-19. ENWSE ENEES SWSWW SSESE SWNW.
-20. WNESW WNESW WWSSS EENWS EEES.
-21. ESSWN ENEES.
-22. SSESW NEESW NWWWNN.
-23. SSENW SSEEN ENENN.
-24. WNNWW SSWNE SSSSE NWNWS SEEEE NNW.
-25. WWSSE NWSEN EESSW SSWWW SSENW SENEESE.
-26. ESEES SSWWW NWSEEN.
-27. ESSWN ESWWN.
-28. NWSES WNENW WS.
-29. SESES WNEES ESE.
-30. SSWWW NNENW NWSES SWSEN NNENEE.
-31. WWNWW SENWS SEEE.
-32. SSENW NESEE SSWW.
-33. EESEE SSWWS ENW WWN.
-34. NEEEE NWSEN NWW.
-35. WSSES SWNEE ENN.
-36. NWSEN WNNWW SSSSEE.
-37. WWWNW SWNES WNNNN EESSE.
-38. SSWNE EEENN WSEESSSW.
-39. WSWSE ENWSE SSWW.
-40. EESWS WNENN ENWSE NWWWW WWSES WNEE.
+1. <<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>>.
+2. <<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>>.
+3. <<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>>.
+4. <<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>>.
+5. <<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>>.
+6. <<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>>.
+7. <<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>>.
+8. <<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>>.
+9. <<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>>.
+10. <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+11. <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>>.
+12. <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+13. <<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>>.
+14. <<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>>.
+15. <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>> <<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>>.
+16. <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>>.
+17. <<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>>.
+18. <<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+19. <<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>>.
+20. <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>> <<TopRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>>.
+21. <<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>>.
+22. <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>>.
+23. <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopLeftArrow()>>.
+24. <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>>.
+25. <<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>>.
+26. <<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>>.
+27. <<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>>.
+28. <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<BottomRightArrow()>>.
+29. <<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>>.
+30. <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<TopLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>>.
+31. <<BottomLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>>.
+32. <<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+33. <<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>>.
+34. <<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+35. <<BottomLeftArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<TopLeftArrow()>>.
+36. <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>>.
+37. <<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>> <<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<TopRightArrow()>>.
+38. <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>> <<TopRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopLeftArrow()>> <<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>>.
+39. <<BottomLeftArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<BottomRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>>.
+40. <<TopRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopLeftArrow()>><<TopLeftArrow()>> <<TopRightArrow()>><<TopLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>> <<TopLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomLeftArrow()>> <<BottomLeftArrow()>><<BottomLeftArrow()>><<BottomRightArrow()>><<TopRightArrow()>><<BottomRightArrow()>> <<BottomLeftArrow()>><<TopLeftArrow()>><<TopRightArrow()>><<TopRightArrow()>>.
