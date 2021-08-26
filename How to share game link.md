@@ -1,6 +1,5 @@
-If the game is published, you can easily get and share a link to it using `Share` button.
+If the game is published, you can easily get and share a link to it usually by searching it, tapping the game, and using the `Share` button, located below.
 
-Also you can visit [[Fancade game search|http://www.fancade.com/search]] web site to find a game and get the link.
-If the game its new, it may take up to 48 hours for the game to be searchable.
+If the game is new, note that it may take up to 48 hours for the game to be searchable.
 
 [[/uploads/Screenshot_20200122_203012.jpg]]
