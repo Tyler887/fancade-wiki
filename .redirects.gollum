@@ -38,3 +38,4 @@ getting_started.md: NADEEN.md
 Build/Can't move camera in edit mode.md: Build/Can't move camera in edit mode?.md
 Fancade arcade Search.md: Arcade search information.md
 Constraints.md: Build/Constraints.md
+Build/Constraints.md: Build/Script/Constraints.md
