@@ -1,4 +1,4 @@
-Laser Push is a game by Nabil arrafi, made from R3DZ3R's kit. It is a variation of Sokoban where boxes are explosive, and you must move the laser carefully!
+[[Laser Push|https://fancade.page.link/8owV]] is a game by Nabil arrafi, made from R3DZ3R's kit. It is a variation of Sokoban where boxes are explosive, and you must move the laser carefully!
 
 # How to Play
 
