@@ -6,7 +6,7 @@ This page, however, describes an inofficial pseudo code text format, inspired by
 
 # Fancade Coding Text Format
 
-This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this ... Sorry we can't do anything about it ~~:P~~,no jokes! so just do the thing in fancade , screenshot it and share it to them.
+This Format will be a basis when sharing or suggesting some codes and code solutions during script discussions. Take this as an easier way to share or suggest a code program instead doing it in fancade and go back to fancade server #scripting channel. Well in case of people that couldn't understand this ... Sorry we can't do anything about it :P,no jokes! so just do the thing in fancade , screenshot it and share it to them.
 
 
 ### Introduction
