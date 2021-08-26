@@ -1,0 +1,1 @@
+Destroy Object can only destroy objects created by [[Create Object]]. As a workaround, use Set Visible as a alternative, and connect [[False]], or you can ignore the visible input because the red input's default value is False.
