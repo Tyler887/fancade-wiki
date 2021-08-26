@@ -1,4 +1,4 @@
-Negates a [[number]].
+Negates a [[number]] (or inverses the sign).
 
 [[/uploads/negate.png]]
 
