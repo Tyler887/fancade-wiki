@@ -14,3 +14,6 @@ Use the search feature to find games! You can search by either the name of the g
 
 #### Linked
 Whenever you click a game link, in [[search|https://www.fancade.com/search/]] or as shared on social media, the game box will appear here.
+
+<a id="games"/>
+<<Navigation("Games", "Games")>>
