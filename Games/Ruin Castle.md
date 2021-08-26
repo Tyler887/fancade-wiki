@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Ruin Castle is a Fancade game created by nmskr.
+[[Ruin Castle|https://fancade.page.link/LP3X]] is a Fancade game created by nmskr.
 
 # How to play
 
@@ -12,136 +12,68 @@ If you either go out of step, get the crown too early, or go to an enemy tile wi
 
 # Solutions
 
-Let up = top-left.
+Swipe to move: <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
 
-**Swipe to move:** 
+Castle 1: <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
 
-Right, right, right, right.
+Castle 2: <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>>.
 
-**Castle 1:** 
+Castle 3: <<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
 
-Left, down, right, right, up, up, left, left, left, down, down, down, right, right, right.
+Castle 4: <<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>>.
 
-**Castle 2:** 
+Castle 5: <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>>.
 
-Left, up, right, up, up, left, down, left, up, left, down, down, down, right.
+Castle 6: <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>>.
 
-**Castle 3:**
+Castle 7: <<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>>.
 
-Left, left, up, right, right, right, up, left, left, left, up, right, right, right.
+Castle 8: <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>>.
 
-**Castle 4:**
+Castle 9: <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
 
-Left, left, down, right, down, left, down, right, right, right, up, up, up.
+Castle 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>>.
 
-**Castle 5:**
+Crown For Last: <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>>.
 
-Down, down, right, up, up, up, left, left, left, down, down, right, up.
+Crown 1: <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
 
-**Castle 6:**
+Crown 2: <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>>.
 
-Down, right, right, right, up, up, up, left, left, left, down, right.
+Crown 3: <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>>.
 
-**Castle 7:**
+Crown 4: <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>>.
 
-Up, right, down, down, left, down, left, up, up, left, down, down.
+Crown 5: <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>>.
 
-**Castle 8:**
+Crown 6: <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>>.
 
-Right, up, left, left, left, down, down, down, right, up, right.
+Crown 7: <<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>>.
 
-**Castle 9:**
+Crown 8: <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<BLarrow>><<BLarrow>>.
 
-Left, down, right, right, up, up, left, up, right, right, down.
+Crown 9: <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
 
-**Castle 10:**
+Crown 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>><<TRarrow>>.
 
-Down, right, up, up, up, right, down, down, right, up, up.
+Defeat Enemies: <<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>>.
 
-**Crown For Last:**
+Sword 1: <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>>.
 
-Right, down, left, left, up, up, right, right.
+Sword 2: <<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>>.
 
-**Crown 1:**
+Sword 3: <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>>.
 
-Left, left, down, down, right, up, right, down, right, right, up, left, up, right, up, up, left, down, left, up, left, down, left, up.
+Sword 4: <<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>>.
 
-**Crown 2:**
+Sword 5: <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
 
-Up, left, down, left, left, up, up, right, right, right, up, left, left, left, up, right, right, right, right, down, down, down, down.
+Sword 6: <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>>.
 
-**Crown 3:**
+Sword 7: <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
 
-Down, down, right, up, up, right, down, down, down, left, left, down, left, left, up, up, up, up, right, down, down, down.
+Sword 8: <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>>.
 
-**Crown 4:**
+Sword 9: <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
 
-Right, down, down, down, right, up, up, up, up, left, left, left, down, left, down, right, down, left, down, right, right.
-
-**Crown 5:**
-
-Left, down, down, right, up, right, up, right, right, down, down, left, left, down, right, right, down, left, left, left.
-
-**Crown 6:**
-
-Down, right, right, right, right, up, up, up, up, left, left, left, left, down, down, right, up, right, right, down, down.
-
-**Crown 7:**
-
-Right, up, left, up, right, right, down, down, down, left, left, down, left, left, up, up, right, down.
-
-**Crown 8:**
-
-Down, down, left, left, up, up, up, up, right, right, right, right, down, down, left, up, left, left.
-
-**Crown 9:**
-
-Up, up, up, right, right, right, down, down, left, up, left, down, down, down, left, left, up.
-
-**Crown 10:**
-
-Down, right, up, up, up, up, right, right, right, down, down, left, down, left, up, up, right.
-
-**Defeat Enemies:**
-
-Right, right, up, left, left, up, right, right, right, down, down.
-
-**Sword 1:**
-
-Left, left, down, down, right, up, right, down, right, right, right, up, left, left, up, right, right, up, up, up, left, down, down, left, up, up, left, down, down, left, left, up, right, up, left.
-
-**Sword 2:**
-
-Right, right, up, up, up, up, up, left, down, down, down, down, left, up, up, up, up, left, down, down, down, down, down, left, left, up, up, right, up, left, up, up, right, down.
-
-**Sword 3:**
-
-Right, up, left, left, left, down, right, down, left, down, right, down, left, down, right, right, up, up, up, right, right, up, up, right, down, down, down, down, left, left, up, right.
-
-**Sword 4:**
-
-Up, right, down, down, down, down, right, right, up, left, up, right, up, left, up, right, up, left, left, left, left, down, down, left, down, right, down, left, down, right, right.
-
-**Sword 5:**
-
-Right, right, right, right, up, left, left, left, left, left, down, down, down, right, up, right, down, down, right, right, up, up, right, down, down, down, left, left, left, left, up.
-
-**Sword 6:**
-
-Up, up, up, up, right, right, right, right, right, down, down, down, down, down, left, left, left, left, up, up, up, up, right, right, right, down, down, down, left.
-
-**Sword 7:**
-
-Up, up, up, up, right, right, right, right, down, down, down, left, left, up, right, up, left, left, down, down, down, down, left, left, up.
-
-**Sword 8:**
-
-Down, down, right, right, right, up, left, left, up, right, right, up, up, up, left, left, down, right, down, left, left, up, left, down, down, left, down, down, right, up.
-
-**Sword 9:**
-
-Down, down, left, left, up, up, up, right, right, right, down, right, right, up, left, up, right, up, left, left, down, left, up, left, down, left, up.
-
-**Sword 10:**
-
-Down, right, up, right, right, up, left, left, up, right, up, left, up, right, right, down, right, up, right, down, down, down, left, up, left.
+Sword 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>>.
