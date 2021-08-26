@@ -10,10 +10,10 @@ An automatic list of games other users have recently played and liked. (This fea
 List all games with a specific tag. The New button will list every published or updated game on Android, or every featured game on iOS, in chronological order.
 
 #### Search
-Use the search feature to find games! You can search by either the name of the game or the creator's name. You can also search games on your browser here: [[fancade.com/search/|https://www.fancade.com/search/]]
+Use the search feature to find games! You can search by either the name of the game or the creator's name.
 
 #### Linked
-Whenever you click a game link, in [[search|https://www.fancade.com/search/]] or as shared on social media, the game box will appear here.
+Whenever you click a game link (e.g. as shared on social media), the game box will appear here.
 
 <a id="games"/>
 <<Navigation("Games", "Games")>>
