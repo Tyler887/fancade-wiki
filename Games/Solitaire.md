@@ -2,7 +2,7 @@
 quest: true
 ---
 
-Solitaire is a classic card game, introduced to Fancade by [Mathias Elgaard](https://www.fancade.com/search/?q=by%3AMathias%20Elgaard). The version of this solitaire is Klondike, the most commonly played Solitaire.
+Solitaire is a classic card game, introduced to Fancade by Mathias Elgaard. The version of this solitaire is Klondike, the most commonly played Solitaire.
 
 # How to Play
 
