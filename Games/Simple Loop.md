@@ -1,4 +1,4 @@
-Simple Loop is a puzzle game where you draw a single loop that passes through all unshaded cells.
+[[Simple Loop|https://fancade.page.link/ot6T]] is a puzzle game where you draw a single loop that passes through all unshaded cells.
 
 # Rules
 
