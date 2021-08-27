@@ -46,9 +46,10 @@ Additional controls: you can use two fingers to zoom in and out, and pan the who
 
 [[/uploads/fixel-level-8.png | height=200px]]
 
-#### 9: Lock
+#### 9:Bear
 
-[[/uploads/fixel-level-9.png | height=200px]]
+[[/upload
+s/fixel-level-9.png | height=200px]]
 
 #### 10: Penguin
 
