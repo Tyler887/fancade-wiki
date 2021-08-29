@@ -85,7 +85,7 @@ There are a few general types of control blocks:
 These blocks give you basic control structures that you'd find in most programming languages.
 
 * [[If]] takes a boolean value as an input, and sends a run signal down its "True" wire or its "False" wire
-* [[Loop]] acts like a [https://en.wikipedia.org/wiki/For_loop for loop]. It takes a numeric "start" value and "end" value, and it sends a run signal down its third wire once for every number from "start" to "end".
+* [[Loop]] acts like a [[for loop|https://en.wikipedia.org/wiki/For_loop ]]. It takes a numeric "start" value and "end" value, and it sends a run signal down its third wire once for every number from "start" to "end".
 
 ## Event handling
 
