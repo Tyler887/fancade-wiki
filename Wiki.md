@@ -1,6 +1,6 @@
 *The wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://twitter.com/ollelandin]], and [[Martin Magni]].*
 
-This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are writteb by Fancade users themselves. Maybe you want to help improve the wiki too?
+This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are written by Fancade users themselves. Maybe you want to help improve the wiki too?
 
 [[_TOC_]]
 
