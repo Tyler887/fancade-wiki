@@ -1,3 +1,4 @@
 How To Make The Vector
 [[uploads/Vector-0.PNG]]
-4. 
+1. Get Script By Vector
+[[upload/add vector.png]]
