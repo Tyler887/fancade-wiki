@@ -2,7 +2,7 @@
 quest: true
 ---
 
-[[Monster Match|https://fancade.page.link/miZR]] is a game created by [[Martin Magni]]. It is inspired by the puzzle "Numberlink".
+[[Monster Match|https://fancade.page.link/miZR]] is a game created by [[Martin Magni]]. It is inspired by the puzzle "[[Numberlink|https://en.wikipedia.org/wiki/Numberlink]]".
 
 # Solutions
 
