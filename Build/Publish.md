@@ -1,5 +1,5 @@
 TODO:
 * Create a Fancade account
-* Describe editability options
+* Describe editability and/or tag options
 
-If you have [[Premium|You#premium]] you can publish and update games whenever. Else there's a cooldown timer (currently 24h), added to reduce spam.
+If you have [[Premium|You#premium]] you can publish and update games whenever. Else there's a cooldown timer (currently 24h), which was added to reduce spam.
