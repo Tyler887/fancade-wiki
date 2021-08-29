@@ -54,7 +54,7 @@ Specifically, they're ordered like so:
 
 This same ordering also controls the order of execution when multiple statements have their "before" wires attached to the same "after" wire.
 
-**\* Note:** As an exception to the rule, the [[Play Sound|Blocks/Play Sound]] and [[Stop Sound|Blocks/Stop Sound]] blocks will **not** run at all if their "before" wire isn't attached to anything. But all other statement blocks will execute once per tick if their "before" wire is unattached.
+**\* Note:** As an exception to the rule, the [[Play Sound]] and [[Stop Sound]] blocks will **not** run at all if their "before" wire isn't attached to anything. But all other statement blocks will execute once per tick if their "before" wire is unattached.
 
 ## Working together
 
@@ -68,7 +68,7 @@ With positioning and execution order wires together, the full ordering sequence 
 
 Blocks in the "Control" category are the main way you can modify the control flow beyond simple before/after sequencing. Control statement blocks are colored yellow, the same as execution order wires, and they all have one or more additional execution order wires sticking out of their right side (along with the normal "before" and "after" wires).
 
-When a control block executes, it may send a run signal down its "third wire" (or multiple run signals, for the [[Loop block|Blocks/Loop]]). The same as an "after" wire, the "third wire" can be attached to another statement's "before" wire, and it will cause that block to execute each time the control block sends a run signal.
+When a control block executes, it may send a run signal down its "third wire" (or multiple run signals, for the [[Loop block|Loop]]). The same as an "after" wire, the "third wire" can be attached to another statement's "before" wire, and it will cause that block to execute each time the control block sends a run signal.
 
 Control blocks also have the same "before" and "after" wires as other statement blocks, and these work alongside the "third wire":
 
@@ -84,8 +84,8 @@ There are a few general types of control blocks:
 
 These blocks give you basic control structures that you'd find in most programming languages.
 
-* [[If|Blocks/If]] takes a boolean value as an input, and sends a run signal down its "True" wire or its "False" wire
-* [[Loop|Blocks/Loop]] acts like a [https://en.wikipedia.org/wiki/For_loop for loop]. It takes a numeric "start" value and "end" value, and it sends a run signal down its third wire once for every number from "start" to "end".
+* [[If]] takes a boolean value as an input, and sends a run signal down its "True" wire or its "False" wire
+* [[Loop]] acts like a [https://en.wikipedia.org/wiki/For_loop for loop]. It takes a numeric "start" value and "end" value, and it sends a run signal down its third wire once for every number from "start" to "end".
 
 ## Event handling
 
@@ -99,6 +99,6 @@ Although they're somewhat like event handlers, they're still governed by the exe
 
 ## Timing modifiers
 
-* [[Play Sensor|Blocks/Play Sensor]] sends a run signal down its third wire only on the game's first tick. It's used for initial setup tasks that should only run once.
-* [[Box Art Sensor|Blocks/Box Art Sensor]] sends a run signal down its third wire only when the game is being executed to take a picture for box art. It's used to customize a game's box art imagery.
-* [[Late Update|Blocks/Late Update]] sends a run signal down its third wire in a special final phase of the tick, after the physics engine has run. It's used to provide same-tick response to physics changes.
+* [[Play Sensor]] sends a run signal down its third wire only on the game's first tick. It's used for initial setup tasks that should only run once.
+* [[Box Art Sensor]] sends a run signal down its third wire only when the game is being executed to take a picture for box art. It's used to customize a game's box art imagery.
+* [[Late Update]] sends a run signal down its third wire in a special final phase of the tick, after the physics engine has run. It's used to provide same-tick response to physics changes.
