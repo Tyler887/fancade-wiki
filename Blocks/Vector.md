@@ -1,3 +1,3 @@
 How To Make The Vector
-[[Upload/Vector.png]]
+[[uploads/Vector-0.PNG]]
 4. 
