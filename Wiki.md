@@ -1,29 +1,26 @@
 *The wiki was developed by [[Nikita Ivanov|ViChyavIn]], [[Olle Landin|https://twitter.com/ollelandin]], and [[Martin Magni]].*
 
-This wiki is intended to help readers learn more about Fancade and its [[game-making tools|Build]]. It is actively developed by contributors: new information is added almost each day! If you're interested, you can help improve the wiki, too.
+This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are writteb by Fancade users themselves. Maybe you want to help improve the wiki too?
 
 [[_TOC_]]
 
 # Rules
 
-Before you begin to contribute to the wiki, please read the following rules, advices and principles.
-
-## Create a page
-
-Before creating a brand-new wiki page, please make sure that:
-
-* The same page with a different name doesn't already exist
-* The page you are about to make is really necessary
-  * e.g. a whole page about a tiny barely noticeable pixel on log block top texture won't add any value to the wiki, thus unnecessary and shouldn't be created
-* It won't make more sense if you put the information of the future page into an existing one
+Yes? You'd like to contribute? Great!! Here's some advice to help you get started editing.
 
 ## Write about Fancade
 
-If you want to add a new piece of information to the site, it's always much appreciated! But the info you're adding should not be about your cat's favorite kind of meat or anything else --- it should be about Fancade.
+The wiki is about Fancade, so try to stay on topic.
 
-## Don't leave articles in WIP state
+## Create a page
 
-Don't save unfinished edits.
+Before creating a brand *new* wiki page, check if:
+
+* The page already exists, just with a slightly different name?
+* The info doesn't fit better as a note on an existing page?
+* The page is likely to be useful to other Fancade users?
+
+## Don't save unfinished edits.
 
 If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will prompt you to recover it when you begin editing again).
 
@@ -36,15 +33,6 @@ If you're not sure about something, don't ask future editors to correct you in t
 </blockquote>
 
 Those who can answer your question will rarely visit the page, so you will end up throwing your question at readers'. Feel free to join our [[Discord]] server and ask your question there, in order to eventually provide the most accurate information to readers!
-
-## Less humor
-
-Humor is good and all but try to avoid it when writing content. Wiki is intended to help readers learn new information about Fancade and too much humor doesn't make it better (if not worse).
-
-## No messages to Martin
-Don't chat with Martin Magni on this wiki. This may be harmful for the wiki. 
-
-Instead, you can email Martin. That's 100% fine for the wiki!
 
 # How-to
 
