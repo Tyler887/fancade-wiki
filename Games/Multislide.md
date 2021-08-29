@@ -2,6 +2,8 @@
 quest: true
 ---
 
+[[Multislide|https://fancade.page.link/YrN6]] is a puzzle game involving sliding multiple balls to reach the designated goals.
+
 # How to play
 
 Tap and swipe on a ball to slide it in that direction. Get all normal balls to the checkered tiles!
