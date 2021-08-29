@@ -41,6 +41,11 @@ Those who can answer your question will rarely visit the page, so you will end u
 
 Humor is good and all but try to avoid it when writing content. Wiki is intended to help readers learn new information about Fancade and too much humor doesn't make it better (if not worse).
 
+## No messages to Martin
+Don't chat with Martin Magni on this wiki. This may be harmful for the wiki. 
+
+Instead, you can email Martin. That's 100% fine for the wiki!
+
 # How-to
 
 Want to help but have no idea how it's done? Read further to learn how to format text and create new pages.
