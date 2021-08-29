@@ -6,7 +6,7 @@ For purposes of control flow, it's useful to think of script blocks as belonging
 
 ## Statements
 
-**Statements** are script blocks that make changes to the game's state (or as we sometimes say in programming, they have "side effects"). A statement might [[play a sound|Blocks/Play Sound]], [[write a value|Blocks/Set Variable]] to a variable, [[change the position|Blocks/Set Position]] of an object, [[cause another statement to run|Blocks/If]], etc.
+**Statements** are script blocks that make changes to the game's state (or as we sometimes say in programming, they have "side effects"). A statement might [[play a sound|Play Sound]], [[write a value|Set Variable]] to a variable, [[change the position|Set Position]] of an object, [[cause another statement to run|If]], etc.
 
 Statements are easy to recognize &mdash; **they always have yellow "before" and "after" wires** at top and bottom.
 
@@ -14,13 +14,13 @@ Only statements are subject to control flow. Because they have side effects, the
 
 ## Expressions
 
-**Expressions** are script blocks that _do not_ make changes to the game's state. Instead, they provide data values which can be inputs to statements or other expressions. An expression might add two numbers together, [[read a value|Blocks/Get Variable]] from a variable, [[measure|Blocks/Get Position]] an object's position, etc.
+**Expressions** are script blocks that _do not_ make changes to the game's state. Instead, they provide data values which can be inputs to statements or other expressions. An expression might add two numbers together, [[read a value|Get Variable]] from a variable, [[measure|Get Position]] an object's position, etc.
 
 Expressions are only evaluated when they're an input to the currently executing statement (or an input to an input, etc...). When that happens, they're evaluated against the game's _current state_. An expression can be an input to multiple statements, in which case it'll be evaluated again for each of them, against the current game state each time.
 
 # The tick cycle
 
-The basic unit of time in Fancade is the "tick". There are 60 ticks to a second, and the script blocks get a chance to run in every tick. The physics engine also updates the state of physics-enabled objects once per tick (and scripts can execute after the physics update, using the [[Late Update|Blocks/Late Update]] block.)
+The basic unit of time in Fancade is the "tick". There are 60 ticks to a second, and the script blocks get a chance to run in every tick. The physics engine also updates the state of physics-enabled objects once per tick (and scripts can execute after the physics update, using the [[Late Update]] block.)
 
 During the script execution phase of a tick, statements are executed synchronously, one at a time. Even though the wires may make it look like things are multi-threaded, they are not!
 
