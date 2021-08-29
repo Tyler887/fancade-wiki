@@ -2,6 +2,8 @@
 quest: true
 ---
 
+[[Ditto|https://fancade.page.link/GcqD]] is a tricky puzzle game made by [[Martin Magni]] about moving two chicks to the buttons at the same time!
+
 # How to Play
 
 Swipe in any direction for both chicks to move. Move the chicks onto the 2 red buttons at once to win. If any chick falls too much and gets flattened, you lose.
