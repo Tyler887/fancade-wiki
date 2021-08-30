@@ -1,4 +1,4 @@
-List of list (Nested list) is currently not possible with the current list script as of now, but there is a simple workaround to make it involving simple math. See image below on how to make it.
+List of list (nested list) is currently not possible with the current list script as of now, but there is a simple workaround to make it by using simple math. See image below on how to make it!
 
 **Variables**:
 - *X*: the index column of a 2D list
