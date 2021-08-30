@@ -1,4 +1,4 @@
-A logical AND operator.
+Outputs True if both input truths equal True.
 
 [[/uploads/And.png]]
 
