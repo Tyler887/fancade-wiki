@@ -6,7 +6,7 @@ You can find it under Math.
 [[/uploads/Add Numbers.png]]
 
 **1.example:**
-Sum 3 + 2 with [[number blck|Number]] and preview it with an Inspect Number Block.
+Sum 3 + 2 with [[number blocks|Number]] and preview it with an Inspect Number Block.
 [[/uploads/1.example.png]]
 
 **2.example:**
