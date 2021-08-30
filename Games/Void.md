@@ -4,9 +4,11 @@ quest: true
 Void is a game created by [[Martin Magni]].
 
 # How to play
-You try to figure out the controls and find a way to clear the screen.
+
+Figure out the controls and find a way to clear the screen.
 
 # Controls and Answers
+
 **Water:**
 
 To make the water move, tilt the device. To win, get all of the water out of the screen.
@@ -17,7 +19,7 @@ To make the cube grow, tap. To win, tap repeatedly.
 
 **Boids:**
 
-The red arrows avoid your first touch. To win, use your finger to lure away those red arrows to off screen.
+The red arrows avoid your finger. To win, use your finger to lure away the red arrows off screen.
 
 **Shadow:**
 
