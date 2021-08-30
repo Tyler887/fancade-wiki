@@ -1,3 +1,6 @@
+---
+quest: true
+---
 Recoil is a game by Martin Magni, where you need to kill the nasty pink virus using your oversized gun!
 
 ## How to play
