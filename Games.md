@@ -1,2 +1,2 @@
 <<QuestGames()>>
-This list only contains Quest games.
+This list only contains [[Quest]] games.
