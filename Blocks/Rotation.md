@@ -1,3 +1,3 @@
-Similar to Vector, but with rotation instead of position! Use for spinning objects and other rotation related things.
+A rotation with X,Y,Z degree angles (applied in Y,X,Z order).
 
 [[/uploads/Rotation.png]]
