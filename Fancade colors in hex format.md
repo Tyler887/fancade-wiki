@@ -1,6 +1,9 @@
-Notes: 
-- May not be completely accurate, they were color picked from a color palette
+---
+title: Notes
+---
+May not be completely accurate, they were color picked from a color palette. Sorry!
 
+## Fancade colors in hex format
 Light Brown: EDA4A1
 Brown: CA7588
 Dark Brown: 9C5963
