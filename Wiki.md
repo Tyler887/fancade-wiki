@@ -12,7 +12,7 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 The wiki is about Fancade, so try to stay on topic.
 
-## Create a page
+## Create a appropiate page
 
 Before creating a brand *new* wiki page, check if:
 
