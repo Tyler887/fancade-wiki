@@ -1,4 +1,3 @@
-How To Make The Vector
+Three numbers in one wire! You'll use this for X,Y,Z positions and directions.
+
 [[uploads/Vector-0.PNG]]
-1. Get Script By Vector
-[[upload/addvector.png]]
