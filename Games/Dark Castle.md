@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-
+Dark Castle is a game by RF, or Richard Fu. You need to push yellow boxes to get to the goal!
 # How to play
 Swipe in any direction to move the character to that respective direction.
 You can push any golden blocks to your goal.
