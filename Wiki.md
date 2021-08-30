@@ -70,7 +70,7 @@ To insert a list element, put `*`, `+` or `-` at the beginning of a line.
 
 ```
 * Fancade
-* is a fanmade
+* is the fanmade
 * arcade
 ```
 
@@ -91,6 +91,9 @@ Deleting a page is possible, but restricted. Ping one of the Fanmods on the Disc
 ## Revert a change
 
 Go to the page's history (through link in the latest changes), check the commit, compare and revert.
+
+## Rename a page
+Click Rename, and enter the new page name.
 
 ## Sign out
 
