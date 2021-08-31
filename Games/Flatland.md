@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-
+Flatland is a game by Martin, where you need to collect keys.
 # How to play
 Tap to make the character jump, if the character hits the left side of the screen, the character turns, if the character touches a wall, the character clings to the wall, and will go backwards if you tap, you can jump into a wall and slide down, or tap on the wall to do a walljump. Spikes will make the character reset their position to the start, but their keys will remain the same. Gates can be unlocked if you have enough keys (the gates will indicate how many keys you need in minimum), to win, exit to the right side of the level.
 
