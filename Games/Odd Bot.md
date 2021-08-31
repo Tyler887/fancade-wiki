@@ -4,7 +4,7 @@ quest: true
 
 Odd Bot is a puzzle game where you help a cute little robot, called Odd, to reach a spinning golden cube. Tap to walk, drag the white rectangles/squares to move sliders and elevators, and swipe anywhere else to rotate the view. (It might look like you are playing Mekorama!)
 
-[[/uploads/oddbotout.png]]
+[[/uploads/Screenshot_2021-08-31-15-17-09.jpg]]
 
 # Hints
 Level 13. Odd can carry Car!
