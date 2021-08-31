@@ -20,7 +20,7 @@ Before creating a brand *new* wiki page, check if:
 * The info doesn't fit better as a note on an existing page?
 * The page is likely to be useful to other Fancade users?
 
-## Don't save unfinished edits.
+## Don't save unfinished edits
 
 If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will prompt you to recover it when you begin editing again).
 
