@@ -4,3 +4,4 @@ Outputs the multiplication (or sometimes repeated [addition](Add Numbers)) of th
 
 ## Example
 You can make a ten number by multiplying any number by 10. So... 10×10 = 100.
+[[/uploads/multiply_example.jpg]]
