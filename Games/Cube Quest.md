@@ -4,11 +4,11 @@ quest: true
 
 [[Cube Quest|https://fancade.page.link/uW5r]] is a puzzle game where you navigate a white cube to the goal, with platforms that can be moved by the cube and boxes that can be pushed. Boxes can also be stood by falling it into the floor.
 
-# How to play
+## How to Play
 
 Swipe to move the white cube. Find your way to the goal (checkered tile).
 
-# Solutions
+## Solutions
 
 (In the following notation, N, E, W, S, means swipe up, right, left, and down respectively.)
 
