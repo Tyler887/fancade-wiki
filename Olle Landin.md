@@ -1,1 +1,0 @@
-Martin Magni's friend (maybe)... i made very short thing can you make this longer?
