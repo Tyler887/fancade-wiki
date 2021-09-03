@@ -1,1 +1,0 @@
-For an unknown reason, some Fancade players download a kit of a popular game and post it without any changes made to it. The phenomenon most often occurs with the popular and official Drive Mad Kit; it is known by the community as "Drive Mad Kit 2" and is used as a meme in the Fancadian community.[[/uploads/temp.jpg]]
