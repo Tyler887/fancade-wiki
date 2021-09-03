@@ -16,4 +16,4 @@ Level 13. Odd can carry Car!
 * [[Level 14|https://youtu.be/BZwbQpJpu_k]]
 
 # Fun Facts
-Yes, it's *possible* to push Odd off the level, e.g. by hitting the poor little bot in the head with a giant stone slab! While it's a neat little easter egg, many users reported it as a bug. So now the Game Over dialog will pop up if you fall off, to make it clear you can't climb back up onto the level.
+Yes, it's *possible* to push Odd off the level, e.g. by hitting the poor little bot in the head with a giant stone slab! While it's a neat little easter egg, many players reported it as a bug. So now the Game Over dialog will pop up if you fall off, to make it clear you can't climb back up onto the level.
