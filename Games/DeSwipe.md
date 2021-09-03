@@ -1,5 +1,5 @@
 DeSwipe is a game made by R3DZ3R. It involves moving a cube character using swipe controls in a level to break all the platforms beneath it. 
-U is Up, L is Left, D is Down, R is right. 
+U is Up, L is Left, D is Down, R is Right. 
 
 **Level 1**
 U, R, D. 
