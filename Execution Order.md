@@ -1,6 +1,6 @@
 Execution Order is something that determines which script is after the current one. In Fancade we follow the execution order *"top to bottom, left to right"* (in other words, the way you read this text).
 
-Thus, a set of scrips arranged in the following order:
+Thus, a set of scripts arranged in the following order:
 
 ```
 AB
