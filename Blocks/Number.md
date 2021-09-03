@@ -1,6 +1,6 @@
 Outputs a given value.
 
-To change the value of the number block, select the block, then tap the button right below the open inventory (+) button, in the bottom right corner.
+To change the value to output, select the block, then tap the button right below the open inventory (+) button, in the bottom right corner.
 
 [[uploads/ChangeValue.png|alt=Changing the value of a number block]]
 
