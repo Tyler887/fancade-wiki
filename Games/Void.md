@@ -3,7 +3,7 @@ quest: true
 ---
 Void is a game created by [[Martin Magni]].
 
-# How to play
+## How to play
 
 Figure out the controls and find a way to clear the screen.
 
@@ -11,7 +11,7 @@ Figure out the controls and find a way to clear the screen.
 
 **Water:**
 
-To make the water move, tilt the device. To win, get all of the water out of the screen.
+Tilt the device to move the water and get all of the water out of the screen.
 
 **Grow:**
 
@@ -29,5 +29,5 @@ Dragging the screen will move the light and camera. To win, clear all markers us
 
 Dragging the screen in an axis will move certain blocks horizontally. To win, form the FJ symbol with a ring outside of it.
 
-# Walkthrough
-[Walkthrough](https://youtu.be/wM0hSsQp2T0)
+## Walkthrough
+[All levels (1-5)](https://youtu.be/wM0hSsQp2T0)
