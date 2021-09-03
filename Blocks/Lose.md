@@ -1,3 +1,3 @@
-Triggers the lose animation and dialog.
+Causes the player to lose (or die, not in real life).
 
 [[/uploads/Lose.png]]
