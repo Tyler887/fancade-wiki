@@ -1,3 +1,3 @@
-You're wandering how does others can publish or update their projects instantly?
+Wanna know how you can publish or update game after game in less than 24 hours?
 
-Well gladly we have this wiki to tell you , No timer publish and update can only be obtained as additional privelage of "ad free" privelage which can only be obtained if you buy any of gems , this feature is very useful for us builders because we can skip all the waiting from publishing and/or updating game after game.
+Martin only allows premium/ad free fancaders to publish or update game after game without 24h cooldown, which was added to reduce "spam". The publish or update button will show how long the creator needs to wait to publish or update again if time is not up or you have no Fancade Premium.
