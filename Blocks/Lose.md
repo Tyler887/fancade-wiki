@@ -1,3 +1,3 @@
-Causes the player to lose (or die, not in real life).
+Causes the player to lose (or die in-game).
 
 [[/uploads/Lose.png]]
