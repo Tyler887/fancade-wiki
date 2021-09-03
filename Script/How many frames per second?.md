@@ -1,1 +1,1 @@
-In Fancade, the main measure of time are frames. Fancade runs **60 frames per second**. This means one frame equals to approximately like 0.0166666 seconds (1 ÷ 60 seconds).
+In Fancade, the main measure of time are frames. Fancade runs **60 frames per second**. This means one frame is equivalent to approximately 0.0166666 seconds (1 ÷ 60 seconds).
