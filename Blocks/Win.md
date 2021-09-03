@@ -1,3 +1,3 @@
-Triggers the win animation and dialog.
+Causes the player to win.
 
 [[/uploads/Win.png]]
