@@ -1,12 +1,11 @@
 Adds force and/or torque to an object, changing its motion.
+[[/uploads/Addforce.png]]
 
 ## Inputs
 - Object: The object you want to apply force to.
 - Force: The force to apply to that object.
 - Apply At: Where on the object you want to apply the force, it's applied at the center of mass by default.
 - Torque: The rotational equivalent of a linear force, changing the object's rotational motion.
-
-[[/uploads/Addforce.png]]
 
 ## Notes
 
