@@ -6,7 +6,11 @@ Komplex is a puzzle game made by R3DZ3R, where you solve unique puzzles using mu
 
 For example, you can recreate sokoban puzzle games, adventure-based games, collect-item-based games, painting games, and even working mechanical machines using only ONE single Komplex Kit!
 
+### Komplex - How Do I Play?
 
+**Control**
+
+Touch a box then swipe to move it. The chosen box will have a marker highlighted on top of it.
 
 ### Komplex - Level Solutions
 
