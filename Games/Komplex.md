@@ -12,6 +12,8 @@ For example, you can recreate sokoban puzzle games, adventure-based games, colle
 
 Touch a box then swipe to move it. The chosen box will have a marker highlighted on top of it.
 
+![Controlling a Box](https://media.discordapp.net/attachments/815825363006521374/883505247950082048/20210904_071251.jpg)
+
 ### Komplex - Level Solutions
 
 (Work in Progress)
