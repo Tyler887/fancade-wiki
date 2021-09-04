@@ -12,7 +12,7 @@ Level 17 - Observe that one button pushes the other button upward and vice versa
 2. Hold the button.
 3. Tap the button 10 times.
 4. Tap the base of the button.
-5. Tap the button 5 times, then hold the screwdriver, then tap the button.
+5. Tap the button 5 times, hold the screwdriver, then tap the button.
 6. Tap the red button and flip it by hitting the edge of the base, place the blue button back to the base, and tap it.
 7. Tap and release the buttons at the same time.
 8. Tap the button, and shake your phone.
