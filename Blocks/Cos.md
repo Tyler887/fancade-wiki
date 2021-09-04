@@ -17,4 +17,4 @@ To understand better, search for "[[Trigonometric functions|https://www.google.c
 
 ## Example
 
-- You can refer to the example in [[sin]].
+- You can refer to the example in [sin](https://www.fancade.com/wiki/Blocks/Sin.md#example).
