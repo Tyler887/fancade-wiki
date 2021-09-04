@@ -1,9 +1,9 @@
-A Fancade event that happens every 1 to 3 months, it is hosted in the [[Fancade Discord Server|Discord]] by one of our Fanmods, Sounak9434 (Sounak for short). All things about FanJam is Announced in the [[#fanjam|https://discord.com/channels/409219533618806786/686479396801871957]] channel.
+A Fancade event that happens every 1 to 3 months, it is hosted in the [[Fancade Discord Server|Discord]] by one of our Fanmods, Sounak9434 (Sounak for short). Everything about FanJam is announced in the [[#fanjam|https://discord.com/channels/409219533618806786/686479396801871957]] channel.
 
 # Event Details
 
 ## A.) Mechanics
-Sounak announces an upcoming FanJam Including the set of rules about a week prior to the event. 
+Sounak announces an upcoming FanJam including the set of rules about a week prior to the event. 
 
 FanJam consist of 3 phases:
 
@@ -13,7 +13,7 @@ FanJam consist of 3 phases:
 
 ### 1st Phase 
 ### (Dev Phase/Submission Phase) 
-During the start of the event, the 1st Phase, a selected theme is Announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days, until then player can still continue to build, add new features and publish/update their games as a valid submission.
+On the start of the event, the 1st Phase, a selected theme will be announced. After then all the participants can finally start to build their own games depending on their depiction of the theme. This Phase Last for 3 days, until then player can still continue to build, add new features and publish/update their games as a valid submission.
 
  **To submit your game during a FanJam event you must share your game in the Fancade Discord #showcase channel with the tag #fanjam.**
  
