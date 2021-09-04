@@ -1,12 +1,13 @@
-### Komplex - The Game
-
+---
+title: Komplex - The Game
+---
 Komplex is a puzzle game made by R3DZ3R, where you solve unique puzzles using multiple complex shaped boxes with their own unique properties. This single puzzle game could bring an unlimited amount of new puzzle genres by combining two or more box type in a level!
 
 ![Picture of Komplex Gameplay](https://media.discordapp.net/attachments/815825363006521374/883498011009900564/20210904_064349.jpg)
 
 For example, you can recreate sokoban puzzle games, adventure-based games, collect-item-based games, painting games, and even working mechanical machines using only ONE single Komplex Kit!
 
-### Komplex - How Do I Play?
+## How to play
 
 **Control**
 
@@ -20,6 +21,6 @@ Some Komplex levels might have different goal to achieve, but most of them are a
 
 If you see a Komplex level contains white cubes, the goal might be to collect those cubes. If you see a Komplex level contains PushBox and PushBox detectors, the goal might be to push those PushBoxes to the detectors.
 
-### Komplex - Level Solutions
+## Solutions
 
-(Work in Progress)
+(WIP)
