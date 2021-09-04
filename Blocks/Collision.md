@@ -11,7 +11,7 @@ Output:
 ## Notes
 
 - If you're colliding with multiple objects it'll report the most forceful collision.
-- If you're overriding physics to move objects (using [[Set Position]]) then no collisions will occur. (Is this a bug in bullet physics?)
+- If you're overriding physics to move objects (using [[Set Position]]) then no collisions will occur. (Is this a issue with Bullet Physics?)
 
 ## Examples
 
