@@ -2,6 +2,8 @@
 
 DeSwipe is a game made by R3DZ3R. It involves moving a cube character using swipe controls in a level to break all the platforms beneath it. 
 
+![Picture of DeSwipe Gameplay](https://media.discordapp.net/attachments/815825363006521374/883851425770246184/fancade.png)
+
 ### DeSwipe - Level Solutions
 
 1. <<NE>><<SE>><<SW>>.
