@@ -1,6 +1,6 @@
 [[Simple Loop|https://fancade.page.link/ot6T]] is a puzzle game where you draw a single loop that passes through all unshaded cells.
 
-# Rules
+## How to Play
 
 Draw lines by dragging between unshaded cells. To win, these criterias must be met:
 
@@ -10,7 +10,7 @@ Draw lines by dragging between unshaded cells. To win, these criterias must be m
 
 The game will mark errors when found.
 
-# Tips and Tricks
+## Tips and Tricks
 
 In every solved Simple loop puzzle, there are always 2 lines going through a cell. Therefore these basic deductions can be made:
 
