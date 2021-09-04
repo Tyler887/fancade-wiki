@@ -69,13 +69,18 @@ To insert a link, you can:
 
 #### Make list
 
-To insert a list element, put `*`, `+` or `-` at the beginning of a line.
+To insert a list element, put `*`, `+` or `-` at the beginning of a line. For example,
 
 ```
 * Fancade
 * is the fanmade
 * arcade
 ```
+will be
+
+* Fancade
+* is the fanmade
+* arcade
 
 #### Add image
 
