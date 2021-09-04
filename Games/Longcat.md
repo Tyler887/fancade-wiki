@@ -1,10 +1,10 @@
 ---
 quest: true
 ---
-
+Longcat is a game involving a cat that moves when you swipe, but only untill he hits a wall or tail.
 # How to play
 
-Swipe to slide or move Longcat, until it hits a wall. Fill every gap to win! Don't get stuck or you lose.
+Swipe to slide or move Longcat, until he hits either a wall or his tail. Fill every gap to win! Don't get stuck or you lose.
 
 # Solutions
 
