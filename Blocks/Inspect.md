@@ -16,4 +16,4 @@ While playing, if the mode is activated, all inspected values will be displayed 
 
 The first three lines of the log will always be occupied by percentages of object, script, and block limits consumed.
 
-Note that activating or deactivating this option will be shared to all inspect block existing in the game.
+Note that activating or deactivating this option will be shared to all value inspectors in the game.
