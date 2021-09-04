@@ -6,11 +6,11 @@ Plays a sound effect, with optional volume and pitch inputs. Outputs the channel
 
 Unlike most other blocks, a wire connected to Before is *required* for it do do anything, it does not run automatically.
 
-| Wire      | Range | Note |
-|-----------|:-----:|:-----|
-| Volume    | 0..1  | 
-| Pitch     | 0..4  | 
-| *Channel* | -1..7 | Only -1 when channels 0 to 7 are occupied. If so, the sound won't play.
+| Wire       | Range | Note |
+|----------- |:-----:|:-----|
+| Volume     | 0 to 1  | 
+| Pitch      | 0 to 4  | 
+| *Channel*  | -1 to 7 | Only -1 when channels 0 to 7 are occupied. If so, the sound will fail to play.
 
 ## Settings
 
