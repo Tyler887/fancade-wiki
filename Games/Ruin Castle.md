@@ -12,68 +12,68 @@ If you either go out of step, get the crown too early, or go to an enemy tile wi
 
 # Solutions
 
-Swipe to move: <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
+Swipe to move: <<NE>><<NE>><<NE>><<NE>>.
 
-Castle 1: <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
+Castle 1: <<SW>><<SE>><<NE>><<NE>><<NW>> <<NW>><<SW>><<SW>><<SW>><<SE>> <<SE>><<SE>><<NE>><<NE>><<NE>>.
 
-Castle 2: <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>>.
+Castle 2: <<SW>><<NW>><<NE>><<NW>><<NW>> <<SW>><<SE>><<SW>><<NW>><<SW>> <<SE>><<SE>><<SE>><<NE>>.
 
-Castle 3: <<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
+Castle 3: <<SW>><<SW>><<NW>><<NE>><<NE>> <<NE>><<NW>><<SW>><<SW>><<SW>> <<NW>><<NE>><<NE>><<NE>>.
 
-Castle 4: <<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>>.
+Castle 4: <<SW>><<SW>><<SE>><<NE>><<SE>> <<SW>><<SE>><<NE>><<NE>> <<NE>><<NW>><<NW>><<NW>>.
 
-Castle 5: <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>>.
+Castle 5: <<SE>><<SE>><<NE>><<NW>><<NW>> <<NW>><<SW>><<SW>><<SW>> <<SE>><<SE>><<NE>><<NW>>.
 
-Castle 6: <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>>.
+Castle 6: <<SE>><<NE>><<NE>><<NE>><<NW>> <<NW>><<NW>><<SW>><<SW>><<SW>><<SE>><<NE>>.
 
-Castle 7: <<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>>.
+Castle 7: <<NW>><<NE>><<SE>><<SE>><<SW>> <<SE>><<SW>><<NW>><<NW>><<SW>><<SE>><<SE>>.
 
-Castle 8: <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>>.
+Castle 8: <<NE>><<NW>><<SW>><<SW>><<SW>> <<SE>><<SE>><<SE>><<NE>><<NW>><<NE>>.
 
-Castle 9: <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
+Castle 9: <<SW>><<SE>><<NE>><<NE>><<NW>> <<NW>><<SW>><<NW>><<NE>><<NE>><<SE>>.
 
-Castle 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>>.
+Castle 10: <<SE>><<NE>><<NW>><<NW>><<NW>> <<NE>><<SE>><<SE>><<NE>><<NW>><<NW>>.
 
-Crown For Last: <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>>.
+Crown For Last: <<NE>><<SE>><<SW>><<SW>><<NW>> <<NW>><<NE>><<NE>>.
 
-Crown 1: <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
+Crown 1: <<SW>><<SW>><<SE>><<SE>><<NE>> <<NW>><<NE>><<SE>><<NE>><<NE>> <<NW>><<SW>><<NW>><<NE>><<NW>> <<NW>><<SW>><<SE>><<SW>><<NW>> <<SW>><<SE>><<SW>><<NW>>.
 
-Crown 2: <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>>.
+Crown 2: <<NW>><<SW>><<SE>><<SW>><<SW>> <<NW>><<NW>><<NE>><<NE>><<NE>> <<NW>><<SW>><<SW>><<SW>><<NW>> <<NE>><<NE>><<NE>><<NE>> <<SE>><<SE>><<SE>><<SE>>.
 
-Crown 3: <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>>.
+Crown 3: <<SE>><<SE>><<NE>><<NW>><<NW>> <<NE>><<SE>><<SE>><<SE>><<SW>> <<SW>><<SE>><<SW>><<SW>><<NW>> <<NW>><<NW>><<NW>><<NE>><<SE>><<SE>><<SE>>.
 
-Crown 4: <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>>.
+Crown 4: <<NE>><<SE>><<SE>><<SE>><<NE>> <<NW>><<NW>><<NW>><<NW>><<SW>> <<SW>><<SW>><<SE>><<SW>><<SE>> <<NE>><<SE>><<SW>><<SE>><<NE>><<NE>>.
 
-Crown 5: <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>>.
+Crown 5: <<SW>><<SE>><<SE>><<NE>><<NW>> <<NE>><<NW>><<NE>><<NE>><<SE>> <<SE>><<SW>><<SW>><<SE>><<NE>> <<NE>><<SE>><<SW>><<SW>><<SW>>.
 
-Crown 6: <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>>.
+Crown 6: <<SE>><<NE>><<NE>><<NE>><<NE>> <<NW>><<NW>><<NW>><<NW>><<SW>> <<SW>><<SW>><<SW>><<SE>><<SE>> <<NE>><<NW>><<NE>><<NE>><<SE>><<SE>>.
 
-Crown 7: <<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>>.
+Crown 7: <<NE>><<NW>><<SW>><<NW>><<NE>> <<NE>><<SE>><<SE>><<SE>><<SW>> <<SW>><<SE>><<SW>><<SW>> <<NW>><<NW>><<NE>><<SE>>.
 
-Crown 8: <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<BLarrow>><<BLarrow>>.
+Crown 8: <<SE>><<SE>><<SW>><<SW>><<NW>> <<NW>><<NW>><<NW>><<NE>><<NE>> <<NE>><<NE>><<SE>><<SE>> <<SW>><<NW>><<SW>><<SW>>.
 
-Crown 9: <<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
+Crown 9: <<NW>><<NW>><<NW>><<NE>><<NE>> <<NE>><<SE>><<SE>><<SW>><<NW>> <<SW>><<SE>><<SE>><<SE>><<SW>><<SW>><<NW>>.
 
-Crown 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>><<TRarrow>>.
+Crown 10: <<SE>><<NE>><<NW>><<NW>><<NW>> <<NW>><<NE>><<NE>><<NE>><<SE>> <<SE>><<SW>><<SE>><<SW>><<NW>><<NW>><<NE>>.
 
-Defeat Enemies: <<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>>.
+Defeat Enemies: <<NE>><<NE>><<NW>><<SW>><<SW>> <<NW>><<NE>><<NE>><<NE>><<SE>><<SE>>.
 
-Sword 1: <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>>.
+Sword 1: <<SW>><<SW>><<SE>><<SE>><<NE>> <<NW>><<NE>><<SE>><<NE>><<NE>> <<NE>><<NW>><<SW>><<SW>><<NW>> <<NE>><<NE>><<NW>><<NW>><<NW>> <<SW>><<SE>><<SE>><<SW>><<NW>> <<NW>><<SW>><<SE>><<SE>><<SW>> <<SW>><<NW>><<NE>><<NW>><<SW>>.
 
-Sword 2: <<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>>.
+Sword 2: <<NE>><<NE>><<NW>><<NW>><<NW>> <<NW>><<NW>><<SW>><<SE>><<SE>> <<SE>><<SE>><<SW>><<NW>><<NW>> <<NW>><<NW>><<SW>><<SE>><<SE>> <<SE>><<SE>><<SE>><<SW>><<SW>> <<NW>><<NW>><<NE>><<NW>><<SW>> <<NW>><<NW>><<NE>><<SE>>.
 
-Sword 3: <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>>.
+Sword 3: <<NE>><<NW>><<SW>><<SW>><<SW>> <<SE>><<NE>><<SE>><<SW>><<SE>> <<NE>><<SE>><<SW>><<SE>><<NE>> <<NE>><<NW>><<NW>><<NW>><<NE>> <<NE>><<NW>><<NW>><<NE>><<SE>> <<SE>><<SE>><<SE>><<SW>><<SW>><<NW>><<NE>>.
 
-Sword 4: <<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>>.
+Sword 4: <<NW>><<NE>><<SE>><<SE>><<SE>> <<SE>><<NE>><<NE>><<NW>><<SW>> <<NW>><<NE>><<NW>><<SW>><<NW>> <<NE>><<NW>><<SW>><<SW>><<SW>> <<SW>><<SE>><<SE>><<SW>><<SE>> <<NE>><<SE>><<SW>><<SE>><<NE>><<NE>>.
 
-Sword 5: <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
+Sword 5: <<NE>><<NE>><<NE>><<NE>><<NW>> <<SW>><<SW>><<SW>><<SW>><<SW>> <<SE>><<SE>><<SE>><<NE>><<NW>> <<NE>><<SE>><<SE>><<NE>><<NE>> <<NW>><<NW>><<NE>><<SE>><<SE>> <<SE>><<SW>><<SW>><<SW>><<SW>><<NW>>.
 
-Sword 6: <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>>.
+Sword 6: <<NW>><<NW>><<NW>><<NW>><<NE>> <<NE>><<NE>><<NE>><<NE>><<SE>> <<SE>><<SE>><<SE>><<SE>><<SW>> <<SW>><<SW>><<SW>><<NW>><<NW>> <<NW>><<NW>><<NE>><<NE>><<NE>> <<SE>><<SE>><<SE>><<SW>>.
 
-Sword 7: <<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
+Sword 7: <<NW>><<NW>><<NW>><<NW>><<NE>> <<NE>><<NE>><<NE>><<SE>><<SE>> <<SE>><<SW>><<SW>><<NW>><<NE>> <<NW>><<SW>><<SW>><<SE>><<SE>> <<SE>><<SE>><<SW>><<SW>><<NW>>.
 
-Sword 8: <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>>.
+Sword 8: <<SE>><<SE>><<NE>><<NE>><<NE>> <<NW>><<SW>><<SW>><<NW>><<NE>> <<NE>><<NW>><<NW>><<NW>><<SW>> <<SW>><<SE>><<NE>><<SE>><<SW>> <<SW>><<NW>><<SW>><<SE>><<SE>> <<SW>><<SE>><<SE>><<NE>><<NW>>.
 
-Sword 9: <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
+Sword 9: <<SE>><<SE>><<SW>><<SW>><<NW>> <<NW>><<NW>><<NE>><<NE>><<NE>> <<SE>><<NE>><<NE>><<NW>><<SW>> <<NW>><<NE>><<NW>><<SW>><<SW>> <<SE>><<SW>><<NW>><<SW>><<SE>><<SW>><<NW>>.
 
-Sword 10: <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>>.
+Sword 10: <<SE>><<NE>><<NW>><<NE>><<NE>> <<NW>><<SW>><<SW>><<NW>><<NE>> <<NW>><<SW>><<NW>><<NE>><<NE>> <<SE>><<NE>><<NW>><<NE>><<SE>> <<SE>><<SE>><<SW>><<NW>><<SW>>.

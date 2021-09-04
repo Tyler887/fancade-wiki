@@ -10,18 +10,18 @@ Swipe in any direction for both chicks to move. Move the chicks onto the 2 red b
 
 # Solutions
 
-1. <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<BRarrow>>.
-2. <<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<TLarrow>>.
-3. <<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>>.
-4. <<TLarrow>><<TLarrow>><<TRarrow>><<BLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>>.
-5. <<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<BLarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>>.
-6. <<TRarrow>><<BLarrow>><<BLarrow>><<TRarrow>><<TRarrow>> <<BLarrow>><<TRarrow>><<TRarrow>><<BLarrow>><<BLarrow>><<TRarrow>><<TRarrow>>.
-7. <<TRarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>>.
-8. <<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TLarrow>> <<BRarrow>><<TRarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
-9. <<BLarrow>><<BLarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
-10. <<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<BLarrow>>.
-11. <<BRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>>.
-12. <<TLarrow>><<TLarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<TRarrow>>.
-13. <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<TRarrow>> <<BLarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>>.
-14. <<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>>.
-15. <<TLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>>.
+1. <<NW>><<SW>><<SW>><<SW>><<NW>><<SE>>.
+2. <<SW>><<SW>><<SW>><<NW>><<NW>> <<NE>><<NE>><<NE>><<NE>><<SE>><<NW>>.
+3. <<SW>><<SW>><<NW>><<NE>><<NW>> <<NE>><<SE>><<SE>><<NE>>.
+4. <<NW>><<NW>><<NE>><<SW>><<SW>> <<SW>><<SE>><<SE>><<SE>><<SE>><<NE>><<NW>>.
+5. <<NE>><<NE>><<NE>><<NW>><<NW>> <<SW>><<SE>><<SE>><<NE>><<NW>> <<NW>><<NW>><<NE>><<SW>><<NE>> <<SE>><<SE>><<SW>><<NW>><<NE>>.
+6. <<NE>><<SW>><<SW>><<NE>><<NE>> <<SW>><<NE>><<NE>><<SW>><<SW>><<NE>><<NE>>.
+7. <<NE>><<NW>><<NE>><<NW>><<SW>> <<NW>><<SW>><<SE>><<NE>>.
+8. <<SE>><<SW>><<SW>><<NW>><<NW>> <<SE>><<NE>><<SW>><<SE>><<NE>> <<NW>><<NE>><<NE>><<SE>>.
+9. <<SW>><<SW>><<NE>><<NW>><<NW>> <<SW>><<SE>><<SE>><<SW>><<NW>>.
+10. <<NW>><<NE>><<SE>><<SW>><<SW>> <<NW>><<NE>><<NE>><<SE>><<NE>> <<NE>><<NW>><<NE>><<SE>><<SW>> <<SW>><<SW>><<SW>><<SW>><<NW>><<NE>><<SW>>.
+11. <<SE>><<NE>><<NW>><<NW>><<SW>> <<SE>><<NE>><<NW>><<SW>><<NW>> <<NE>><<NE>><<SE>><<SE>>.
+12. <<NW>><<NW>><<SE>><<NE>><<NE>> <<NE>><<SE>><<SW>><<SW>> <<NW>><<NE>><<NW>><<NE>>.
+13. <<SE>><<SE>><<NE>><<NE>><<NE>> <<SE>><<NE>><<NE>><<NW>><<NE>> <<SW>><<SW>><<NW>><<NE>><<NW>> <<SE>><<NE>><<NW>><<SW>><<SE>> <<NW>><<SW>><<NW>><<NE>> <<SE>><<NE>><<NW>><<SW>>.
+14. <<NW>><<NE>><<SE>><<SW>><<NW>> <<NW>><<SE>><<SE>><<NE>><<NW>> <<NW>><<SW>><<SE>><<SE>><<NE>> <<NE>><<NW>><<SW>><<SE>><<NE>> <<NW>><<SW>><<SW>><<SW>>.
+15. <<NW>><<NW>><<NE>><<NE>><<SE>> <<SE>><<SW>><<SW>><<NW>><<SW>> <<SW>><<SE>><<NE>><<NE>><<NE>><<NW>><<NW>><<NW>>.

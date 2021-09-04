@@ -8,43 +8,43 @@ Swipe diagonally to control the character. Get the character to the rotating obj
 
 # Solutions
 
-1. <<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<TLarrow>>.
-2. <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>>.
-3. <<BRarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>>.
-4. <<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>>.
-5. <<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<BLarrow>><<TLarrow>><<TLarrow>><<TRarrow>>.
-6. <<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>>.
-7. <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>>.
-8. <<TRarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>>.
-9. <<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
-10. <<BRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<BLarrow>><<TLarrow>><<TLarrow>><<BLarrow>><<BLarrow>>.
-11. <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>>.
-12. <<BLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>>.
-13. <<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>>.
-14. <<BRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<TLarrow>>.
-15. <<BRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<BRarrow>>.
-16. <<BRarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>>.
-17. <<BRarrow>><<BLarrow>><<BLarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
-18. <<BLarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<BRarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>>.
-19. <<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BRarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<BRarrow>><<TRarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<BLarrow>>.
-20. <<BLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<BRarrow>> <<TRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
-21. <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>>.
-22. <<BRarrow>><<BRarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<TLarrow>>.
-23. <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<TLarrow>>.
-24. <<BLarrow>><<TLarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<TLarrow>><<BLarrow>>.
-25. <<BLarrow>><<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<TRarrow>>.
-26. <<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<TLarrow>>.
-27. <<TRarrow>><<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>> <<TRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<TLarrow>>.
-28. <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BRarrow>>.
-29. <<BRarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>><<BRarrow>> <<TRarrow>><<BRarrow>><<TRarrow>>.
-30. <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<TRarrow>><<TRarrow>>.
-31. <<BLarrow>><<BLarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>> <<BRarrow>><<TRarrow>><<TRarrow>><<TRarrow>>.
-32. <<BRarrow>><<BRarrow>><<TRarrow>><<TLarrow>><<BLarrow>> <<TLarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>>.
-33. <<TRarrow>><<TRarrow>><<BRarrow>><<TRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>><<BRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<TLarrow>>.
-34. <<TLarrow>><<TRarrow>><<TRarrow>><<TRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<TLarrow>><<BLarrow>><<BLarrow>>.
-35. <<BLarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<TLarrow>>.
-36. <<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<TLarrow>> <<BLarrow>><<TLarrow>><<TLarrow>><<BLarrow>><<BLarrow>> <<BRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<TRarrow>><<TRarrow>>.
-37. <<BLarrow>><<BLarrow>><<BLarrow>><<TLarrow>><<BLarrow>> <<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<TLarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<TRarrow>>.
-38. <<BRarrow>><<BRarrow>><<BLarrow>><<TLarrow>><<TRarrow>> <<TRarrow>><<TRarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<BLarrow>><<BRarrow>><<TRarrow>><<TRarrow>><<BRarrow>><<BRarrow>><<BRarrow>><<BLarrow>>.
-39. <<BLarrow>><<BRarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<BRarrow>><<BRarrow>><<BLarrow>><<BLarrow>>.
-40. <<TRarrow>><<TRarrow>><<BRarrow>><<BLarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TLarrow>><<TLarrow>> <<TRarrow>><<TLarrow>><<BLarrow>><<BRarrow>><<TRarrow>> <<TLarrow>><<BLarrow>><<BLarrow>><<BLarrow>><<BLarrow>> <<BLarrow>><<BLarrow>><<BRarrow>><<TRarrow>><<BRarrow>> <<BLarrow>><<TLarrow>><<TRarrow>><<TRarrow>>.
+1. <<NW>><<NE>><<NW>><<SW>><<NW>>.
+2. <<NE>><<SE>><<SE>><<SW>>.
+3. <<SE>><<NE>><<SE>><<SE>><<SW>>.
+4. <<SE>><<SW>><<SE>><<NE>>.
+5. <<SW>><<SE>><<NE>><<NW>> <<SW>><<NW>><<NW>><<NE>>.
+6. <<NE>><<SE>><<SE>><<SE>><<NE>> <<SE>><<SE>><<SW>><<NW>><<SW>>.
+7. <<SE>><<NE>><<NW>><<SW>><<SE>> <<SE>><<NE>><<NW>><<SW>><<SE>> <<SE>><<SE>><<SW>>.
+8. <<NE>><<NW>><<NE>><<NW>><<SW>> <<SE>><<NE>><<NE>><<SE>><<SE>> <<SW>><<SE>><<NE>><<NW>><<SW>>.
+9. <<NW>><<NE>><<SE>><<SW>><<NW>> <<NE>><<SE>><<SW>><<NW>><<NE>><<NE>><<SE>>.
+10. <<SE>><<SE>><<SW>><<SE>><<SW>> <<NW>><<NE>><<SE>><<NE>><<NW>> <<SW>><<NW>><<NW>><<SW>><<SW>>.
+11. <<SE>><<SE>><<NE>><<NW>><<NE>>.
+12. <<SW>><<NW>><<NW>><<NE>><<NW>> <<NW>><<SW>><<SE>><<SW>><<SW>><<SW>>.
+13. <<SW>><<SE>><<SW>><<SW>><<SW>> <<SE>><<SW>><<NW>><<NE>><<NE>> <<SE>><<SE>><<NE>><<NW>><<SW>> <<SE>><<NE>><<NW>><<NE>><<SE>><<NE>>.
+14. <<SE>><<NE>><<NE>><<SE>><<NE>> <<NE>><<SE>><<SE>><<SW>><<SW>> <<SW>><<NW>><<NE>><<SE>><<NE>> <<NW>><<SW>><<SE>><<SW>><<NW>>.
+15. <<SE>><<SE>><<SW>><<SE>><<SW>> <<NW>><<NE>><<NW>><<NW>><<NW>> <<SW>><<SE>><<SW>><<SE>><<SE>>.
+16. <<SE>><<SE>><<SW>><<SE>><<NE>> <<NW>><<SW>><<SW>><<SE>><<SW>> <<SW>><<NW>><<NW>><<NW>><<NE>><<NW>>.
+17. <<SE>><<SW>><<SW>><<SE>><<SW>> <<SW>><<SE>><<NE>><<NW>><<NE>> <<NW>><<SW>><<SE>><<SE>><<NE>><<NE>><<SE>>.
+18. <<SW>><<SE>><<SW>><<SE>><<SE>> <<NE>><<NW>><<NE>><<SE>><<SE>><<SW>><<SW>>.
+19. <<NE>><<NW>><<SW>><<SE>><<NE>> <<NE>><<NW>><<NE>><<NE>><<SE>> <<SE>><<SW>><<SE>><<SW>><<SW>> <<SE>><<SE>><<NE>><<SE>><<NE>> <<SE>><<SW>><<NW>><<SW>>.
+20. <<SW>><<NW>><<NE>><<SE>><<SW>> <<SW>><<NW>><<NE>><<SE>><<SW>> <<SW>><<SW>><<SE>><<SE>><<SE>> <<NE>><<NE>><<NW>><<SW>><<SE>> <<NE>><<NE>><<NE>><<SE>>.
+21. <<NE>><<SE>><<SE>><<SW>><<NW>> <<NE>><<NW>><<NE>><<NE>><<SE>>.
+22. <<SE>><<SE>><<NE>><<SE>><<SW>> <<NW>><<NE>><<NE>><<SE>><<SW>> <<NW>><<SW>><<SW>><<SW>><<NW>><<NW>>.
+23. <<SE>><<SE>><<NE>><<NW>><<SW>> <<SE>><<SE>><<NE>><<NE>><<NW>> <<NE>><<NW>><<NE>><<NW>><<NW>>.
+24. <<SW>><<NW>><<NW>><<SW>><<SW>> <<SE>><<SE>><<SW>><<NW>><<NE>> <<SE>><<SE>><<SE>><<SE>><<NE>> <<NW>><<SW>><<NW>><<SW>><<SE>> <<SE>><<NE>><<NE>><<NE>><<NE>> <<NW>><<NW>><<SW>>.
+25. <<SW>><<SW>><<SE>><<SE>><<NE>> <<NW>><<SW>><<SE>><<NE>><<NW>> <<NE>><<NE>><<SE>><<SE>><<SW>> <<SE>><<SE>><<SW>><<SW>><<SW>> <<SE>><<SE>><<NE>><<NW>><<SW>> <<SE>><<NE>><<NW>><<NE>><<NE>><<SE>><<NE>>.
+26. <<NE>><<SE>><<NE>><<NE>><<SE>> <<SE>><<SE>><<SW>><<SW>><<SW>> <<NW>><<SW>><<SE>><<NE>><<NE>><<NW>>.
+27. <<NE>><<SE>><<SE>><<SW>><<NW>> <<NE>><<SE>><<SW>><<SW>><<NW>>.
+28. <<NW>><<SW>><<SE>><<NE>><<SE>> <<SW>><<NW>><<NE>><<NW>><<SW>> <<SW>><<SE>>.
+29. <<SE>><<NE>><<SE>><<NE>><<SE>> <<SW>><<NW>><<NE>><<NE>><<SE>> <<NE>><<SE>><<NE>>.
+30. <<SE>><<SE>><<SW>><<SW>><<SW>> <<NW>><<NW>><<NE>><<NW>><<SW>> <<NW>><<SW>><<SE>><<NE>><<SE>> <<SE>><<SW>><<SE>><<NE>><<NW>> <<NW>><<NW>><<NE>><<NW>><<NE>><<NE>>.
+31. <<SW>><<SW>><<NW>><<SW>><<SW>> <<SE>><<NE>><<NW>><<SW>><<SE>> <<SE>><<NE>><<NE>><<NE>>.
+32. <<SE>><<SE>><<NE>><<NW>><<SW>> <<NW>><<NE>><<SE>><<NE>><<NE>> <<SE>><<SE>><<SW>><<SW>>.
+33. <<NE>><<NE>><<SE>><<NE>><<NE>> <<SE>><<SE>><<SW>><<SW>><<SE>> <<NE>><<NW>><<SW>> <<SW>><<SW>><<NW>>.
+34. <<NW>><<NE>><<NE>><<NE>><<NE>> <<NW>><<SW>><<SE>><<NE>><<NW>> <<NW>><<SW>><<SW>>.
+35. <<SW>><<SE>><<SE>><<NE>><<SE>> <<SE>><<SW>><<NW>><<NE>><<NE>> <<NE>><<NW>><<NW>>.
+36. <<NW>><<SW>><<SE>><<NE>><<NW>> <<SW>><<NW>><<NW>><<SW>><<SW>> <<SE>><<SE>><<SE>><<SE>><<NE>><<NE>>.
+37. <<SW>><<SW>><<SW>><<NW>><<SW>> <<SE>><<SW>><<NW>><<NE>><<SE>> <<SW>><<NW>><<NW>><<NW>><<NW>> <<NE>><<NE>><<SE>><<SE>><<NE>>.
+38. <<SE>><<SE>><<SW>><<NW>><<NE>> <<NE>><<NE>><<NE>><<NW>><<NW>> <<SW>><<SE>><<NE>><<NE>><<SE>><<SE>><<SE>><<SW>>.
+39. <<SW>><<SE>><<SW>><<SE>><<NE>> <<NE>><<NW>><<SW>><<SE>><<NE>> <<SE>><<SE>><<SW>><<SW>>.
+40. <<NE>><<NE>><<SE>><<SW>><<SE>> <<SW>><<NW>><<NE>><<NW>><<NW>> <<NE>><<NW>><<SW>><<SE>><<NE>> <<NW>><<SW>><<SW>><<SW>><<SW>> <<SW>><<SW>><<SE>><<NE>><<SE>> <<SW>><<NW>><<NE>><<NE>>.
