@@ -60,3 +60,8 @@ JoshuaTNTGamer made several video tutorials:
 Benjamin Mathew made a tutorial on physics script blocks:
 
 * [[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
+
+G-Progress made tutorial on game and variable script :
+
+* [[Variable Tutorial|https://youtu.be/WR-J7rEgJm4]]
+* [[How to make Roket Game|https://youtu.be/HF16IRPiS40]]
