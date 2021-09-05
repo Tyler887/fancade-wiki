@@ -1,1 +1,1 @@
-The raycast can't detect a block that had been created in the same frame, you have to wait 1 frame after creating the object for raycast to detect it.
+Raycast can't detect a block that has been created in the same frame, so you have to wait another frame (1÷60 seconds) after creating the object for Raycast to detect it.
