@@ -1,4 +1,4 @@
-When you updated to Fancade 1.6.4 you may have found a new script block cnamed [[Menu Item]] and a in-game currency named [[Coins]]. This page is a guide on how to use those.
+Fancade 1.6 adds a new script block called [[Menu Item]] and [[Coins]]. This page serves as a guide on how to use them.
 
 Currently the only way to access the shop is by losing or winning.
 
@@ -18,16 +18,16 @@ To use the menu items, first take a block out of the inventory, and after placin
 
 [[/uploads/Captura_de_pantalla_2021-06-02_142338.png]]
 
-The Picture input is the object that will appear when looking at upgrade or shop references.
+The Picture input is the object that will appear when looking at the according places in the Shop.
 
 The Variable input uses a variable to save the current state of the upgrade.
-You will need to use a saved variable (!Var) for this or it'll be completely useless!
+You will need to use a saved variable (!Var) for this or it'll be completely useless.
 
 There's also other options when you select the block:
 
 [[/uploads/Captura_2.png]]
 
-Name: sets the item name.
+Name: how the item will be named in the shop. 
 
 [[/uploads/Captura_3.png]]
 
