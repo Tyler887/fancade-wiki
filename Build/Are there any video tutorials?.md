@@ -19,7 +19,7 @@ Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way 
 
 Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
-Begginer series:
+Beginner series:
 1. [[Values and Variables|https://www.youtube.com/watch?v=lfNfdQop_AM]]
 2. [[Basic Math|https://www.youtube.com/watch?v=XPBCxDPFICY]]
 3. [[Control Wires|https://www.youtube.com/watch?v=yo6probkZ90]]
