@@ -35,11 +35,11 @@ Martin made a video showing how you can make an entirely new game from scratch:
 
 G-Progress made hard and small tutorials and Script .
 
-1. [[Make roket game with gravity://www.youtu.be/HF16IRPiS40]]
-2. [[Make jumping spring for your car game://www.youtu.be/SSL6GdhTWN4]]
-3. [[Top easy ways for destroy Object://www.youtu.be/k0DLQwSwq7A]]
-4. [[Find any created object position ,rotation etc+Use raycast in all created       Object://www.youtu.be/WR-J7rEgJm4]]
-5. [[First person cam ://www.youtu.be/vFN3WqriHuU]]
+1. [[Make roket game with gravity:|https://www.youtu.be/HF16IRPiS40]]
+2. [[Make jumping spring for your car game:|https://www.youtu.be/SSL6GdhTWN4]]
+3. [[Top easy ways for destroy Object:|https://www.youtu.be/k0DLQwSwq7A]]
+4. [[Find any created object position ,rotation etc+Use raycast in all created       Object:|https://www.youtu.be/WR-J7rEgJm4]]
+5. [[First person cam :|https://www.youtu.be/vFN3WqriHuU]]
 
 Spolarium made several tutorials on how to make games from scratch:
 
