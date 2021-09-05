@@ -61,7 +61,7 @@ Benjamin Mathew made a tutorial on physics script blocks:
 
 * [[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
 
-G-Progress made tutorial on game and variable script :
+G-Progress made tutorial on game & variable scripting:
 
-* [[Variable Tutorial|https://youtu.be/WR-J7rEgJm4]]
-* [[How to make Roket Game|https://youtu.be/HF16IRPiS40]]
+* [[Variables tutorial|https://youtu.be/WR-J7rEgJm4]]
+* [[How to make a rocket game|https://youtu.be/HF16IRPiS40]]
