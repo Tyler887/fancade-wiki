@@ -45,7 +45,7 @@ Spolarium made several tutorials on how to make games from scratch:
 * [[How to make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
 * [[How to make Sokoban in Fancade|https://youtu.be/Z6PHon30c3o]]
 
-Olle Landin made a video for those who're used to *writing* code:
+Olle Landin made a video for those who're used to writing code:
 
 * [[QuickStart for Programmers|https://www.youtube.com/watch?v=66MH38v8qSw]]
 
