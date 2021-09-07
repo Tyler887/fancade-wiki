@@ -24,6 +24,7 @@ Spolarium made several tutorials on how to make games from scratch:
 * [[How to make Simon in Fancade|https://youtu.be/9uy7iL4hthc]]
 * [[How to make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
 * [[How to make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
+* [[How to make Sokoban in Fancade|https://youtu.be/Z6PHon30c3o]]
 
 Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way to get started making games using kits:
 
