@@ -35,6 +35,3 @@ Away is a puzzle game by Tzomby. The objective is to fill every tile using one l
 #### Levels 53-62
 
 [[[/uploads/away-53-62.png]]](https://www.fancade.com/wiki/uploads/away-53-62.png)
-
-## More
-Another similar game is 2ways, which was also made by Tzomby.
