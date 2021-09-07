@@ -1,6 +1,6 @@
 Why yes! Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
-Beginner series:
+**Beginner series:**
 1. [[Values and Variables|https://www.youtube.com/watch?v=lfNfdQop_AM]]
 2. [[Basic Math|https://www.youtube.com/watch?v=XPBCxDPFICY]]
 3. [[Control Wires|https://www.youtube.com/watch?v=yo6probkZ90]]
@@ -10,7 +10,7 @@ Beginner series:
 7. [[Creating and Destroying Objects|https://www.youtube.com/watch?v=oKv-hn6hqPk]]
 8. [[Camera and Light|https://www.youtube.com/watch?v=Vn1GQM9h3ws]]
 
-Advanced series:
+**Advanced series:**
 1. [[Lists|https://www.youtube.com/watch?v=IkbcKKv3Sxo]] 
 
 Martin made a video showing how you can make an entirely new Fancade game from scratch:
