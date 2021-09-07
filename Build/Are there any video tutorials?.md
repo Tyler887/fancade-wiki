@@ -1,6 +1,4 @@
-Why yes!
-
-Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
+Why yes! Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
 Beginner series:
 1. [[Values and Variables|https://www.youtube.com/watch?v=lfNfdQop_AM]]
