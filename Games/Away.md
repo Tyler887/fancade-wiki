@@ -6,7 +6,7 @@ Away is a puzzle game by Tzomby. The objective is to fill every tile using one l
 
 ## Solutions
 
-(Click on an image to zoom in; solutions are ordered left-to-right, top-to-bottom)
+(Click on an image to zoom in; solutions are ordered left-to-right, top-to-bottom. When there are multiple solutions, one solution is shown.)
 
 #### Levels 1-2
 
