@@ -17,6 +17,14 @@ Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scrip
 **Advanced series:**
 1. [[Lists|https://www.youtube.com/watch?v=IkbcKKv3Sxo]] 
 
+Spolarium made several tutorials on how to make games from scratch:
+
+* [[How to make Fall Off in Fancade|https://youtu.be/OQBh929XKRE]]
+* [[How to make Pong in Fancade|https://youtu.be/UD4oBmXBbGo]]
+* [[How to make Simon in Fancade|https://youtu.be/9uy7iL4hthc]]
+* [[How to make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
+* [[How to make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
+
 Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way to get started making games using kits:
 
 1. [[Edit, paint a block, remove a level, rename a game, publish a game|https://youtu.be/02eFv8x-1zM]]
@@ -33,15 +41,6 @@ Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way 
 12. [[Look inside a script block, copy and paste blocks|https://youtu.be/zB3jJ7bx01c]]
 13. [[Use blocks made by other creators, rotate a block, use two script blocks: set position and rotation|https://youtu.be/fMHG7AuY4a0]]
 14. [[Move or copy a whole building from one game to another!|https://youtu.be/PVSX9WpRp-I]]
-
-Spolarium made several tutorials on how to make games from scratch:
-
-* [[How to make Fall Off in Fancade|https://youtu.be/OQBh929XKRE]]
-* [[How to make Pong in Fancade|https://youtu.be/UD4oBmXBbGo]]
-* [[How to make Simon in Fancade|https://youtu.be/9uy7iL4hthc]]
-* [[How to make Snake in Fancade|https://youtu.be/iUS9K5nS_wE]]
-* [[How to make Concentration in Fancade|https://youtu.be/v0Y0VPiqe8w]]
-* [[How to make Sokoban in Fancade|https://youtu.be/Z6PHon30c3o]]
 
 Olle Landin made a video for those who're used to *writing* code:
 
