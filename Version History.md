@@ -3,7 +3,7 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 1.6.6
 * Release: June 10, 2021
 * Quest worlds: 70
-* Collect coins and get upgrades!
+* Collect [[coins]] and get upgrades!
 * Compete for rank in the Arcade
 * Share game photos with captions
 * New script blocks ([[Menu Item]], [[Saved variables|Set Variable#saved-variables]], [[Set Score Coins input|Set Score]], Win/Lose delay setting)
@@ -18,11 +18,13 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Option to buy ad-free forever
 <br>• Option to buy or earn gems to speed progress
 <br>• New script blocks (Menu Item, Saved variables, Set Score Coins input, Win/Lose delay setting)
+<br>
 <br><b>Changed:</b>
 <br>• Fresh new UI look
 <br>• New app icon (experimental!)
 <br>• Faster level switching
 <br>• Faster intro
+<br>
 <br><b>Fixed:</b>
 <br>• Sound effects cause lag!
 <br>• Possible soft-lock on logo
