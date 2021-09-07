@@ -2,7 +2,7 @@ Why yes!
 
 Martin made a video showing how you can make an entirely new Fancade game from scratch:
 
-* [[How to Make a Game From Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
+* [[How to Make a Game from Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
 
 Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
