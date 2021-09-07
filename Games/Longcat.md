@@ -9,19 +9,19 @@ Swipe to slide or move Longcat, until he hits either a wall or his tail. Fill ev
 # Solutions
 
 #### Level 1
+Up, right, down, left, up.
+
+[[/uploads/1_new.png | height=200px]]
+
+#### Level 2
 Up, left, down, right, down, right, up.
 
 [[/uploads/1.png | height=200px]]
 
-#### Level 2
+#### Level 3
 Left, up, right, down, left, up.
 
 [[/uploads/2.png | height=200px]]
-
-#### Level 3
-Up, right, down, left, up, left, up, left.
-
-[[/uploads/3.png | height=200px]]
 
 #### Level 4
 Down, right, down, right, up, left, down, left, down.
@@ -29,9 +29,9 @@ Down, right, down, right, up, left, down, left, down.
 [[/uploads/4.png | height=200px]]
 
 #### Level 5
-Right, up, left, down, right, up, left, up, right.
+Right, up, left, down, right, up, left, up, left, down.
 
-[[/uploads/5.png | height=200px]]
+[[/uploads/5_new.png | height=200px]]
 
 #### Level 6
 Up, left, down, left, down, right, up, left, up.
@@ -44,9 +44,9 @@ Down, left, up, right, down, right, up, left, up.
 [[/uploads/7.png | height=200px]]
 
 #### Level 8
-Left, down, right, up, left, up, right, up, right, down.
+Right, down, left, up, right, down, right, up, left.
 
-[[/uploads/8.png | height=200px]]
+[[/uploads/8_new.png | height=200px]]
 
 #### Level 9
 Left, down, right, up, right, down, left, down, right.
@@ -59,14 +59,14 @@ Right, down, left, up, left, up, right, down, left, up.
 [[/uploads/10.png | height=200px]]
 
 #### Level 11
-Down, right, up, left, down, left, down, left, up, left.
+Down, left, up, right, up, right, up, left, down, left, up, left.
 
-[[/uploads/11.png | height=200px]]
+[[/uploads/11_new.png | height=200px]]
 
 #### Level 12
-Up, right, down, left, up, left, down, left, down, right, up, left.
+Up, left, down, left, down, right, down, right, up, left, up.
 
-[[/uploads/12.png | height=200px]]
+[[/uploads/12_new.png | height=200px]]
 
 #### Level 13
 Down, right, up, left, down, right, up, right, down, right.
@@ -89,9 +89,9 @@ Left, down, left, up, left, up, right, down, left.
 [[/uploads/16.png | height=200px]]
 
 #### Level 17
-Left, down, right, up, left, down, right, down, left, down, left.
+Up, left, down, right, up, right, down, left, down, right, down.
 
-[[/uploads/17.png | height=200px]]
+[[/uploads/17_new.png | height=200px]]
 
 #### Level 18
 Right, up, left, up, left, down, left, down, right, up, left.
@@ -99,9 +99,9 @@ Right, up, left, up, left, down, left, down, right, up, left.
 [[/uploads/18.png | height=200px]]
 
 #### Level 19
-Left, up, right, down, left, up, left, up, right, up, right, down, right, up.
+Down, left, up, right, up, right, down, left, down, left, down, right, up.
 
-[[/uploads/19.png | height=200px]]
+[[/uploads/19_new.png | height=200px]]
 
 #### Level 20
 Right, down, left, up, right, down, left, down, right, up, left.
