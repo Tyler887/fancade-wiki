@@ -1,4 +1,10 @@
-Why yes! Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
+Why yes! 
+
+Martin made a video showing how you can make an entirely new Fancade game from scratch:
+
+* [[How to Make a Game From Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
+
+Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
 **Beginner series:**
 1. [[Values and Variables|https://www.youtube.com/watch?v=lfNfdQop_AM]]
@@ -12,10 +18,6 @@ Why yes! Mathias Elgaard made an entire YouTube tutorial series introducing Fanc
 
 **Advanced series:**
 1. [[Lists|https://www.youtube.com/watch?v=IkbcKKv3Sxo]] 
-
-Martin made a video showing how you can make an entirely new Fancade game from scratch:
-
-* [[How to Make a Game From Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
 
 Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way to get started making games using kits:
 
