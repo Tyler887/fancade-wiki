@@ -1,6 +1,6 @@
 Why yes! 
 
-Martin Magni made a video showing how you can make an entirely new Fancade game from scratch:
+[[Martin Magni]] made a video showing how you can make an entirely new Fancade game from scratch:
 
 * [[How to Make a Game from Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
 
