@@ -17,7 +17,7 @@ Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scrip
 **Advanced series:**
 1. [[Lists|https://www.youtube.com/watch?v=IkbcKKv3Sxo]] 
 
-Spolarium made several tutorials on how to make games from scratch, at the time of writing there are 6 tutorials here:
+Spolarium made several tutorials on how to make games from scratch:
 
 * [[How to make Fall Off in Fancade|https://youtu.be/OQBh929XKRE]]
 * [[How to make Pong in Fancade|https://youtu.be/UD4oBmXBbGo]]
