@@ -24,6 +24,10 @@ quest: true
 
 [[[/uploads/monstermatch-31-40.png]]](https://www.fancade.com/wiki/uploads/monstermatch-31-40.png)
 
+#### Levels 41-50
+
+[[[/uploads/monstermatch-41-50.png]]](https://www.fancade.com/wiki/uploads/monstermatch-41-50.png)
+
 #### Levels 51-60
 
 [[[/uploads/monstermatch-51-60.png]]](https://www.fancade.com/wiki/uploads/monstermatch-51-60.png)
