@@ -1,47 +1,51 @@
 ---
 quest: true
 ---
-[[Minecade|https://fancade.page.link/xfsd]] is a game by Mathias Elgaard where you uncover spaces with numbers without uncovering a mine, and you can flag spaces to help. Theres also a timer for if you want to speedrun a minesweeper map.
+[[Minecade|https://fancade.page.link/xfsd]] is a [[Minesweeper|https://en.wikipedia.org/wiki/Minesweeper_(video_game)]] clone by Mathias Elgaard,  where you uncover cells with numbers without uncovering a mine, and you can flag cells to help.
 
-## How to play
-Tap a space to uncover the space, the first uncovered space is never a mine. Hold a space for a long time to flag it, to win, uncover all spaces without mines, you "lose" (cant play anymore) if you touch a mine. NOTE: All puzzles are randomized, so there isnt a predetermined solution to win.
+## How to Play
 
-### Rules
-A number determines how much mines are adjacent to the cell, even diagonaly, an empty cell is a 0 clue.
+Tap on a cell to uncover the cell. Hold on a cell for a long time to mark it as a flag. To win, uncover all cells without mines. You lose if you touch a mine. NOTE: All puzzles are randomized, so there isn't a predetermined solution to win.
 
-## Helpful tricks
-If you start with only 1 number, its just luck of the draw if you really start or reset.
+A number determines how much mines are adjacent to the cell, even diagonally, an empty cell is a 0 clue.
 
-If you find a lot of numbers in a click, look for 1 clues which are in a neighbor with only 1 diagonal white cell, flag them.
+## Helpful Tricks
 
-Any 1 clues that are adjacent to the flag, are 0 clues and now can be safe to uncover those cells adjecent to those 1s.
+Look for 1 clues which are in a neighbor with only 1 diagonal covered cell, you can flag them:
 
-Any other clues adjacent to the flag get "reduced" by 1
+[[/uploads/minecade-a1.png | height=200px]]
 
-If theres a cell where the number of total white cells adjacent is equal to the number in the cell, all cells are mines.
+[[/uploads/minecade-a2.png | height=200px]]
 
-If the cell has equal amount of flags to the cell's number, all cells are safe UNLESS you made a mistake
+Any 1 clues that are adjacent to the flag, are 0 clues and now can be safe to uncover those cells adjecent to those 1s:
 
-in a case like this
+[[/uploads/minecade-a3.png | height=250px]]
 
-W 0 0 0
 
-W 1 2 ?
+Any other clues adjacent to the flag get "reduced" by 1.
 
-W O O A
+To generalize, if there's a cell where the number of total white cells adjacent is equal to the number in the cell, all cells are mines:
 
-W O O O
+[[/uploads/minecade-a4.png | height=250px]]
 
-The 1 has a mine on the bottom, but the 2 has a mine at the bottom as well, if theres not a mine in cell A, you cant satisfy both the clues at the same time, so the A cell is a mine and must be flagged.
+If the cell has equal amount of flags to the cell's number, all cells are safe: (Unless if you made a mistake)
 
-W 0 0 0
+[[/uploads/minecade-a5.png | height=250px]]
 
-W 1 1 ?
+-------------------
 
-W O O B
+Trickier strategies involve visualizing if a cell is a mine or not.
 
-W O O O
+In a case like this:
 
-Same goes for this pattern, but inverted, if theres a mine in cell B, you can no longer satisfy both clues, so cell B is safe.
+[[/uploads/minecade-b.png | height=150px]]
+
+The 1 has a mine on the top, but the 2 has a mine at the top as well. If there's not a mine in cell A, you cant satisfy both the clues at the same time because the neighboring cells in the 2 is forced, and 1 has too much mines into it, so the A cell is a mine and must be flagged.
+
+-------------------
+
+[[/uploads/minecade-c.png | height=150px]]
+
+Same goes for this pattern, but inverted. If there's a mine in cell B, you can no longer satisfy both clues, since the 1 in the middle is forced to mark the remaining cells as safe, leaving no mines for the 1 on the right, so cell B is safe.
 
 Some cases are unwinnable without guessing, so some luck is involved in solving puzzles.
