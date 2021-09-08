@@ -2,7 +2,7 @@ The answer is yes!!
 
 [[Martin Magni]] made a video showing how you can make an entirely new Fancade game from scratch:
 
-* [[How to Make a Game from Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
+[[How to Make a Game from Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
 
 Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scripting:
 
@@ -47,7 +47,7 @@ Gunnel Magnusson has a whole YouTube channel full of videos on the simplest way 
 
 Olle Landin made a video for those who're used to *writing* code:
 
-* [[QuickStart for Programmers|https://www.youtube.com/watch?v=66MH38v8qSw]]
+[[QuickStart for Programmers|https://www.youtube.com/watch?v=66MH38v8qSw]]
 
 JoshuaTNTGamer made several video tutorials:
 
@@ -59,4 +59,4 @@ JoshuaTNTGamer made several video tutorials:
 
 Benjamin Mathew made a tutorial on physics script blocks:
 
-* [[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
+[[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
