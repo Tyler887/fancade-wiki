@@ -1,4 +1,4 @@
-Plays a sound effect, with optional volume and pitch inputs. Outputs the channel on which the sound is played. Use the settings to change which sound effect is played.
+Plays a sound effect, with optional volume and pitch inputs and outputs the channel the sound is played on. Use the settings to change which sound effect is played.
 
 [[/uploads/Playsound.png]]
 
