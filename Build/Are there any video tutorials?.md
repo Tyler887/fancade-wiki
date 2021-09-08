@@ -1,4 +1,6 @@
-Yes! There are many YouTube video tutorials on Fancade scripting. First, [[Martin Magni]] made a video showing how you can make an entirely new Fancade game from scratch:
+The answer is yes!!
+
+[[Martin Magni]] made a video showing how you can make an entirely new Fancade game from scratch:
 
 * [[How to Make a Game from Scratch in 20 Minutes Using Fancade|https://www.youtube.com/watch?v=hAlUGmw1Qlw]]
 
