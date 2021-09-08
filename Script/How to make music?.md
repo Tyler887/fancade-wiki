@@ -9,4 +9,4 @@ Now choose to play a sound when the event is detected!
 Tip of the day from Tyler 2013: Make a note to pitch script to make everything easier.
 
 ## Don't want to make but want music?
-Find a editable working music on Fancade game search on the Fancade app. But if you think the music is too bad for your game, then try to modify it.
+Find a editable working music on Fancade game search on the Fancade app. But if you think the music is too bad for your game, then try to modify it. (If you can't modify it, then the music is 'Can edit levels' and you can't make a editable game using it.)
