@@ -17,10 +17,9 @@ Look for 1 clues which are in a neighbor with only 1 diagonal covered cell, you 
 
 [[/uploads/minecade-a2.png | height=200px]]
 
-Any 1 clues that are adjacent to the flag, are 0 clues and now can be safe to uncover those cells adjecent to those 1s:
+Any 1 clues that are adjacent to the flag, are 0 clues and now can be safe to uncover those cells adjacent to those 1s:
 
 [[/uploads/minecade-a3.png | height=250px]]
-
 
 Any other clues adjacent to the flag get "reduced" by 1.
 
