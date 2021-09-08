@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Gap Passer Bot is a Fancade game made by RF, (also known as Richard Fu).
+Gap Passer Bot is a Fancade game made by RF (also known as Richard Fu).
 
 # Solutions
 
