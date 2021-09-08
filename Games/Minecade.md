@@ -4,7 +4,7 @@ quest: true
 [[Minecade|https://fancade.page.link/xfsd]] is a game by Mathias Elgaard where you uncover spaces with numbers without uncovering a mine, and you can flag spaces to help. Theres also a timer for if you want to speedrun a minesweeper map.
 
 ## How to play
-Tap a space to uncover the space, hold a space for a long time to flag it, to win, uncover all spaces without mines, you "lose" (cant play anymore) if you touch a mine. NOTE: All puzzles are randomized, so there isnt a predetermined solution to win.
+Tap a space to uncover the space, the first uncovered space is never a mine. Hold a space for a long time to flag it, to win, uncover all spaces without mines, you "lose" (cant play anymore) if you touch a mine. NOTE: All puzzles are randomized, so there isnt a predetermined solution to win.
 
 ### Rules
 A number determines how much mines are adjacent to the cell, even diagonaly, an empty cell is a 0 clue.
