@@ -1,0 +1,1 @@
+This means the score was a decimal value before. Also, there is a bug in Fancade where the score can be forced to include .0.
