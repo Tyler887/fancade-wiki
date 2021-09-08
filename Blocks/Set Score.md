@@ -1,4 +1,4 @@
-Sets the score.
+Sets the score and/or [[coins]].
 
 * In Fancade 1.6, a second input is made available to set the amount of Coins the player can get playing a game.
 
