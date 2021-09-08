@@ -4,7 +4,7 @@ For games where the player relaxes and thinks.
 This may be commonly used for Odd Bot games.
 
 ### Arcade
-For 'skill and pratice' games. Some Fancaders use this tag for other purposes.
+For 'skill and pratice' games. Some Fancaders use this tag for other purposes, ~~lol~~.
 
 ### Drive
 For games with cars.
