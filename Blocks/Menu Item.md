@@ -1,4 +1,4 @@
-The Menu Item block is a script block which was added on Fancade 1.6 beta. When it is  executed at least once it activates the shop system adding a shop to the game which is only accessible when you win or lose the game. The main use of this script is to add items to a shop which should ONLY be done once per item. To learn how to use it, see [here](How to use the shop system?).
+The Menu Item block is a script block which was added on Fancade 1.6 beta. When it is  executed at least once it activates the shop system adding a shop to the game which is only accessible when you win or lose the game. The main use of this script is to add items to a shop which should ONLY be done once per item. To learn how to use it, see [here](Script/How to use the shop system?).
 
 [[/uploads/Screenshot_20210605-101540.png]]
 
