@@ -16,7 +16,7 @@ Mathias Elgaard made an entire YouTube tutorial series introducing Fancade scrip
 7. [[Creating and Destroying Objects|https://www.youtube.com/watch?v=oKv-hn6hqPk]]
 8. [[Camera and Light|https://www.youtube.com/watch?v=Vn1GQM9h3ws]]
 
-**Advanced series (SUPER HARD!):**
+**Advanced series:**
 1. [[Lists|https://www.youtube.com/watch?v=IkbcKKv3Sxo]] 
 
 Spolarium made several tutorials on how to make games from scratch:
