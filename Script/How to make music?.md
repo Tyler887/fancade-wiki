@@ -1,5 +1,5 @@
 ## For everyone
-Using Tim0lmazan's '[game music kit](https://fancade.page.link/f4pG)', you can make music with blocks which don't have any scripts inside them! You might need to copy the sheet block a little to make longer songs. Also, the sound pitch depends on the Z position.
+Using Tim0lmazan's '[game music kit](https://fancade.page.link/f4pG)', you can make music with blocks which don't have any scripts inside them! You might need to copy the sheet block a little to make longer songs. Also, the sound pitch depends on the Z position. [Don't know what this means?](https://www.fancade.com/wiki/Build/Which%20direction%20is%20X,Y,Z%3F.md)
 
 ## For experienced creators
 You can use a modulo and just detect the frame. Use a number. You need a beat var, unless using [[Current Frame]]. Then, do this math: ^(2,÷(any, 12))
