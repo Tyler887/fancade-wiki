@@ -1,4 +1,4 @@
-Changes the direction that light falls onto your blocks. (Ignore the Position input, it no longer works, but it worked on a very old beta update of Fancade.)
+Changes the direction that light falls onto your blocks. (Ignore the Position input, it's not currently used for anything.)
 [[/uploads/Setlight.png]]
 
 ## Tip of the day, by Potato Chan
