@@ -1,1 +1,8 @@
-[asd](C:\Users\admin\Documents\html\hassanscriptproject\ask something)<!doctype html>
+<!doctype html>
+<html>
+<p>asd</p>
+<p>asd</p>
+<p>asd</p>
+
+
+</html>
