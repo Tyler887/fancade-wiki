@@ -1,5 +1,5 @@
 ---
-quest=true
+quest: true
 ---
 
 The goal is to get the gray diamond to the checkered block without hitting obstacles
