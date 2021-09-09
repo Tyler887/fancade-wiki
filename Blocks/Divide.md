@@ -1,3 +1,3 @@
-Outputs the first input divided by the second input.
+Divides one number by another.
 
 [[/uploads/Divide.png]]
