@@ -4,11 +4,11 @@ Nonsense is a game by R3DZ3R, where you rearrange color tiles on a checkerboard 
 
 ## How to Play
 
-The goal of this game is to rearrange the color tiles until they match these rules:
+Drag a tile to move it. Rearrange the color tiles until they match these rules:
 
-- Two or more tiles with the same color can be near each other
-- Two or more tiles with different color shouldn't near each other
-- Same rule applies to locked tiles, regular-mini tiles combination, and mini-mini tiles combination.
+* Two or more tiles with the same color can be near each other
+* Two or more tiles with different color shouldn't near each other
+* Same rule applies to locked tiles, regular-mini tiles combination, and mini-mini tiles combination.
 
 ## Solutions
 
