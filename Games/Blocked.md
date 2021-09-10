@@ -1,3 +1,6 @@
+---
+quest: true
+---
 Blocked is a puzzle game by Martin Magni.
 
 ## How to Play
