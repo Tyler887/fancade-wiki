@@ -4,7 +4,7 @@ quest: true
 
 [[Fixed Path|https://fancade.page.link/wgTG]] is a game where the goal is to get the gray diamond to the checkered block without hitting obstacles. 
 
-## Rules
+## How To Play
 
 Hold to move along the designated path. You win if you get to the checkered block, You lose if you hit any obstacle.
 
