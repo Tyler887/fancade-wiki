@@ -5,7 +5,7 @@ Got a new phone? Or want to play on your tablet as well?
 
 That's the gist of it. But some stuff requires additional steps. Details below.
 
-## Premium
+## Premium and Gems
 
 No extra steps needed!
 
