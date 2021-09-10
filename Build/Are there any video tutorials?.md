@@ -63,5 +63,11 @@ Benjamin Mathew made a tutorial on physics script blocks:
 
 G-Progress Made many simple tutorials:
 
-* [[How objects can be brokenl|https://youtu.be/84XF6Mfg6-0]]
+* [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
 * [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
+
+Arindam made several video tutorials on scripting:
+
+* [[How to make Camera following object|https://youtu.be/OfAU6RIxprQ]]
+* [[How to make a object change direction on hitting wall|https://youtu.be/hEKdbi97-v0]]
+* [[Make a swipe to move object|https://youtu.be/JOBcgXd_xTI]]
