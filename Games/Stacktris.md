@@ -1,7 +1,8 @@
 ---
 quest: true
 ---
-Stacktris is a game by [[Martin Magni]], where you try to stack tets without making them fall off.
+Stacktris is a game by [[Martin Magni]], where you try to stack tetrominoes without making them fall off.
 
-## How to play
-Tap to stop the tet's spinning, drag to move the tet, release to drop. Don't try to drop the 1 or more of the tets off. Try to stack as high as you can!
+## How to Play
+
+Tap to stop the tetromino's spinning, drag to move the tetrominoes, release to drop. Don't try to drop any tetrominoes off. Stack as high as you can!
