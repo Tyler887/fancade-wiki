@@ -15,7 +15,7 @@ The bot will always start moving right, and if it ever encounters a wall or bord
 
 ### Other Things
 
-* Red bordered frames cant be moved at all.
+* Red bordered frames can't be moved at all.
 * Yellow bordered frames can only be moved after getting a key.
 * Pink lines show that you can only swap frames in the same pink regions.
 
