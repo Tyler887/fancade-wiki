@@ -1,7 +1,7 @@
 The You tab is for customizing your Fancade.
 
 #### Premium
-You can buy Premium with four options. Depending on the option, this has several benefits:
+You can buy Premium for a month, 6 months, 1 year, or forever. Depending on the option, this has several benefits:
 - No ads!
 - Get gems for repairing quest bridges instantly and games with shops
 - Publish and update any number of games, no timer
