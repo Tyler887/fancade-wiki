@@ -1,10 +1,8 @@
-### DeSwipe - The Game
-
-DeSwipe is a game made by R3DZ3R. It involves moving a cube character (named Rhoe) using swipe controls in a level to break all the platforms beneath it. 
+[DeSwipe](https://fancade.page.link/SPjQ) is a game made by R3DZ3R. It involves moving a cube character (named Rhoe) using swipe controls in a level to break all the platforms beneath it. 
 
 ![Picture of DeSwipe Gameplay](https://media.discordapp.net/attachments/815825363006521374/883851425770246184/fancade.png)
 
-### DeSwipe - Level Solutions
+## Solutions
 
 1. <<NE>><<SE>><<SW>>.
 2. <<SW>><<NW>><<NE>><<NW>><<SW>><<SE>>.
