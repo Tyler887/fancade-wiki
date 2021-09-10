@@ -26,8 +26,8 @@ Games that you've published can always be edited on any of your devices:
 
 1. Publish the game.
 2. On your second device, search to find the game, and tap Edit. (This works for you, even if the game was published as Not editable, because Fancade will recognize you as the original creator.)
-3. (Optionally, unpublish the game again, if it's not yet ready for other users to play.)
+3. Optionally, unpublish the game again, if it's not yet ready for other users to play.
 
 ## Other Stuff
 
-For syncing anything else, if you're on Android, [[use the built-in cloud backup functionality|https://support.google.com/android/answer/2819582]] to back up your old phone to your Google account. Then, when you setup your new phone, use the option to restore from your Google account backup to sync everything over!
+For syncing anything else, if you're on Android, [[use the built-in cloud backup functionality|https://support.google.com/android/answer/2819582]] to back up your old phone to your Google account. Then, when you setup your new phone, use the option to restore from your Google account backup to sync everything over! If you use iOS, you cannot sync all of Fancade's data. But you can sign in to the account you used and do every single thing above.
