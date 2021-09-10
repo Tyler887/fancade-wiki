@@ -66,3 +66,7 @@ Arindam made several video tutorials on scripting:
 * [[How to make Camera following object|https://youtu.be/OfAU6RIxprQ]]
 * [[How to make a object change direction on hitting wall|https://youtu.be/hEKdbi97-v0]]
 * [[Make a swipe to move object|https://youtu.be/JOBcgXd_xTI]]
+
+Tyler 2013 (Tylertryuin in) made many scripting tutorials:
+* [How to cause win or lose event](https://youtu.be/a-rgQk8Mblo)
+* [Simple raycasting](https://youtu.be/rNEGqvXOX5U)
