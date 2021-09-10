@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 Roller is a collaboration made by [[Martin Magni]] and Mathias Elgaard. Similar to [[Tumble]] mechanics, the goal is to paint all the ground into life!
 
 ## How to Play
