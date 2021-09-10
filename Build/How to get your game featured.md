@@ -1,4 +1,4 @@
-You've made a game? Awesome! You want it to be listed in Featured so that many more people can play and enjoy it? Cool! The games are hand-picked, but there are many things you can do to increase your chances of being selected.
+You've made a game? Awesome! You want it to be listed in Spotlight so that many more people can play and enjoy it? Cool! The games are hand-picked, but there are many things you can do to increase your chances of being selected.
 
 First, there are some things to avoid, which shouldn't be too hard:
 
