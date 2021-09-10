@@ -8,7 +8,7 @@ You can buy Premium for a month, 6 months, 1 year, or forever, which also contai
 - Support [[Martin|Martin Magni]] in developing Fancade
 
 #### Options
-Tap to toggle sound and music. There's also the Show Touches option which is useful when recording YouTube videos, because others can see where you're tapping.
+Tap to toggle sound and music. There's also the Show Touches option which is useful when recording YouTube videos, because others can see where you're tapping. To reveal the user ID tap the You button several times. To reveal 'Reset Quest', tap the You button 20 times.
 
 #### Profile
 Link your Fancade account to an email and password. This will enable you to sign in as the same user on all your devices, to [[sync|Sync between devices]] Premium and gems, and is required to publish games. ([[Forgot your password?|Change or Forgot Password]])
