@@ -25,7 +25,7 @@ Online leaderboards were introduced in Fancade 1.5. As long as your Fancade acco
 Games that you've published can always be edited on any of your devices:
 
 1. Publish the game.
-2. On your second device, search to find the game, and tap Edit. (This works for you, even if the game was published as Not editable, because Fancade will recognize you as the original creator.)
+2. On your second device, search to find the game, and tap Edit. (This works for you, even if the game was published as Can't edit, because Fancade will recognize you as the original creator.)
 3. Optionally, unpublish the game again, if it's not yet ready for other users to play.
 
 ## Other Stuff
