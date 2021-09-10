@@ -61,7 +61,7 @@ Benjamin Mathew made a tutorial on physics script blocks:
 
 * [[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
 
-Anidram made several video tutorials on scripting:
+Arindam made several video tutorials on scripting:
 
 * [[How to make Camera following object|https://youtu.be/OfAU6RIxprQ]]
 * [[How to make a object change direction on hitting wall|https://youtu.be/hEKdbi97-v0]]
