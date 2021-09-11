@@ -13,7 +13,7 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 ## Write about Fancade
 
-The wiki is about [Fancade](fancade.com), so try to stay on topic.
+The wiki is about [Fancade](https://fancade.com), so try to stay on topic.
 
 ## Create a appropiate page
 
