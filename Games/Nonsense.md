@@ -1,6 +1,6 @@
 Nonsense is a game by R3DZ3R, where you rearrange color tiles on a checkerboard within some rules.
 
-![Picture of Nonsense Gameplay](https://media.discordapp.net/attachments/815825363006521374/883854613210615838/20210905_062223.jpg)
+[[/uploads/20210905_062223.jpg]]
 
 ## How to Play
 
