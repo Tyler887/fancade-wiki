@@ -61,11 +61,6 @@ Benjamin Mathew made a tutorial on physics script blocks:
 
 * [[Physics Tutorial|https://youtu.be/M2V7chbO4Pc]]
 
-G-Progress Made many simple tutorials:
-
-* [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
-* [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
-
 Arindam made several video tutorials on scripting:
 
 * [[How to make Camera following object|https://youtu.be/OfAU6RIxprQ]]
@@ -73,5 +68,16 @@ Arindam made several video tutorials on scripting:
 * [[Make a swipe to move object|https://youtu.be/JOBcgXd_xTI]]
 
 Tyler 2013 (Tylertryuin in) made many scripting tutorials:
-* [How to cause win or lose event](https://youtu.be/a-rgQk8Mblo)
-* [Simple raycasting](https://youtu.be/rNEGqvXOX5U)
+
+* [[How to cause win or lose event|https://youtu.be/a-rgQk8Mblo]]
+* [[Simple raycasting|https://youtu.be/rNEGqvXOX5U]]
+
+G-Progress Made many simple tutorials:
+
+* [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
+* [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
+
+G-Progress Made many simple tutorials:
+
+* [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
+* [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
