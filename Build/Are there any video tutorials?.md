@@ -72,7 +72,7 @@ Tyler 2013 (Tylertryuin in) made many scripting tutorials:
 * [[How to cause win or lose event|https://youtu.be/a-rgQk8Mblo]]
 * [[Simple raycasting|https://youtu.be/rNEGqvXOX5U]]
 
-G-Progress Made many simple tutorials:
+G-Progress made many simple tutorials:
 
 * [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
-* [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
+* [[Make jumping springs for your car game|https://youtu.be/SSL6GdhTWN4]]
