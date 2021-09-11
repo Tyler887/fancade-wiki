@@ -8,7 +8,8 @@ Drag a tile to move it. Rearrange the color tiles until they match these rules:
 
 * Two or more tiles with the same color can be near each other
 * Two or more tiles with different color shouldn't near each other
-* Same rule applies to locked tiles, regular-mini tiles combination, and mini-mini tiles combination.
+
+The same rule applies to locked tiles and 1x1 tile combination.
 
 ## Solutions
 
