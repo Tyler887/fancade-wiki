@@ -76,8 +76,3 @@ G-Progress Made many simple tutorials:
 
 * [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
 * [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
-
-G-Progress Made many simple tutorials:
-
-* [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
-* [[Make Jumping Springs for your car gamel|https://youtu.be/SSL6GdhTWN4]]
