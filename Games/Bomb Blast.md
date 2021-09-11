@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 Bomb Blast is a physics game by Artast.
 
 ## How to Play
