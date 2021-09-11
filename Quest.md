@@ -13,5 +13,4 @@ Each world contains exactly 100 stars, so you can easily compare your progress w
 
 If you want to reset your Quest progress, tap 20 times on the You tab to reveal the Reset Quest button. **Be warned that this action cannot be undone!**
 
-<a id="games"/>
 <<QuestGames()>>
