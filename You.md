@@ -1,6 +1,4 @@
-The You tab contains Premium, settings for changing how Fancade works, and more. Below can be used to jump to any heading you wanna learn about.
-
-[[_TOC_]]
+The You tab contains Premium, settings for changing how Fancade works, and more.
 
 ### Premium
 You can buy Premium for a month, 6 months, 1 year, or forever, which also contains [[gems]]. Depending on the option, this has several benefits:
