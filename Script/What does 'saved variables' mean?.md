@@ -1,1 +1,1 @@
-A saved variable is persistent, it was made for [[Menu Item]] to work. Saved variables was introduced on Fancade 1.6.
+A saved variable is persistent, it was made for [[Menu Item]] to work. Saved variables was introduced on Fancade 1.6. (Saved variables currently only work with number variables.)
