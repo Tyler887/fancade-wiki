@@ -3,7 +3,7 @@ Fancade 1.6 adds a new script block called [[Menu Item]] and a currency named [[
 Currently the only way to access the shop is by winning or losing.
 
 # Coins
-To use the coins, just take a number variable and stick it to the new coins input in the score block. 
+To use the coins, just take a number variable and connect it to the `Coins` input in the score block. 
 
 [[/uploads/Captura_de_pantalla_2021-06-02_143144.png]]
 
