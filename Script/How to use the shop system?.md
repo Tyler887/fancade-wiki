@@ -44,7 +44,7 @@ The corresponding object in the shop system will have to be upgraded 2 times to 
 [[/uploads/Captura_6.png]]
 
 If you leave it as On/Off, you'll be able to upgrade it once, and toggle it on and off, like an extra mode or a cheat code.
-If the connected Variable is \-1,that means OFF. You can set it to \-1 or 1 to avoid the purchase. 
+If the connected Variable is \-1, that means OFF. You can set it to \-1 or 1 to avoid the purchase. 
 
 [[/uploads/Captura_7.png]]
 
