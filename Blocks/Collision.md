@@ -2,6 +2,7 @@ Checks the collision properties of the input object.
 
 Input:
 - 1st Object: The object that will send the collision data to this script.
+
 Output:
 - Collided: Triggers when the input object collides with another object, including the floor.
 - 2nd Object: The object that the input object collided with. It outputs "None" if collided with the floor.
