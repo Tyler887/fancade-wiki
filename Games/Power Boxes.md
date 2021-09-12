@@ -76,7 +76,7 @@ Metal box <<W>><<W>><<W>>, power box <<W>><<W>><<W>><<W>>.
 
 [[/uploads/power-boxes-level-13.png | height=225px]]
 
-1<<W>>, 2<<E>><<E>><<E>>, 3<<E>><<E>><<E>><<E>>, 4<<E>>, 5<<W>>.
+1<<W>>, 2<<E>><<E>><<E>>, 3<<E>><<E>><<E>><<E>>, 4<<E>>, 5<<W>><<W>>.
 
 #### Level 14
 
