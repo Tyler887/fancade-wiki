@@ -2,7 +2,7 @@ You've made a game? Awesome! You want it to be listed in Spotlight so that many 
 
 First, there are some things to avoid, which shouldn't be too hard:
 
-- No copyright violations (E.g. don't copy sprites or levels from some other game.)
+- No copyright violations (E.g. don't copy sprites or levels from some other game that you did not make. It is fine to copy your own level in your game, as long as you change the design or scripts of the level.)
 - No game collections (E.g. don't make the first level Floppy Fish and the second level Tumble. Focus on one game and let *Fancade* be the *collection* of games.)
 - No orientation lock (E.g. don't force the player to use landscape mode. If they want to play in portrait mode, despite the game working best in landscape, then let them.)
 - No box art level (E.g. don't make the first level just a pretty picture, learn to use the [[Box Art Sensor]] instead.)
