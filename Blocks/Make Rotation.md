@@ -1,3 +1,3 @@
-Combines X,Y,Z angles (in degrees) into one rotation (applied in Y,X,Z order).
+Convertes three [[number]]s into one [[rotation]].
 
 [[/uploads/Make_Rotation.png]]
