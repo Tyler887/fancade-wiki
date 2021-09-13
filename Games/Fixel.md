@@ -9,7 +9,6 @@ Drag and drop pieces to the pegboard such that the correct colors are filled in.
 Additional controls: you can use two fingers to zoom in and out, and pan the whole level.
 
 ## Solutions
-Click a image to zoom in
 #### 1: Flower
 
 [[/uploads/fixel-level-1.png | height=200px]]
