@@ -1,14 +1,19 @@
 ---
 quest: true
 ---
-[[Fixel|https://fancade.page.link/reRt]] is a puzzle game made by [[Martin Magni]]. It consists of a pixel art of an object or a structure (e.g. an orange) that has to be filled perfectly with a few given pieces that interlock into the pixel art through their holes in order to win.
+
+[[Fixel|https://fancade.page.link/reRt]] is a puzzle game made by [[Martin Magni]]. It consists of a stencil of an object or a structure (e.g. an orange) that has to be filled perfectly with a few given pieces that interlock into the stencil through their holes in order to win.
+
+Fun fact: level prior to Fancade 1.6, "Orange" is was considered to be the most difficult level in the game.
 
 ## How to Play
+
 Drag and drop pieces to the pegboard such that the correct colors are filled in.
 
 Additional controls: you can use two fingers to zoom in and out, and pan the whole level.
 
 ## Solutions
+
 #### 1: Flower
 
 [[/uploads/fixel-level-1.png | height=200px]]
