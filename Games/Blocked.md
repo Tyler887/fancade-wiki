@@ -6,7 +6,7 @@ Blocked is a puzzle game by [[Martin Magni]]. The difficulty of 51 puzzles is in
 ## How to Play
 Drag to move a car. Unblock the red block and get it to the right to win!
 
-## Solutions
+## Solutions WIP
 Level 1: Drag the red car right.
 
 Level 2: Drag the green car down, then drag the red one right.
