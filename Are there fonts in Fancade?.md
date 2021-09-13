@@ -4,4 +4,4 @@
 - ToxelEr made [[AwKward Font|https://fancade.page.link/2KY2]]
 - Azkaazma2 made [[Font Azkaazma|https://fancade.page.link/uMRk]] (Note: only capital letters and letter D has to be manually created)
 
-Or, you can make your own font.
+Or, you can make your own font if you can, it may take a long time.
