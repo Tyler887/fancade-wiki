@@ -73,3 +73,12 @@ On macOS, CMD and CTRL are treated as the same button.
 | ----- |-------------| ----- |
 | F1 | Contextual help | Open a wiki help page in a new tab. Selecting or hovering over (in the inventory) a stock prefab opens up the wiki page for that prefab. |
 
+## Parameters
+
+
+| Parameter | Description | Other |
+| --------- | ----------- | ----- |
+| max_w | Maximum width of the canvas | Default value is 1024 |
+| max_h | Maximum height of the canvas | Default value is 768 |
+| ar_w | Aspect ratio width | In a 4/3 aspect ratio, this parameter should be 3. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
+| ar_h | Aspect ratio height | In a 4/3 aspect ratio, this parameter should be 4. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
