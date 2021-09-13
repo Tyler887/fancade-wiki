@@ -66,6 +66,7 @@ Arindam made several video tutorials on scripting:
 * [[How to make Camera following object|https://youtu.be/OfAU6RIxprQ]]
 * [[How to make a object change direction on hitting wall|https://youtu.be/hEKdbi97-v0]]
 * [[Make a swipe to move object|https://youtu.be/JOBcgXd_xTI]]
+* [[Create HP bar|https://youtu.be/watch?v=FCoSgsM2ns0]]
 
 Tyler 2013 (Tylertryuin in) made many scripting tutorials:
 
