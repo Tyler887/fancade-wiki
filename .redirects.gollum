@@ -62,3 +62,5 @@ Build/How do I send a game as a bug report%3F.md: Build/How do I send a game as 
 Little Archery.md: Games/Little Archery.md
 Blocks/Collider.md: Collider.md
 Collider.md: Script/Collider.md
+Script/Why is created block not detected by raycast?.md: Script/Why is created obj
+  not detected by raycast?.md
