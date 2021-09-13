@@ -1,1 +1,1 @@
-Fancade is an engine written in C + OpenGL + Bullet physics.
+Fancade is an engine written in C, OpenGL, and Bullet Physics.
