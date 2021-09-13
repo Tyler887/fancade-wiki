@@ -2,7 +2,7 @@
 
 # How to Play
 
-Swipe to move the piece with a spinning indicator on it. Pieces move together as they are linked. A piece or a group of pieces can be pushed when no wall or another unconnected piece is blocking it. Link every piece together to win! (Note that in some levels, you may need to link everything into two or more groups.) 2 finger tap to undo.
+Swipe to move the piece with a spinning indicator on it. Pieces move together as they are linked. A piece or a group of pieces can be pushed when no wall or another unconnected piece is blocking it. Link every piece together to win! (Note that in some levels, you may need to link everything into two or more groups.) Tap with 2 fingers to undo.
 
 # Solutions
 
