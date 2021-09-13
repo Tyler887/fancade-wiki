@@ -16,4 +16,4 @@ Then, the interesting things you *should* do, which are probably harder, but oh 
 - Make it look good (Use Fancade's strengths, colorful blocky low res art. That art style was chosen so that those of us who're not pro artists can still make something simple look OK.)
 - Add enough content (Fancade games can be very short, because there's many other games to move onto! But it won't get featured if it's just one level that can be completed in a few seconds.)
 
-If your game manages to achieve many of these, then it's probably also fun to play! That's easier said than done, but most games on Spotlight have gotten help via our [[Discord]], with play testing and helpful suggestions, ~~lol~~, no jokes. Yours can too!
+If your game manages to achieve many of these, then it's probably also fun to play! That's easier said than done, but most games on Spotlight have gotten help via our [[Discord]], with play testing and helpful suggestions. Yours can too!
