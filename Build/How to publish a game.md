@@ -1,1 +1,1 @@
-Click on your game and tap `Publish`to publish it. Published games are available for everyone to play in the Arcade.
+Click on your game and tap `Publish` to publish it. Published games are available for everyone to play in the Arcade.
