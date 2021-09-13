@@ -1,4 +1,4 @@
-Adds force and/or torque to an object.
+Adds a force and/or a torque to an object.
 [[/uploads/Addforce.png]]
 
 ## Inputs
