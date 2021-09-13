@@ -16,7 +16,7 @@ To win, light up all bulbs.
 
 ## Solutions
 
-(Notes: When there is no image, the notation "Power box <<W>><<W>><<W>><<E>>" means to move the power box to the left three times, then to the right three times.
+(Notes: When there is no image, the notation "Power box <<W>><<W>><<W>><<E>><<E>>" means to move the power box to the left three times, then to the right two times.
 
 Otherwise, the notation "1<<W>><<W>>, 2<<E>><<E>>" means "move the box corresponding to 1 in the image to the left two times, then move the box corresponding to 2 in the image to the right two times.")
 
