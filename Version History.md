@@ -848,10 +848,10 @@ This page documents Fancade's history. If you want to know what the current beta
 
 <<Warn("WIP: This section of the article is not finished")>>
 
-Fancade 0.1 was released in July 2017, back then, you were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
+Fancade 0.1 was released in July 2017, back then, you were still unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
 
 # Pre-Beta
 
 <<Warn("WIP: This section of the article is not finished")>>
 
-Pre-beta is an older version of Fancade Beta. It has more bugs and less features. It also has no Arcade (so all games are private in Pre-Beta.)
+Pre-beta is an older version of Fancade Beta. It has more bugs and less features. (The older, the buggier, so pre beta update 1 is the buggiest Fancade version, bugs are fixed in updates.) You were unable to make your own blocks, and the game used a fixed set of pre-made building blocks.
