@@ -107,11 +107,6 @@ Click Rename, and enter the new page name.
 
 There's no button to sign out (and seldom reason to). But if you clear the website data in your browser settings, you will be signed out. (It's a cookie?)
 
-# Keyboard shortcuts (WIP)
-<<Warn("WIP: This section of the article is not finished")>>
+## Notes
 
-On macOS, CMD and CTRL are treated as the same button.
-
-## Editor
-* Edit/Preview: Ctrl + C
-* Help: question mark (?)
+* You can switch between edit and preview mode with `CTRL+Shift+P`.
