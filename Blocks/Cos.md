@@ -1,4 +1,4 @@
-Computes a cosine of an angle in degrees.
+Computes the cosine of an angle in degrees.
 
 [[/uploads/Cos.png]]
 
