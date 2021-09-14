@@ -9,7 +9,7 @@ Inputs:
 * Plane Normal: A vector perpendicular to the plane (i.e. the direction the plane is pointing at, or the angle of the plane)
 
 Outputs:
-* Intersection: The point where the line intersects the plane (or [[nan]] if there is no such point)
+* Intersection: The point where the line intersects the plane (or nan if there is no such point)
 
 ## Notes
 
