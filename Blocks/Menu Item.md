@@ -9,4 +9,5 @@ Though this new script made a great new mechanic for Fancade it has some limitat
 
 ## More info
 Items can be either one type of upgrades or boosters just by playing with the buy limit settings and Variable input of the menu item script. You can choose between ON/OFF, Max 2-100 or no limit.
+
 [Here is an example of how to make a clicker game using menu item.](https://fancade.page.link/ap8z)
