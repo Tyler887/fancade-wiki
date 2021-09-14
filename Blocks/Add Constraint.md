@@ -1,8 +1,6 @@
-Creates a new constraint between two physics objects. You probably only want to do this once, [[on Play|Play Sensor]].
+Creates a new [[constraint|Constraints]] between two physics objects. You probably only want to do this once, [[on Play|Play Sensor]].
 
 [[/uploads/Addconstraint.png]]
-
-[[Click here to learn more about constraints|Constraints]]
 
 ## Notes
 Have you ever heard of hydraulics and motors? If not then let me explain it to you and the connection of it in this script:
