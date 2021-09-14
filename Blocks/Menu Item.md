@@ -10,7 +10,7 @@ Though this new script made a great new mechanic for Fancade it has some limitat
 ## More info
 Items can be either one type of upgrades or boosters just by playing with the buy limit settings and Variable input of the menu item script. You can choose between ON/OFF, Max 2-100 or no limit.
 
-You also cannot use menu item to add buttons on the top of the screen or the pause menu. Remeber the [[top of this page|#top]]?
+You also cannot use menu item to add buttons on the top of the screen or the pause menu. Remember the [[top of this page|#top]]?
 ## Example
 You can make a clicker game with Menu Item. So, add a [[touch sensor]], a [[get variable]], a [[increase number]] and this script (Menu Item). Make it detect tap begins. Make it increase variables named `Coins` and `!Score`. (! means saved variable, tap `Local` then `Global` to get `Saved`.
 
