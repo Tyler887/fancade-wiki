@@ -1,4 +1,9 @@
-Bumbly Bee is a [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone made by [[ViChyavIn]].
+---
+quest: true
+---
+
+Bumbly Bee is a very hard one-button arcade game by [[ViChyavIn]].
 
 ## How to Play
-Tap to go up. Don't hit any flowers. Get through as many flowers as you can! It might be a little hard, but just try again!
+
+The mechanic is similar to [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird). Tap to fly without hitting any flowers.
