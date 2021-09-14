@@ -1,7 +1,3 @@
----
-quest: true
----
-
 Bumbly Bee is a [Flappy Bird](https://en.wikipedia.org/wiki/Flappy_Bird) clone made by [[ViChyavIn]].
 
 # How to play
