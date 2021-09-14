@@ -2,7 +2,7 @@ Creates a new constraint between two physics objects. You probably only want to 
 
 [[/uploads/Addconstraint.png]]
 
-More details in this page >> [[Constraints]]
+[[Click here to learn more about constraints|Constraints]]
 
 ## Notes
 Have you ever heard of hydraulics and motors? If not then let me explain it to you and the connection of it in this script:
