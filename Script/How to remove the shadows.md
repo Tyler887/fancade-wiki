@@ -19,7 +19,7 @@ For a perfect shadow removal, we can **move the camera very far from the scene**
 
 For a top-down **2D** game, we can set the camera **Y** value to a **very high** value.
 
-here is an example using camera X=0 and Z=0, 
+Here is an example using camera X=0 and Z=0, 
 
 Example:
 
