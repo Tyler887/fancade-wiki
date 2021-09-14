@@ -1,6 +1,6 @@
 Fancade games are made with drag-n-drop of functional building blocks. A sort of visual programming suitable for touch screen devices, if you will.
 
-This page, however, describes a unofficial psueudo code text format, inspired by Fancade's script blocks made by @Isaglish, @JP16D, @Qma, and @Vex Ave on Discord.
+This page, however, describes a unofficial psuedo code text format, inspired by Fancade's script blocks made by @Isaglish, @JP16D, @Qma, and @Vex Ave on Discord.
 
 [[_TOC_]]
 
