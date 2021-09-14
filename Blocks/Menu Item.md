@@ -10,4 +10,12 @@ Though this new script made a great new mechanic for Fancade it has some limitat
 ## More info
 Items can be either one type of upgrades or boosters just by playing with the buy limit settings and Variable input of the menu item script. You can choose between ON/OFF, Max 2-100 or no limit.
 
-[Here is an example of how to make a clicker game using menu item.](https://fancade.page.link/ap8z)
+You also cannot use menu item to add buttons on the top of the screen or the pause menu. Remeber the [[top of this page|#top]]?
+## Example
+You can make a clicker game with Menu Item. So, add a [[touch sensor]], a [[get variable]]. and this script (Menu Item). Make it detect tap begins. Make it increase variables named `Coins` and `!Score`. (! means saved variable, tap `Local` then `Global` to get `Saved`.
+
+Now get a [[set score]], plug in `!Score` into the Score wire, and plug `Coins` into the Coins wire.
+
+Add a shop with many items, starting with `More per tap`. This is like in fanclicker by Origedit. Replace the increase number with: set var (add nums, `!Score`, (whatever saved variable you are using for the more per tap item in the shop, ~~lol~~))
+
+Add a way to make the player claim the coins they got in game and submit their score. If you are using a button to do this then check the [[tap to pick closest object]] article, make a unglued object and repeat the scripting in the article image.
