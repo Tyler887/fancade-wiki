@@ -10,8 +10,6 @@ Swipe diagonally to move the dino!
 
 ## Solutions
 
-If there is more than one solution, one example is shown.
-
 1. <<NW>><<NE>><<NE>><<SW>><<SE>>.
 2. <<NW>><<SW>><<NE>><<NE>> <<SE>><<SW>><<SE>><<NE>>.
 3. <<SE>><<NE>><<NW>><<SW>><<NW>> <<SE>><<SE>><<SE>><<SE>> <<NE>><<NE>><<NW>><<NW>>.
