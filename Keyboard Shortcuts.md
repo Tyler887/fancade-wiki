@@ -31,7 +31,7 @@ On macOS, CMD and CTRL are treated as the same button.
 
 | Input | Description | Other |
 | ----- |-------------| ----- |
-| Arrow keys | Generate directional swipes with minor offset along seconary direction + Generating fake accelerometer inputs | Shift and CTRL modifies the distance. Special cases when detecting the Virtual Gamepad or Neo Joystick (does not support buttons or dual sticks mode yet) |
+| Arrow keys | Generate directional swipes with minor offset along seconary direction | Shift and CTRL modifies the distance |
 | WASD | Same as arrow keys but with opposite minor offset along secondary direction | Shift and CTRL modifies the distance |
 | Keypad keys | Same as arrow keys but no secondary direction offsets | Shift and CTRL modifies the distance |
 | TFGH | Fake accelerometer | Shift and CTRL modifies the angle amount, ALT adds white noise to the output |
@@ -73,8 +73,8 @@ On macOS, CMD and CTRL are treated as the same button.
 | ----- |-------------| ----- |
 | F1 | Contextual help | Open a wiki help page in a new tab. Selecting or hovering over (in the inventory) a stock prefab opens up the wiki page for that prefab. |
 
-
 ## Parameters
+
 
 | Parameter | Description | Other |
 | --------- | ----------- | ----- |
