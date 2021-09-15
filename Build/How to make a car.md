@@ -57,9 +57,6 @@ First, I will assign an object variable called 'Car'. I will drag it's wire to t
 I will do the same for each of the four wheels (front right, front left, rear right, rear left). These can sometimes be harder to connect because the wheels are quite tiny. If the wire connection shows a pink arrow pointing at the wheel, great job! If you see a large pink cube instead, you have created a script input by mistake, and you need to reposition the wire until you get the arrow.
 
 [[/uploads/tutorial-car-8.jpg]]
-
-The pink dots on our wheels in edit mode are annoying, they are not ideal for wheels. If you end up with this, move the wiring a little bit...
-
 [[/uploads/tutorial-car-08.jpg]]
 
 Next, I will add each of the 4 wheels to a list. This will be useful for creating constraints for all wheels at the same time.
