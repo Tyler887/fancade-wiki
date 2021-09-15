@@ -39,7 +39,7 @@ Those who can answer your question will rarely visit the page, so you will end u
 
 # How-to
 
-Want to help but have no idea how it's done? Read further to learn how to format text and create new pages.
+Want to help but have no idea how it's done? Read belowq to learn how to format text and create new pages.
 
 ## Create a page
 
@@ -53,7 +53,7 @@ Now you can write a Wiki page! After you have written it all, click "Preview" to
 
 ## Style a page
 
-The Wiki supports the formatting syntax called "Markdown". You can easily *emphasize* **text**, make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
+The Wiki supports the formatting syntax called "Markdown". You can easily *emphasize* **text** (you can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~, but not underline because markdown does not support underlining text), make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
 
 ### Basics
 
