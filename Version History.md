@@ -1,4 +1,4 @@
-This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Beta]].
+This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Fancade Beta]].
 
 # Fancade 1.6.6
 * Release: June 10, 2021
