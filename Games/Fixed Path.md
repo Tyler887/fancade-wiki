@@ -6,7 +6,7 @@ quest: true
 
 ## How To Play
 
-Hold to move along the designated path. You win if you get to the checkered block, You lose if you hit any obstacle.
+Hold to move along the designated path. You win if you get to the checkered block. You lose if you hit any obstacle.
 
 ## Walkthrough
 
