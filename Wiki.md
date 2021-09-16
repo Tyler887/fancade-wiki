@@ -1,7 +1,8 @@
 ---
 title: Fancade Wiki
 ---
-*The wiki was developed by [[Nikita Ivanov|ViChyavIn]], Olle Landin, and [[Martin Magni]].*
+
+*Thie wiki is developed by [[Nikita Ivanov|ViChyavIn]], Olle Landin, and [[Martin Magni]].*
 
 This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are written by Fancade users themselves. Maybe you want to help improve the wiki too?
 
