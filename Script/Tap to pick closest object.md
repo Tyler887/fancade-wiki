@@ -1,6 +1,6 @@
 So many games involve tapping very small objects on the screen. But phones are small, fingers are big, and people's patience is limited. So many games are *so much **fun*** if they're *kind* to the player. If they hastily tapped in the general vicinity, but missed by a pixel? Give them a break and pretend they hit perfectly!
 
-Here's my favorite way to turn that kindness into script:
+Here's Martin's favorite way to turn that kindness into script:
 
 [[/uploads/pick_closest.png]]
 
