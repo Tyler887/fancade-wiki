@@ -2,9 +2,9 @@
 title: Fancade Wiki
 ---
 
-*The wiki is developed by [[Nikita Ivanov|ViChyavIn]], Olle Landin, and [[Martin Magni]].*
+*The wiki is developed by [[Nikita Ivanov (ViChyavIn)|ViChyavIn]], Olle Landin, and [[Martin Magni]].*
 
-This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are written by Fancade users themselves. Maybe you want to help improve the wiki too?
+This wiki helps users learn more about Fancade and one of its [[game-making tools|Build]]. Pages are written by Fancaders themselves. Maybe you want to help improve the wiki too?
 
 [[_TOC_]]
 
@@ -16,7 +16,7 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 The wiki is about [Fancade](https://fancade.com), so try to stay on topic.
 
-## Create a appropiate page
+## Create your page
 
 Before creating a brand *new* wiki page, check if:
 
@@ -26,21 +26,23 @@ Before creating a brand *new* wiki page, check if:
 
 ## Don't save unfinished edits
 
-If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will prompt you to recover it when you begin editing again).
+Don't leave articles in WIP state.
 
-## Don't leave unanswered questions
+If you're not done yet, but you can't continue working right now, you can always quit the editor and keep editing next time. The wiki will remember the state of the page you were editing and will prompt you to recover it when you enter the editor!
 
-If you're not sure about something, don't ask future editors to correct you in the page:
+## Don't ask readers to answer unanswered questions
+
+If you're not sure about something, don't ask future editors to correct you in the page, for example:
 
 <blockquote>
-[[Constraints]] are very difficult to learn. (Maybe it's just me?)
+[[Constraints]] are very hard to learn. Maybe it is just me?
 </blockquote>
 
-Those who can answer your question will rarely visit the page, so you will end up throwing your question at readers'. Feel free to join our [[Discord]] server and ask your question there, in order to eventually provide the most accurate information to readers!
+Those who can answer your question will rarely visit the page, so you will end up throwing your question at readers'. Feel free to join our Fancade [[Discord]] and ask your question there, in order to provide the most accurate information to our readers!
 
 # How-to
 
-Want to help but have no idea how it's done? Read below to learn how to format text and create new pages.
+Want to help but have no idea how it's done? Okay! Read below to learn how to format text and create new pages...
 
 ## Create a page
 
@@ -54,7 +56,7 @@ Now you can write a Wiki page! After you have written it all, click "Preview" to
 
 ## Style a page
 
-The Wiki supports the formatting syntax called "Markdown". You can easily *emphasize* **text** (you can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~, but not underline because markdown does not support underlining text), make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
+Fancade Wiki uses the formatting syntax called "Markdown". You can easily *emphasize* **text** (you can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~, but not underline because markdown does not support underlining text), make a list, add links, insert images and even make tables!! To learn more, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
 
 ### Basics
 
@@ -70,7 +72,7 @@ To insert a link, you can:
 
 #### Make list
 
-To insert a list element, put `*`, `+` or `-` at the beginning of a line. For example,
+To insert a list element, put `*`, `+` or `-` at the beginning of a line. For example:
 
 ```
 * Fancade
@@ -87,27 +89,33 @@ will be
 
 To add an image, drag-n-drop it into the edit form. (It will be uploaded to `/uploads/<filename>`)
 
-To insert an existing image, you wrap the image path/URL in square brackets (like you do with regular links/URLs) to insert it directly in the text.
+To insert an existing image, you wrap the image path/URL in square brackets like you do with regular links/URLs to insert it directly in the text.
 
-```[[uploads/image.jpg]]```
+`[[uploads/image.jpg]]`
 
 You can also upload an image by clicking "Upload" button in edit mode.
 
+(The only area a image can be uploaded by default is /uploads.)
+
 ## Delete a page
 
-Deleting a page is possible, but restricted. Ping one of the Fanmods on the Discord server and suggest the deletion to them.
+Deleting a page is possible, but restricted:
+
+* If you are not a Fanmod: Ping a Fanmod on our Fancade [[Discord]] and suggest the deletion to them.
+* If you are a Fanmod: Use extra wiki page delete commands in Fanbot.
 
 ## Revert a change
 
-Go to the page's history (through link in the latest changes), check the commit, compare and revert.
+Go to the latest changes in the update history of a page, check the commit, compare it and revert it.
 
 ## Rename a page
-Click Rename, and enter the new page name.
+
+Click Rename and enter the new page name.
 
 ## Sign out
 
-There's no button to sign out (and seldom reason to). But if you clear the website data in your browser settings, you will be signed out. (It's a cookie?)
+There's no button to sign out. But if you clear the website data in your browser settings, you will be signed out. (It is a cookie??)
 
 ## Notes
 
-* You can switch between edit and preview mode with `CTRL+Shift+P`.
+* On keyboards, you can switch between edit and preview modes with `CTRL+Shift+P`.
