@@ -1,4 +1,4 @@
-Outputs the size of an objects as min and max.
+Outputs the size of an object as min and max.
 If the inputs are left unwired, outputs the size of the world.
 
 By default, the Get Size block outputs the volumetric size of an object. To get the geometric size of an object use this simple method.
