@@ -40,7 +40,7 @@ Those who can answer your question will rarely visit the page, so you will end u
 
 # How-to
 
-Want to help but have no idea how it's done? Read belowq to learn how to format text and create new pages.
+Want to help but have no idea how it's done? Read below to learn how to format text and create new pages.
 
 ## Create a page
 
