@@ -16,4 +16,4 @@ Odd Bot is a puzzle game by [[Martin Magni]] where you help a cute tiny robot ca
 * [[Level 14|https://youtu.be/BZwbQpJpu_k]]
 
 ## Fun Facts
-Yes, it's *possible* to push Odd off the level (e.g. by hitting Odd in with a giant stone slab)! While it's a neat little easter egg, many players reported it as a bug, so now you lose if you fall off, to make it clear you can't climb back up onto the level.
+Yes, it's *possible* to push Odd off the level (e.g. by hitting Odd's head with a giant stone slab)! While it's a neat little easter egg, many players reported it as a bug, so now you lose if you fall off, to make it clear you can't climb back up onto the level.
