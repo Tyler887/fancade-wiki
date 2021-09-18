@@ -14,6 +14,6 @@ The second button changes how many fingers have to be touching the screen to tri
 
 [[/uploads/Touchsensor.png]]
 
-## Examples
+## Example
 
 Here's an example of how to use Touch Sensor to [[Tap to pick closest object]].
