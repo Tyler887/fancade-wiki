@@ -1,9 +1,9 @@
-[Skillteam](https://fancade.page.link/bpy3) is a game by LukaszM where you have to use your colored powers to get to the goal without falling to the floor.
+[Skillteam](https://fancade.page.link/bpy3) is a game by LukaszM where you have to use your new mechanics to get to the goal without falling off the floor.
 
 ## How to play
 Swipe to move, get to the goal to win, if you fall, you lose. A colored cube can change your powers. A box is a brown cube boardering it with light brown stripes in the sides. a 1-use platform is a thin platform with a checkerboard platform, it breaks if the non-green player or box is placed and after nothing steps on it.
 
-## All powers so far
+## All mechanics so far
 
 * Orange: You can push boxes. You push a box by moving towards a box, and that box goes in your direction one space unless theres a wall to the destination.
 * Blue: You can pull boxes but not push it. You pull a box by moving away opposite to the box, and that box goes in your direction one space unless theres a wall to where you're going to.
