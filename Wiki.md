@@ -56,7 +56,7 @@ Now you can write a Wiki page! After you have written it all, click "Preview" to
 
 ## Style a page
 
-Fancade Wiki uses the formatting syntax called "Markdown". You can easily *emphasize* **text** (you can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~, but not underline because markdown does not support underlining text), make a list, add links, insert images and even make tables!! To learn more, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
+Fancade Wiki uses the formatting syntax called "Markdown". You can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~. No just that, you can also make a list, add links, insert images and even make tables! To learn more, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
 
 ### Basics
 
