@@ -119,7 +119,7 @@ Fancade > `Fancade`
 
 If you want newlines, then you need 3 grave accents before the first line and another three after the last line. (This lets you show colors based on code languages using Coffeescript, just put `coffeescript` on the line that comes after the first three grave accents..er, next to the third grave accent.) For example:
 
-Before:
+##### Before
 
 Fancade
 
@@ -127,7 +127,7 @@ is the fanmade
 
 arcade
 
-After:
+##### After
 ```
 Fancade
 is the fanmade
