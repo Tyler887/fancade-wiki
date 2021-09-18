@@ -6,4 +6,6 @@ Tap the left or right button to roll. Tap the up button to jump. Your goal is to
 
 ## Walkthrough
 
-[Levels 1-3](https://youtu.be/k2dPOUbuKMc)
+* [Levels 1-3](https://youtu.be/k2dPOUbuKMc)
+
+Note that the Levels 1-3 walkthrough contains a bug where Bally jumps higher that how high he jumps normally. This unintended bug has been fixed.
