@@ -2,7 +2,7 @@
 quest: true
 ---
 
-Odd Bot is a puzzle game by [[Martin Magni]] where you help a cute tiny robot called Odd to reach the golden cube. Tap on the world to walk, drag the white squares to move sliders and elevators, and swipe anywhere else to rotate the view.
+Odd Bot is a puzzle game by [[Martin Magni]] where you help a cute tiny robot, called Odd, to reach the golden cube. Tap on the world to walk, drag the white squares to move sliders and elevators, and swipe anywhere else to rotate the view.
 
 [[/uploads/Screenshot_2021-08-31-15-17-09.jpg]]
 
