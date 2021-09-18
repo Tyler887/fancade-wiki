@@ -50,7 +50,7 @@ In the Wiki page, there is an ability to create new pages, simply by clicking "N
 
 Create a page name with the appropriate title.
 
-If you are writing it in a different folder (e.g. Build) write `<folder>/<title>` (e.g. `Build/Set Variable`) to create it within this section.
+If you are writing it in a different folder (e.g. Build) write `<folder>/<title>` (e.g. `Build/Set Variable`) to create it within that folder. (This defaults to the folder the page you were reading is at.)
 
 Now you can write a Wiki page! After you have written it all, click "Preview" to make sure everything looks correct.
 
