@@ -113,7 +113,7 @@ To use a coding text font, use a grave accent at the start and end of your text 
 
 Fancade > `Fancade`
 
-If you want newlines, then you need 3 grave accents before the first line and another three after the last line. (This lets you show colors based on code languages using Coffeescript, just put coffeescript on the line that comes after the first three grave accents.) For example:
+If you want newlines, then you need 3 grave accents before the first line and another three after the last line. (This lets you show colors based on code languages using Coffeescript, just put `coffeescript` on the line that comes after the first three grave accents.) For example:
 
 Before:
 
