@@ -17,6 +17,7 @@ Some of these logic will be modified versions of original [slitherlink](https://
 * A 1 clue adjacent to at least 2 consecutive empties doesn't have a line on the edges boardering the 2 consecutive empties, since if one is filled, the loop cant end and has to extend, breaking the 1 clue, same for 2 clue adjacent to 3 consecutive empties.
 * A 5 clue adjacent to at least 2 consecutive empties must have a line on the edges boardering the consecutive empties, since if one is empty, the other one is empty and it will break the 5 clue, same for the 4 clue adjacent to at least 3 consecutive empties.
 * 2 5 clues at least adjacent to each other and has other non-0 clues in the grid must form the modified classic pattern because you need to place the line in the middle first because it makes a closed link if not, then if the 3 lines of the top and bottom are not given, then one of the 5 clues will fail.
+* A line that is directly pointing to the 5 will tell that the edges adjacent to that 5 and not connect the line are all lines, because if its not met, there will be branching lines.
 * A 2, 3, or 4 clue can have lines separated from each other, keep in mind.
 * Anytime you see the 6 clue (office), its just a 1 cell loop surrounding the loop. (Assuming the puzzle isn't impossible)
 
