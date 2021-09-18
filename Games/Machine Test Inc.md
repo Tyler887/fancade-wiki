@@ -11,7 +11,7 @@ Press the colored buttons to interact something, you win or lose if a scenario i
 
 NOTE: The levels between quest/recent versions are slightly scrambled and also altered.
 
-1. **Machine Test Inc.**, all buttons cycles the letters from M, C, H, and N, the blue button cycles the 1st position, purple cycles 3rd, orange cycles 4th, pink cycles 6th, to win, spell out "Machine" correctly.
+1. **Machine Test Inc**, all buttons cycles the letters from M, C, H, and N, the blue button cycles the 1st position, purple cycles 3rd, orange cycles 4th, pink cycles 6th, to win, spell out "Machine" correctly.
 2. 1. **MKN I (Quest)**, Pink button moves burner right, Blue button moves box up, Orange button moves burner left, Purple button activates burners. The goal is to charge the box by burning the box to win.
    2. **MKN I (Recent)**, same as above, but the buttons are changed in order (Pink button moves burner left, Blue button moves burner right, Orange button activates burners, Purple button moves box up)
 3. **MKN II**, Pink button magnetizes, blue and purple buttons move left and right, respectively, and orange moves the magnet down, if released, it will automatically move up. To win, charge the box up by magnetizing it to the charger (to the right) and move it to the goal (to the left).
