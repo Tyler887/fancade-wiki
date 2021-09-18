@@ -16,6 +16,10 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 The wiki is about [Fancade](https://fancade.com), so try to stay on topic.
 
+## No inappropriate words
+
+Don't use any inappropriate (or bad) words. Be very smart when coming up with your page's writing and its title!
+
 ## Create your page
 
 Before creating a brand *new* wiki page, check if:
