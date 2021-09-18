@@ -1,4 +1,4 @@
-Bally is a game by Tyler 2013 where you help the ball through 9 levels to stop blue germs from spreading. (There was a typo in the description saying that it would have 35.)
+Bally is a game by Tyler 2013 where you help the ball through 9 levels to stop blue germs from spreading while he travels to other worlds (like area 51). (There was a typo in the description saying that it would have 35.)
 
 ## How to Play
 
