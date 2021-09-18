@@ -19,4 +19,4 @@ Tap on the world to walk, drag the white squares to move sliders and elevators, 
 * [[Level 14|https://youtu.be/BZwbQpJpu_k]]
 
 ## Fun Facts
-Yes, it's *possible* to push Odd off the level (e.g. by hitting Odd's head with a giant stone slab)! While it's a neat little easter egg, many players reported it as a bug, so now you lose if you fall off, to make it clear you can't climb back up onto the level.
+Yes, it's *possible* to push Odd off the level (e.g. by hitting Odd's head with a giant slate block)! While it's a neat little easter egg, many players reported it as a bug, so now you lose if you fall off, to make it clear you can't climb back up onto the level.
