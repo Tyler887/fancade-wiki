@@ -3,12 +3,14 @@ quest: true
 ---
 Machine Test Inc is a game where you have different functions and you need to find out the functions and the goal to win. It is [[FanJam VIII's|Fanjam#fanjam-viii]] winner for Overall.
 
-## How to play
+## How to Play
+
 Press the colored buttons to interact something, you win or lose if a scenario is met. 
+
+## Functions/Solutions
 
 NOTE: The levels between quest/recent versions are slightly scrambled and also altered.
 
-## Functions/Solutions
 1. **Machine Test Inc.**, all buttons cycles the letters from M, C, H, and N, the blue button cycles the 1st position, purple cycles 3rd, orange cycles 4th, pink cycles 6th, to win, spell out "Machine" correctly.
 2. 1. **MKN I (Quest)**, Pink button moves burner right, Blue button moves box up, Orange button moves burner left, Purple button activates burners. The goal is to charge the box by burning the box to win.
    2. **MKN I (Recent)**, same as above, but the buttons are changed in order (Pink button moves burner left, Blue button moves burner right, Orange button activates burners, Purple button moves box up)
