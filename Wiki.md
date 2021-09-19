@@ -16,7 +16,7 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 The wiki is about [Fancade](https://fancade.com), so try to stay on topic.
 
-## Create a appropiate page
+## Create an appropiate page
 
 Before creating a brand *new* wiki page, check if:
 
