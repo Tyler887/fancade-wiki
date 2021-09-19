@@ -1,6 +1,4 @@
-These are tools made by many people. Might be usefull for building a Fancade game!
-
----
+These are tools made by many people. This might be useful for building a Fancade game!
 
 - [CMDJojo](https://twitter.com/cmdjojo) made a [Fancade Solver](https://github.com/CMDJojo/FancadeSolvers)!
 
@@ -8,6 +6,4 @@ These are tools made by many people. Might be usefull for building a Fancade gam
 
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) made a [Game Idea Generator](https://seblague.github.io/ideagenerator/)!
 
----
-
-*More tools are in discovery...*
+- *More tools are in discovery...*
