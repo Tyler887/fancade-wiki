@@ -1,4 +1,4 @@
-Use [[Current Frame]] and then use an [[If]] to check for an event. 
+Use [[Current Frame]] and [[If]] to check for an event. 
 
 The 3 examples in the picture will have a different behavior:
 
