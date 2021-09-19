@@ -8,4 +8,6 @@ These are tools made by many people. Might be usefull for building a Fancade gam
 
 - [Sebastian Lague](https://www.youtube.com/c/SebastianLague) made a [Game Idea Generator](https://seblague.github.io/ideagenerator/)!
 
+---
+
 *More tools are in discovery...*
