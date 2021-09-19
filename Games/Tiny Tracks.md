@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 Tiny Tracks is a Fancade game by Martin Magni where you have to be the first to pass all of the 3 laps in order to win.
 
 ## How to Play
