@@ -1,0 +1,9 @@
+These are tools made by many people. Might be usefull for building a Fancade game!
+
+---
+
+> [CMDJojo](https://twitter.com/cmdjojo) made a [Fancade Solver](https://github.com/CMDJojo/FancadeSolvers)!
+
+> R3DZ3R made a [Fancade Title Generator](https://r3dz3r.github.io/fancade/titlegenerator)!
+
+*More tools are in discovery...*
