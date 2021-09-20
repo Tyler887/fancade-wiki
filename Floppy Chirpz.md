@@ -1,0 +1,1 @@
+Floppy Chirpz is a parody made by bugs bunny555 of the game Flappy Chirpz by Artast.He made this game because he thinks Chirpz has anger problem and he is ugly when mad.I agree with him though.He made Chirpz a hairless bird and that's how Chirpy became a character in his games.He also hates Chirpz in Jumpy Chirpz cause He accidentally pushed off Ditto and drowned him
