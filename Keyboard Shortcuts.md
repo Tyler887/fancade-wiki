@@ -21,7 +21,8 @@ On macOS, CMD and CTRL are treated as the same button.
 | CTRL + C key | Copy blocks | |
 | CTRL + V key | Paste blocks | |
 | CTRL + X key | Cut blocks | |
-| CTRL + S key | Save level | |
+| CTRL + S key | Save game in the browser's local storage | This is not a normal file in the filesystem. Local storage can easily be cleared, so it is recommended to download the game as a local file regularly using CTRL + SHIFT + S |
+| CTRL + SHIFT + S key | Save the game as a local file | Such local files can later be dragged and dropped over the browser window to restore a lost game file |
 | CTRL + Z key | Undo | |
 | CTRL + Shift + Z key | Redo | |
 | Escape key | Go back or Close | |
@@ -31,7 +32,7 @@ On macOS, CMD and CTRL are treated as the same button.
 
 | Input | Description | Other |
 | ----- |-------------| ----- |
-| Arrow keys | Generate directional swipes with minor offset along seconary direction + Generating fake accelerometer inputs | Shift and CTRL modifies the distance. Special cases when detecting the Virtual Gamepad or Neo Joystick (does not support buttons or dual sticks mode yet) |
+| Arrow keys | Generate directional swipes with minor offset along secondary direction + Generating fake accelerometer inputs | Shift and CTRL modifies the distance. Special cases when detecting the Virtual Gamepad or Neo Joystick (does not support buttons or dual sticks mode yet) |
 | WASD | Same as arrow keys but with opposite minor offset along secondary direction | Shift and CTRL modifies the distance |
 | Keypad keys | Same as arrow keys but no secondary direction offsets | Shift and CTRL modifies the distance |
 | TFGH | Fake accelerometer | Shift and CTRL modifies the angle amount, ALT adds white noise to the output |
@@ -63,8 +64,8 @@ On macOS, CMD and CTRL are treated as the same button.
 
 ## Top Menu
 
-| CTRL + S key | Save the selected game as a local file | Only works in "Projects" |
-| Files dropped onto window | Create a new game in "Projects" for each file | Only works in the top menu |
+| CTRL + S key | Save the selected game as a local file | Only works in "Projects" or if the current logged-in user is the author of the game |
+| Files dropped onto window | Create a new game in "Projects" for each file | Only works in the top menu. Doesn't work if the file exists or if the current logged-in user is not the author of that game (and the game is not editable). This can be used for turn-based collaboration. |
 
 
 ## Misc
@@ -72,6 +73,7 @@ On macOS, CMD and CTRL are treated as the same button.
 | Input | Description | Other  |
 | ----- |-------------| ----- |
 | F1 | Contextual help | Open a wiki help page in a new tab. Selecting or hovering over (in the inventory) a stock prefab opens up the wiki page for that prefab. |
+
 
 ## Parameters
 
@@ -81,3 +83,4 @@ On macOS, CMD and CTRL are treated as the same button.
 | max_h | Maximum height of the canvas | Default value is 768 |
 | ar_w | Aspect ratio width | In a 4/3 aspect ratio, this parameter should be 3. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
 | ar_h | Aspect ratio height | In a 4/3 aspect ratio, this parameter should be 4. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
+| lv | Level index of the startup game | Can be used for linked games |
