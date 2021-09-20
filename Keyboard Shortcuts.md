@@ -21,8 +21,8 @@ On macOS, CMD and CTRL are treated as the same button.
 | CTRL + C key | Copy blocks | |
 | CTRL + V key | Paste blocks | |
 | CTRL + X key | Cut blocks | |
-| CTRL + S key | Save game in the browser's local storage | This is not a normal file in the filesystem. Local storage can easily be cleared, so it is recommended to download the game as a local file regularly using CTRL + SHIFT + S |
-| CTRL + SHIFT + S key | Save the game as a local file | Such local files can later be dragged and dropped over the browser window to restore a lost game file |
+| CTRL + S key | Save game in the browser's local storage | This is not a normal file in the filesystem. Local storage can easily be cleared, so it is recommended to download the game as a local file regularly using CTRL + Shift + S |
+| CTRL + Shift + S key | Save the game as a local file | Such local files can later be dragged and dropped over the browser window to restore a lost game file |
 | CTRL + Z key | Undo | |
 | CTRL + Shift + Z key | Redo | |
 | Escape key | Go back or Close | |
@@ -49,7 +49,7 @@ On macOS, CMD and CTRL are treated as the same button.
 | Mouse + MMB + CTRL | Pitch with fake gesture | |
 | CTRL + R key | Restart | Also works in the pause menu |
 | CTRL + P key | Enters "dev pause mode" where the game is paused without the pause UI showing | |
-| SHIFT + P key | Steps a single frame forward in "dev pause mode" | Only works in edit mode |
+| Shift + P key | Steps a single frame forward in "dev pause mode" | Only works in edit mode |
 
 
 ## Menus
