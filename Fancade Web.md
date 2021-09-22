@@ -16,6 +16,23 @@ The web app will load the linked game and directly start the first level.
 The starting level of a linked game can be set by appending the level index to the end like this: [[https://play.fancade.com/5F084A0BCE06B710/8]]
 The `/8` part (after the game's unique identifier) sets the start level to 8, in this case.
 
+
+## Differences Compared to App
+
+There are some differences between the web app and the regular app. Here is a summary:
+* Highscores, like/play counters use a separate system (we plan to merge these later)
+* All in-app purchases are disabled
+* Payouts are disabled
+* The 'New' category is disabled
+* Need to log in to Fancade account to play challenges
+* Linked games start directly
+* Additional controls for mouse and keyboard (see below for a complete list of commands)
+* Auto-save in edit mode
+* Dev pause mode with single-frame step
+* Can download games in 'Projects' to local file system
+* Can drag-and-drop files from local file system into web app. The game ends up in 'Projects'
+
+
 ## Additional Controls
 
 The web app has additonal controls for mouse and keyboard.
