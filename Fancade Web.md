@@ -96,6 +96,17 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | ----- |-------------| ----- |
 | F1 | Contextual help | Open a wiki help page in a new tab. Selecting or hovering over (in the inventory) a stock prefab opens up the wiki page for that prefab. |
 
+## Collaboration with Export/Import
+
+It is possible to collaborate on a project by using the following procedure:
+* Press CTRL + S in the game's menu to download a game from 'Projects' to the computer's local filesystem
+* Send the file to the person you collaborate with
+* That person then drags and drops the file into the browser window running the Fancade web app (only works in the top menu)
+* The game will end up in 'Projects' and can be further edited and then exported with CTRL + S and sent back
+
+NOTE: When importing a game with drag-and-drop, that game must first be removed.
+
+NOTE: The first user who publish the game is the only one who can later update it.
 
 ## Size Parameters
 
