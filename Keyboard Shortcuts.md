@@ -83,4 +83,4 @@ On macOS, CMD and CTRL are treated as the same button.
 | max_h | Maximum height of the canvas | Default value is 768 |
 | ar_w | Aspect ratio width | In a 4/3 aspect ratio, this parameter should be 3. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
 | ar_h | Aspect ratio height | In a 4/3 aspect ratio, this parameter should be 4. If any of the ar_w or ar_h is set, the aspect ratio is forced and limited by the max_w and max_h parameters |
-| lv | Level index of the startup game | Can be used for linked games |
+| lv | Level index of the startup game | Can be used for linked games. But the official way to link to a level is to include it in the URL such as https://play.fancade.com/5F084A0BCE06B710/5 where the level "5" is specified last. |
