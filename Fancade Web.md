@@ -1,24 +1,20 @@
-# Fancade Web App
+Fancade is also available as a web app! Go to [[play.fancade.com|https://play.fancade.com]] to play Fancade in a browser!
 
-Fancade is also available as a web app!
-
-## Starting the Web App
-
-The web app is available at <https://play.fancade.com>
+[[_TOC_]]
 
 ## Linking to Games
 
 A link to a published game can be generated in the web app (and also in the regular app after version 1.7 is released) by clicking the 'Share' button for that game.
 
-Links to games have the following format: <https://play.fancade.com/5F084A0BCE06B710>
+Links to games have the following format: [[https://play.fancade.com/5F084A0BCE06B710]]
 where '5F084A0BCE06B710' is the game's unique identifier.
 
 The web app will load the linked game and directly start the first level.
 
 ## Setting Start Level of Linked Games
 
-The starting level of a linked game can be set by appending the level index to the end like this: <https://play.fancade.com/5F084A0BCE06B710/8>
-The '/8' part (after the game's unique identifier) sets the start level to 8, in this case.
+The starting level of a linked game can be set by appending the level index to the end like this: [[https://play.fancade.com/5F084A0BCE06B710/8]]
+The `/8` part (after the game's unique identifier) sets the start level to 8, in this case.
 
 ## Additional Controls
 
