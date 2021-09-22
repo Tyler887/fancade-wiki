@@ -26,7 +26,7 @@ There are some differences between the web app and the regular app. Here is a su
 * The 'New' category is disabled
 * Need to log in to Fancade account to play challenges
 * Linked games start directly
-* Additional controls for mouse and keyboard (see below for a complete list of commands)
+* Additional controls for mouse and keyboard (see below for a complete list)
 * Auto-save in edit mode
 * Dev pause mode with single-frame step
 * Can download games in 'Projects' to local file system
