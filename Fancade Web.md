@@ -2,6 +2,11 @@ Fancade is also available as a web app! Go to [[play.fancade.com|https://play.fa
 
 [[_TOC_]]
 
+## Performance
+
+If the game seems to run slow, check if hardware acceleration is enabled in your browser.
+
+
 ## Linking to Games
 
 A link to a published game can be generated in the web app (and also in the regular app after version 1.7 is released) by clicking the 'Share' button for that game.
