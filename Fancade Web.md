@@ -75,10 +75,10 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 
 | Input | Description | Other |
 | ----- |-------------| ----- |
-| Arrow keys | Generate directional swipes with minor offset along secondary direction + Generating fake accelerometer inputs | Shift and CTRL modifies the distance. Special cases when detecting the Virtual Gamepad or Neo Joystick |
-| WASD | Same as arrow keys but with opposite minor offset along secondary direction | Shift and CTRL modifies the distance |
-| Keypad keys | Same as arrow keys but no secondary direction offsets | Shift and CTRL modifies the distance |
-| TFGH | Fake accelerometer | Shift and CTRL modifies the angle amount, ALT adds white noise to the output |
+| Arrow keys | Generate directional swipes with minor offset along secondary direction + Generating fake accelerometer inputs | Shift and Alt modifies the distance. Special cases when detecting the Virtual Gamepad or Neo Joystick |
+| WASD | Same as arrow keys but with opposite minor offset along secondary direction | Shift and ALT modifies the distance |
+| Keypad keys | Same as arrow keys but no secondary direction offsets | Shift and ALT modifies the distance |
+| TFGH | Fake accelerometer | Shift and ALT modifies the angle amount, CTRL adds white noise to the output |
 | IJKL | Tap like it was an on-screen control in left-right-back-forward | |
 | Space key OR Keypad 5 | Tap middle | |
 | Z key | Tap left middle | |
@@ -87,7 +87,7 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | Enter key | Tap top right | |
 | P key | Pause / Resume | |
 | Mouse + RMB | Pan with fake gesture | |
-| Mouse scroll wheel OR ? and ´ keys OR Keypad +/- (the two buttons at the right of 0) | Zoom with fake gesture | Shift and CTRL modifies speed |
+| Mouse scroll wheel OR ? and ´ keys OR Keypad +/- (the two buttons at the right of 0) | Zoom with fake gesture | Shift and ALT modifies speed |
 | Mouse + MMB | Orbit with fake gesture | |
 | Mouse + MMB + CTRL | Pitch with fake gesture | |
 | CTRL + R key | Restart | Also works in the pause menu |
