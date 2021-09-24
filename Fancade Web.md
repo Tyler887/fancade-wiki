@@ -63,7 +63,7 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | CTRL + C key | Copy blocks | |
 | CTRL + V key | Paste blocks | |
 | CTRL + X key | Cut blocks | |
-| Q key + LMB Drag | Paint with the current selection | Need to hold down Q while painting |
+| Q key + LMB Drag | Paint with the current selection. Uses mouse normal to limit the paint plane. | Need to hold down Q while painting. CTRL limits to y-plane, Shift limits to z-plane, ALT limits to x-plane, CTRL + Shift limits to the line the mouse normal points towards |
 | CTRL + S key | Save game in the browser's local storage | This is not a normal file in the filesystem. Local storage can easily be cleared, so it is recommended to download the game as a local file regularly using CTRL + Shift + S |
 | CTRL + Shift + S key | Save the game as a local file | Such local files can later be dragged and dropped over the browser window to restore a lost game file or for collaboration projects |
 | CTRL + Z key | Undo | |
