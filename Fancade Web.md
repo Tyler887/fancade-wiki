@@ -2,10 +2,11 @@ Fancade is also available as a web app! Go to [[play.fancade.com|https://play.fa
 
 [[_TOC_]]
 
-## Performance
+## Performance and Compatibility
 
 If the game seems to run slow, check if hardware acceleration is enabled in your browser.
 
+If the game doesn't run at all, there are usually some helpful messages shown (hopefully on screen but also in the web developer console). Fancade web has been tested and confirmed to work in Chrome, Firefox, Safari and Edge, but there can be issues with video drivers etc. that'll prevent it from running. You can also try to disable hardware acceleration, but then the game will run much slower.
 
 ## Linking to Games
 
