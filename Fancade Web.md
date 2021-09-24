@@ -2,12 +2,6 @@ Fancade is also available as a web app! Go to [[play.fancade.com|https://play.fa
 
 [[_TOC_]]
 
-## Performance and Compatibility
-
-If the game seems to run slow, check if hardware acceleration is enabled in your browser.
-
-If the game doesn't run at all, there are usually some helpful messages shown (hopefully on screen but also in the web developer console). Fancade web has been tested and confirmed to work in Chrome, Firefox, Safari and Edge, but there can be issues with video drivers etc. that'll prevent it from running. You can also try to disable hardware acceleration, but then the game will run much slower.
-
 ## Linking to Games
 
 A link to a published game can be generated in the web app (and also in the regular app after version 1.7 is released) by clicking the 'Share' button for that game.
@@ -38,6 +32,12 @@ There are some differences between the web app and the regular app. Here is a su
 * Can download games in 'Projects' to local file system
 * Can drag-and-drop files from local file system into web app. The game ends up in 'Projects'
 
+
+## Performance and Compatibility
+
+If the game seems to run slow, check if hardware acceleration is enabled in your browser.
+
+If the game doesn't run at all, there are usually some helpful messages shown (hopefully on screen but also in the web developer console). Fancade web has been tested and confirmed to work in Chrome, Firefox, Safari and Edge, but there can be issues with video drivers etc. that'll prevent it from running. You can also try to disable hardware acceleration, but then the game will run much slower.
 
 ## Additional Controls
 
