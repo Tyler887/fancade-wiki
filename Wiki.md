@@ -4,7 +4,7 @@ title: Fancade Wiki
 
 *The wiki is developed by [[Nikita Ivanov|ViChyavIn]], Olle Landin, and [[Martin Magni]].*
 
-This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are written by Fancade users (Fancaders) themselves. Maybe you want to help improve the wiki too?
+This wiki helps users learn more about Fancade and its [[game-making tools|Build]]. Pages are written by Fancade users themselves. Maybe you want to help improve the wiki too?
 
 [[_TOC_]]
 
@@ -14,31 +14,29 @@ Yes? You'd like to contribute? Great!! Here's some advice to help you get starte
 
 ## Write about Fancade
 
-The wiki is about [Fancade](https://fancade.com) and its [[game making tools|Build]], so try to stay on topic. So don't write about anything different from Fancade and its [[game making tools|Build]].
+The wiki is about [Fancade](https://fancade.com), so try to stay on topic.
 
-## Create a page
+## Create an appropiate page
 
-Before creating a brand *new* wiki page, make sure to check if:
+Before creating a brand *new* wiki page, check if:
 
-* The page already exists, even with a different name?
+* The page already exists, just with a slightly different name?
 * The info doesn't fit better as a note on an existing page?
 * The page is likely to be useful to other Fancade users?
 
 ## Don't save unfinished edits
 
-Do not leave articles in work in progress state.
-
-If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later. The wiki will remember the state of the page and will prompt you to recover it when you begin editing again.
+If you're not done yet, but you can't continue working right now, you can always quit the browser and get back to editing later (the wiki will remember the state of the page and will prompt you to recover it when you begin editing again).
 
 ## Don't leave unanswered questions
 
-If you're not sure about something, don't ask future readers to correct you in the page:
+If you're not sure about something, don't ask future editors to correct you in the page:
 
 <blockquote>
-[[Constraints]] are very hard to learn. (Maybe it's just me?)
+[[Constraints]] are very difficult to learn. (Maybe it's just me?)
 </blockquote>
 
-Those who can answer your question will rarely visit your page, so you will end up throwing your question at readers'. Feel free to join our [[Discord]] server and ask your question there, in order to eventually provide the most accurate information to readers!
+Those who can answer your question will rarely visit the page, so you will end up throwing your question at readers'. Feel free to join our [[Discord]] server and ask your question there, in order to eventually provide the most accurate information to readers!
 
 # How-to
 
@@ -46,23 +44,17 @@ Want to help but have no idea how it's done? Read below to learn how to format t
 
 ## Create a page
 
-In the Wiki, there is an ability to create new pages, simply by clicking "New". A pop-up with the title "Create New Page" should show up.
+In the Wiki page, there is an ability to create new pages, simply by clicking "New". A pop-up with the title "Create New Page" should show up.
 
-Create a page name with the right title.
+Create a page name with the appropriate title.
 
-If you are writing it in a different area of the Wiki (e.g. Build) write `<area>/<title>` (e.g. `Build/Set Variable`) to create it there.
+If you are writing it in a different section (e.g. Build) write `<section>/<title>` (e.g. `Build/Set Variable`) to create it within this section.
 
 Now you can write a Wiki page! After you have written it all, click "Preview" to make sure everything looks correct.
 
 ## Style a page
 
-The Wiki supports the formatting syntax called "Markdown". You can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~. Also you can:
-
-* [[Make lists|#make-list]]
-* [[Add links|#add-link]]
-* [[Add images|#add-image]]
-
-[[Click here to read more.|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]]
+The Wiki supports the formatting syntax called "Markdown". You can easily *emphasize* **text** (you can make text **bold**, *italic*, ***bolditalic***, and ~~strikethrough~~, but not underline because markdown does not support underlining text), make lists, add links, insert images and even make tables! For more information, read [[this|https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]].
 
 ### Basics
 
@@ -110,13 +102,12 @@ Deleting a page is possible, but restricted. Ping one of the Fanmods on the Disc
 Go to the page's history (through link in the latest changes), check the commit, compare and revert.
 
 ## Rename a page
-
-Click Rename, and enter the new page name. If you want to move it, then enter `<area>/<title>`.
+Click Rename, and enter the new page name.
 
 ## Sign out
 
-There's no button to sign out or seldom reason to. But if you clear the website data in your browser settings, you will be signed out. (It's a cookie?)
+There's no button to sign out (and seldom reason to). But if you clear the website data in your browser settings, you will be signed out. (It's a cookie?)
 
 ## Notes
 
-* You can switch between edit and preview mode with `Ctrl+Shift+P`. (When using touchscreens you cannot do this.)
+* You can switch between edit and preview mode with `CTRL+Shift+P`.
