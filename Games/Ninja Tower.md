@@ -3,9 +3,9 @@ quest: true
 ---
 [Ninja Tower](https://play.fancade.com/5C3C280BB314BE96) is a game by FunkyPepe where you climb the tower by moving, pushing, and avoiding to win.
 
-## How to play
+## How to Play
 
-Swipe to move, get to the stairs to win, with the exception of "Demo Floor" if you move to the spikes, you lose, barrels can be pushed in the sides where it would roll, and if it hits something, it will become immovable,Enemies, if hit by anything, will disappear.
+Swipe to move, get to the stairs to win. With the exception of "Demo Floor" if you move to the spikes, you lose. Barrels can be pushed in the sides where it would roll, and if it hits something, it will become immovable. Enemies, if hit by anything, will disappear.
 
 ## Solutions
 
