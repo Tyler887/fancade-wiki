@@ -1,3 +1,8 @@
+---
+quest:true
+---
+
+
 Chirpz is a game by Artast where you need to shoot all white blocks to color them.
 
 ## How to Play
