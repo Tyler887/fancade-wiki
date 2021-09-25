@@ -1,7 +1,8 @@
-[Colour Blockade](https://play.fancade.com/61474448D48FB22C) is a game by DaBlueCube where your goal is to cover up the white squares while avoiding the multiple lose conditions to win
+[Colour Blockade](https://play.fancade.com/61474448D48FB22C) is a game by DaBlueCube where your goal is to cover up the white squares while avoiding the multiple lose conditions to win.
 
 ## How to play
-Swipe to move. The covering part partially works like longcat. Cover all white blocks to win. 
+
+Swipe to move. The covering part partially works like [[Longcat]]. Cover all white blocks to win. 
 
 To lose, either:
 
@@ -15,7 +16,7 @@ To lose, either:
 * Hole blocks: If you swipe to the hole blocks, you will go out of bounds and lose.
 * Spike floor: If you swipe to a spike, you will stop at the spike block and lose.
 * Stoppers: They look like a black square ring, if you step on it, you just stop at this point.
-* Invisible walls: Looks like a real white floor, but go adjecent to it and it will reveal itself to you. You dont need to cover those up.
+* Invisible walls: Looks like a real white floor, but go adjacent to it and it will reveal itself to you. You don't need to cover those up.
 
 ## Solutions
 
