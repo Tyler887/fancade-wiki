@@ -33,4 +33,4 @@ Scroll up a little bit, then click Preview. You will see that your file was uplo
 
 This was it about the tutorial. If a wiki moderator requests me to take down the page, I have no problem with that. 
 
-Now you are a wiki pro! Remember to read the wiki rules, make Fancade related sites and I wish you happy writing! :)
+Now you are a wiki pro! Remember to read the wiki rules, make Fancade related pages and I wish you happy writing! :)
