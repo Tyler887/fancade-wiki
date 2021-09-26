@@ -12,7 +12,7 @@ Items can be either one type of upgrades or boosters just by playing with the bu
 
 You also cannot use menu item to add buttons on the top of the screen or the pause menu. Remember the [[top of this page|#top]]?
 ## Example
-You can make a clicker game with Menu Item. So, add a [[touch sensor]], a [[get variable]], a [[increase number]] and this script (Menu Item). Make it detect tap begins. Make it increase variables named `Coins` and `!Score`. (! means saved variable, tap `Local` then `Global` to get `Saved`.)
+You can make a clicker game with Menu Item. So, add a [[touch sensor]], a [[get variable]], an [[increase number]] and this script (Menu Item). Make it detect tap begins. Make it increase variables named `Coins` and `!Score`. (! means saved variable, tap `Local` then `Global` to get `Saved`.)
 
 Now get a [[set score]], plug in `!Score` into the Score wire, and plug `Coins` into the Coins wire.
 
