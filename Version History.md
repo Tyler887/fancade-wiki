@@ -1,5 +1,34 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Fancade Beta]].
 
+# Fancade 1.7.1 (beta)
+* Release: September 26, 2021
+* Quest worlds: 71
+* <details>
+     <summary>Changelog</summary>
+     <b>New:</b>
+<br>• Play daily challenges and earn gems!
+<br>• Share games with links that work anywhere
+<br>• New Quest world
+<br>
+<br><b>Changed:</b>
+<br>• Countless improvements to Quest games
+<br>• Quest boxes contain all unlocked levels
+<br>• Removed "Complete % of this world"
+<br>• Quest auto-scrolls to the world where you have challenges
+<br>• Favorites are now called Saved
+<br>• High score games always show Play button (even if you "complete" it)
+<br>• Share your game from Projects page
+<br>
+<br><b>Fixed:</b>
+<br>• Physics objects bounce weirdly
+<br>• SFX flooding and invalid values can disable sound
+<br>• Angular motor sometimes freaks out
+<br>• Some captions are possibly insulting
+<br>• In-game shop shows ad-free-forever option (even if you own it)
+<br>• Completed goal bubbles sometimes show not crossed out
+<br>• Duplicate reward bubbles after better score syncs from server
+<br></details>
+
 # Fancade 1.6.6
 * Release: June 10, 2021
 * Quest worlds: 70
