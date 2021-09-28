@@ -31,6 +31,7 @@ There are some differences between the web app and the regular app. Here is a su
 * Dev pause mode with single-frame step
 * Can download games in 'Projects' to local file system
 * Can drag-and-drop files from local file system into web app. The game ends up in 'Projects'
+* Command line
 
 
 ## Performance and Compatibility
