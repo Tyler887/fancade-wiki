@@ -1,1 +1,1 @@
-The fancade terms of use are avaliable [here](https://www.fancade.com/terms/)
+The fancade terms of use/terms of service (TOS) are avaliable [here](https://www.fancade.com/terms/)
