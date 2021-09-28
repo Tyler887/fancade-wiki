@@ -55,7 +55,8 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | LMB + CTRL | Toggle selection of mouse-hovered block | |
 | LMB + CTRL + Mouse move | Rectangle select adds to current selection | |
 | Backspace OR Delete | Remove block | Removes selected blocks first. If no blocks are selected, it removes the block that the mouse hovers over. Holding down Shift continuously removes all blocks that the mouse hovers over. |
-| E key | Open / Close block | |
+| E key | Open / Close block or open the first settings | |
+| 1, 2 and 3 key | Open the selected block's settings | 1 opens the first settings, 2 the second etc. |
 | T key | Open / Close block for painting | |
 | I key | Open / Close inventory | |
 | F key | Focus on selected / Auto-fit camera | Auto-fits camera if no blocks are selected |
