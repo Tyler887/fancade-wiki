@@ -1,0 +1,1 @@
+The fancade terms of use are avaliable [here](https://www.fancade.com/terms/)
