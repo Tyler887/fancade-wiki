@@ -55,6 +55,7 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | LMB + CTRL | Toggle selection of mouse-hovered block | |
 | LMB + CTRL + Mouse move | Rectangle select adds to current selection | |
 | Backspace OR Delete | Remove block | Removes selected blocks first. If no blocks are selected, it removes the block that the mouse hovers over. Holding down Shift continuously removes all blocks that the mouse hovers over. |
+| TAB key | Open command line | See separate section about the command line |
 | E key | Open / Close block or open the first settings | |
 | 1, 2 and 3 key | Open the selected block's settings | 1 opens the first settings, 2 the second etc. |
 | T key | Open / Close block for painting | |
@@ -110,6 +111,14 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 
 | CTRL + S key | Save the selected game as a local file | Only works in "Projects" or if the current logged-in user is the author of the game |
 | Files dropped onto window | Create a new game in "Projects" for each file | Only works in the top menu. Doesn't work if the file exists or if the current logged-in user is not the author of that game (and the game is not editable). This can be used for turn-based collaboration. |
+
+### Command Line
+
+| Input | Description | Other  |
+| ----- |-------------| ----- |
+| Enter | Execute command OR Enter selected suggestion | |
+| TAB | Enter selected suggestion |  |
+| Up and Down Arrows | Navigate up and down in the list of suggestions |  |
 
 ### Misc
 
