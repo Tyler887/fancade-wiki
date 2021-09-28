@@ -25,4 +25,7 @@ The correct text for this screenshot is:
 * 567 is the score
 
 <br>
-Then just wait for a Fanmod to react to it so it can be added to the scores.
+
+For games with only one level do not include the level name in the message
+
+After sending, wait for a Fanmod to react to it so it can be added to the scores.
