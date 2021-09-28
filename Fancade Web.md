@@ -114,6 +114,8 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 
 ### Command Line
 
+The command line is opened by the TAB key and can be used for quickly adding blocks to the level or the hotbar.
+
 | Input | Description | Other  |
 | ----- |-------------| ----- |
 | Enter | Execute command OR Enter selected suggestion | |
