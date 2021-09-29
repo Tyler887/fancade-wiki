@@ -3,6 +3,8 @@ This page documents Fancade's history. If you want to know what the current beta
 # Fancade 1.7.1 (beta)
 * Release: September 26, 2021
 * Quest worlds: 71
+* Play daily challenges and earn [[gems]]!
+* Share games with links that work anywhere
 * <details>
      <summary>Changelog</summary>
      <b>New:</b>
