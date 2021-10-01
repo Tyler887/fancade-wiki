@@ -1,7 +1,7 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Fancade Beta]].
 
-# Fancade 1.7.1 (beta)
-* Release: September 26, 2021
+# Fancade 1.7.2 (beta)
+* Release: September 30, 2021
 * Quest worlds: 71
 * Play daily challenges and earn [[gems]]!
 * Share games with links that work anywhere
@@ -29,6 +29,8 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• In-game shop shows ad-free-forever option (even if you own it)
 <br>• Completed goal bubbles sometimes show not crossed out
 <br>• Duplicate reward bubbles after better score syncs from server
+<br>• Quest sometimes doesn't auto-scroll to first unfinished world
+<br>• Quest box flags don't update if you complete the levels in another box
 <br></details>
 
 # Fancade 1.6.6
