@@ -16,6 +16,6 @@ You can make a clicker game with Menu Item. So, add a [[touch sensor]], a [[get 
 
 Now get a [[set score]], plug in `!Score` into the Score wire, and plug `Coins` into the Coins wire.
 
-Add a shop with many items, starting with `More per tap`. This is like in fanclicker by Origedit. Replace the increase number with: set var (add nums, `!Score`, (whatever saved variable you are using for the more per tap item in the shop, ~~lol~~)). Do the same for the `Coins` variable.
+Add a shop with many items, starting with `More per tap`. This is like in fanclicker by Origedit. Replace the increase number with: set var (add nums, `!Score`, (whatever saved variable you are using for the more per tap item in the shop)). Do the same for the `Coins` variable.
 
 Add a way to make the player claim the coins they got in game and submit their score. If you are using a button to do this then check the [[tap to pick closest object]] article, make a unglued object and repeat the scripting in the article image.
