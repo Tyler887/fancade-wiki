@@ -29,3 +29,7 @@ Saved variables were added in Fancade 1.6. Like global variables, you can make a
 As the name implies, saved variables persist their value from one game session to the next. This is true whether the user ends the game by winning, dying, or simply pausing and returning to the menu.
 
 Additionally, saved variables are shared across all levels in the same game. This allows a player's actions in one level to affect their gameplay in other levels, and to keep track of purchases from the [[Menu Item|Blocks/Menu Item]] block.
+
+Saved variables currently only work with number variables.
+
+A game can have up to 64 saved num nvariables
