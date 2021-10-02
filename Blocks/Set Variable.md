@@ -32,4 +32,4 @@ Additionally, saved variables are shared across all levels in the same game. Thi
 
 Saved variables currently only work with number variables.
 
-A game can have up to 64 saved num nvariables
+A game can have up to 64 saved num variables
