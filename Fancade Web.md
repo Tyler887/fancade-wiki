@@ -51,7 +51,7 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | Input | Description | Other |
 | ----- |-------------| ----- |
 | Mouse + RMB OR Arrow keys OR WASD keys OR Keypad | Pan | Shift pans slower. Pan is default in xz-plane only but using ALT unlocks free pan like in the app |
-| Mouse scroll wheel OR Keypad +/- OR  ? and ´ keys (the two buttons at the right of 0) | Zoom | Shift and CTRL modifies speed |
+| Mouse scroll wheel OR Keypad +/- OR ./, (period and comma) OR  ? and ´ keys (the two buttons at the right of 0) | Zoom | Shift and CTRL modifies speed |
 | Mouse + MMB OR O key OR R key | Orbit | Shift orbits slower, CTRL snaps angle, ALT snaps angle to topdown view |
 | LMB + CTRL | Toggle selection of mouse-hovered block | |
 | LMB + CTRL + Mouse move | Rectangle select adds to current selection | |
