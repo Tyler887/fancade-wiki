@@ -10,5 +10,5 @@ In upper example , the process of multiplication was :
   
 Note: This is not the official writer just I explained simple than original one .
 
-Original : [DotProduct](https://www.fancade.com/wiki/Blocks/Dot%20Product.md)
+Original : [Dot Product](https://www.fancade.com/wiki/Blocks/Dot%20Product.md)
     
