@@ -14,7 +14,7 @@ You also can provide time score, just make sure that the input is a total amount
 
 Setting a negative score removes the score.
 
-![Set Score](https://media.discordapp.net/attachments/777896239857270846/895325512359084072/Set_Score.png?width=336&height=336)
+![Set Score](https://media.discordapp.net/attachments/777896239857270846/895928883176697857/Set_Score.png?width=336&height=336)
 
 ## Example 
 
