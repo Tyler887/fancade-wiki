@@ -1,4 +1,5 @@
 | **Color** | **Hex** | **Preview** |
+| ----- |-------------| ----- |
 | Light Brown | EDA4A1 | <font color="eda4a1">██████</font> |
 | Brown | CA7588 | <font color="ca7588">██████</font> |
 | Dark Brown | 9C5963 | <font color="9c5963">██████</font> |
