@@ -1,5 +1,7 @@
-Light Brown: EDA4A1
-Brown: CA7588
+|**Color**|**Hex**|**Preview**|
+| Light Brown:  | EDA4A1 |<td>bgcolor=eda4a1</td> |
+| Brown: CA7588 | | |
+
 Dark Brown: 9C5963
 
 Light Tan: FFFFFE
