@@ -1,16 +1,18 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Fancade Beta]].
 
-# Fancade 1.7.2 (beta)
-* Release: September 30, 2021
+# Fancade 1.7.3 (beta)
+* Release: October 9, 2021
 * Quest worlds: 71
 * Play daily challenges and earn [[gems]]!
 * Share games with links that work anywhere
+* "More by \<Creator>" button after finishing their Daily Challenge
 * <details>
      <summary>Changelog</summary>
      <b>New:</b>
 <br>• Play daily challenges and earn gems!
 <br>• Share games with links that work anywhere
 <br>• New Quest world
+<br>• "More by <​Creator>" button after finishing their Daily Challenge
 <br>
 <br><b>Changed:</b>
 <br>• Countless improvements to Quest games
@@ -20,6 +22,7 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Favorites are now called Saved
 <br>• High score games always show Play button (even if you "complete" it)
 <br>• Share your game from Projects page
+<br>• Daily Challenges are now a lot easier
 <br>
 <br><b>Fixed:</b>
 <br>• Physics objects bounce weirdly
@@ -31,6 +34,12 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Duplicate reward bubbles after better score syncs from server
 <br>• Quest sometimes doesn't auto-scroll to first unfinished world
 <br>• Quest box flags don't update if you complete the levels in another box
+<br>• Crash when launching Android app from Daily Challenge notification
+<br>• Links keep reopening on Android
+<br>• Softlock on Game Over screen
+<br>• Ricoshot Daily Challenge
+<br>• Pause N Roll Daily Challenge
+<br>• Game Over navbar can appear in-menu
 <br></details>
 
 # Fancade 1.6.6
