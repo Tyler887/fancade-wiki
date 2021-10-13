@@ -1,7 +1,7 @@
 This page documents Fancade's history. If you want to know what the current beta is and how to enter, go to [[Fancade Beta]].
 
-# Fancade 1.7.3 (beta)
-* Release: October 9, 2021
+# Fancade 1.7.4 (beta)
+* Release: October 14, 2021
 * Quest worlds: 71
 * Play daily challenges and earn [[gems]]!
 * Share games with links that work anywhere
@@ -40,6 +40,7 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Ricoshot Daily Challenge
 <br>• Pause N Roll Daily Challenge
 <br>• Game Over navbar can appear in-menu
+<br>• Blob Level 5
 <br></details>
 
 # Fancade 1.6.6
