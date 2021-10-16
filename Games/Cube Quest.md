@@ -2,7 +2,7 @@
 quest: true
 ---
 
-[[Cube Quest|https://fancade.page.link/uW5r]] is a puzzle game where you navigate a white cube to the goal, with platforms that can be moved by the cube and boxes that can be pushed. Boxes can also be stood by falling it into the floor.
+[[Cube Quest|https://play.fancade.com/604F5881EBA8E83A]] is a puzzle game where you navigate a white cube to the goal, with platforms that can be moved by the cube and boxes that can be pushed. Boxes can also be stood by falling it into the floor.
 
 ## How to Play
 
