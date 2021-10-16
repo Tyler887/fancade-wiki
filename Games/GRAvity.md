@@ -2,7 +2,7 @@
 quest: true
 ---
 
-[[GRAvity|https://fancade.page.link/yr4G]] is a physics game by Helipton.
+[[GRAvity|https://play.fancade.com/5C980EB56F9F02DB]] is a physics game by Helipton.
 
 ## How to play
 
