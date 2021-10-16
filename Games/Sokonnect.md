@@ -1,4 +1,4 @@
-[[Sokonnect|https://fancade.page.link/H9sd]] is a Sokoban game where you link all pieces together to win!
+[[Sokonnect|https://play.fancade.com/610BAE62306FA9D8]] is a Sokoban game where you link all pieces together to win!
 
 # How to Play
 
