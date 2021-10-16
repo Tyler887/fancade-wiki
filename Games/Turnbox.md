@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-[[Turnbox|https://fancade.page.link/vM6n]] is a box destruction game by LukaszM.
+[[Turnbox|https://play.fancade.com/602BD676A800F9AA]] is a box destruction game by LukaszM.
 # How to Play
 
 Tap a box to move it in the direction it is facing in! They turn automatically to the right when it hits something. When it hits a box of the same color, they get destroyed, and the other adjacent same-colored boxes.  
