@@ -2,7 +2,7 @@
 quest: true
 ---
 
-[Frames](https://fancade.page.link/YGY3) is a game by Sounak9434 where you have to get to the yellow flag without touching the spike or falling to out of bounds to win.
+[Frames](https://play.fancade.com/5EB4F55AF03B27E4) is a game by Sounak9434 where you have to get to the yellow flag without touching the spike or falling to out of bounds to win.
 
 ## Rules
 ### Swapping
