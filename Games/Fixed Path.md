@@ -2,7 +2,7 @@
 quest: true
 ---
 
-[[Fixed Path|https://fancade.page.link/wgTG]] is a game where the goal is to get the gray diamond to the checkered block without hitting obstacles. 
+[[Fixed Path|https://play.fancade.com/605E407A807B9FBC]] is a game where the goal is to get the gray diamond to the checkered block without hitting obstacles. 
 
 ## How To Play
 
