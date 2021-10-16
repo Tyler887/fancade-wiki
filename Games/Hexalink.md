@@ -1,4 +1,4 @@
-[Hexalink](https://fancade.page.link/RkHU) is a game by LukaszM. It is a hexagonal variant of [[Link]] by nmskr.
+[Hexalink](https://play.fancade.com/60D8A2D86F631309) is a game by LukaszM. It is a hexagonal variant of [[Link]] by nmskr.
 
 ## How to Play
 
