@@ -1,4 +1,4 @@
-[[Pancake Sorting|https://fancade.page.link/xgVL]] is a game where you flip pancakes in a limited number of moves, sorting them each move.
+[[Pancake Sorting|https://play.fancade.com/60D48F0959EDFAED]] is a game where you flip pancakes in a limited number of moves, sorting them each move.
 
 # How to Play
 
