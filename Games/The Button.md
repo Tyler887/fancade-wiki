@@ -1,4 +1,4 @@
-[The Button](https://fancade.page.link/JmpY) is a featured game where you have to figure out each instructions in each level.
+[The Button](https://play.fancade.com/606F0EBF3E18B010) is a featured game where you have to figure out each instructions in each level.
 
 # Hints
 
