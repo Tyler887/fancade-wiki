@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-[[Minecade|https://fancade.page.link/xfsd]] is a [[Minesweeper|https://en.wikipedia.org/wiki/Minesweeper_(video_game)]] clone by Mathias Elgaard,  where you uncover cells with numbers without uncovering a mine, and you can flag cells to help.
+[[Minecade|https://play.fancade.com/5B7948C4AD85967E]] is a [[Minesweeper|https://en.wikipedia.org/wiki/Minesweeper_(video_game)]] clone by Mathias Elgaard,  where you uncover cells with numbers without uncovering a mine, and you can flag cells to help.
 
 ## How to Play
 
