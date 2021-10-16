@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-[[Ruin Castle|https://fancade.page.link/LP3X]] is a Fancade game created by nmskr.
+[[Ruin Castle|https://play.fancade.com/5FD25449355F9CD7]] is a Fancade game created by nmskr.
 
 # How to play
 
