@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-[Differ Hall](https://fancade.page.link/rxgA) is a game by GM (Gunnel Magnusson) where you have to find all the differences to win.
+[Differ Hall](https://play.fancade.com/5DF8E41842F0233D) is a game by GM (Gunnel Magnusson) where you have to find all the differences to win.
 
 ## How To Play
 
