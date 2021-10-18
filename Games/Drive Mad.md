@@ -2,7 +2,8 @@
 quest: true
 ---
 
-Drive Mad is a driving game by Martin Magni.
+[[Drive Mad|https://play.fancade.com/5F084A0BCE06B710]] is a driving game by Martin Magni.
+
 ## How to Play
 
 Tap the right side of the screen to drive. Tap the left side of the screen to brake and reverse. Careful, if you land the car upside down it'll break!
