@@ -1,6 +1,6 @@
-Plays a sound effect with optional volume and pitch inputs and outputs the channel the sound is played on. Use the settings to change which sound effect is played.
+``Plays a sound effect with optional volume and pitch inputs and outputs the channel the sound is played on. Use the settings to change which sound effect is played.
 
-[[/uploads/Playsound.png]]
+![Play Sound](https://media.discordapp.net/attachments/777896239857270846/897474099331358813/Play_Sound.png?width=336&height=336)
 
 ## Input/Output
 
@@ -10,7 +10,7 @@ Unlike most other blocks, a wire connected to Before is *required* for it do do 
 |----------- |:-----:|:-----|
 | Volume     | 0 to 1  | 
 | Pitch      | 0 to 4  | 
-| *Channel*  | -1 to 7 | Only -1 when channels 0 to 7 are occupied. If so, the sound will fail to play.
+| *Channel*  | -1 to 9 | Only -1 when channels 0 to 9 are occupied or plays too many looped sounds. If so, the sound will fail to play.
 
 ## Settings
 
