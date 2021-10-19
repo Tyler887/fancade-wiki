@@ -2,7 +2,7 @@
 quest: true
 ---
 
-Odd Bot is a puzzle game by [[Martin Magni]] where you help a cute tiny robot, called Odd, to reach the golden cube.
+[Odd Bot](https://play.fancade.com/5D01F70D3373F2DD) is a puzzle game by [[Martin Magni]] where you help a cute tiny robot, called Odd, to reach the golden cube.
 
 [[/uploads/Screenshot_2021-08-31-15-17-09.jpg]]
 
