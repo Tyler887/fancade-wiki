@@ -1,4 +1,4 @@
-Nonsense is a game by R3DZ3R, where you rearrange color tiles on a checkerboard within some rules.
+[Nonsense](https://play.fancade.com/60A091A89A937D0D) is a game by R3DZ3R, where you rearrange color tiles on a checkerboard within some rules.
 
 [[/uploads/20210905_062223.jpg]]
 
