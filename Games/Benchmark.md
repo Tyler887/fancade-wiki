@@ -1,4 +1,4 @@
-[Benchmark](https://fancade.page.link/3xwp) is a useful Fancade game that uses the technology of Fancade to test your device's performance.       
+[Benchmark](https://play.fancade.com/6016546DC3A1D2F1) is a useful Fancade game that uses the technology of Fancade to test your device's performance.       
 ## CPU Test
 Play CPU Test and don't try to tap until there is an error message. You may already understand what is the result, it's the "Score" variable connected to Inspect script. It's the speed of the CPU with an imaginary unit.       
 ## Audio Test
