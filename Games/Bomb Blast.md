@@ -2,7 +2,7 @@
 quest: true
 ---
 
-Bomb Blast is a physics game by Artast.
+[Bomb Blast](https://play.fancade.com/5EE418F188962CCA) is a physics game by Artast.
 
 ## How to Play
 
