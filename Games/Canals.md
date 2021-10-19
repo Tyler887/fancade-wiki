@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Canals is a Fancade game by nmskr.
+[Canals](https://play.fancade.com/5E44B2DD8C323489) is a Fancade game by nmskr.
 
 ## How to Play
 
