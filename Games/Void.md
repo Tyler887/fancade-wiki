@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Void is a game created by [[Martin Magni]].
+[Void](https://play.fancade.com/5CE83E034F30F5BB) is a game created by [[Martin Magni]].
 
 ## How to play
 
