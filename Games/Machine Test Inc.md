@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Machine Test Inc is a game where you have different functions and you need to find out the functions and the goal to win. It is [[FanJam VIII's|Fanjam#fanjam-viii]] winner for Overall.
+[Machine Test Inc](https://play.fancade.com/605E5683BC131ED5) is a game where you have different functions and you need to find out the functions and the goal to win. It is [[FanJam VIII's|Fanjam#fanjam-viii]] winner for Overall.
 
 ## How to Play
 
