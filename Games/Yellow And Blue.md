@@ -20,4 +20,5 @@ Swipe to move both "dittos" in that direction, If the "dittos" combine together,
 13. <<N>><<N>><<E>><<S>><<S>><<E>><<W>><<W>><<N>><<N>>
 14. <<W>><<W>><<N>><<E>><<E>><<S>><<E>><<E>><<N>><<E>><<S>><<W>><<W>><<W>><<W>><<W>><<N>><<E>><<E>>
 15. ok
+
 (Fan fact: This level is the same level design as level 14 "Ledge Line" from [[Ditto]])
