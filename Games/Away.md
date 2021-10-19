@@ -2,7 +2,7 @@
 quest: true
 ---
 
-Away is a puzzle game by Tzomby. The objective is to fill every tile using a single line.
+[Away](https://play.fancade.com/5CA6212462EF6153) is a puzzle game by Tzomby. The objective is to fill every tile using a single line.
 
 ## Solutions
 
