@@ -1,6 +1,6 @@
 Plays a sound effect with optional volume and pitch inputs and outputs the channel the sound is played on. Use the settings to change which sound effect is played.
 
-![Play Sound](https://media.discordapp.net/attachments/777896239857270846/897474099331358813/Play_Sound.png?width=336&height=336)
+[[/uploads/Play_Sound.png | width=336px]]
 
 ## Input/Output
 
