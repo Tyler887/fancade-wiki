@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Flatland is a one-tap game by [[Martin Magni]].
+[Flatland](https://play.fancade.com/5BD5944CAA9BB5E0) is a one-tap game by [[Martin Magni]].
 
 ## How to play
 
