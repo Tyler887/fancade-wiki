@@ -1,7 +1,7 @@
 ---
 quest: true
 ---
-Stacktris is a game by [[Martin Magni]], where you try to stack tetrominoes without making them fall off.
+[Stacktris](https://play.fancade.com/5BEC8352E4E078B1) is a game by [[Martin Magni]], where you try to stack tetrominoes without making them fall off.
 
 ## How to Play
 
