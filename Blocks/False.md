@@ -1,9 +1,9 @@
 Outputs `False`.
 
-[[/uploads/False.png]]
+[[/uploads/False1.png | width=336px, alt=False]]
 
 Example:
 
-[[/uploads/IMG_20210108_141801.png]]
+[[/uploads/False_example.png | alt=Example]]
 
 Fancade will set the grass block's visibility to `False`.
