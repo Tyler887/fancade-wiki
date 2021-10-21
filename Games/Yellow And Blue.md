@@ -21,4 +21,4 @@ Swipe to move both "dittos" in that direction, If the "dittos" combine together,
 14. ↑↑→↓←↑↓↓→
 15. →←↓→↑←→↓↓↓↓←←←
 
-(Fan fact: Level 14 in this game is the same level design as level 10 "Ledge Line" from [[Ditto]])
+(Fan fact: Level 11 in this game is the same level design as level 10 "Ledge Line" from [[Ditto]])
