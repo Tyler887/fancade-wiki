@@ -1,3 +1,3 @@
 Outputs `True`.
 
-[[/uploads/True.png]]
+[[uploads/True1.png | width=336px, alt=True]]
