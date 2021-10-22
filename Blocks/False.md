@@ -6,4 +6,4 @@ Example:
 
 [[/uploads/False_example.png | alt=Example]]
 
-Fancade will set the brick's  block visibility to `False`.
+Fancade will set the bricks  block visibility to `False`.
