@@ -1,3 +1,3 @@
-Turns `True` into `False`, `False` into `True`.
+Turns `True` into `False`, and vice versa.
 
 [[/uploads/Not.png]]
