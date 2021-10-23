@@ -23,6 +23,7 @@ There are some differences between the web app and the regular app. Here is a su
 * Highscores, like/play counters use a separate system (we plan to merge these later)
 * All in-app purchases are disabled
 * Payouts are disabled
+* The 'Popular' category is not visible
 * The 'New' category is disabled
 * Need to log in to Fancade account to play challenges
 * Linked games start directly
