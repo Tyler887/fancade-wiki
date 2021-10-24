@@ -23,6 +23,6 @@ Swipe to move both "dittos" in that direction, If the "dittos" combine together,
 17. <<E>> <<E>> <<E>> <<E>> <<N>> 
 18. <<N>> <<N>> <<E>> <<S>> <<N>> <<W>> 
 19. <<W>> <<W>> <<N>> <<W>> <<W>> <<W>> <<W>> <<W>> 
-20. →→→↑←↓→→→↓↓↑←↑→↓→↑
+20. <<E>> <<E>> <<E>> <<N>> <<W>> <<S>> <<E>> <<E>> <<E>> <<S>> <<S>> <<N>> <<W>> <<N>> <<E>> <<S>> <<E>> <<N>>
 
 (Fan fact: Level 11 in this game is the same level design as level 10 "Ledge Line" from [[Ditto]])
