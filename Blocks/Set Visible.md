@@ -1,8 +1,7 @@
 Shows or hides an object.
 
-[[/uploads/Setvisible.png]]
+[[/uploads/Set_Visible.png | width=336px, alt=Set Visible]]
 
 # Example
-[[/uploads/IMG_20210108_141801.png]]
-
-The grass block will disappear from the level on Play.
+[[uploads/False_example.png]]
+The brick will disappear from the level on Play.
