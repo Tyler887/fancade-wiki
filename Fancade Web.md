@@ -168,3 +168,36 @@ Some examples of how to use the parameters:
 | <https://play.fancade.com?ar_w=16&ar_h=9> | Forces aspect ratio to 16/9 and maximizes the size |
 | <https://play.fancade.com?ar_w=9&ar_h=16&max_h=800> | Forces aspect ratio to 9/16 and restricts the height to max 800 |
 
+## Embedding
+
+It is possible to embed Fancade Web within an iframe, and in that way publish a game on sites like itch.io.
+Here is an example of an HTML file that can be used for embedding a Fancade game:
+
+    <!doctype html>
+    <html lang="en-us">
+      <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <style>
+          * {
+            margin: 0;
+            padding: 0;
+          }
+          #fancade {
+            border: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            position: absolute;
+            top:0px;
+            left:0px;
+            right:0px;
+            bottom:0px;
+          }
+        </style>
+      </head>
+      <body>
+        <iframe id="fancade" src="https://play.fancade.com/5F084A0BCE06B710?max_w=2800&max_h=2800" frameborder="0" height="100%" width="100%" title="A Title"></iframe> 
+      </body>
+    </html>
+    
