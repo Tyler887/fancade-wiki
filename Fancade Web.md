@@ -170,7 +170,7 @@ Some examples of how to use the parameters:
 
 ## Embedding
 
-It is possible to embed Fancade Web within an iframe, and in that way publish a game on sites like itch.io.
+It is possible to embed Fancade Web within an iframe, and in that way publish linked games on sites like itch.io.
 Here is an example of an HTML file that can be used for embedding a Fancade game:
 
     <!doctype html>
