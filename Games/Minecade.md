@@ -47,4 +47,8 @@ The 1 has a mine on the top, but the 2 has a mine at the top as well. If there's
 
 Same goes for this pattern, but inverted. If there's a mine in cell B, you can no longer satisfy both clues, since the 1 in the middle is forced to mark the remaining cells as safe, leaving no mines for the 1 on the right, so cell B is safe.
 
+-------------------
+
+In a beginner board, there are always exactly 10 mines in the board, in intermediate: 40, in expert: 99, so you can use this fact to reveal safe spots by counting the total mines in the squares with a non zero amount, and use this fact to disambiguate some unsolvable boards.
+
 Some cases are unwinnable without guessing, so some luck is involved in solving puzzles.
