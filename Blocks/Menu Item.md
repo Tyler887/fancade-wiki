@@ -5,7 +5,7 @@ The Menu Item block is a script block which was added on Fancade 1.6. When it is
 ## Notes
 Though this new script made a great new mechanic for Fancade it has some limitations:
 * The base prices are currently only fixed to 10, 100, 1k & 10k.
-* Each menu item script **must** only be executed once per game, if it's left continuosly executing the shop will be filled with repeating set of items until it has too many items in it, which will cause the `Too many menu items!` error to appear.
+* Each menu item script **must** only be executed once per game, if it's left continuously executing the shop will be filled with repeating set of items until it has too many items in it, which will cause the `Too many menu items!` error to appear.
 
 ## More info
 Items can be either one type of upgrades or boosters just by playing with the buy limit settings and Variable input of the menu item script. You can choose between ON/OFF, Max 2-100 or no limit.
