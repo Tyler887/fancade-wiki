@@ -10,8 +10,4 @@ In Color The hex , the main goal is to color all the hexagons , if you color one
 3.↓↗↑↗↙
 4.↗↑↖↙↓
 5.↗↓↖↗↓
-6.
-7.
-8.
-9.
-10.
+other solutions soon
