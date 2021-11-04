@@ -1,7 +1,7 @@
 [DeHEX 50](https://play.fancade.com/60EC05F556F22CF3) is a game by Shartok inspired by [DeSwipe](https://www.fancade.com/wiki/Games/DeSwipe.md) by R3DZ3R where you have to eliminate breakable tiles in this hexagonal grid to win.
 
 # Rules
-Swipe to move in that direction infinitly until you stop by hitting a boundary or getting stopped, and each tile has a different function to do depending of the color, eliminate all nongray tiles to win, if theres no gray tiles, then eliminating all but one of the tiles will make you win, if you get trapped and not all nongray tiles gets eliminated and the no gray tile condition isn't met when standing on the last eliminatable tile, you lose.
+Swipe to move in that direction infinitely until you stop by hitting a boundary or getting stopped, and each tile has a different function to do depending of the color, eliminate all nongray tiles to win, if theres no gray tiles, then eliminating all but one of the tiles will make you win, if you get trapped and not all nongray tiles gets eliminated and the no gray tile condition isn't met when standing on the last eliminatable tile, you lose.
 
 ### Tiles
 
