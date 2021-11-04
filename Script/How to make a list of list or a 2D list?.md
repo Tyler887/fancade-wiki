@@ -5,6 +5,10 @@ List of list (nested list) is currently not possible with the current list scrip
 - *Y*: the index row of a 2D list
 - *Columns*: the total columns of a 2D list
 
+In this image, *Columns* is equal to 4:
+
+[[/uploads/2d-list.png]]
+
 Two-dimensional list is mostly used in creating a game that involves a *board* or a *grid* such as Chess, Reversi, Checkers, Tetris, Battleship, 2048 and so on.
 
 In a technical term, 2D list is called as an array of arrays or also known as a matrix which can be represented as a table of columns and rows.
