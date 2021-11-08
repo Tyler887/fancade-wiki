@@ -1,3 +1,3 @@
-Outputs True if the two inputs are equal.
+Outputs *True* if both number inputs are equal.
 
 [[/uploads/Equal_Number.png]]
