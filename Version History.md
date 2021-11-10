@@ -848,7 +848,6 @@ This page documents Fancade's history. If you want to know what the current beta
 * Password reset button
 * Terms of Use button
 * Tap menu tab again to scroll to top
-* Currently the first beta version to have a known **release date** and a **changelog**.
 * <details>
      <summary>Changelog</summary>
      <b>New:</b>
@@ -885,6 +884,26 @@ This page documents Fancade's history. If you want to know what the current beta
 <br>• Wire plug stops dragging in shallow camera angles
 <br>• Spurious wire junctions
 <br>• Console sometimes has three boot disks
+<br></details>
+
+# Fancade 0.22
+
+* Release: September 13, 2018
+* Currently the first beta version to have a known **release date** and a **changelog**.
+* <details>
+     <summary>Changelog</summary>
+     <b>Changed:</b>
+<br>• Don't auto-center camera inside open block
+<br>• Get Velocity's Spin outputs degrees
+<br>• Add Constraint only triggers if control wired
+<br>• Disabled IAPs (for now)
+<br>
+<br><b>Fixed:</b>
+<br>• Laggy scrolling when browsing games
+<br>• Crash if passing deleted object to script block
+<br>• Covers stop loading after <code>127</code>
+<br>• Unwired Get Position outputs wrong coordinate if inside some multi-blocks
+<br>• Extremely long words don't line break
 <br></details>
 
 # Fancade 0.1
