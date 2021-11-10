@@ -11,7 +11,7 @@ Outputs:
     1. Run scripts
     2. Simulate physics
     3. Run Late Update scripts
-- If you want to delay execution for _multiple_ frames, check out the example in [[Decrease Number]].
+- If you want to delay execution for _multiple_ frames, check out the example in [[Decrease Number#examples]].
 
 ## Examples
 
