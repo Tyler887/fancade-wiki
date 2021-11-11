@@ -16,4 +16,4 @@ Spolarium is FanWeek Creator
 
 You can join our official [fancade Discord Server](https://www.fancade.com/wiki/Discord.md),then go to #fanweek channel to submit your game and you can see Weekly info from FanWeek 
 in #news channel but you can also
-join official FanWeek Discord server
+join official [FanWeek Discord Server](https://discord.gg/XRTQbZJ) to submit your game
