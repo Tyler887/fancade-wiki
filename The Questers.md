@@ -74,6 +74,7 @@ Games:
 * 3D Sokoban
 
 ### ViChyavIn
+Student, self-taught mediocre programmer, Fanbot's dad
 
 Games:
 * Rotix
@@ -101,6 +102,7 @@ Games:
 * Path Seeker
 
 ### sawdust
+Married with children. Likes GIFs. Plays puzzle and strategy games, but thinks arcade games are more fun to make.
 
 Games:
 * Fruit Jam
@@ -164,6 +166,7 @@ Games:
 * Switch
 
 ### Tzomby
+"I fainted and you stole my script, you fed me my own script!"
 
 Games:
 * JumpCade
@@ -200,6 +203,7 @@ Games:
 * Rebound
 
 ### Spolarium
+Student. Likes to make arcade games, obsessed with word games and Sudoku, and creator of FanWeek.
 
 Games:
 * Dungeon Dash
