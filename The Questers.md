@@ -30,3 +30,13 @@ Games:
 * BOLT
 * Noodle
 * Worm Out
+
+### Mathias Elgaard
+Gymnasium student. Loves math. Creator of Fancade scripting tutorials on YouTube.
+
+Games:
+* Mini Golf
+* Billiards
+* Dinoman
+* Solitaire
+* Minecade
