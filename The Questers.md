@@ -70,6 +70,7 @@ Games:
 * [[Gap Passer Bot]]
 * [[Dark Castle]]
 * 3D Sokoban
+* Box Factory
 
 ### ViChyavIn
 Student, self-taught mediocre programmer, Fanbot's dad
@@ -113,11 +114,16 @@ Known with his innovative puzzle games
 Games:
 * Color Break
 * [[Power Boxes]]
-* Nick
 * [[Multislide]]
 * [[Fixed Path]]
 * [[Turnbox]]
 * Square Wars
+* Cube Quest
+
+### LooKing?
+
+Games:
+* Nick
 
 ### FancyGames
 
@@ -193,12 +199,15 @@ Martin Magni's mother. Likes artworks and level design.
 
 Game:
 * [[Differ Hall]]
+* Drive Mad Winter
+* Puzzle Faces
 
 ### arindam
 
 Games:
 * Fanjong
 * Rebound
+* Snake BITe
 
 ### Spolarium
 Student. Likes to make arcade games, obsessed with word games and Sudoku, and creator of FanWeek.
@@ -243,3 +252,8 @@ Game:
 
 Game:
 * Morpheus
+
+### FunkyPepe
+
+Games:
+* Ninja Tower
