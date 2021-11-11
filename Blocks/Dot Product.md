@@ -12,19 +12,19 @@ This means the dot product of the vectors A and B.
 
 The Dot Product is a way of multiplying two vectors together.
 
-We can calculate the Dot Product of two vectors this way:
+We can calculate it algebraically this way:
+
+A · B = Ax × Bx + Ay × By + Az × Bz
+
+We multiply the x's, multiply the y's, multiply the z's, and then sum them all together.
+
+For more advanced readers, it can also be calculated this way:
 
 A · B = \|A\| × \|B\| × cos(θ)
 
 Where \|A\| is the magnitude (length) of vector A, \|B\| is the magnitude (length) of vector B, and θ is the angle between A and B.
 
 So we multiply the length of A times the length of B, then multiply by the [[cosine|Cos]] of the angle between A and B.
-
-We can also calculate it algebraically this way:
-
-A · B = Ax × Bx + Ay × By + Az × Bz
-
-So we multiply the x's, multiply the y's, multiply the z's, and then sum them all together.
 
 The result is a [[number]] (called a "scalar" so we know it's not a vector).
 
