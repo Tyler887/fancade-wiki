@@ -7,11 +7,11 @@ Fancade creator. AI dropout. Grew up with floppy disks and plays iPhone games.
 
 Games:
 * [[Drive Mad]]
-* Recoil
+* [[Recoil]]
 * [[Longcat]]
-* Gobble
+* [[Gobble]]
 * [[Roper]]
-* Monster Match
+* [[Monster Match]]
 * Popix
 * [[Dino Bros]]
 * [[Fixel]]
