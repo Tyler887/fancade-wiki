@@ -40,3 +40,22 @@ Games:
 * Dinoman
 * Solitaire
 * Minecade
+
+### Ma El
+Collaboration of Martin Magni and Mathias Elgaard
+
+Games:
+* Roller
+* Speed King
+
+### Artast
+Known with his gorgeous artworks. Liked arts and musics.
+
+Games:
+* Chirpz
+* Bomb Blast
+* Wheally RC
+* Helicade A
+* Vanilla Ball
+
+### Sounak9434
