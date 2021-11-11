@@ -49,7 +49,7 @@ Games:
 * Speed King
 
 ### Artast
-Known with his gorgeous artworks. Liked arts and musics.
+Known with his gorgeous artworks. Likes arts and musics.
 
 Games:
 * Chirpz
@@ -59,3 +59,185 @@ Games:
 * Vanilla Ball
 
 ### Sounak9434
+Medical Student, loves VNs and Rogue-likes, FanJam Organizer, and obsessed with Script Optimization.
+
+Games:
+* Frames
+* Pivot
+
+### RF
+Obsessed with puzzle design. Former Mekorama level featurer, designer, and mod. Likes competitive strategy games.
+
+Games:
+* Gap Passer Bot
+* Dark Castle
+* 3D Sokoban
+
+### ViChyavIn
+
+Games:
+* Rotix
+* Bumbly Bee
+
+### Helipton
+
+Games:
+* GRAvity
+* Turn The World
+* Drop Down
+
+### nmskr
+Loves artworks and musics.
+
+Games:
+* Crawler Balance
+* Canals
+* Little Jump
+* Transporter
+* Ngglinding
+* Park The Van
+* Paint The Beat
+* Ruin Castle
+* Path Seeker
+
+### sawdust
+
+Games:
+* Fruit Jam
+* Blocky Goal
+* Puffin Road
+
+### LukaszM
+Known with his innovative puzzle games
+
+Games:
+* Color Break
+* Power Boxes
+* Nick
+* Multislide
+* Fixed Path
+* TurnBox
+* Square Wars
+
+### FancyGames
+
+Game:
+* Loading
+
+### Emparans
+
+Game:
+* Blob
+
+### R3DZ3R
+A random rose who made 200+ Fancade games. Like musics and programming. Founder of #NonsenseNeverDie
+
+Games:
+* BreakPix
+* BOOMpix
+* Gravitix
+* Gravity Collide
+
+### Alex
+
+Games:
+* Tumble
+* Pushbox
+* Tumble II
+
+### MACTEP
+
+Games:
+* The Four
+* Rapid Fire
+
+### Elias Sworth
+
+Games:
+* Painty Tumbler
+* Painty Cube
+
+### JoshuaTNTGamer
+
+Games:
+* Light Bounce
+* Switch
+
+### Tzomby
+
+Games:
+* JumpCade
+* Away
+* Untangle
+
+### LeoEscamend
+
+Game:
+* Machine Test Inc
+
+### BruhName
+
+Games:
+* Shoot It
+* Replacement
+* RedBlue
+
+### WaveParadigm
+
+Game:
+* ArcTan
+
+### GM
+Martin Magni's mother. Likes artworks and level design.
+
+Game:
+* Differ Hall
+
+### arindam
+
+Games:
+* Fanjong
+* Rebound
+
+### Spolarium
+
+Games:
+* Dungeon Dash
+* Plumbing
+* Tower of Honai
+* Word Search
+
+### Baraa03
+
+Game:
+* Color It
+
+### PuzzleSolver98
+
+Game:
+* FarAway
+
+### james1236
+
+Game:
+* Pianist
+
+### Mishansky90
+
+Game:
+* SnakeMania
+
+### Origedit
+
+Game:
+* Dodging Game
+
+### Potato Chan
+
+Game:
+* Reversi
+
+### Djovani
+
+Game:
+* Morpheus
