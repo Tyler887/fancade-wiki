@@ -1,6 +1,4 @@
-# Who are Questers?
-
-Questers are Fancade users who have their games in the quest tab. 
+Questers are Fancade users who have their games in the Quest tab. 
 
 # List of Questers
 
@@ -8,28 +6,28 @@ Questers are Fancade users who have their games in the quest tab.
 Fancade creator. AI dropout. Grew up with floppy disks and plays iPhone games.
 
 Games:
-* Drive Mad
+* [[Drive Mad]]
 * Recoil
-* Longcat
+* [[Longcat]]
 * Gobble
-* Roper
+* [[Roper]]
 * Monster Match
 * Popix
-* Dino Bros
-* Fixel
-* Blocked
+* [[Dino Bros]]
+* [[Fixel]]
+* [[Blocked]]
 * Tiny Tracks
 * Railgunner
-* Odd Bot
+* [[Odd Bot]]
 * Dash
 * Stacktris
-* Void
-* Flatland
+* [[Void]]
+* [[Flatland]]
 * Floppy Fish
-* Ditto
+* [[Ditto]]
 * BOLT
-* Noodle
-* Worm Out
+* [[Noodle]]
+* [[Worm Out]]
 
 ### Mathias Elgaard
 Gymnasium student. Loves math. Creator of Fancade scripting tutorials on YouTube.
@@ -38,14 +36,14 @@ Games:
 * Mini Golf
 * Billiards
 * Dinoman
-* Solitaire
-* Minecade
+* [[Solitaire]]
+* [[Minecade]]
 
 ### Ma El
 Collaboration of Martin Magni and Mathias Elgaard
 
 Games:
-* Roller
+* [[Roller]]
 * Speed King
 
 ### Artast
@@ -69,8 +67,8 @@ Games:
 Obsessed with puzzle design. Former Mekorama level featurer, designer, and mod. Likes competitive strategy games.
 
 Games:
-* Gap Passer Bot
-* Dark Castle
+* [[Gap Passer Bot]]
+* [[Dark Castle]]
 * 3D Sokoban
 
 ### ViChyavIn
@@ -83,7 +81,7 @@ Games:
 ### Helipton
 
 Games:
-* GRAvity
+* [[GRAvity]]
 * Turn The World
 * Drop Down
 
@@ -92,13 +90,13 @@ Loves artworks and musics.
 
 Games:
 * Crawler Balance
-* Canals
+* [[Canals]]
 * Little Jump
 * Transporter
 * Ngglinding
 * Park The Van
 * Paint The Beat
-* Ruin Castle
+* [[Ruin Castle]]
 * Path Seeker
 
 ### sawdust
@@ -114,17 +112,17 @@ Known with his innovative puzzle games
 
 Games:
 * Color Break
-* Power Boxes
+* [[Power Boxes]]
 * Nick
-* Multislide
-* Fixed Path
-* TurnBox
+* [[Multislide]]
+* [[Fixed Path]]
+* [[Turnbox]]
 * Square Wars
 
 ### FancyGames
 
 Game:
-* Loading
+* [[Loading]]
 
 ### Emparans
 
@@ -170,7 +168,7 @@ Games:
 
 Games:
 * JumpCade
-* Away
+* [[Away]]
 * Untangle
 
 ### LeoEscamend
@@ -194,7 +192,7 @@ Game:
 Martin Magni's mother. Likes artworks and level design.
 
 Game:
-* Differ Hall
+* [[Differ Hall]]
 
 ### arindam
 
@@ -208,7 +206,7 @@ Student. Likes to make arcade games, obsessed with word games and Sudoku, and cr
 Games:
 * Dungeon Dash
 * Plumbing
-* Tower of Honai
+* Tower of Hanoi
 * Word Search
 
 ### Baraa03
