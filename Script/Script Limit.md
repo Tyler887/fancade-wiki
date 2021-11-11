@@ -33,7 +33,7 @@ The same applies in case of joining. The script in image C counts as 4 scripts, 
 ![D - Wire Splitting](https://cdn.discordapp.com/attachments/852037487987392529/855423621639569408/Screenshot_20210618-113747_Fancade.png)
 
 ### Pointer Dereferencing
-This section will be easier to understand if you are somewhat familiar with the concept of pointers. If you are not, you can think of them as an address to somewhere a value is stored.
+This section will be easier to understand if you are somewhat familiar with the concept of pointers. If you are not, you can think of them as an address. Specifically, a memory address, that points to a variable.
 When a pointer is dereferenced, i.e. converted to value, it counts as 1 script. In image E, the Get Variable block outputs a pointer, which is then dereferenced to a value for the Negate block. Thus the script adds 3 scripts (2 script blocks + 1 pointer dereference) to the counter.
 ![E - Pointer Dereferencing](https://cdn.discordapp.com/attachments/852037487987392529/855423621933301760/Screenshot_20210618-113952_Fancade.png)
 
