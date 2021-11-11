@@ -1,4 +1,3 @@
-![FanweekBanner](https://i.imgur.com/6VNCr2T.png)
 ### What is FanWeek?
 
 FanWeek is Weekly event where Fancade game creators make some games in a week and the game must fit with the weekly theme that is announced every weeks
