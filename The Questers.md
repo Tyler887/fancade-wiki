@@ -1,8 +1,8 @@
-## Who are Questers?
+# Who are Questers?
 
 Questers are Fancade users who have their games in the quest tab. 
 
-## List of Questers
+# List of Questers
 
 ### Martin Magni
 Fancade creator. AI dropout. Grew up with floppy disks and plays iPhone games.
