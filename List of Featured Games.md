@@ -13,7 +13,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. SnakZed by JustYellow
 1. Red N Blue by arindam
 1. My Yellow Blob by GM and Emparans
-1. Run by R3DZ3R
+1. [[Run]] by R3DZ3R
 1. GraviPaint by JoshuaTNTGamer
 1. Oh My Half by Emparans
 1. Subdivision by u ndefined
@@ -30,7 +30,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. [[One Cut]] by LukaszM
 1. Tiny Car by Alonso20
 1. PokeysShootout 3 by FancyGames
-1. Yellow And Blue by Baraa03
+1. [[Yellow And Blue]] by Baraa03
 1. Stacktris JR by ThatGuy03
 1. MonoKing by Artast
 1. Snek Left by Martin Magni
@@ -55,7 +55,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Debris Loops by Sams
 1. Paint It White by Aeu
 1. Paint Island by arindam
-1. Skillteam by LukaszM
+1. [[Skillteam]] by LukaszM
 1. Boxform by Sams
 1. Spawner by ColorlessGames
 1. Up Down by Azzuhdi
@@ -67,7 +67,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Pico Fall by Artast
 1. Draw Puzzle by Tycho Games
 1. Puzzle Kids by GM
-1. Little Archery by LukaszM
+1. [[Little Archery]] by LukaszM
 1. Tiny Wrecker xSD by shartok
 1. HelpfulLog by Artast
 1. Pentalink by LukaszM
@@ -124,7 +124,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Squiroll by FLX
 1. [[Hexalink]] by LukaszM
 1. Chirpz Tilt by Artast
-1. Pancake sorting by u ndefined
+1. [[Pancake sorting]] by u ndefined
 1. Naisei by FLX and StickEE
 1. Tiny Tracks xSD by sawdust
 1. Toxic Patrol by Arbonox
@@ -135,14 +135,14 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Void Creator by R3DZ3R
 1. Orb Match by Origedit
 1. Stunt School by james1236
-1. Flappy Chirpz by Artast
+1. [[Flappy Chirpz]] by Artast
 1. High by Yooooolllllooooo
 1. Sleepy Cube by LukaszM
 1. Ork Fighter by Aeu
 1. Shifting Block by TonoCia0n3
 1. [[Roller]] by Ma El (Martin Magni and Mathias Elgaard)
 1. [[Chirpz]] by Artast
-1. Monster Tracks by Martin Magni
+1. [[Monster Tracks]] by Martin Magni
 1. Kosmic Swarm by Arbonox
 1. Rocky Mission by DogeisCut
 1. Cookie Blast by GameCreator
@@ -187,7 +187,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Hexals by LukaszM
 1. Pixzle by arindam
 1. Gobble 2 by Andika4587
-1. Laser Push by Nabil arrafi
+1. [[Laser Push]] by Nabil arrafi
 1. Odd Blower by Yooooolllllooooo
 1. Tpyo by R3DZ3R
 1. Limited Build by MrCrocodile
@@ -217,7 +217,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Color Break 50 by JellynToast
 1. [[Loading]] by FancyGames
 1. Smash It by GM
-1. Machine Test Inc by LeoEscamend
+1. [[Machine Test Inc]] by LeoEscamend
 1. Laser Flip by DiamondSpaceGD
 1. [[Cube Quest]] by LukaszM
 1. Descent by james1236
@@ -259,7 +259,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. 2 Little 2 Jump by nmskr
 1. Pinbuild by Origedit
 1. Collided by Isaglish
-1. Simple Loop by u ndefined
+1. [[Simple Loop]] by u ndefined
 1. Concentration by Bunny 2010
 1. Tres Criaturas by nmskr
 1. Cookie Blast by GameCreator
@@ -301,7 +301,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Quick Steal by FancyGames
 1. [[Power Boxes]] by LukaszM
 1. Orange by BruhName
-1. Fall Off by Bryle
+1. [[Fall Off]] by Bryle
 1. Neon Paint by Nabil arrafi
 1. Path Seeker by nmskr
 1. Worseflick by Origedit
@@ -328,7 +328,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Differ III by Alex
 1. Calorie Quest by fancastle and LooKing
 1. Master Code by sawdust
-1. Color Break by LukaszM
+1. [[Color Break]] by LukaszM
 1. Black Tumble by Nabil arrafi
 1. Bonk A Bot by Origedit
 1. Spider by BruhName
@@ -347,7 +347,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Multi Players by BruhName
 1. PonglePix by Nabil arrafi
 1. Odd Painter by JoshuaTNTGamer
-1. Multislide by LukaszM
+1. [[Multislide]] by LukaszM
 1. World Dash by Britraps38
 1. Gravitix by R3DZ3R
 1. Shoot It by BruhName
@@ -423,7 +423,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Sticky Nodes by R3DZ3R
 1. Press To Race by PotatoChronicler
 1. Memory Gap by Potato Chan
-1. RedBlue by BruhName
+1. [[RedBlue]] by BruhName
 1. Retry by Djovani
 1. Sweat Blast by RDG
 1. Dangerous Cave by It Is Player (extended by Nabil arrafi)
@@ -435,7 +435,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. [[Gobble]] by Martin Magni
 1. Tilt and Toggle by JoshuaTNTGamer
 1. Extend by Djovani
-1. Gap Passer Bot by RF
+1. [[Gap Passer Bot]] by RF
 1. Telur by R3DZ3R
 1. Paint House by Jack Gamer
 1. Turn The World by Nabil arrafi
@@ -502,7 +502,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Chess by Potato Chan
 1. Blocky Goal by sawdust
 1. Drive Together by iiFroz3n
-1. Link by nmskr
+1. [[Link]] by nmskr
 1. Paint A House 11 by 11
 1. Roper by yours truly
 1. Red and Blue by JoshuaTNTGamer
