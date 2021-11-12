@@ -303,8 +303,8 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Orange by BruhName
 1. Fall Off by Bryle
 1. Neon Paint by Nabil arrafi
-1. ?
-1. ?
+1. Path Seeker by nmskr
+1. Worseflick by Origedit
 1. Stapad by Origedit
 1. Friends by R3DZ3R
 1. Little Jump by nmskr
@@ -312,14 +312,14 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Bomber Pop Demo by Miftah
 1. Wave Runner by GM637
 1. Ping by Birds Probably
-1. ?
-1. ?
-1. ?
-1. ?
-1. ?
-1. ?
-1. ?
-1. ?
+1. Odd Drive by Andrew Clark
+1. Silent Push by nmskr
+1. Elle by LooKing
+1. ???
+1. Ruin Castle by nmskr
+1. Forbidden Castle by arindam
+1. Catch The Candy by Baraa03
+1. RO11 by R3DZ3R
 1. Quickfire by fancastle
 1. BOLT Elite by Quazar2
 1. Pickup Truck by super gamer man
