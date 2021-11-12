@@ -53,3 +53,34 @@ List of Featured Fancade games. Ordered from newest to oldest:
 48. Snakeout by DarkCube
 49. Colour Blockade by DaBlueCube
 50. Paint Tumble by GM
+51. Micron by shartok and R3DZ3R
+52. Ball DestrucT by Nabil Arrafi
+53. Debris Loops by Sams
+54. Paint It White by Aeu
+55. Paint Island by arindam
+56. Skillteam by LukaszM
+57. Boxform by Sams
+58. Spawner by ColorlessGames
+59. Up Down by Azzuhdi
+60. Dash Gallery by GM
+61. Paint The World by Nabil Arrafi
+62. Nonsense by R3DZ3R
+63. Tiny Tracks AR by Adans Rase
+64. Rz200 by R3DZ3R
+65. Pico Fall by Artast
+66. Draw Puzzle by Tycho Games
+67. Puzzle Kids by GM
+68. Little Archery by LukaszM
+69. Tiny Wrecker xSD by shartok
+70. HelpfulLog by Artast
+71. Pentalink by LukaszM
+72. Midori by Emparans
+73. Western RC by Artast
+74. C4 by MrCrocodile
+75. Drive Mustang by Fanplayer23
+76. FC Breakout Demo by ThaCuber
+77. Run Dragon Run by Artast
+78. Push Bridge by arindam
+79. Mad Monster by Baraa03
+80. Sokowalls by shartok
+81. Slide Over by Artast
