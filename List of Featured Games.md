@@ -341,6 +341,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Hexoban by LukaszM
 1. Symbiote by HackedUp
 1. Gobble 100 by Umar
+1. Box by MakerOfLevels
 1. Space Hoper by Artast
 1. UpDown Bri by Britraps38
 1. NeoBot Demo by R3DZ3R
@@ -399,6 +400,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Popcorn by R3DZ3R
 1. Recoil More Gun by FancyGames
 1. Parking Sim by JCGMaster YT
+1. Odd Bounce by Nabil arrafi
 1. UpDown by BruhName
 1. Morpheus by Djovani
 1. BOLT Dungeon by 3301
@@ -450,6 +452,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Framed Biomes 1 by Ardioz
 1. Light Hop by RDG
 1. Line Up by Tzomby
+1. Pin by Quazar2
 1. Vanilla Ball by Artast
 1. Pause N Roll by Dr Cosmos
 1. Track Shooter by Miftah
