@@ -84,3 +84,19 @@ List of Featured Fancade games. Ordered from newest to oldest:
 79. Mad Monster by Baraa03
 80. Sokowalls by shartok
 81. Slide Over by Artast
+82. Speed King by Martin Magni and Mathias Elgaard
+83. Tiny Truck by Frijokito
+84. Stretchsnake by GM
+85. Adder by james1236
+86. Bots VS Aliens by R3DZ3R
+87. Lost Robot by Isaglish
+88. Snak like apples by LBO44
+89. Ds2 by DiamondSpaceGD
+90. This Side Up by LukaszM
+91. Layerue by Artast
+92. SokoDrive by MrXCube
+93. Sokonnect by LukaszM
+94. Bash Bot by Alex and Tzomby
+95. Paint Track by FLX
+96. Worm by BruhName
+97. Puzzle Snakes by LukaszM
