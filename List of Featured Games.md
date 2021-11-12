@@ -489,7 +489,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Timebender by PotatoChronicler
 1. Blocked by arindam
 1. Concentration by Origedit
-1. Bomb Blast by Artast
+1. [[Bomb Blast]] by Artast
 1. Drop Down RF by RF
 1. Love of Cubes by vincent56
 1. Switch by JoshuaTNTGamer
