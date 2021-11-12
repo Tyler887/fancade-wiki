@@ -448,7 +448,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Unfriendly by arindam
 1. Rolling Sphere by JoshuaTNTGamer
 1. Framed Biomes 1 by Ardioz
-1. Light Hop by ???
+1. Light Hop by RDG
 1. Line Up by Tzomby
 1. Vanilla Ball by Artast
 1. Pause N Roll by Dr Cosmos
