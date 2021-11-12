@@ -147,8 +147,8 @@ Games:
 ### Alex
 
 Games:
-* Tumble
-* Pushbox
+* [[Tumble]]
+* [[Pushbox]]
 * Tumble II
 
 ### MACTEP
