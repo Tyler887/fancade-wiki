@@ -27,7 +27,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Can You Canoe by AngryRubberDucky
 1. Snek Escape by Artast
 1. Dupe by FancyGames
-1. One Cut by LukaszM
+1. [[One Cut]] by LukaszM
 1. Tiny Car by Alonso20
 1. PokeysShootout 3 by FancyGames
 1. Yellow And Blue by Baraa03
@@ -45,10 +45,10 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. 2x2 by Yooooolllllooooo
 1. Collector by arindam
 1. Trampoline by Emparans
-1. Wireless by AngryRubberDucky
+1. [[Wireless]] by AngryRubberDucky
 1. Repulsive by FancyGames
 1. Snakeout by DarkCube
-1. Colour Blockade by DaBlueCube
+1. [[Colour Blockade]] by DaBlueCube
 1. Paint Tumble by GM
 1. Micron by shartok and R3DZ3R
 1. Ball DestrucT by Nabil Arrafi
@@ -61,7 +61,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Up Down by Azzuhdi
 1. Dash Gallery by GM
 1. Paint The World by Nabil Arrafi
-1. Nonsense by R3DZ3R
+1. [[Nonsense]] by R3DZ3R
 1. Tiny Tracks AR by Adans Rase
 1. Rz200 by R3DZ3R
 1. Pico Fall by Artast
@@ -92,10 +92,10 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. This Side Up by LukaszM
 1. Layerue by Artast
 1. SokoDrive by MrXCube
-1. Sokonnect by LukaszM
+1. [[Sokonnect]] by LukaszM
 1. Bash Bot by Alex and Tzomby
 1. Paint Track by FLX
-1. Worm by BruhName
+1. [[Worm]] by BruhName
 1. Puzzle Snakes by LukaszM
 1. Rally Legend by DarkCube
 1. Snakeblocked by 18111398
@@ -105,7 +105,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Jumpy Chirpz by Artast
 1. Snake Arm by Emparans
 1. Snek Warfare by Spolarium
-1. DeHEX 50 by Shartok
+1. [[DeHEX 50]] by Shartok
 1. BolaLilo by Shartok
 1. CATastrophe by Isaglish
 1. Dunia Bluegon by Thomas3389
@@ -119,10 +119,10 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. UFO Training by Zommerfelds
 1. Hoppy by Spolarium
 1. Tiny Wrecker by DarkCube
-1. Color The Hex by Baraa03
+1. [[Color The Hex]] by Baraa03
 1. Tnset by Yooooolllllooooo
 1. Squiroll by FLX
-1. Hexalink by LukaszM
+1. [[Hexalink]] by LukaszM
 1. Chirpz Tilt by Artast
 1. Pancake sorting by u ndefined
 1. Naisei by FLX and StickEE
@@ -140,8 +140,8 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Sleepy Cube by LukaszM
 1. Ork Fighter by Aeu
 1. Shifting Block by TonoCia0n3
-1. Roller by Ma El (Martin Magni and Mathias Elgaard)
-1. Chirpz BETA by Artast
+1. [[Roller]] by Ma El (Martin Magni and Mathias Elgaard)
+1. [[Chirpz]] by Artast
 1. Monster Tracks by Martin Magni
 1. Kosmic Swarm by Arbonox
 1. Rocky Mission by DogeisCut
@@ -163,14 +163,14 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Micro World by Te Creater
 1. Laser Lab by GameCreator
 1. Cave Worm by Pibe Aburido
-1. Komplex by R3DZ3R
+1. [[Komplex]] by R3DZ3R
 1. Rotix by GM
 1. DeSwipe Week by Shartok
 1. Limit Sight by R3DZ3R
 1. Sokoplode Laser by Shartok
 1. Merge Big by Adoplayzz
 1. Octagone by Spolarium
-1. Nonsense by R3DZ3R
+1. [[Nonsense]] by R3DZ3R
 1. TPGun by Artast
 1. BW Platformer by JoshuaTNTGamer
 1. Differ Blocks by GM
@@ -205,7 +205,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Forklift by FancyGames
 1. Swing It by GM
 1. Lift The Box by LukaszM
-1. The Button by FancyGames
+1. [[The Button]] by FancyGames
 1. Monster Match N by Nabil arrafi
 1. Pullbox by Shartok
 1. Ludo by arindam
@@ -213,13 +213,13 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Square Wars by LukaszM
 1. BW Quest by arindam
 1. BOOMpix by R3DZ3R
-1. Fixed Path by LukaszM
+1. [[Fixed Path]] by LukaszM
 1. Color Break 50 by JellynToast
-1. Loading by FancyGames
+1. [[Loading]] by FancyGames
 1. Smash It by GM
 1. Machine Test Inc by LeoEscamend
 1. Laser Flip by DiamondSpaceGD
-1. Cube Quest by LukaszM
+1. [[Cube Quest]] by LukaszM
 1. Descent by james1236
 1. Swipe N Toggle by JoshuaTNTGamer
 1. Nn2 by Origedit
@@ -248,8 +248,8 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Monster Match by Andika4587
 1. Cacophony by fancastle
 1. Crowd Parking by nmskr
-1. Dino Bros by Martin Magni
-1. Turnbox by LukaszM
+1. [[Dino Bros]] by Martin Magni
+1. [[Turnbox]] by LukaszM
 1. Donut Seller by Marlo And Friend
 1. Multi Paint by Nabil arrafi
 1. Odd BotTower by GM
@@ -293,13 +293,13 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Blocky Goal by sawdust
 1. Linked Bots by JoshuaTNTGamer
 1. Find Your Friend by Baraa03
-1. DeSwipe by R3DZ3R
+1. [[DeSwipe]] by R3DZ3R
 1. Workshop by Spolarium
 1. Ooh Puzzle by nmskr
 1. Pivrot by R3DZ3R
 1. Snap by Mathias Elgaard
 1. Quick Steal by FancyGames
-1. Power Boxes by LukaszM
+1. [[Power Boxes]] by LukaszM
 1. Orange by BruhName
 1. Fall Off by Bryle
 1. Neon Paint by Nabil arrafi
@@ -316,7 +316,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Silent Push by nmskr
 1. Elle by LooKing
 1. FOREST by Drackass
-1. Ruin Castle by nmskr
+1. [[Ruin Castle]] by nmskr
 1. Forbidden Castle by arindam
 1. Catch The Candy by Baraa03
 1. RO11 by R3DZ3R
@@ -432,7 +432,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Musical Crawler by nmskr
 1. Trough The Gap by OpenHola
 1. Cell Snipe by Sounak9434
-1. Gobble by Martin Magni
+1. [[Gobble]] by Martin Magni
 1. Tilt and Toggle by JoshuaTNTGamer
 1. Extend by Djovani
 1. Gap Passer Bot by RF
@@ -455,7 +455,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Track Shooter by Miftah
 1. Fanjong by arindam
 1. Cube Bot by JoshuaTNTGamer
-1. Drive Mad by Martin Magni
+1. [[Drive Mad]] by Martin Magni
 1. Limited by Isaglish
 1. Space Cadet by GM637
 1. Little GG by LeoEscamend
@@ -517,7 +517,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Super Dash by AntoWeb
 1. Your Majesty by Potato Chan
 1. DELEVELED by Bryle
-1. Frames by Sounak9434
+1. [[Frames]] by Sounak9434
 1. Dash by Martin Magni
 1. Bounded by arindam
 1. Tumble III by MrProGame10
