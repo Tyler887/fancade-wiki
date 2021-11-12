@@ -1,6 +1,6 @@
 List of most Featured Fancade games. Ordered from newest to oldest:
 
-1. Color Jump by LukaszM
+1. Colorjump by LukaszM
 1. Motu Patlu by arindam
 1. Limit Snek by JoshuaTNTGamer
 1. Shift n Shove by Lunarchy
