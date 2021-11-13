@@ -507,7 +507,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Blocky Goal by sawdust
 1. Drive Together by iiFroz3n
 1. [[Link]] by nmskr
-1. Paint A House 11 by 11
+1. Paint A House 11 by Jack Gamer
 1. Roper by yours truly
 1. Red and Blue by JoshuaTNTGamer
 1. Pop Sword by Artast
