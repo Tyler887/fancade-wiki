@@ -78,7 +78,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Drive Mustang by Fanplayer23
 1. FC Breakout Demo by ThaCuber
 1. Run Dragon Run by Artast
-1. Push Bridge by arindam
+1. [[Push Bridge]] by arindam
 1. Mad Monster by Baraa03
 1. Sokowalls by shartok
 1. Slide Over by Artast
@@ -508,7 +508,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Drive Together by iiFroz3n
 1. [[Link]] by nmskr
 1. Paint A House 11 by Jack Gamer
-1. Roper by yours truly
+1. [[Roper]] by Martin Magni
 1. Red and Blue by JoshuaTNTGamer
 1. Pop Sword by Artast
 1. Odd Bot II by Alex
