@@ -523,7 +523,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. DELEVELED by Bryle
 1. [[Frames]] by Sounak9434
 1. Dash by Martin Magni
-1. Bounded by arindam
+1. Bounded by adityabk18
 1. Tumble III by MrProGame10
 1. Paint The Beat by nmskr
 1. Yellow Ball by james1236
