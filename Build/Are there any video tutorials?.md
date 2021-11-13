@@ -68,12 +68,17 @@ Arindam made several video tutorials on scripting:
 * [[Make a swipe to move object|https://youtu.be/JOBcgXd_xTI]]
 * [[Create HP bar|https://youtu.be/watch?v=FCoSgsM2ns0]]
 
-Tyler 2013 (Tylertryuin in) made many scripting tutorials:
+Aliorio made some tutorials:
 
-* [[How to cause win or lose event|https://youtu.be/a-rgQk8Mblo]]
-* [[Simple raycasting|https://youtu.be/rNEGqvXOX5U]]
+* [[How to make swipe object in Fancade|https://www.youtube.com/watch?v=6fYDOtvp3fU]]
+* [[How to make a Painting Game in Fancade|https://www.youtube.com/watch?v=Uon7gXbsCgU]]
 
 G-Progress made many simple tutorials:
 
 * [[How objects can be broken|https://youtu.be/84XF6Mfg6-0]]
 * [[Make jumping springs for your car game|https://youtu.be/SSL6GdhTWN4]]
+
+Tyler 2013 (Tylertryuin in) made many scripting tutorials:
+
+* [[How to cause win or lose event|https://youtu.be/a-rgQk8Mblo]]
+* [[Simple raycasting|https://youtu.be/rNEGqvXOX5U]]
