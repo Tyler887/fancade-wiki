@@ -25,4 +25,10 @@ Here is an example using camera 0,100,0:
 
 (You should use your appropriate camera X and Z values. Set the Y value to a very high value.)
 
-For **3D** games, using this method is tricky and involves some math, so we don't talk it here.
+For **3D** games, use the Rotate block to move the camera in the right direction:
+
+[[uploads/firefox_UFxHjI1sMY.png]]
+
+(Explanation for the vector value: If the camera's rotation is 0,0,0 ("no rotation"), the camera is looking in the positive Z direction, so moving it in the negative Z pushes it farther away. Rotating the camera from that default angle causes the back direction to rotate accordingly.)
+
+Note that if the camera is too far away, some objects might not be visible. Decrease the value if that happens.
