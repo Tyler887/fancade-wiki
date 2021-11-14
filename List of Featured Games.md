@@ -180,7 +180,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Scolch by Origedit
 1. Snek in Hell by GM637
 1. Cannon Car by GameCreator
-1. TR3AP by R3DZ3R
+1. [[TR3AP]] by R3DZ3R
 1. Curvy Snake by ItsLol091
 1. Duality by LukaszM
 1. Killcode by Spolarium
