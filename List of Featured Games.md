@@ -12,7 +12,7 @@ List of most Featured Fancade games. Ordered from newest to oldest:
 1. Overpuzzled by R3DZ3R
 1. The Pushed Ball by Quack Block
 1. Drive Mad S by Codii
-1. SnakZed by JustYellow
+1. SnakeZed by JustYellow
 1. Red N Blue by arindam
 1. My Yellow Blob by GM and Emparans
 1. [[Run]] by R3DZ3R
