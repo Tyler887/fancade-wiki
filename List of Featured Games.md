@@ -1,4 +1,4 @@
-List of most Featured Fancade games. Ordered from newest to oldest:
+List of featured Fancade games. Ordered from newest to oldest:
 
 1. PToad by Origedit
 1. Colorjump by LukaszM
