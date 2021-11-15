@@ -1,3 +1,7 @@
+---
+quest: true
+---
+
 [Tumble II](https://play.fancade.com/5EC0D757BC8BD207) is the sequel to [[Tumble]]!
 
 ## How to Play
