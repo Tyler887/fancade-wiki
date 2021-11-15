@@ -2,11 +2,12 @@
 quest: true
 ---
 [Tumble](https://play.fancade.com/5CF3ECA67AB60F9D) is a game with different characters (5 or 10 levels each) made by Alex.
-# How to Play
+
+## How to Play
 
 Swipe diagonally to control the character. Get the character to the rotating object.
 
-# Solutions
+## Solutions
 
 1. <<NW>><<NE>><<NW>><<SW>><<NW>>.
 2. <<NE>><<SE>><<SE>><<SW>>.
