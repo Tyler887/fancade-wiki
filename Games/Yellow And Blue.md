@@ -2,6 +2,7 @@
 
 # How to play
 Swipe to move both "dittos" in that direction, If the "dittos" combine together, you get an animation and win. If one of the "dittos" fall off, you lose.
+[[/uploads/yellowandbluebaraa03.png]]
 
 # Solutions
 1. <<E>> 
