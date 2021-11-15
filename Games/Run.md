@@ -1,1 +1,2 @@
 [Run](https://play.fancade.com/6171191D1D5C25BA) is an endless platformer game by R3DZ3R, where you found yourself on a corrupting game and you have to run to survive as long as you can. There's several types of terrains which generated randomly (some are pretty rare!) which makes the game challenging.
+[[/uploads/runr3dz3r.png]]
