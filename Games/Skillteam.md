@@ -1,5 +1,5 @@
 [Skillteam](https://play.fancade.com/6138A3C42C5AF3D9) is a game by LukaszM where you have to use your new mechanics to get to the goal without falling off the floor.
-
+[[uploads/skillteamlukaszm.png]]
 ## How to Play
 
 Swipe to move, get to the goal to win, if you fall, you lose. A colored cube can change your powers. A thin, checkerboard platform breaks if a non-green player or box is placed and after nothing steps on it.
