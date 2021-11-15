@@ -1,5 +1,9 @@
 [Tumble II](https://play.fancade.com/5EC0D757BC8BD207) is the sequel to [[Tumble]]!
 
+## How to Play
+
+Swipe diagonally to control the character. Get the character to the rotating object.
+
 ## Solutions
 
 When there are more than one shortest solutions, only one instance is shown.
