@@ -1,8 +1,8 @@
 [Yellow And Blue](https://play.fancade.com/61630DBCB805C7B8) is a game by Baraa03  where you have to move those the yellow and blue "dittos" together to win without falling.
+[[/uploads/yellowandbluebaraa03.png]]
 
 # How to play
 Swipe to move both "dittos" in that direction, If the "dittos" combine together, you get an animation and win. If one of the "dittos" fall off, you lose.
-[[/uploads/yellowandbluebaraa03.png]]
 
 # Solutions
 1. <<E>> 
