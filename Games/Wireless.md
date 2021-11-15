@@ -1,4 +1,5 @@
 [Wireless](https://play.fancade.com/614F47C343333F44) by AngryRubberDucky is a game where your movement while standing on green is recorded for the gray blocks, your goal is to get to the goal without falling to the water to win.
+[[/uploads/wirelessangryrubberducky.png]]
 
 # How to play
 If you're on a green tile, you are connected, swipe to move and record your moves when offline, as soon as you are offline by stepping on a gray tile, the recorded moves you do will be played back as a loop until you either steped on a green tile again or fall into the waters. If you step on a green tile again, those recorded moves are removed. to win, get to the goal (the yellow pad), if you fall into the waters, (the blue spaces), you lose.
