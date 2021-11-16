@@ -1,4 +1,5 @@
 [Colour Blockade](https://play.fancade.com/61474448D48FB22C) is a game by DaBlueCube where your goal is to cover up the white squares while avoiding the multiple lose conditions to win.
+[[/uploads/colourblockadedabluecube.png]]
 
 ## How to play
 
