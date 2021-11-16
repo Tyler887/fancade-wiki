@@ -2,6 +2,7 @@
 quest: true
 ---
 [[Blocked|https://play.fancade.com/5C1AA5FCBA847DF9]] is a puzzle game by [[Martin Magni]]. The difficulty of 51 puzzles is incremental, from the easiest to the provably hardest!
+[[/uploads/blockedmartinmagni.png]]
 
 ## How to Play
 
