@@ -2,6 +2,7 @@
 quest: true
 ---
 [Color Break](https://play.fancade.com/5F5A4E32A2926D92) is a game made by LukaszM where you have to destroy all colored blocks without markings and surviving for a split second without getting hit by a skull block to win.
+[[/uploads/colorbreaklukaszm.png]]
 
 ## How to Play
 
