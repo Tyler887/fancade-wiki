@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Fixed Path|https://play.fancade.com/605E407A807B9FBC]] is a game where the goal is to get the gray diamond to the checkered block without hitting obstacles. 
+[[/uploads/fixedpathlukaszm.png]]
 
 ## How To Play
 
