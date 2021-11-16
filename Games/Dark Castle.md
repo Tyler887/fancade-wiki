@@ -2,6 +2,7 @@
 quest: true
 ---
 [[Dark Castle|https://play.fancade.com/5B48E0402A39D525]] is a game by RF, or Richard Fu. You need to push yellow boxes to get to the goal!
+[[/uploads/darkcastlerichardfu.png]]
 
 ## How to Play
 
