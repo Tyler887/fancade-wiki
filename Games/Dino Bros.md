@@ -4,6 +4,7 @@ quest: true
 
 In [Dino Bros](https://play.fancade.com/5FFEEA620BE54704) you control 2 dinos with different height, and your goal is to reach them to the exit!
 Later levels will include platforms that fall after a certain amount of moves, spikes that will activate periodically, and buttons that will move a platform up.
+[[/uploads/dinobrosmartinmagni.png]]
 
 This puzzle game is based on the earlier game [[Ditto]], which is also made by [[Martin Magni]].
 
