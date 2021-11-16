@@ -3,6 +3,7 @@ quest: true
 ---
 
 [Bumbly Bee](https://play.fancade.com/5B7AAE24DD00AE95) is a very hard one-button arcade game by [[ViChyavIn]].
+[[/uploads/bumblybeevichyavin.png]]
 
 ## How to Play
 
