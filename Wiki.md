@@ -68,6 +68,8 @@ To insert a link, you can:
 | Wrap URL in square brackets | `[[http://fancade.com/]]` | [[http://fancade.com/]]
 | Wrap URL in square brackets and set displayed text | `[[Fancade|http://fancade.com/]]` | [[Fancade|http://fancade.com/]]
 
+If your page is inside of a folder, the link's destination will also be inside of it. This can cause problems if, say, you want to link from `Script/How do I add numbers?` to `Blocks/Add Number`. You can avoid this by putting a slash at the stsrt of the target page name, e.g. `[[/Blocks/Add Number]]`.
+
 #### Make list
 
 To insert a list element, put `*`, `+` or `-` at the beginning of a line. For example,
@@ -102,6 +104,7 @@ Deleting a page is possible, but restricted. Ping one of the Fanmods on the Disc
 Go to the page's history (through link in the latest changes), check the commit, compare and revert.
 
 ## Rename a page
+
 Click Rename, and enter the new page name.
 
 ## Sign out
