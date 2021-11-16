@@ -2,6 +2,7 @@
 quest: true
 ---
 [Canals](https://play.fancade.com/5E44B2DD8C323489) is a Fancade game by nmskr.
+[[/uploads/canalsnmskr.png]]
 
 ## How to Play
 
