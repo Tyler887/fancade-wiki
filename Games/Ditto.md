@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Ditto|https://play.fancade.com/5D01F6D05B05C161]] is a puzzle game made by [[Martin Magni]] about moving two chicks to the buttons at the same time!
+[[/uploads/dittomartinmagni.png]]
 
 # How to Play
 
