@@ -68,7 +68,7 @@ To insert a link, you can:
 | Wrap URL in square brackets | `[[http://fancade.com/]]` | [[http://fancade.com/]]
 | Wrap URL in square brackets and set displayed text | `[[Fancade|http://fancade.com/]]` | [[Fancade|http://fancade.com/]]
 
-If your page is inside of a folder, the link's destination will also be inside of it. This can cause problems if, say, you want to link from `Script/How do I add numbers?` to `Blocks/Add Number`. You can avoid this by putting a slash at the stsrt of the target page name, e.g. `[[/Blocks/Add Number]]`.
+If your page is inside of a folder, the link's destination will also be inside of it. This can cause problems if, say, you want to link from `Build/How do I add numbers?` to `Blocks/Add Number`. You can avoid this by putting a slash at the stsrt of the target page name, e.g. `[[/Blocks/Add Number]]`.
 
 #### Make list
 
