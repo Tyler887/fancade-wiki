@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Drive Mad|https://play.fancade.com/5F084A0BCE06B710]] is a driving game by Martin Magni.
+[[/uploads/drivemadmartinmagni.png]]
 
 ## How to Play
 
