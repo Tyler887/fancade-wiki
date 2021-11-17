@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Uncover by Lunarchy
 1. Laser Ball by JoshuaTNTGamer
 1. Red Bounce by arindam
 1. PToad by Origedit
