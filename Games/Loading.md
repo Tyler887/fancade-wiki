@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Loading|https://play.fancade.com/605F3B8DC80A36DA]] is [[FanJam VIII|Fanjam#fanjam-viii]]'s winner for Innovation created by FancyGames. Similar to the creator's other game, [[The Button]], the objective is to figure out what to do for each level.
+[[/uploads/loadingfancygames.png]]
 
 It was introduced to Quest in Fancade 1.6.4.
 
