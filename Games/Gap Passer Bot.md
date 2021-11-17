@@ -2,6 +2,7 @@
 quest: true
 ---
 [Gap Passer Bot](https://play.fancade.com/5F2DB02E4CFCD37F) is a Fancade game made by RF (also known as Richard Fu).
+[[/uploads/gappasserbotrichardfu.png]]
 
 # Solutions
 
