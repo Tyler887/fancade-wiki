@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Fixel|https://play.fancade.com/5D01F6B5940D6100]] is a puzzle game made by [[Martin Magni]]. It consists of a stencil of an object or a structure (e.g. an orange) that has to be filled perfectly with a few given pieces that interlock into the stencil through their holes in order to win.
+[[/uploads/fixelmartinmagni.png]]
 
 Fun fact: prior to Fancade 1.6, "Orange" was considered to be the most difficult level in the game.
 
