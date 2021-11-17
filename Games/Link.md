@@ -1,4 +1,5 @@
 [Link](https://play.fancade.com/5E6CE6C53D3820CD) is a game by nmskr where you have to make a single loop that satisfies all the numbers to win.
+[[/uploads/linknmskr.png]]
 
 ## How to play
 Tap an edge to place a line, tap the edge again to remove it, hold the edge to mark the edge with an X, tap the 2 arrow symbol cycle to reset the board, the numbers indicates how many lines are boardering the cell, numbers can only be satisfied if the boardering lines matches the number of the building type. You win if all conditions are met:
