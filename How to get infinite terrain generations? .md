@@ -1,0 +1,3 @@
+Ok, so i have been seeing many games that are infinite in fancade.. but i can't find a way to get infinite terrain generations 
+i tried looking in other infinite editable games but, they are way too complex to understand...
+all i want to create is a single lines of blocks that are infinite
