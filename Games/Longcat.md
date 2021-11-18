@@ -1,7 +1,9 @@
 ---
 quest: true
 ---
-[Longcat](https://play.fancade.com/5BFC1C2A246D67DD) is a game involving a cat that moves when you swipe, but only untill he hits a wall or his tail.
+[Longcat](https://play.fancade.com/5BFC1C2A246D67DD) is a game involving a cat that moves when you swipe, but only until he hits a wall or his tail.
+[[/uploads/longcatmartinmagni.png]]
+
 # How to play
 
 Swipe to slide or move Longcat, until he hits either a wall or his tail. Fill every gap to win! Don't get stuck or you lose.
