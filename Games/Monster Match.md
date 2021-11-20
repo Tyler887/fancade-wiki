@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Monster Match|https://play.fancade.com/5E72248DB8B551A1]] is a game created by [[Martin Magni]]. It is inspired by the puzzle "[[Numberlink|https://en.wikipedia.org/wiki/Numberlink]]".
+[[/uploads/monstermatchmartinmagni.png]]
 
 # Solutions
 
