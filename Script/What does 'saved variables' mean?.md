@@ -1,3 +1,5 @@
+*See also: [[Set Variable → Saved variables|/Blocks/Set Variable#saved-variables]]*
+
 A saved variable is a variable whose value persists (isn't reset) between play sessions. Saved variables were introduced in Fancade 1.6, in order for the [[Menu Item]] script block to work.
 
 If a local variable is accessible on the same floor, and a global variable is accessible on the same level, then a saved variable is accessible everywhere inside the game, regardless of any limit! This is really useful if you want to create custom game settings, autosave, a shop system, or others 
