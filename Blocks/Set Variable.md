@@ -24,6 +24,8 @@ Note that two variables with the same name with one being a global will not coun
 
 ### Saved variables
 
+*See also: [[/Script/What does 'saved variables' mean?]]*
+
 Saved variables were added in Fancade 1.6. Like global variables, you can make a saved variable by pressing the Local/Global/Saved button on the keyboard where you type the variable's name. Saved variables gain a `!` at the start of their name.
 
 [[uploads/Screenshot_2021_1022_012641_com.martinmagni.fancade.png]]
