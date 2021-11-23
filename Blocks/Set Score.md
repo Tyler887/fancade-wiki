@@ -20,3 +20,9 @@ Setting a negative score removes the score.
 [[/uploads/IMG_20210108_143008.png]]
 
 _Touching the screen gives you 30 points._
+
+## Edge Case
+
+When there are multiple Set Scores with different comparisons for which is better, the new score is compared to your Personal Best by the comparison in the block that set it (e.g. Least Points). 
+If it is better, the old PB is completely discarded. 
+Time is also compared to points in seconds. 
