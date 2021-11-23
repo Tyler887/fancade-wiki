@@ -24,7 +24,7 @@ Note that two variables with the same name with one being a global will not coun
 
 ### Saved variables
 
-*See also: [[/Script/What does 'saved variables' mean?]]*
+<<SeeAlso(/Script/What does 'saved variables' mean?)>>
 
 Saved variables were added in Fancade 1.6. Like global variables, you can make a saved variable by pressing the Local/Global/Saved button on the keyboard where you type the variable's name. Saved variables gain a `!` at the start of their name.
 
@@ -32,8 +32,6 @@ Saved variables were added in Fancade 1.6. Like global variables, you can make a
 
 As the name implies, saved variables persist their value from one game session to the next. This is true whether the user ends the game by winning, dying, or simply pausing and returning to the menu.
 
-Additionally, saved variables are shared across all levels in the same game. This allows a player's actions in one level to affect their gameplay in other levels, and to keep track of purchases from the [Menu Item](https://www.fancade.com/wiki/Blocks/Menu%20Item.md) block.
+Additionally, saved variables are shared across all levels in the same game. This allows a player's actions in one level to affect their gameplay in other levels, and to keep track of purchases from the [Menu Item](https://www.fancade.com/wiki/Blocks/Menu%20Item.md) block. 
 
-Saved variables currently only work with number variables.
-
-A game can have up to 64 saved num variables
+Saved variables currently only have number type and there can be up to 64 saved variables per game.
