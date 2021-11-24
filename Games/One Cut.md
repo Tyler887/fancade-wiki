@@ -1,4 +1,5 @@
 [One Cut](https://play.fancade.com/616369AFDF122214) is a game by LukaszM where you have 1 cut to cut the piece into 2 smaller pieces and try to cover all gray spots to make the shape to win.
+[[/uploads/onecutlukaszm.png]]
 
 ## How to Play
 
