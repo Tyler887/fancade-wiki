@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. LineCircle by MrCrocodile
 1. BoxAHole by DaBlueCube
 1. Sticky Nodes by ColorlessGames
 1. Wrong Costume by Emparans
