@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Multislide|https://play.fancade.com/5F7A3CCE372C9A4C]] is a puzzle game involving sliding multiple balls to reach the designated goals.
+[[/uploads/multislidelukaszm.png]]
 
 # How to play
 
