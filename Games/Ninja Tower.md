@@ -2,6 +2,7 @@
 quest: true
 ---
 [Ninja Tower](https://play.fancade.com/5C3C280BB314BE96) is a game by FunkyPepe where you climb the tower by moving, pushing, and avoiding to win.
+[[/uploads/ninjatowerfunkypepe.png | height=400px]]
 
 ## How to Play
 
