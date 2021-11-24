@@ -3,6 +3,7 @@ quest: true
 ---
 
 [[Power Boxes|https://play.fancade.com/5FE5F2098BD535FF]] is a puzzle game by LukaszM about lighting all bulbs up to win!
+[[/uploads/powerboxeslukaszm.png]]
 
 ## How to Play
 
