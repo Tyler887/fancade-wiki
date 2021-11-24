@@ -1,5 +1,12 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. BoxAHole by DaBlueCube
+1. Sticky Nodes by ColorlessGames
+1. Wrong Costume by Emparans
+1. Little Yellow by JoshuaTNTGamer
+1. SUS by arindam
+1. Tiny Wrecker 2 by DarkCube
+1. Snek n Coins by Epsilon
 1. Uncover by Lunarchy
 1. Laser Ball by JoshuaTNTGamer
 1. Red Bounce by arindam
