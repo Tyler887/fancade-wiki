@@ -1,5 +1,7 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Sokomath by LukaszM
+1. Stopping by Bryle
 1. LineCircle by MrCrocodile
 1. BoxAHole by DaBlueCube
 1. Sticky Nodes by ColorlessGames
