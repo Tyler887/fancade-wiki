@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Amino by Artast
 1. Sokomath by LukaszM
 1. Stopping by Bryle
 1. LineCircle by MrCrocodile
