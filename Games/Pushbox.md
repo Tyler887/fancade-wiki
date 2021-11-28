@@ -3,6 +3,7 @@ quest: true
 ---
 
 [Pushbox](https://play.fancade.com/5D63CDF8CB82EDEB) is Fancade's Sokoban game! The player pushes boxes around and gets them into the goal.
+[[/uploads/pushboxalex.png]]
 
 # How to Play
 
