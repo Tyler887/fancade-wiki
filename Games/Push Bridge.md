@@ -1,4 +1,6 @@
-[Push Bridge](https://play.fancade.com/611537E4661AC451) by arindam is a game where you push boxes so you can reach your goal to wn.
+[Push Bridge](https://play.fancade.com/611537E4661AC451) by arindam is a game where you push boxes so you can reach your goal to win.
+[[/uploads/pushbridgearindam.png]]
+
 # How to Play
 Swipe to move in that direction, you can push 1 of the colored piece together, but you cant push 2 different colored pieces at the same time or push a piece into a wall, be on the goal to win. If you push a same colored piece near each other, will combine to one bigger piece you can push all at once. Holes can delete blocks (Even deattaching them) and even the player itself (This is the only way to lose in this game). tiles marked with an X on it are one use tiles, the tile breaks if you step on the tile and leave it.
 # Solutions
