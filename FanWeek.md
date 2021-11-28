@@ -77,3 +77,4 @@ You can either join the [Fancade Discord Server](https://bit.ly/fancade) and sub
 53. Portal
 54. Find
 55. Pause
+56. Unlock
