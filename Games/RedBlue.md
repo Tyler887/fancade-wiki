@@ -3,6 +3,7 @@ quest: true
 ---
 
 [RedBlue](https://play.fancade.com/5F3C0CAC65CE511F) by BruhName is a game where you have to put red and blue near each other to win while avoiding some obstacles and do stuff along the way.
+[[/uploads/redbluebruhname.png]]
 
 # How to Play
 
