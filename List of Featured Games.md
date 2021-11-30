@@ -1,6 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
-1. Beat Build by adityabk18
+1. Build Wall by adityabk18
 1. ToastMaster by MrCrocodile
 1. Amino by Artast
 1. Sokomath by LukaszM
