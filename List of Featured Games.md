@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Neurocubes by R3DZ3R
 1. Build Wall by adityabk18
 1. ToastMaster by MrCrocodile
 1. Amino by Artast
