@@ -27,7 +27,7 @@ List of featured Fancade games. Ordered from newest to oldest:
 1. Laser Car by Codii
 1. Split Chick by Origedit & LukaszM
 1. Overpuzzled by R3DZ3R
-1. The Pushed Ball by Quack Block
+1. Pushed Ball by Quack Block
 1. Drive Mad S by Codii
 1. SnakeZed by JustYellow
 1. Red N Blue by arindam
@@ -56,9 +56,10 @@ List of featured Fancade games. Ordered from newest to oldest:
 1. Monster Topple by Mathias Elgaard
 1. Bounceable Side by Artast
 1. Pogo Man by sawdust
+1. Be Still by MechanizedIT
 1. Brain In Jar by MechanizedIT
 1. Unstable by BipBot
-1. Let Me Out by GM
+1. Let me out by GM
 1. Parriez Clever by Artast
 1. BW Paint by Nabil Arrafi
 1. 2x2 by Yooooolllllooooo
