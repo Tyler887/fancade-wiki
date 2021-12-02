@@ -1,4 +1,5 @@
 [Colorjump](https://play.fancade.com/61856963D9135DF2) is a game by LukaszM.
+[[/uploads/colorjumplukaszm.png]]
 
 ## How to Play
 
