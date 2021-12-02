@@ -1,6 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
-1. Find Five Block by GM
+1. Find Five Blocks by GM
 1. Neurocubes by R3DZ3R
 1. Build Wall by adityabk18
 1. ToastMaster by MrCrocodile
