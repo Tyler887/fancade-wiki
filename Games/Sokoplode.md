@@ -1,6 +1,6 @@
 ![Sokoplode (Level 4)](https://www.fancade.com/wiki/uploads/Screenshot%202021-12-05%20112645.png)
 
-[Sokoplode](https://play.fancade.com/60001797EE0542B7) by R3DZ3R is a game where you push boxes to explosives without exploding Bloe to win.
+[Sokoplode](https://play.fancade.com/60001797EE0542B7) by R3DZ3R is a game where Bloe push boxes to explosives without exploding them to win.
 
 # How to Play
 Swipe to move Bloe in that direction unless that move would cause them to move to an edge, which would stop them, they push boxes my moving into a box unless they move the box into the edge, still stopping them. if Bloe pushes a box into a mine, that box and mine is destroyed. Eliminate all boxes to win, if Bloe touches a mine, they explode and you lose.
