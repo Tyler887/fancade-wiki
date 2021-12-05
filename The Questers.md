@@ -118,7 +118,7 @@ Games:
 * [[Fixed Path]]
 * [[Turnbox]]
 * Square Wars
-* Cube Quest
+* [[Cube Quest]]
 
 ### LooKing?
 
@@ -149,7 +149,7 @@ Games:
 Games:
 * [[Tumble]]
 * [[Pushbox]]
-* Tumble II
+* [[Tumble II]]
 
 ### MACTEP
 
@@ -256,4 +256,4 @@ Game:
 ### FunkyPepe
 
 Games:
-* Ninja Tower
+* [[Ninja Tower]]
