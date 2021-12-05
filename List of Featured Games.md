@@ -21,7 +21,7 @@ List of featured Fancade games. Ordered from newest to oldest:
 1. Laser Ball by JoshuaTNTGamer
 1. Red Bounce by arindam
 1. PToad by Origedit
-1. Colorjump by LukaszM
+1. [[Colorjump]] by LukaszM
 1. Motu Patlu by arindam
 1. Limit Snek by JoshuaTNTGamer
 1. Shift n Shove by Lunarchy
@@ -290,7 +290,7 @@ List of featured Fancade games. Ordered from newest to oldest:
 1. Backfire by Vex Ave
 1. Kubbo by nmskr
 1. Magnetic Beam by GameCreator
-1. Sokoplode by R3DZ3R
+1. [[Sokoplode]] by R3DZ3R
 1. Combo Breaker by Quazar2
 1. Hope by R3DZ3R
 1. Grouped by Spolarium
