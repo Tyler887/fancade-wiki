@@ -1,4 +1,4 @@
-[Yellow And Blue](https://play.fancade.com/61630DBCB805C7B8) is a game by Baraa03  where you have to move those the yellow and blue monsters together to win without falling.
+[Orange N Black](https://play.fancade.com/61630DBCB805C7B8) (formerly known as Yellow and Blue) is a game by Baraa03 where you have to move those the orange and black monsters together to win without falling.
 [[/uploads/yellowandbluebaraa03.png]]
 
 ## How to Play
