@@ -73,7 +73,7 @@ And you even get a bigger price if you keep clicking after 10 Double! The existi
 
 The [[menu item]] has the input called variable, this input can only accept number variable type inputs and not number value type inputs. Though this maybe the case you can somehow do sorcery with it by using the same variable before the menu item and giving that variable a value.
 
-- For example you use the variable `!var` and given it a value of 2 before feeding it to a menu item (with a setting of `max 5`|`price 100`|`price double`) the upgrade will be then immediately upgraded to level 2 with a price of 400 for the next upgrade.
+- For example you use the variable `!var` and given it a value of 2 before feeding it to a menu item (with a setting of `max 5`/`price 100`/`price double`) the upgrade will be then immediately upgraded to level 2 with a price of 400 for the next upgrade.
 
 - Playing with it's variable is not as simple as it is though. setting the value of the variable before the menu item means overwriting the existing value of the variable, one work around to it tho is by using [[max]] math block which outputs the higher number, that means on start being the variable having value of 0 feeding it to max with the other input of it having value of 2 the max will output the 2 and will feed it back to variable, then if the variable has a value of 3 now with the same case with max the max will output 3 as it is higher than 2 and will feed 3 back to itelf preventing value overwrite. This method though is not absolute as it doesn't work with on/off type items, in this case if blocks and truth values will be the one to help. 
 
