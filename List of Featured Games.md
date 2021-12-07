@@ -1,5 +1,7 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Spider Survive by Bipbot
+1. Takota by R3DZ3R
 1. Unite by GM
 1. Roll Down by arindam
 1. Outer Space by Emparans
