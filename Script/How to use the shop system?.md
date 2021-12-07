@@ -18,7 +18,7 @@ To use the menu items, first take a block out of the inventory, and after placin
 
 [[/uploads/Captura_de_pantalla_2021-06-02_142338.png]]
 
-The Picture input is the object that will appear when looking at the according places in the Shop.
+The Picture input is the object that will appear when looking at the corresponding item in the Shop.
 
 The Variable input uses a variable to save the current state of the upgrade.
 You will need to use a saved variable (!Var) for this or it'll be completely useless.
