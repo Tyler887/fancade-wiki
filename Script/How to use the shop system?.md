@@ -69,11 +69,19 @@ And you even get a bigger price if you keep clicking after 10 Double! The existi
 
 [[/uploads/Captura_8.png]]
 
+# Variables
+
+The [[menu item]] has the input called variable, this input can only accept number variable type inputs and not number value type inputs. Though this maybe the case you can somehow do sorcery with it by using the same variable before the menu item and giving that variable a value.
+- for example you use the variable `!var` and given it a value of 2 before feeding it to a menu item (with a setting of `max 5|price 100| price double`) the upgrade will be then immediately upgraded to level 2 with a price of 400 for the next upgrade.
+- Playing with the variable of it is not as simple as it is though. setting the value of the variable before the menu item means overwriting the existing value of the variable, one work around to it tho is by using [[max]] math block which outputs the higher number, that means on start being the variable having value of 0 feeding it to max with the other input of it having value of 2 the max will output the 2 and will feed it back to variable, then if the variable has a value of 3 now with the same case with max the max will output 3 as it is higher than 2 and will feed 3 back to itelf preventing value overwrite. This method though is not absolute as it doesn't work with on/off type items, in this case if blocks and truth values will be the one to help. 
+
+With this in mind you can try to get more complex and have your shop with items that can be bought/upgraded interestingly.
+
 # How to use the bought upgrades
 
 To use these, take the saved variable (!Var) you sticked into the Variable input and use it in whatever you want. Normally the variables are equal to the upgrade level of the certain upgrade. For example, if used a Max 5 upgrade then the variable can be equal to the values of 0 through 5. If used a On/Off upgrade, the variable can only equal \-1, 0 or 1. If used a No Limit upgrade, the variable can equal 0 through N (all natural numbers.)
 
-# Limits
+# Limits.
 
 - 6 Pages
 - 100 Items (including Titles)
