@@ -74,6 +74,7 @@ In the info below, CMD and CTRL on macOS are treated as the same button.
 | CTRL + Z key | Undo | |
 | CTRL + Shift + Z key | Redo | |
 | Escape key | Go back or Close | |
+| CTRL | Toggle variable type between local, global and saved while editing a variable name | |
 
 
 ### Play Mode
