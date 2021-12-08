@@ -60,8 +60,8 @@ Games:
 Medical Student, loves VNs and Rogue-likes, FanJam Organizer, and obsessed with Script Optimization.
 
 Games:
-* Frames
-* Pivot
+* [[Frames]]
+* [[Pivot]]
 
 ### RF
 Obsessed with puzzle design. Former Mekorama level featurer, designer, and mod. Likes competitive strategy games.
@@ -187,7 +187,7 @@ Game:
 Games:
 * Shoot It
 * Replacement
-* RedBlue
+* [[RedBlue]]
 
 ### WaveParadigm
 
