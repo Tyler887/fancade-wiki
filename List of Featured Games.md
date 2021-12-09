@@ -1,5 +1,7 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Just Robots by JoshuaTNTGamer
+1. Magnetifyin by GM637
 1. Spider Survive by Bipbot
 1. Takota by R3DZ3R
 1. Unite by GM
