@@ -1,5 +1,7 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Magnetic by arindam
+1. Longcat Plus by u ndefined
 1. Just Robots by JoshuaTNTGamer
 1. Magnetifyin by GM637
 1. Spider Survive by Bipbot
