@@ -97,4 +97,8 @@ Special Mechanics:
 
 ## Annual FanJam 2021
 - Event Period: 12/12/2021 - ??/??/2022
-- Theme: ???
+- Theme: The Kits of Christmas
+- Development Phase lasts for 7 days
+
+Special Mechanics:
+- On 12/25/2021, every participant will recieve **a random kit as their theme**, <u>from Sounak9434 via a DM</u>.
