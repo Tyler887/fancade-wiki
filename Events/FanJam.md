@@ -94,3 +94,7 @@ Special Mechanics:
 ## FanJam 10
 - Event Period: 7/11/2021 - 7/29/2021
 - Theme: Snake Variations
+
+## Annual FanJam 2021
+- Event Period: 12/12/2021 - ??/??/2022
+- Theme: ???
