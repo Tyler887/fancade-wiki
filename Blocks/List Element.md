@@ -13,6 +13,8 @@ Output:
 
 - Every variable can be treated as a list or a scalar (non-list). When a variable is accessed as a scalar, it points to its value at index 0.
 - A non-integer index number is rounded down to the next smallest integer.
+- **For experienced users:** Plugging the Element output to the Variable of another List Element will add their indexes. See this image below:
+  [[/uploads/index_list.png]]
 
 ## Example
 
