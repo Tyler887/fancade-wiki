@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Orange N Black by Baraa03
 1. Yellow Up by Bipbot
 1. Flying Blue by JoshuaTNTGamer
 1. Magnetic by arindam
@@ -62,7 +63,7 @@ List of featured Fancade games. Ordered from newest to oldest:
 1. [[One Cut]] by LukaszM
 1. Tiny Car by Alonso20
 1. PokeysShootout 3 by FancyGames
-1. Orange N Black by Baraa03
+1. Yellow And Blue by Baraa03
 1. Stacktris JR by ThatGuy03
 1. MonoKing by Artast
 1. Snek Left by Martin Magni
