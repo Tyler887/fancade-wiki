@@ -45,7 +45,7 @@ This marks the end of the current FanJam. Participants ranked Top 3 in each cate
 **C. Most Innovative** 
 - <b>1st:</b> One year ad-free + 1000 gems  
 
-Alongside these, the 1st place winner of every category will be awarded with the **<font color="2ecc71">@Fanjam</font>** role.
+Alongside these, the 1st place winner of every category will be awarded with the **<font color="9b59b6">@Fanjam</font>** role.
 
 Winning multiple categories only gives the reward with the highest prize.
 
