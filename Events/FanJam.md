@@ -77,8 +77,7 @@ Winning multiple categories only gives the reward with the highest prize.
 - Event Period: 10/5/2020 - 10/16/2020
 - Theme: Bad is Good
 
-# Annual FanJam 2020 /
-## FanjamVII
+## Annual FanJam 2020 / Fanjam VII
 - Event Period: 12/18/2020 - 1/6/2021
 - Theme: Secret Santa
 - Development Phase lasts for 7 days
@@ -100,8 +99,7 @@ Special Mechanics:
 - Event Period: 7/11/2021 - 7/29/2021
 - Theme: Snake Variations
 
-# Annual FanJam 2021 / 
-## Fanjam 11
+## Annual FanJam 2021 / Fanjam 11
 - Event Period: 12/12/2021 - ??/??/2022
 - Theme: The Kits of Christmas
 - Development Phase lasts for 7 days
