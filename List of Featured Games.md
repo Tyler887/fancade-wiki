@@ -1,6 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
-1. Orange N Black by Baraa03
+1. [[Orange N Black]] by Baraa03
 1. Yellow Up by Bipbot
 1. Flying Blue by JoshuaTNTGamer
 1. Magnetic by arindam
