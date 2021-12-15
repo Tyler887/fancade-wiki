@@ -50,7 +50,7 @@ Alongside these, the 1st place winner of every category will be awarded with the
 Winning multiple categories only gives the reward with the highest prize.
 
 # History 
-
+###### Note: Dates are in `M/D/YYYY` format
 ### 2020
 
 ## FanJam I
