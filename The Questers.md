@@ -16,11 +16,11 @@ Games:
 * [[Dino Bros]]
 * [[Fixel]]
 * [[Blocked]]
-* Tiny Tracks
+* [[Tiny Tracks]]
 * Railgunner
 * [[Odd Bot]]
 * Dash
-* Stacktris
+* [[Stacktris]]
 * [[Void]]
 * [[Flatland]]
 * Floppy Fish
@@ -50,8 +50,8 @@ Games:
 Known with his gorgeous artworks. Likes arts and musics.
 
 Games:
-* Chirpz
-* Bomb Blast
+* [[Chirpz]]
+* [[Bomb Blast]]
 * Wheally RC
 * Helicade A
 * Vanilla Ball
@@ -77,7 +77,7 @@ Student, self-taught mediocre programmer, Fanbot's dad
 
 Games:
 * Rotix
-* Bumbly Bee
+* [[Bumbly Bee]]
 
 ### Helipton
 
@@ -112,7 +112,7 @@ Games:
 Known with his innovative puzzle games
 
 Games:
-* Color Break
+* [[Color Break]]
 * [[Power Boxes]]
 * [[Multislide]]
 * [[Fixed Path]]
@@ -161,7 +161,7 @@ Games:
 
 Games:
 * Painty Tumbler
-* Painty Cube
+* [[Painty Cube]]
 
 ### JoshuaTNTGamer
 
@@ -180,7 +180,7 @@ Games:
 ### LeoEscamend
 
 Game:
-* Machine Test Inc
+* [[Machine Test Inc]]
 
 ### BruhName
 
