@@ -79,3 +79,4 @@ You can either join the [Fancade Discord Server](https://bit.ly/fancade) and sub
 55. Pause
 56. Unlock
 57. Magnets
+58. Festive
