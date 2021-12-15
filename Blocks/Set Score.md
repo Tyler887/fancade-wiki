@@ -14,6 +14,8 @@ You also can provide time score, just make sure that the input is a total amount
 
 Setting a negative score removes the score.
 
+If the mode of the score is set to Most Points or Longest Time, the Lose block will act the same as the Win block (showing confetti and registering the level as complete).
+
 [[/uploads/Set_Score.png | width=336px]]
 ## Example 
 
