@@ -94,7 +94,7 @@ Special Mechanics:
 
 ## Fanjam IX
 - Fanjam 9 is probably also the first fancade ludum dare in itch.io tho it's not clearly stated
-- It is also possible that it's skipped for it's number is sacred in both Hinduism (Being that Sounak is from India) and Nordic Beliefs (Being that Martin is from Sweden)
+- It is also possible that it's skipped for it's number is sacred in both Hinduism (Being that Sounak is from India) and Nordic Beliefs (Being that Martin is from Sweden) or other superstitious beliefs about number 9 either being sacred or unlucky
 
 ## FanJam 10
 - Event Period: 7/11/2021 - 7/29/2021
