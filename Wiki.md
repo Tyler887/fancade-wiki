@@ -32,9 +32,8 @@ If you're not done yet, but you can't continue working right now, you can always
 
 If you're not sure about something, don't ask future editors to correct you in the page:
 
-<blockquote>
-[[Constraints]] are very difficult to learn. (Maybe it's just me?)
-</blockquote>
+> [[Constraints]] are very difficult to learn. (Maybe it's just me?)
+
 
 Those who can answer your question will rarely visit the page, so you will end up throwing your question at readers'. Feel free to join our [[Discord]] server and ask your question there, in order to eventually provide the most accurate information to readers!
 
@@ -48,7 +47,7 @@ In the Wiki page, there is an ability to create new pages, simply by clicking "N
 
 Create a page name with the appropriate title.
 
-If you are writing it in a different section (e.g. Build) write `<section>/<title>` (e.g. `Build/Set Variable`) to create it within this section.
+If you are writing it in a different section (e.g. Build) write `<section>/<title>` (e.g. `Build/Set Variable`) to create it within that section.
 
 Now you can write a Wiki page! After you have written it all, click "Preview" to make sure everything looks correct.
 
@@ -74,7 +73,7 @@ If your page is inside of a folder, the link's destination will also be inside o
 
 To insert a list element, put `*`, `+` or `-` at the beginning of a line. For example,
 
-```
+```md
 * Fancade
 * is the fanmade
 * arcade
