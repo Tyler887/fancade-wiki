@@ -2,14 +2,16 @@
 [[uploads/skillteamlukaszm.png]]
 ## How to Play
 
-Swipe to move, get to the goal to win, if you fall, you lose. A colored cube can change your powers. A thin, checkerboard platform breaks if a non-green player or box is placed and after nothing steps on it.
+Swipe to move, get to the goal to win, if you fall, you lose. A colored cube can change your powers. A thin, checkerboard platform breaks if a non-green player or box is placed on the platform and then nothing is on it.
 
-## All mechanics so far
+## All color mechanics so far
 
 * Orange: You can push boxes. You push a box by moving towards a box, and that box goes in your direction one space unless there's a wall to the destination.
 * Blue: You can pull boxes but not push it. You pull a box by moving away opposite to the box, and that box goes in your direction one space unless there's a wall to where you're going to.
 * Red: You can destroy boxes. You destroy a box by moving towards it.
 * Green: Cannot do anything on boxes, but makes checkerboard platforms be used by the player multiple times.
+* Yellow: You can jump 2 spaces ahead instead of 1, and jump through gaps, unless you hit a wall/box, which in this case, you would stop with only one space, and its the ONLY way to hop 1 tile instead of 2.
+* Purple: You can fly infinitly in that direction until you hit a wall/box, in which case you will stop, if you went too off course with the stage for this, you will die and you will lose.
 
 ## Solutions
 
@@ -43,3 +45,33 @@ Swipe to move, get to the goal to win, if you fall, you lose. A colored cube can
 * Level 28: <<N>><<N>><<N>><<N>><<E>><<S>><<S>><<S>><<W>><<W>><<E>><<E>><<S>><<W>><<S>><<W>><<W>><<E>><<N>><<N>><<E>><<N>><<N>><<W>><<N>><<S>><<E>><<S>><<S>><<S>><<S>><<S>><<S>>
 * Level 29: <<E>><<E>><<W>><<W>><<W>><<W>><<N>><<N>><<E>><<S>><<W>><<S>><<E>><<E>><<E>><<N>><<N>><<W>><<E>><<E>><<E>><<W>><<W>><<W>><<W>><<W>><<S>><<S>><<E>><<E>><<E>><<E>><<E>><<W>><<W>><<W>><<W>><<N>><<W>><<W>><<W>>
 * Level 30: <<E>><<N>><<N>><<N>><<N>><<W>><<W>><<S>><<E>><<N>><<E>><<S>><<S>><<N>><<N>><<W>><<N>><<S>><<S>><<W>><<S>><<S>><<S>><<E>><<E>><<S>><<W>><<S>><<N>><<N>><<E>><<E>><<E>>
+* Level 31: <<W>><<N>><<N>><<N>><<N>><<S>><<E>><<S>><<S>>
+* Level 32: <<S>><<S>><<W>><<N>><<E>><<N>><<N>><<N>><<N>>
+* Level 33: <<N>><<E>><<S>><<S>><<S>><<N>><<N>><<W>><<S>><<E>><<E>>
+* Level 34: <<E>><<N>><<E>><<E>><<N>><<N>><<E>><<N>><<S>><<W>><<S>><<W>><<W>><<N>>
+* Level 35: <<W>><<E>><<S>><<S>><<W>><<N>><<E>><<N>><<W>><<S>><<S>><<E>><<S>><<N>><<N>><<W>><<S>><<W>><<W>>
+* Level 36: <<W>><<S>><<E>><<E>><<W>><<N>><<E>><<N>><<N>><<S>><<S>><<N>><<N>><<W>><<W>><<W>>
+* Level 37: <<E>><<S>><<W>><<N>><<S>><<S>><<W>><<N>><<E>><<N>><<E>><<N>>
+* Level 38: <<E>><<E>><<N>><<N>><<W>><<S>><<E>><<S>><<W>><<W>><<S>><<W>><<E>><<N>><<N>><<S>><<W>><<E>><<N>><<E>><<E>>
+* Level 39: <<E>><<E>><<E>><<W>><<W>><<W>><<W>><<W>><<S>><<W>><<E>><<N>><<N>><<S>><<W>><<E>><<E>><<E>><<W>><<W>><<W>><<W>><<W>><<W>><<W>><<N>><<N>><<N>>
+* Level 40: <<E>><<W>><<N>><<S>><<W>><<W>><<W>><<N>><<E>><<E>><<N>><<S>><<W>><<S>><<E>><<E>><<E>><<E>><<W>><<N>><<W>><<N>>
+* Level 41: <<W>><<S>><<S>><<N>><<N>><<E>><<S>><<E>><<N>><<E>><<N>><<S>><<W>><<W>><<W>><<W>><<W>><<S>><<N>><<E>><<E>><<S>><<E>><<S>><<E>><<N>><<W>><<W>><<S>><<S>><<S>><<N>><<E>><<N>><<W>><<N>><<W>><<E>><<E>><<S>><<S>><<S>><<S>><<S>><<S>><<E>>
+* Level 42: <<S>><<S>><<W>><<E>><<E>><<W>><<N>><<N>><<W>><<N>><<N>><<W>><<S>><<S>><<E>><<E>><<S>><<S>><<W>><<E>><<N>><<W>><<N>><<E>><<S>><<S>><<W>><<W>><<W>><<E>><<E>><<N>><<E>><<N>><<W>><<W>><<N>><<N>><<E>><<S>><<S>><<E>><<S>><<S>><<W>><<N>><<E>><<N>><<W>><<W>><<W>><<W>><<W>><<W>><<E>><<E>><<E>><<E>><<E>><<E>><<E>><<E>><<E>><<W>><<W>><<W>><<W>><<W>><<S>>
+* Level 43: <<E>><<W>><<S>><<W>><<E>><<N>><<E>><<S>><<W>><<W>><<W>><<W>><<W>><<W>><<S>><<S>><<E>><<E>><<N>><<N>><<N>><<N>><<N>><<W>>
+* Level 44: <<E>><<E>><<E>><<E>><<E>><<E>><<W>><<N>><<E>><<S>><<W>><<W>><<N>><<W>><<S>><<S>><<E>><<E>><<E>><<E>><<E>><<E>><<E>><<W>><<W>><<N>><<N>><<E>><<W>><<W>><<S>><<S>><<S>><<S>><<S>><<S>><<W>>
+* Level 45: <<N>><<S>><<W>><<E>><<E>><<N>><<N>><<S>><<E>><<E>><<S>><<W>><<N>><<W>><<S>><<S>><<N>><<E>><<E>><<S>><<S>><<W>><<W>><<N>><<N>><<E>><<N>><<N>><<S>><<S>><<W>><<S>><<S>><<W>><<W>><<W>><<W>><<N>><<S>><<E>><<N>><<E>><<S>><<E>><<E>><<E>><<E>><<N>><<N>><<N>><<N>><<S>><<S>><<S>><<S>><<W>><<W>><<W>><<W>><<W>><<W>><<N>><<N>><<E>><<S>><<W>><<S>><<E>><<E>><<E>><<E>><<E>><<W>><<N>><<N>><<E>><<E>><<S>><<S>><<W>><<W>><<W>><<W>><<W>><<N>><<N>><<E>><<S>><<W>><<S>><<E>><<E>><<E>><<N>><<N>><<E>><<E>><<S>><<S>><<W>><<E>><<S>><<S>><<N>><<N>><<W>><<S>><<N>><<E>><<S>><<E>>
+* Level 46: <<N>><<S>><<W>><<N>><<E>><<S>>
+* Level 47: <<W>><<S>><<W>><<N>><<E>><<E>><<S>><<S>><<E>><<E>><<N>><<N>><<W>><<W>><<W>><<E>><<S>><<S>><<S>><<N>><<W>><<S>>
+* Level 48: <<E>><<E>><<E>><<N>><<N>><<E>><<N>><<S>><<S>><<W>><<W>><<S>><<W>><<W>><<W>><<W>><<E>><<N>><<W>><<N>>
+* Level 49: <<W>><<W>><<N>><<E>><<W>><<S>><<E>><<S>><<S>><<W>><<N>><<E>><<N>><<W>><<W>><<W>><<N>><<W>><<W>><<S>><<E>><<E>><<E>><<E>><<S>><<E>><<N>><<N>><<N>><<W>>
+* Level 50: <<S>><<S>><<S>><<W>><<W>><<E>><<N>><<W>><<N>><<W>><<S>><<W>><<N>><<E>><<W>><<W>><<S>><<S>><<S>><<W>><<W>><<N>><<S>><<E>><<N>><<W>><<N>><<W>><<S>><<E>><<W>><<W>><<S>><<S>><<W>><<W>><<N>><<N>><<S>><<E>><<N>><<W>><<S>><<W>><<W>><<W>><<W>><<N>><<N>><<N>>
+* Level 51: <<W>><<S>><<E>><<N>><<E>><<S>><<E>><<W>><<N>><<W>><<W>><<N>><<N>><<N>><<E>><<E>><<S>><<W>><<N>><<W>><<S>><<S>><<S>><<E>><<E>><<S>><<E>><<E>><<W>><<N>><<W>><<S>>
+* Level 52:<<E>><<S>><<S>><<W>><<E>><<N>><<N>><<W>><<W>><<W>><<S>><<S>><<E>><<N>><<N>><<E>><<E>><<S>><<W>><<N>><<W>><<W>><<S>><<S>><<E>><<N>><<N>><<N>><<E>><<E>><<S>><<W>><<N>><<W>><<W>><<S>><<S>><<E>><<N>><<N>><<N>><<S>><<S>><<S>><<W>><<W>><<E>><<N>><<W>><<E>><<S>><<S>><<S>><<S>><<S>><<W>><<W>><<W>>
+* Level 53: <<S>><<E>><<N>><<W>><<N>><<W>><<E>><<S>><<E>><<N>><<S>><<N>><<W>><<S>><<N>><<W>><<E>><<S>><<E>><<N>><<S>><<S>>
+* Level 54: <<S>><<S>><<S>><<W>><<S>><<E>><<E>><<N>><<N>><<S>><<S>><<W>><<S>><<W>><<N>><<N>><<E>><<N>><<N>><<N>><<E>><<N>><<S>><<W>><<S>><<E>>
+* Level 55: <<W>><<S>><<S>><<N>><<N>><<W>><<S>><<E>><<S>><<E>><<S>><<E>><<E>><<N>><<N>><<W>><<S>><<W>><<N>>
+* Level 56: <<W>><<W>><<W>><<N>><<N>><<N>><<W>><<S>><<N>><<N>><<N>><<E>><<S>><<W>><<S>><<S>><<E>><<S>><<S>><<W>><<N>><<N>><<N>><<N>><<S>><<S>><<S>><<S>><<E>><<S>><<N>><<E>><<E>><<E>><<W>><<N>><<E>><<E>><<E>><<W>><<S>><<E>><<N>>
+* Level 57: <<S>><<S>><<W>><<W>><<W>><<W>><<W>><<N>><<N>><<E>><<E>><<E>><<W>><<W>><<W>><<S>><<S>><<E>><<N>><<W>><<N>><<E>><<E>><<W>><<S>><<S>><<E>><<N>><<W>><<N>><<E>><<S>><<S>><<E>><<E>><<E>><<N>><<N>><<E>><<W>><<S>><<N>><<N>><<W>><<W>><<N>><<N>><<W>><<S>><<S>><<E>><<E>><<E>><<E>><<N>><<N>><<E>><<E>><<W>><<S>><<N>><<N>><<E>><<E>><<N>><<N>><<E>><<E>><<E>><<N>><<N>>
+* Level 58: <<S>><<S>><<S>><<S>><<W>><<N>><<E>><<N>><<N>><<E>><<S>><<S>><<S>><<W>><<W>><<S>><<W>><<E>><<N>><<E>><<S>><<W>><<N>><<E>><<S>><<W>><<E>><<E>><<S>><<S>><<W>><<W>><<S>><<S>><<E>><<N>><<W>><<N>><<E>><<S>><<E>><<N>><<N>><<W>><<W>><<S>><<W>><<N>>
+* Level 59: <<S>><<W>><<N>><<E>><<E>><<S>><<N>><<W>><<E>><<S>><<S>><<E>><<S>><<S>><<E>><<W>><<W>><<N>><<N>><<N>><<N>><<N>><<N>><<W>>
+* Level 60: <<S>><<E>><<W>><<S>><<S>><<N>><<N>><<S>><<E>><<N>><<N>><<E>><<S>><<S>><<W>><<W>><<S>><<E>><<S>><<S>><<W>><<N>><<N>><<E>><<N>><<N>><<S>><<S>><<W>><<W>><<N>><<W>><<E>><<N>>
