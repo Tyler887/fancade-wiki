@@ -1,5 +1,6 @@
 List of featured Fancade games. Ordered from newest to oldest:
 
+1. Magnoids by R3DZ3R
 1. Drive and Jive 2 by Redjoyreza
 1. Bullet Dodge by Startify and R3DZ3R
 1. Tap N Turn by JoshuaTNTGamer
