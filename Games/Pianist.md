@@ -12,4 +12,5 @@ The most important strategy is to follow the rhythm of the song and only focus o
 
 # "Walkthroughs"
 [Levels 1-5](https://www.youtube.com/watch?v=zdGule9cNxE)
+
 [Levels 6-10](https://www.youtube.com/watch?v=1uJmgt0E_V0)
