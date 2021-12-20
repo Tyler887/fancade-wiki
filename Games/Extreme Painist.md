@@ -4,7 +4,7 @@
 [[_TOC_]]
 
 # How to play
-The mechanics acts the same as [[Pianist]] but the tempo is high on those 4 pieces (300 BPM or 5 TPS with 6 columns on "Bach", 500 BPM or 8.333 TPS with 4 columns on "Boccherini", and 400 BPM or 6.667 TPS with 5 columns on "Mozart" and "Beethoven")
+The mechanics acts the same as [[Pianist]] but the tempo is high on those 4 pieces (300 BPM or 5 TPS with 6 columns on "Bach", 500 BPM or 8.333 TPS with 4 columns on "Boccherini", and 400 BPM or 6.667 TPS with 5 columns on "Mozart" and "Beethoven"), and theres a timer to see how long did you survive before making a mistake or finising this piece.
 
 # Strategies
 As the game is nutoriously difficult because of some weird and long lines of notes in quick succession, there are lots of strategies to be used to help you.
