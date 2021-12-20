@@ -30,7 +30,7 @@ Knowing the pieces are important as these can help you know what cues are there 
 
 ## Improving your skills
 ### Improving accuracy and timing
-Stay as calm as possible, and try to memorize the piece well, with the rhytym in mind with the metronome practice. This is especially useful in "Bach", with the 6 columns, its tricky to aim
+Stay as calm as possible, and try to memorize the piece well, with the rhytym in mind with the metronome practice. This is especially useful in "Bach", with the 6 columns, its tricky to aim the tiles correctly.
 ### Improving reaction time
 Memorizing the piece can help you know when the notes appear, and you can look ahead of the notes to give yourself more reaction time to these notes, this technique is especially useful in "Boccherini" with the high tempo.
 ### Improving endurance
