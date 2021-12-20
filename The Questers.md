@@ -1,5 +1,6 @@
 Questers are Fancade users who have their games in the Quest tab. 
 
+[[_TOC_]]
 # List of Questers
 
 ### Martin Magni
@@ -231,7 +232,7 @@ Game:
 ### james1236
 
 Game:
-* Pianist
+* [[Pianist]]
 
 ### Mishansky90
 
