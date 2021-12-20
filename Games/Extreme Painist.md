@@ -15,7 +15,7 @@ Using these videos:
 * [400 BPM](https://www.youtube.com/watch?v=Vt69D9qen5o)
 * [500 BPM](https://www.youtube.com/watch?v=PvSq2XcuDfw)
 
-You can practice all the tempos you need, which is useful because you need to follow the rythym in order to have a shot beating any piece.
+You can practice all the tempos you need, which is useful because you need to follow the rhythm in order to have a shot beating any piece.
 
 ## Tapping Styles
 There are 2 styles of tappings you can do that are so far viable to beating Extreme Painist, the 1st pose requires rest your hands on the surface and rest your index to the side of the phone/tablet, and use both your thumbs to tap, this is slower, but not too slow because you need to move your thumbs a bit, and slightly prone to missing because of these said movements, but its easy to learn them, and faster to master. The other pose is using both of your longest fingers and index fingers to tap those notes, which is slightly harder to learn and takes longer to master and is harder to perform in 5 columns or more, but its faster, and a bit less prone to missing because of the lack of movements, [most professional Piano Tiles players actually use this technique at very fast tempos.](https://www.youtube.com/watch?v=uUEwX4OXN_I)
